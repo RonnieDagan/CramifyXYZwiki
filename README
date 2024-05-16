@@ -1,7 +1,7 @@
-# CramifyXYZ Wiki
-- Wiki based software for cramify.xyz so that students can make changes to pre-existing study guides
-- Built with PhP using Dokuwiki
-- Hosted using AWS EC2 instance, virtual linux machine, and apache.
+CramifyXYZ Wiki
+Wiki based software for cramify.xyz so that students can make changes to pre-existing study guides
+Built with PhP using Dokuwiki
+Hosted using AWS EC2 instance, virtual linux machine, and apache.
 
 
 
