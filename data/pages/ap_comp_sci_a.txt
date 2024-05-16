@@ -1,0 +1,1434 @@
+====== AP CSA Study Guide ======
+Curly brackets alignment is a bit janky, not fully accurate but it shouldnt affect consumibility of notes
+
+===== Unit 1 – Primitive Types =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+Primitive Types
+
+**Learning Objectives**
+
+  * System class methods print output to the console.
+
+  * String literals
+
+  * Primitive Data Types
+
+  * Declaring variables to different data types
+
+  * Use of arithmetic expressions in a program
+
+  * Data stored in variables
+
+  * Assignment Statements
+
+**Why Programming? Why Java?**
+
+  * Programming Languages: a language used to write instructions that can be executed by a computer
+
+  * Instructions in a computer program are known as the code.
+    - The instructions written for a computer to execute is a program.
+
+  * Machine Code: a set of instructions composed of 1s and 0s the computer can execute without any translation
+
+  * High-Level Languages: translate human messages into machine code that the computer can understand
+
+  * An interface allows communication between humans and computers.
+
+  * Source Codes: program code written in a high-level language before being translated into machine code
+
+  * Java is a high-level language and it’s easier for programmers to learn and use.
+    - User friendly
+    - Can use on different kinds of hardware
+    - Run slower than the lower-level languages
+      - Must be translated to machine code
+
+  * Java is one of the most common modern computer languages
+    - It is used for web applications and software development
+
+  * This programming language was developed by James Gosling and a group of people at Sun Microsystems in California.
+
+**Variables and Data Types**
+
+  * Variable
+
+  - a group of characters whose value can be changed as needed
+    - Stores data in RAM (Random Access Memory)
+    * Identifier: A name for a parameter, variable, user-defined method, constant or user-define class.
+      - A sequence of digits, letters, and the underscore.
+
+  - Can’t begin with a digit.
+    - Case-sensitive
+      * Lowercase when naming identifiers for variables and methods.
+      * Uppercase letters are used to separate words.
+
+  * Rules you must follow when naming Variables
+    - Do
+      * Begin variable names with a letter or underscore. (Ex: song, songTitle)
+      * After the first letter, the variable name can consist of additional letters or digits (0 to 9).
+    - Do Not
+      * Variable names should not be a Python keyword.
+      * Variable names can’t have spaces.
+      * Variable names can’t have any punctuation.
+
+  * Final variable
+    - User-defined constant (uses keyword final)
+    - Can’t change the value of the variable
+      - Example:
+        * final double CLASS_SIZE = 28;
+
+  * Make sure you use camelCase in Java (for variables/new instances)
+
+  * Non-numeric data: a string which consists of a combination of letters, numbers, and/or symbols. This type of data can’t be used in calculations.
+
+  * Numeric data: numerical value that can be used in calculations.
+
+**Variables and Data Types (continued)**
+
+  * Built-in Types
+
+  - int: refers to an integer
+    * positive, negative whole numbers (including 0)
+
+  - Boolean: a logic which evaluates whether a condition is true or false.
+    - Double: decimals (floating-point numbers)
+      * Uses 8 bytes
+
+  * float: refers to “floating point numbers”. These numbers have a decimal point.
+    * positive, negative numbers, including 0.0
+    * Uses 4 bytes
+
+  * String: Sequence of letters, numbers, spaces, and symbols, or alphanumeric info.
+
+  * Boolean: a logic which evaluates whether a condition is true or false.
+
+  * Floating-point numbers
+    - Stored in two parts (a mantissa and an exponent)
+
+  - Mantissa: Digits of the number
+
+**Expressions and Assignment Statements**
+
+  * Arithmetic expressions
+    - Typically consist of parentheses, function calls, and operators
+
+  * Arithmetic Operators
+    - + (addition)
+
+> o - (subtraction) o * (multiplication) o / (division) 
+
+  * Ex: 20 % 8
+
+> %%//%%returns 2 (NOT 2.5) o % (modulus) 
+
+  * Gives you the remainder
+
+  * Ex: 11 % 3 %%//%%returns 2
+
+  * Assignment Statement: statement which assigns values to variables
+
+  * These assignment operators can be applied to the primitive data types int and double. o Even if both of the data types are in the same expression
+
+  * Integer division (divisor and dividend are both integers) results in an integer output/quotient.
+
+> o You can control the type (int or double) of output by casting the operands.
+
+  * Example: (int) 6.0/8 = 0 (double) 6/8 = 0.75
+
+  * Constant identifiers are capitalized.
+
+  * A common use of a constant or final variable is arrays.
+
+**Expressions and Assignment Statements (continued)**
+
+  * Relational Operators o == (equal to)
+
+> o != (not equal to) o > (greater than) o < (less than) o >= (greater than or equal to) o <= (less than or equal to) 
+
+  * Logical Operators
+
+  - ! (NOT)
+
+  - && (AND)
+
+  - %%|%% | (OR)
+
+  - Applied to Boolean expressions (for compound Boolean expressions)
+
+  * To evaluate true or false
+
+  - True or false values are assigned based on the result of a truth table for these logical operators.
+
+**Compound Assignment Operators**
+
+  * = (simple assignment)
+
+  * Compound Assignment Operators o +=
+
+  * x += 5 or x = x + 5
+
+  - -- =
+    * x -= 7 or x = x - 7
+
+  - =
+    * x *= 9 or x = x * 9
+
+  - /=
+    * x /= 10 or x = x / 10
+
+  - %=
+    * x %= 4 or x = x % 4
+    * Increment and Decrement Operators o ++
+    * i++ or ++i
+    * i is incremented by 1
+
+  - --
+    * j++ or ++j
+    * j is decremented by 1
+    * Operator Precedence
+
+  - Highest Precedence
+    * !. ++. --
+    * ,/,%
+    * >, <, >=, <=
+    * %%==%%, !=
+    * &&
+    * %%|%% |
+
+**Compound Assignment Operators (continued)**
+
+  - Lowest Precedence
+    * Simple Assignment
+    * Compound Assignment Operators
+
+**Input and Output**
+
+  * Input
+
+  - double x = Call method which reads a floating-point number
+
+  - double x = …;
+
+  * Read user input
+    - Scanner Class -- simplifies the console and the input
+
+  * Output
+    - System.out.print
+
+> o System.out.println
+
+  - System class -- displays output to the screen.
+
+  - print method outputs items without going to a new line while println does print the output on the next line.
+
+**Example Practice Questions:**
+
+  - Which of the following data types is not primitive?
+    - Long
+    - Integer
+    - String
+    - Boolean
+
+  - A value can’t be changed if a variable is declared %%________%%.
+    - final
+    - private
+    - boolean
+    - constant
+
+> Answer: A final dataType name = value 
+
+===== Unit 2 – Using Objects =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+Using Objects
+
+**Objects: Instances of Classes**
+
+  * Object -- characterized by state, attributes, and behavior. o Instance of a class
+
+  * All OOP (Object-Oriented Programming) languages try to represent an object as a variable or an instance in a program.
+
+  * Class -- Software blueprint
+
+  - Implement Objects of a specific data type
+
+  * Data fields --
+    - Also known as instance variables
+    - Methods
+      * Provide behaviors of the object
+      * Provide operations which manipulate the object
+
+  * Encapsulation -- Combining data and method into a single unit
+
+  * Public
+    - Class declaration which suggests that the class can be used by all client programs
+
+  - Public methods -- any client program can access these methods
+
+**Objects: Instances of Classes (continued)**
+
+  * Private
+
+  - Information hiding in Java -- restricting access to data and methods
+
+  - Private methods and variables -- Only accessible by methods from that class
+    - Java does allow public instance variables but we only have private instance variables in the AP Java Subset.
+
+  * Static
+    - Static variable -- class variable
+      * Shared through all instances of a class
+      * Static -- the memory allocation can only occur once
+
+  - Uses of a static variable
+    * Accumulation of a total
+    * Providing a new identity for each instance or object in a class
+    * Keeping track of data of the objects in a class
+
+  - Static final variable (also known as constant)
+    * Cannot be changed
+    * Often declared as public
+    * Keyword static indicates that the single value applies to the entire class and not just a new instance for an object in the class.
+
+**Methods**
+
+  * Method headers look like this:
+
+  - Except constructors and static methods
+
+  - public void deposit (String password, double amount) o public -- access specifier
+
+  - void -- return type
+
+  - withdraw -- method name
+    - (Strong password, double amount)- list of parameters
+
+  * Types of methods:
+    - Instance methods
+
+  * Constructors, accessors, and mutators
+
+  - Constructors
+    * Creates an object or a new instance of the class
+    * Default constructor -- No arguments
+      * Provides initial values for each new object
+    * Constructor with parameters have instance variables set to the values of the parameters.
+    * Object variables store the values and addresses of their respective objects.
+
+  - Accessors
+    * Access a class object without modifying an object
+    * Returns information about the object
+    * . (dot) operator signals a method of a class
+
+  - Mutators
+    * Alters the state of an object
+    * Changes at least one of the instance variables of the object
+    * Invoked similar to an accessor in a client program
+
+**Methods (continued)**
+
+  - Static Methods
+    * Performs an operation for the whole class
+    * Not individual objects
+    * Sometimes known as a class method
+
+  - Static methods vs. Instance methods
+    * Static methods use the keyword static for its implementation.
+    * No implied objects in static method (there is in instance methods)
+    * A static method can use a static variable in the code.
+
+  * Method Overloading
+
+  - Overloaded methods are two or more methods which are in the same class and have the same name but different inputs or parameter lists
+
+  - Compiler decides which method to call by looking at the method’s signature
+
+  - Method signature -- consists of method’s name, parameter types
+    - Return type is irrelevant for overloaded methods
+      * Two methods can have similar method signatures but not different return types (compiler will give you an error)
+
+  * Scope
+    - Scope of a variable or method means that it’s in an area where the identifier is
+
+> visible and can be easily accessed
+
+  - What does a scope consist of?
+    * Instance variables
+    * Static variables
+    * Methods of a class
+
+  - From the opening brace to the closing brace of a class.
+
+**Methods (continued)**
+
+  * Local method
+
+  - Inside a method
+
+  - Can be defined in a statement
+
+  - Scope extends from the beginning to the end of the block it is defined in
+
+  - Block -- code enclosed in {}
+
+  - The memory of a local variable or method is recycled when a block is exited
+
+  - Higher precedence over instance variables
+
+  - Using same names creates ambiguity for programmers and coders (Leads to more errors)
+
+**String Objects: Concatenation, Literals, and More**
+
+  * String -- an object of this type is just a sequence of characters.
+
+  * All string literals are implemented as instances of a class.
+
+  - String literals have zero or more characters in them.
+
+  - Can also include escape sequences
+    - String literals are surrounded by double quotes.
+      * Quotes are not part of the string object.
+
+  * String Objects -- immutable
+    - No methods can change them after they are constructed
+
+  * You can create a new String object which can be a modified form of an existing String object.
+
+  * String objects can be initialized like a primitive data type.
+
+  * Concatenation operator (+)
+
+  - Used on String objects
+    - Allows you to combine two or more String operands
+
+  * Characters in the String objects
+    - Compared based on their position in the ASCII chart.
+
+  * Don’t use (==) for testing or comparing String Objects.
+
+**String Methods**
+
+  * String objects can be initialized like a primitive data type.
+
+  * Two ways to compare String objects:
+
+  - Using the equals method
+
+  * If (string1.equals(string2))…
+
+  - Using the compareTo method
+    * Int compareTo (string otherStringYouAreComparing)
+    * stringOne. compareTo (stringTwo) < 0
+      * stringOne precedes stringTwo in a dictionary
+    * stringOne. compareTo (stringTwo) > 0
+      * stringTwo precedes stringOne in a dictionary
+    * stringOne. compareTo (stringTwo) == 0
+      * both Strings are identical
+
+  - REMEMBER THAT JAVA IS CASE-SENSITIVE!
+
+**Wrapper Classes: Integer and Double**
+
+  * Integer Class
+
+  - This wraps a value of int type in any object
+    - Only contains one instance variable with the type int
+    - Int methods you should know for the exam
+      * Integer (int value)
+        * To construct an integer
+      * int compareTo (Integer other)
+      * int intValue()
+      * boolean equals (Object obj)
+        * Overrides equals in class Object.
+
+  * Double Class
+    - This wraps a value of double type in any object
+
+  - double (double value) o double doubleValue()
+
+> o int compareTo (Double other)
+
+  - boolean equals (Object obj) o String toString()
+
+  * Both Integer and Double objects contain no mutator methods in their classes.
+
+**Using the Math Class**
+
+  * Methods you need to know in the Math Class o static int abs(int x)
+
+> o static double abs(double x) o static double pow(double base, double exp) o static double sqrt(double x) o static double random() 
+
+===== Unit 3 – Boolean Expressions =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+Boolean Expressions
+
+**Boolean Expressions**
+
+  * Boolean logic: answers can be true or false (no middle ground)
+
+  * George Boole
+
+  - Inventor of the concept of Boolean logic
+
+  - He also developed the idea of what computers can use to make decisions -- condition statements.
+
+**if Statements and Control Flow**
+
+  * An if statement tells the computer that if a condition is true, then it should execute the block of code within the function.
+
+> o Most basic control flow statement o If it’s false, the computer should skip the code and continue with the rest of the program. 
+
+  * Control flow statements
+
+  - Can modify or break the flow of the execution
+    * Implementing decision making
+    * Looping
+    * Branching program
+    - To execute certain blocks of code in your program.
+
+  * Switch statements
+    - Can test a range of values
+
+  - Can use these statements if the if-else chain is too long.
+
+  * Three types of control flow supported by Java
+    - Decision making statements
+      * if -- then
+      * if -- then -- else
+
+  - Looping statements
+    * for
+    * while
+    * do-while
+
+  - Branching statements
+    * break
+    * return
+    * continue
+
+**if-else Statements**
+
+  * if-else statements
+
+  - If the condition is true, the computer executes the block of code but if the condition is false, the computer executes the else action.
+
+  - Will always take some action because the condition has to be either true or false (not in the middle).
+
+  - Optional else statement
+    * Alternate path if the boolean value might be false
+
+**else-if Statements**
+
+  * if-else-if statements
+
+  - In Java, once a block of code is executed, it doesn’t check for the other else-if conditions
+    * Breaks the loop
+
+**Equivalent Boolean Expressions**
+
+  * De Morgan’s Laws
+
+  - not (a and b) -> (not a) or (not b)
+
+  - not (a or b) -> (not a) and (not b)
+
+  * How De Morgan’s Laws are expressed in programming languages! o !(a && b) is equivalent to !a || !b
+
+> o !(a || b) is equivalent to !a && !b
+
+  * Negating boolean expressions
+
+  - You can do this with relational operators
+    - <, >, or ==
+
+  * Truth Tables are used to prove boolean expressions.
+
+  * Equivalent boolean expressions result in the same value in any case.
+
+**Comparing Objects**
+
+  * Object -- characterized by state, attributes, and behavior. o Instance of a class
+
+  * Class -- Software blueprint
+    - Implement Objects of a specific data type
+
+  * Methods
+
+  - Provide behaviors of the object
+    - Provide operations which manipulate the object
+
+  * Comparing String Objects
+    - Using the equals method
+
+  * If (string1.equals(string2))…
+
+  - Using the compareTo method
+    * Int compareTo (string otherStringYouAreComparing)
+    * stringOne. compareTo (stringTwo) < 0
+      * stringOne precedes stringTwo in a dictionary
+    * stringOne. compareTo (stringTwo) > 0
+      * stringTwo precedes stringOne in a dictionary
+    * stringOne. compareTo (stringTwo) == 0
+      * both Strings are identical
+
+  - String Objects -- immutable
+
+  * No methods can change them after they are constructed
+    - You can create a new String object which can be a modified form of an existing String object.
+
+  * Characters in the String objects
+    - Compared based on their position in the ASCII chart.
+
+  * Don’t use (==) for testing or comparing String Objects.
+
+===== Unit 4 – Iteration =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+Iteration
+
+**while Loops and for Loops**
+
+  * for loop vs. while loop
+
+  - for loops repeat for a range of values
+
+  - while loops repeat when a condition is true/met
+
+  - for loops have a start value for the loop variables
+
+  - for loop can be best when you know how many times to repeat the code
+
+  - while loops can be best when you don’t know how many times to repeat the code
+
+  * Similarities between for loops and while loops
+    - Repeats code
+    - Loop stops once the condition is false
+
+>  * Example of a while loop
+
+   public class Test { public static void main(String[] args) 
+{ 
+  int x = 10; 
+  while (x > 0) 
+{
+  System.out.println(x); x = x - 2; 
+    } 
+  } 
+} 
+
+**while Loops and for Loops (continued)**
+
+  * Example of a for loop
+
+> public class Test {
+     public static void main(String[] args) {
+        for (int x = 3; x > 0; x--) 
+         { 
+           System.out.println(x); 
+         } 
+        } 
+   } 
+
+  * Body of the loops
+
+  - A single statement after “while” or “for”
+
+> OR
+
+  - Block of code between the opening and closing curly braces.
+
+**Developing Algorithms Using Strings**
+
+  * Loops are usually incorporated in: o String traversals
+
+> o String processing
+
+  - The code processes a string by each character.
+
+  * First character in a Java String ALWAYS starts with the index 0
+    - Last character: length() -- 1
+
+  * String methods that are often used:
+    - int length()
+
+> o int indexOf(String Str)
+
+  - String substring (int from, int to)
+
+  - String substring (int from)
+
+  * Standard algorithms use String traversals to:
+    - Find if the substrings have a certain property
+
+  - Determine how many substrings meet the criteria
+
+  - Create new strings with the characters of an existing string reversed.
+
+**Nested Iteration**
+
+  * Nested loops -- a loop inside of another loop
+
+  * Used when working with two dimensions such as arrays and ArrayLists.
+
+  * The inner loop runs multiple times before the outer loop runs again.
+
+  * Inner loop must finish all iterations before the outer loop can go onto the next iteration.
+
+  * Example of a nested loop:
+
+> public class NestedLoops 
+{ 
+public static void main(String[] args) 
+  { 
+  for (int row = 1; row <= 3; row++) 
+    { 
+    for (int col = 1; col <= 5; col++) 
+      { 
+      System.out.print("*"); 
+        } 
+        System.out.println(); 
+} 
+
+> } } 
+
+**Informal Code Analysis**
+
+  * Trace tables -- used to keep track of the variables
+    - Keeps track of any values assigned in each iteration of the loop
+
+  * Statement Execution Count -- determines how many times a block of code runs
+    - Known as run-time analysis
+
+  * largestValue -- smallestValue + 1
+    - Number of times a loop executes
+
+===== Unit 5 – Writing Classes =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+Writing Classes
+
+**Anatomy of a Class**
+
+  * Object -- characterized by state, attributes, and behavior. o Instance of a class
+
+  * All OOP (Object-Oriented Programming) languages try to represent an object as a variable or an instance in a program.
+
+  * Class -- Defines another abstract data type in the program
+
+  * Object references
+
+  - String variables
+
+  * Instance Variables
+    - Attributes and behaviors
+    - Hold data for objects
+
+  * Methods -- Code for behaviors or any actions that apply to the objects.
+
+  * Constructors -- Used to initialize the instance variables
+    - When an object is created
+
+  * Main Methods -- Used to test the class
+
+  * Instance variables
+    - Attributes/behaviors
+
+  - Fields
+
+  - Properties
+
+**Anatomy of a Class (continued)**
+
+  * Types of methods: Accessor, constructors, and mutators
+
+  * Void return type -- Indicates that the method doesn’t return any value or String object.
+
+  * Method names are always followed by parentheses.
+    - Possible parameters should be indicated here.
+
+  * Example of a class: public class Name {
+
+> private String first; 
+private String last; 
+public Name(String theFirst, String theLast) 
+  { 
+    first = theFirst; last = theLast; 
+  } 
+
+> }
+
+  * Keywords public and private are used for: o Classes
+
+> o Data o Constructors o Methods 
+
+**Constructors**
+
+  * Constructors -- used to set the initial value for an object o Or instance variables
+
+  * When there is no constructor coded, Java includes a default constructor
+
+  * Default constructors don’t have any arguments.
+    - Instance variables are set to a default value.
+      * Int and double -- 0
+      * Strings -- null
+
+  * Constructor parameters are known as local variables to the constructor.
+    - They also provide data to initialize instance variables.
+
+  * Classes often have multiple constructors.
+    - A constructor which has no parameters
+
+  - A constructor with parameters needed for initializing any instance variables.
+
+**Documentation with Comments**
+
+  * %%//%% - single line comment
+
+  * %%/*%% %%*/%% - multiple line comment
+
+  * %%/**%% %%*/%% - documentation comment
+
+  * These comments help you remember any changes or additions to the program. o It is a good habit to develop for programmers.
+
+  * You can use the Java tool known as Javadoc for this.
+
+  * Comments are ignored by the Java compiler.
+
+  * Preconditions
+    - Condition must be true before the code is implemented.
+
+  * Postconditions
+    - Should be true after a method is run
+    - Describes the output/outcome after the method is run
+      * Can show any changes occurred to the instance variables
+
+  * These conditions help determine the validity of the program/software.
+
+  * Software designers and programmers usually use this:
+    - Use-case diagram system
+
+  - Shows different ways a user can interact or use the program before its built
+
+**Documentation with Comments (continued)**
+
+  * Example with both types of conditions %%/**%%
+    * Constructor that takes the x and y position for the snake
+    * Preconditions: parameters x and y are coordinates from 0 to
+    * the width and height of the world.
+    * Postconditions: the snake is placed in (x,y) coordinates
+    * @param x the x position to place the snake
+    * @param y the y position to place the snake
+
+> %%*/%% public Snake(int x, int y) { xPos = x; yPos = y; } 
+
+**Accessor Methods**
+
+  * Also known as get methods or getters
+    - How to get the value of an instance variable
+
+  * Return by value
+    - Original value can’t be modified
+    - A way to access the instance variables of the class
+
+  * Non-void method returns only a single value.
+    - The header has the return type instead of the keyword void
+
+  * Accessor methods return primitive types
+
+  * Return keyword/ expression
+    - References an object
+    - Returns a copy of the reference
+      * Not the original object
+
+  * toString method
+    - Overridden method
+
+  - Incorporated in classes to show a description of the object
+
+  - Called when print statements are passed as objects
+
+**Mutator Methods**
+
+  * Also known as a set methods or setters
+    - Allows changes to the values of instance variables
+
+  * Void methods don’t return a value but they do take parameters for instance variables
+
+**Writing Methods**
+
+  * Procedural Abstraction: Can name a method and call it whenever it’s needed o Creating methods
+
+  * Programmers break down larger programs into a smaller one.
+
+  * To write methods, you need a
+
+  - Method definition
+
+  - Method Signature
+    - Method body
+
+  * Object.method()
+    - To call an object’s method
+
+  * Actual parameters can be a primitive value or a reference to the object.
+
+  * Why should you use multiple methods in your code?
+    - Organization and reducing complexity of the code
+
+  - Reusing code
+
+  - Maintainability and debugging
+
+**Static Variables and Methods**
+
+  * Static variables and methods use the keyword static. o Must be before header or declaration
+
+> o Can be public or private
+
+  * Static variables
+
+  - Belong to class
+
+  - Objects share single static variables
+    - Used with class name and dot operator
+
+  * Static methods
+    - Associated with class
+
+  - Cannot access or modify any values of the instance variables
+
+  - Can modify the values of static variables.
+
+  - Can’t call non-static methods
+
+**Scope and Access**
+
+  * Scope of a variable -- where a variable can be accessed or used o Determined by the declaration of the variable
+
+  * Java has 3 distinct levels of scope which are related to different types of variables o Class level scope
+
+  * Instance variables
+
+  - Method Level Scope
+    * Local variables
+    * Parameter variables
+    - Block level scope
+      * Loop variables
+
+  * Formal parameters or variables should only be used within a constructor or method.
+
+===== Unit 6 – Array =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+Array
+
+**Array Creation and Access**
+
+  * Arrays represent groups of related data all of the identical data type.
+
+  * The size of an array is established when created and cannot be modified.
+
+  * Arrays can store either primitive data or object reference data.
+
+  * When an array is created using the keyword new, all of its elements are initialized with a specific value based on the type of elements:
+
+> o Elements of type int are initialized to 0 o Elements of type double are initialized to 0.0 o Elements of type boolean are initialized to false o Elements of a reference type are initialized to the reference value null. No objects are automatically created. 
+
+  * Square brackets %%([%% ]) are utilized to get to and adjust a component in an Array utilizing a list. The indexed value, for instance array[index], can be utilized anywhere a normal variable can be utilized, for instance to get or assign any values or variables.
+
+  * The valid index values for an array are 0 through one less than the size of the array. Utilizing a record and index value outside of this range will give you an ArrayIndexOutOfBoundsException.
+
+**Traversing Arrays**
+
+  * Iteration (loops) can be utilized to get to all the components in an array, traversing through the array.
+
+  * Traversing an array with an indexed for loop or while loop expects components to be accessed with their indices.
+
+> public class OffByone 
+  { 
+    public static void main(String[] args) 
+      { 
+         int[ ] scores = { 10, 9, 8, 7, 6}; 
+
+  * Make this loop print out all the scores! for (int i = 1; i <= scores.length; i++)
+
+> { 
+System.out.println( scores[i] ); 
+} 
+
+> } } 
+
+**Enhanced for Loop for Arrays**
+
+  * Enhanced for Loop = for each loop
+
+  - Can be used in an array without specifying an index variable.
+
+**Developing Algorithms Using Arrays**
+
+  * Determining the minimum or maximum value
+
+  * Computing a sum, average, or mode of elements
+
+  * Searching for an element in the array
+
+  * Insert elements in the ArrayList
+
+  * Delete elements in the ArrayList
+
+  * Determining whether there are duplicate/identical elements
+
+  * Changing the order of elements
+
+  * Reversing the order of elements
+
+===== Unit 7 – Array List =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+ArrayList
+
+**Introduction to ArrayList**
+
+  * ArrayList are re-sizable groups that permit adding and expelling things to change their size during run time.
+
+  * The ArrayList class is in the java.util Java package. You should import java.util.* to utilize it.
+
+  * An ArrayList object contains object references and is variable, which means it can change (by including and expelling things from it).
+
+  * The ArrayList constructor ArrayList() develops a vacant rundown of size 0.
+
+  * Java permits the nonexclusive sort ArrayList<E>, where the conventional kind E determines the sort of the components, such as String or Integer. Without it, the sort will be Object.
+
+  * ArrayList<E> is favored over ArrayList since it permits the compiler to discover mistakes that would some way or another be found at run-time.
+
+  * When ArrayList<E> is indicated, the kinds of the reference boundaries and return type when utilizing its techniques are type E.
+
+  * ArrayLists can't hold primitive data types such as int or double, so you should utilize the wrapper classes Integer or Double to place numerical values into an ArrayList.
+
+**ArrayList Methods**
+
+int size() - returns number of elements in the list
+
+  * boolean add(E obj) - adds obj to the end of the list and returns true
+
+  * E remove(int index) - removes the item at the index and shifts remaining items to the top
+
+  * void add(int index, E obj) moves any current objects at index or beyond to the bottom (to a higher index) and inserts obj at the index specified
+
+  * E get(int index) returns the item in the list at the index specified as a parameter.
+
+  * E set(int index, E obj) replaces item at an index with the object (obj)
+
+**Traversing ArrayLists**
+
+  * ArrayLists can be traversed through an enhanced for each loop , or while/for loops by specifying an index.
+
+  * Deleting components during a traversal of an ArrayList requires utilizing extraordinary techniques to abstain from skipping elements, since removing an element moves all the other elements.
+
+  * Since the index of the first element in an ArrayList starts at 0 and the list ends at the with a value of elements − 1, accessing an index value outside of the given range of an ArrayList will give you an ArrayIndexOutOfBoundsException.
+
+  * Modifying the size of an ArrayList while traversing it utilizing the enhanced for each loop will give us a ConcurrentModificationException being tossed. So, when utilizing enhanced for loop to traverse through an ArrayList, you can't add or remove any elements.
+
+**Developing Algorithms Using ArrayLists**
+
+  * Determining the minimum or maximum value
+
+  * Computing a sum, average, or mode of elements
+
+  * Searching for an element in the array
+
+  * Insert elements in the ArrayList
+
+  * Delete elements in the ArrayList
+
+  * Determining whether there are duplicate/identical elements
+
+  * Changing the order of elements
+
+  * Reversing the order of elements
+
+**Searching**
+
+  * Sequential/linear search algorithms check every component all together until the value is found or all components in the Array or ArrayList have been checked.
+
+  * The binary search algorithm begins at the center of a sorted array or ArrayList and disposes half of the Array or ArrayList in every iteration until the value is found or all the elements have been checked.
+
+  * Data must be sorted for the binary search algorithm to work.
+
+  * Casual run-time correlations of program code sections can be made utilizing statement execution counts.
+
+**Sorting**
+
+  * Iterative sorting algorithms
+
+  - Used to sort elements in an ArrayList
+
+  - Selection Sort
+
+  - Insertion Sort
+
+**Ethical Issues Around Data Collection**
+
+  * A programmer’s job isn’t done as soon as they write the program code. They also have to be able to maintain the program by keeping an eye out for accuracy of the code and security.
+
+  * The Code of Ethics and Professional Conduct is written by Association for Computing Machinery (ACM).
+
+> o “Contribute to Society and human well-being.” o “Avoid harm to others.” o “Respect the privacy of others.” o “Give proper credit for intellectual property.” 
+
+  - “Access computing and communication resources only when authorized to do so.”
+
+  * These are some common ways of getting your information stolen.
+    - Email scams: Scammers send you emails which make you respond with personal
+
+> information or click on certain dangerous links.
+
+  - Privacy settings: Privacy settings and the complexity of your passwords
+
+> determines whether you are volunteering your personal information to be out there or keep your information safe.
+
+  - Sharing passwords: DO NOT share your password (even with your closest friends or partner).
+
+  - Dummy sites: Clicking on random pop-ups that are attractive might seem like a good idea until your personal information is stolen. Make sure you check for consistent copyright tags on each page if you are asked to navigate to any external links.
+
+**Ethical Issues Around Data Collection (continued)**
+
+  * Enterprise software: it’s software that is not designed for individuals, but for big organizations or companies.
+
+> o They help organizations be more effective because of the software that is built especially for businesses. o Many companies end up with unlimited access to a lot of personal information due to this idea of enterprise software. o They still hold the responsibility of keeping this information safe. 
+
+  * Disaster recovery plan
+
+  - A document which outlines the procedures and protects the business’s data in case a disaster occurs.
+    - Every company is required to have some form of a disaster recovery plan.
+
+  * Parts of a Disaster Recovery Plan
+
+  - Backup: Have a backup of your data to make sure that you can restore files and data and be able to return to normal ASAP.
+
+  - Mitigation: This is known as the effort to reduce the impact of a disaster by being prepared with backups, checklists, and an emergency plan.
+
+  - Monitoring: This can help you prevent any potential risks and keep any eye out for anything that might go wrong.
+
+  - Redundancy: Having redundant backups is very useful because it reduces the downtime for your company and also allows for a faster recovery period.
+    - Response: This is known as the emergency response plan. It outlines how the business will respond and what actions they should prioritize to get it up and running again.
+
+  * Few Types of backups
+    - Full backup
+
+  - Incremental Backup
+
+  - Differential Backup
+
+  - Mirror Backup
+
+===== Unit 8 - 2D Array =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+2D Array
+
+**2D Arrays**
+
+  * 2D arrays are stored as arrays of arrays.
+    - 2D arrays are created and indexed similar to 1D array objects.
+
+  * 2D arrays are declared and created with this syntax:
+    - datatype[][] variableName = new datatype[numberRows][numberCols];
+
+  * 2D array objects that are not rectangular are not part of the course and AP Exam.
+
+  * For the purposes of the exam, when accessing the element at arr[first][second]:
+    - The first index is used for rows, the second index is used for columns.
+
+  * The initializer list used to create and initialize a 2D array consists of initializer lists that represent 1D arrays.
+    - For example, int[][] ticketInfo = { {45,20,45}, {45,20,45} };
+
+  * The square brackets [row][col] are used to access and modify an element in a 2D array.
+
+**2D Arrays (continued)**
+
+  * “Row-major order”
+
+> Ordering 2D array elements where traversal occurs across each row While “column-major order” traversal occurs down each column. public class TwoDArrayInitGet { public static void main(String[] args) { String[][] seating = { {"Sarah", "Maria"}, 
+
+> {"Cameron", "Ella"}, {"Emma", "Luke"} }; String name = seatingInfo[0][0]; System.out.println(name + " is at [0,0]"); } } 
+
+**Traversing 2D Arrays**
+
+  * 2D arrays use nested for loops or nested enhanced for each loop.
+
+  * Outer loop for a 2D array usually traverses the rows of an array. o The inner loop traverses through the columns.
+
+  * Nested iteration
+
+  - Row-major order
+    - Column-major order
+
+  * Standard algorithms for 1-dimensional Arrays can also be used for 2-dimensional Arrays.
+
+  * Each row must be accessed in a 2D Array for:
+    - Sequential searches
+
+  - Linear searches
+
+The information below is from Runestone Academy and it is specified that this is tested on the AP exam!
+
+  * **2d Array** - An array that holds items in a two-dimensional grid. You can think of it as storing items in rows and columns (like a bingo card or battleship game). You can access an item (element) at a given row and column index.
+
+  * **2d Array Declaration** - To declare an array, specify the type of elements that will be stored in the array, then %%([%%][]) to show that it is a 2d array of that type, then at least one space, and then a name for the array. Examples: int[][] seats; String[][] seatingChart;
+
+  * **2d Array Creation** - To create a 2d array, type the name and an equals sign then use the new keyword, followed by a space, then the type, and then [numRows][numCols]. Example: seatingChart = new String[5][4];. This will have 5 rows and 4 columns.
+
+  * **2d Array Index** - You can access and set values in a 2d array using the row and column index. The first element in an array called arr is at row 0 and column 0 arr[0][0].
+
+**Traversing 2D Arrays (continued)**
+
+  * **2d Array Initialization** - You can also initialize (set) the values in the array when you first create it. In this case you don’t need to specify the size of the array, it will be determined from the number of values that you specify.
+
+> Example: String[][] seatingInfo = { {"Jamal", "Maria"}, {"Jake", "Suzy"}, {"Emma", "L uke"}}; This will create a 2d array with 3 rows and 2 columns.
+
+  * **2d Array Number of Rows** - The number of rows (or height) is the length of the outer array. For an array arr use arr.length to get the number of rows in the array.
+
+  * **2d Array Number of Columns** - The number of columns (or width) is the length of the inner array. For an array arr use arr[0].length to get the number of columns.
+
+  * **nested for loop** - A for loop inside of another for loop. These are used to loop through all the elements in a 2d array. One loop can work through the rows and the other the columns.
+
+  * **out of bounds error** - This happens when a loop goes beyond the last valid index in an array. Remember that the last valid row index is arr.length - 1. The last valid column index is arr[0].length - 1.
+
+===== Unit 9 – Inheritance =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+Inheritance
+
+**Creating Superclasses and Subclasses**
+
+  * Class Hierarchy
+
+  - Common attributes and behaviors of related classes into a single class called
+
+> a superclass.
+
+  - Classes extend a superclass
+    * Known as subclasses
+
+  * Keyword Extends
+    - Creating an inheritance relationship
+
+  * Class extends only one superclass.
+
+  * Multiple subclasses can extend a superclass.
+
+  * Subclass to superclass relationship
+    - Forms a is-a relationship
+
+**Writing Constructors for Subclasses**
+
+  * Subclasses inherit private instance variables from the superclass.
+
+  * Constructors can’t be inherited.
+
+  * Instance variables are initialized from the parameters passed in the superclass from which we called the constructor.
+
+  * Superclass constructors continue until an Object constructor is called.
+    - Doesn’t matter whether it’s called implicitly or explicitly.
+
+  * Example (part 1) class Human
+
+> { 
+    private String name; public Human(String theName) 
+  { 
+
+> this.name = theName; 
+    } public String getName() 
+      { return name; 
+    }   
+  public boolean setName(String newName) 
+    { 
+      if (newName != null) 
+    { this.name = newName; return true; 
+
+  * Example (part 2)
+
+> } return false; 
+} 
+} 
+public class Employee extends Human 
+{ private static int nextEmployeeId = 1; private int employeeId; public Employee(String theName) 
+{ super(theName); employeeId = nextEmployeeId; nextEmployeeId ++; 
+
+> 
+  } 
+    public int getEmployeeId() 
+  { 
+    return employeeId; 
+  } 
+    public static void main(String[] args) 
+      { 
+         Employee emp = new Employee("Ella"); System.out.println(emp.getName()); System.out.println(emp. getEmployeeId ()); 
+       } 
+   } 
+
+**Overriding Methods**
+
+  * Overriding methods
+    - Methods in a subclass have the same method signature.
+
+  * Overloading methods
+    - Multiple methods have the same name but different parameter types
+
+  - Different order of the parameters
+
+  - OR the number of parameters are different
+
+**Super Keyword**
+
+  * Two uses of the keyword super o super();
+
+> o super(arguments); o super.method();
+
+  * Calls the superclass method but not the constructors from the class.
+
+**Creating References Using Inheritance Hierarchies**
+
+  * Inheritance Hierarchy
+
+  - Subclass inheriting from a superclass
+
+  - Formed with an object
+
+  - Objects at the top of the hierarchy
+
+**Polymorphism**
+
+  * Compile Time
+
+  - Methods in the declared type
+    - Determines the accuracy of a non-static call
+
+  * Run Time
+    - Methods in the object type
+
+  - Implemented for a non-static call
+
+  - Known as polymorphism
+
+**Object Superclass**
+
+  * Object Class is superclass of all classes in Java o In the built-in java.lang package
+
+  * These are two Object class methods and constructors o String toString()
+
+> o boolean equals(Object other)
+
+  * Subclasses of Object can override these methods with implementations that are specific to the class.
+
+===== Unit 10 – Recursion =====
+
+**From Simple Studies:** **[[https://simplestudies.edublogs.org/|https://simplestudies.edublogs.org]]** **&**
+
+**@simplestudiesinc on Instagram**
+
+Recursion
+
+**Recursion**
+
+  * Recursion: helpful for solving a problem with similar occurrences.
+
+  * Recursion Programming: These methods call themselves and solve problems using recursion.
+
+  * public static int mystery(int n)
+
+> { if (n < 5) { return n; } else { 
+
+> int a = n / 5; int b = n % 5; return mystery(a + b); } } What result do you get for the following callings? mystery (3) answer = 3 mystery (20) answer = 2 
+
+  * Recursive method -- method which calls itself
+
+**Recursion (continued)**
+
+  * Recursive methods
+
+  - Contain at least one base case
+
+  - Halt the recursion
+    - And contain at least one recursive call
+
+  * Recursive call should have own set of:
+    - Local variables (and formal parameters)
+
+  * Recursive solutions
+    - Replicated through iterations
+
+  * You don’t have to know how to write recursive code for the exam.
+
+  * Recursion is used to traverse through String, array, and ArrayList objects.
+
+**What is Recursion?**
+
+  * The binary search algorithm can be composed of either iteratively or recursively written code.
+
+  * Data must be in sorted order to utilize the binary search algorithm.
+
+  * The binary search algorithm begins at the center of an arranged exhibit or ArrayList and eliminates a portion of the cluster or ArrayList until the desired value is found or all elements of the ArrayList have been checked or eliminated from the process.
+
+  * Binary Search can be more productive than sequential/linear search.
+
+  * Merge sort is a recursive sorting algorithm that can be utilized to sort components in an Array or ArrayList.
+
+  * base case - An approach to stop the recursive calls. This is an arrival without a recursive call.
+
+  * call stack - A class characterizes what all objects of that class know (fields) and can do (strategies). You can likewise have information and conduct in the item that speaks to the (class fields and strategies). All objects of a class approach class fields and class techniques, yet these can likewise be gotten to utilizing className.field or className.method().
+
+  * recursive method - A method which contains in any event one call to itself inside the method.
+
+**Common Mistakes**
+
+  * Missing the recursive call. Make certain to search for a call to a similar technique.
+
+  * Getting confounded about when a recursive strategy returns and what it returns.
+
+  * Expecting you comprehend what the recursion is managing without following every last bit of it.
+
+> PRACTICE QUESTIONS
+
+  * The practice questions shown below are from [[https://runestone.academy/runestone/books/published/apcsareview/Recursion/rEasyMC.html|https://runestone.academy/runestone/books/published/apcsareview/Recursion/rEasyMC.h]] [[https://runestone.academy/runestone/books/published/apcsareview/Recursion/rEasyMC.html|tml]]
+
+  * The correct answer is filled in for all of these questions.
+
+{{:ilovepdf_merged_cbc28182d00d4e2eaed2e12ac7ea872c:image63.png?400|}} PRACTICE QUESTIONS (continued)
+
+{{:ilovepdf_merged_cbc28182d00d4e2eaed2e12ac7ea872c:image64.png?400|}}**Citations**
+
+[[https://runestone.academy/runestone/books/published/apcsareview/Recursion/rEasyMC.html|https://runestone.academy/runestone/books/published/apcsareview/Recursion/rEasyMC.html]]
+
+[[https://github.com/ajaygandecha/Youtube-Video-Files/tree/master/AP%20Computer%20Science%20A|https://github.com/ajaygandecha/Youtube-Video-]]
+
+Files/tree/master/AP%20Computer%20Science%20A
+
+Barron’s Test Prep AP Computer Science A 8th Edition

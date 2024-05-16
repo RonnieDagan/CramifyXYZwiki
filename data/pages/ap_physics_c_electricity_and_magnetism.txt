@@ -1,0 +1,16 @@
+====== AP Physics C: E&M Study Guide ======
+  * There is soooo much content for this class, it would likely get ruined through formatting etc, so I have linked the respective pdfs I found online.
+  * If you have a full AP Physics C: E&M Study Guide, please email me with your file. More info in [[How to Import my Notes into Cramify]]
+
+==== Unit 1: Electrostatics ====
+[[https://uploads-ssl.webflow.com/605fe570e5454a357d1e1811/60a033ada7191c04f9eadf39_AP-Physics-C-EM-Electrostatics.pdf|Unit 1: Electrostatics PDF link]]
+==== Unit 2: Conductors, Capacitors, Dielectrics ====
+[[https://uploads-ssl.webflow.com/605fe570e5454a357d1e1811/60a033edf9cc8f596c44e9b8_AP-Physics-C-EM-Conductors-Capacitors-Dielectrics.pdf|Unit 2: Conductors, Capacitors, Dielectrics PDF link]]
+==== Unit 3: Electric Circuits ====
+[[https://uploads-ssl.webflow.com/605fe570e5454a357d1e1811/60a0340e754e6ba021783194_AP-Physics-C-EM-Electric-Circuits.pdf|Unit 3: Electric Circuits PDF link]]
+==== Unit 4: Magnetism ====
+[[https://uploads-ssl.webflow.com/605fe570e5454a357d1e1811/60a0342f9d01ec5525037ee6_AP-Physics-C-EM-Magnetism.pdf|Unit 4: Magnetism PDF link]]
+==== Unit 5: Electromagnetism ====
+[[https://uploads-ssl.webflow.com/605fe570e5454a357d1e1811/60a0344bf3b25f7260ce0a15_AP-Physics-C-EM-Electromagnetism.pdf|Unit 5: Electromagnetism PDF link]]
+
+

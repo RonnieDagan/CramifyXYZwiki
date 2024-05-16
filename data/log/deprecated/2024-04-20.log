@@ -1,0 +1,5 @@
+2024-04-20 06:49:16		require_once() is deprecated. It was called from require() in C:\xampp\htdocs\wiki\lib\plugins\gview\syntax.php:22 Autoloading should be used instead!
+2024-04-20 06:49:22		require_once() is deprecated. It was called from require() in C:\xampp\htdocs\wiki\lib\plugins\googleads\admin.php:16 Autoloading should be used instead!
+2024-04-20 06:49:25		require_once() is deprecated. It was called from require() in C:\xampp\htdocs\wiki\lib\plugins\gview\syntax.php:22 Autoloading should be used instead!
+2024-04-20 07:00:26		require_once() is deprecated. It was called from require() in C:\xampp\htdocs\wiki\lib\plugins\googleads\admin.php:16 Autoloading should be used instead!
+2024-04-20 07:04:07		require_once() is deprecated. It was called from require() in C:\xampp\htdocs\wiki\lib\plugins\gview\syntax.php:22 Autoloading should be used instead!

@@ -1,0 +1,80 @@
+
+<h1 class="sectionedit1" id="google_analytics_for_dokuwiki">Google Analytics for DokuWiki</h1>
+<div class="level1">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Google Analytics for DokuWiki&quot;,&quot;hid&quot;:&quot;google_analytics_for_dokuwiki&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-45&quot;} -->
+<h2 class="sectionedit2" id="about">About</h2>
+<div class="level2">
+
+<p>
+This tool allows you to set a code for use with <a href="https://en.wikipedia.org/wiki/Google_Analytics" class="urlextern" target="_blank" title="https://en.wikipedia.org/wiki/Google_Analytics" rel="ugc nofollow noopener">Google Analytics</a>, which allows you to track your visitors.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;About&quot;,&quot;hid&quot;:&quot;about&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;46-223&quot;} -->
+<h2 class="sectionedit3" id="setup">Setup</h2>
+<div class="level2">
+
+<p>
+This plugin generates <a href="/wiki/doku.php?id=javascript" class="wikilink2" title="javascript" rel="nofollow" data-wiki-id="javascript">JavaScript</a> code that is automatically included into your site via the <code>lib/exe/js.php</code> file. (Which you can inspect via your browser&#039;s “developer tools.”)
+</p>
+
+<p>
+Set the options for this plugin via the <strong>Configuration Settings</strong> menu from the <a href="/wiki/doku.php?id=dokuwiki" class="wikilink2" title="dokuwiki" rel="nofollow" data-wiki-id="dokuwiki">DokuWiki</a> admin menu. (It will be near the bottom of the page.)
+</p>
+
+<p>
+You may use one of two tracking options:
+</p>
+<ul>
+<li class="level1"><div class="li"> <strong>Basic</strong> “Google Analytics ID” (also known as “<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs" class="urlextern" target="_blank" title="https://developers.google.com/analytics/devguides/collection/analyticsjs" rel="ugc nofollow noopener">analytics.js</a>”) using a <strong>UA-XXXXXX-XX</strong> code</div>
+</li>
+<li class="level1"><div class="li"> <strong>Newer</strong> “Global Site Tag ID” (also known as “<a href="https://developers.google.com/analytics/devguides/collection/gtagjs" class="urlextern" target="_blank" title="https://developers.google.com/analytics/devguides/collection/gtagjs" rel="ugc nofollow noopener">gtag.js</a>”) using a <strong>G-XXXXXXXXXX</strong> code</div>
+</li>
+</ul>
+
+<p>
+If you set a “Global Site Tag ID”, then this method will be used and any “Google Analytics ID” / <strong>UA-XXXXXXX-XX</strong> specific settings will be ignored.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Setup&quot;,&quot;hid&quot;:&quot;setup&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:3,&quot;range&quot;:&quot;224-1098&quot;} -->
+<h2 class="sectionedit4" id="advanced_usage">Advanced Usage</h2>
+<div class="level2">
+
+<p>
+To use the advanced “tagging” features of <code>analytics.js</code> or <code>gtag.js</code>, you will need to be able to embed <a href="/wiki/doku.php?id=javascript" class="wikilink2" title="javascript" rel="nofollow" data-wiki-id="javascript">JavaScript</a> within your <a href="/wiki/doku.php?id=dokuwiki" class="wikilink2" title="dokuwiki" rel="nofollow" data-wiki-id="dokuwiki">DokuWiki</a> pages. You can accomplish this in one of three ways:
+</p>
+<ul>
+<li class="level1"><div class="li"> <a href="/wiki/doku.php?id=wiki:syntax#embedding_html_and_php" class="wikilink1" title="wiki:syntax" data-wiki-id="wiki:syntax">Enabling embedded HTML</a> in your local <a href="/wiki/doku.php?id=dokuwiki" class="wikilink2" title="dokuwiki" rel="nofollow" data-wiki-id="dokuwiki">DokuWiki</a> instance (Look for <code>htmlok</code> in Configuration Settings)</div>
+</li>
+<li class="level1"><div class="li"> Allow embedded <a href="/wiki/doku.php?id=javascript" class="wikilink2" title="javascript" rel="nofollow" data-wiki-id="javascript">JavaScript</a> via a plugin like the <a href="https://www.dokuwiki.org/plugin%3Ainlinejs" class="interwiki iw_doku" title="https://www.dokuwiki.org/plugin%3Ainlinejs">InlineJS Plugin</a></div>
+</li>
+<li class="level1"><div class="li"> Edit your site&#039;s template to add “tagging” directly</div>
+</li>
+</ul>
+
+<p>
+Allowing embedded <abbr title="HyperText Markup Language">HTML</abbr> / <a href="/wiki/doku.php?id=javascript" class="wikilink2" title="javascript" rel="nofollow" data-wiki-id="javascript">JavaScript</a> will give you the most flexibility for per-page tagging, but it can open your site to <a href="https://en.wikipedia.org/wiki/Cross-site_scripting" class="urlextern" target="_blank" title="https://en.wikipedia.org/wiki/Cross-site_scripting" rel="ugc nofollow noopener">Cross-site Scripting</a> attacks if you&#039;re not careful. If you lock down who can edit your wiki pages and trust your users, you should be fine though.
+</p>
+
+<p>
+If you edit your template (the third option), make sure to make notes of what you change, as “upgrading” your template will revert any changes you&#039;ve made.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Advanced Usage&quot;,&quot;hid&quot;:&quot;advanced_usage&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:4,&quot;range&quot;:&quot;1099-2100&quot;} -->
+<h2 class="sectionedit5" id="support">Support</h2>
+<div class="level2">
+
+<p>
+For further support or discussion, please see the official plugin page <a href="https://www.dokuwiki.org/plugin%3Agoogleanalytics" class="interwiki iw_doku" title="https://www.dokuwiki.org/plugin%3Agoogleanalytics">here</a>.
+</p>
+
+<p>
+If you find this plugin useful, please consider supporting the project via <a href="http://tjgrant.com/wiki/donate" class="urlextern" target="_blank" title="http://tjgrant.com/wiki/donate" rel="ugc nofollow noopener">Donations</a> or <a href="https://github.com/sponsors/tatewake" class="urlextern" target="_blank" title="https://github.com/sponsors/tatewake" rel="ugc nofollow noopener">Sponsorships</a>; thank you!
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Support&quot;,&quot;hid&quot;:&quot;support&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:5,&quot;range&quot;:&quot;2101-&quot;} -->

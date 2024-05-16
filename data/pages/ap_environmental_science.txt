@@ -1,0 +1,2208 @@
+====== APES Study Guide ======
+
+====== Unit 1: The Living World - Ecosystems ======
+
+====== Resource Availability ======
+
+  * Resource availability is one of the main factors determining the ecological dynamics of populations or species.
+
+  * [[https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0076471|https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0076471]]
+
+  * [[https://www.nature.com/scitable/knowledge/library/species-interactions-and-competition-102131429/|https://www.nature.com/scitable/knowledge/library/species-interactions-and-competition-102131429/]]
+
+====== Species Relation ======
+
+===== General notes =====
+
+  * Biotic: interactions with other organisms (intra/interspecific competition, predation, parasitism, or demographic changes)
+
+  * Abiotic: physical and climatic factors
+
+  * Population: groups of organisms of the same species
+
+  * Community: populations of different species occupy the same geographic area
+
+  * Species’ niche: total sum of a species’ use of a/biotic resources in env
+    * Where the species lives, what it eats, and other resources they utilize in the ecosys
+
+  * Habitat: area/env where organism lives/occurs
+
+===== Competition =====
+
+  * When two individuals are competing for resources in the env
+    * Intraspecific: two individuals that are competing are the same species
+    * Interspecific: two individuals that are competing are the diff species
+
+  * Resources: food, air, shelter, sunlight, etc.
+
+  * Competitive exclusion
+    * Better adapted species wins when two different species in a region compete
+    * Gause’s principle: no two species can occupy the same niche at the same time; the species that is less fit will relocate, die out, or occupy a smaller niche
+    * Realized niche: smaller niche in the absence of competition
+    * Fundamental niche: niche with no competition
+
+  * Resource partitioning: different species use slightly different parts of the habitat but rely on the same resource
+
+===== Interspecies interaction =====
+
+  * Competition: see above
+
+  * Predation: one species feeds on another
+    * Drives changes in population size
+
+  * Symbiotic: close, prolonged association b/t 2+ different organisms of different species that may benefit each other
+    * Mutualism: both species benefit
+    * Commensalism: one organism benefits while the other is neither helped nor hurt
+    * Parasitism: one species is harmed and the other benefits
+
+====== Ecosystems ======
+
+  * Biomes: ecosys based on land
+    * Separated into biomes based on their climate (temp, precipitation)
+
+  * Aquatic life zones: ecosys based in aqueous env
+    * Categorized primarily by the salinity of their water (freshwater and saltwater ecosys fall into separate categories)
+
+  * Biomes blend into each other; they don’t have distinct boundaries
+    * Ecotones: transitional area where two ecosystems meet
+    * Ecozones: smaller regions within ecosystem that share similar physical features
+
+  * Law of tolerance
+    * Degree to which living organisms are capable of tolerating changes in their environment
+    * Living organisms exhibit a range of tolerance; individuals within a population tolerate changes to their environment differently
+    * Basis of natural selection, drives evolution
+
+  * Law of minimum: living organisms will continue to live, consuming available materials until the supply of these materials is exhausted
+
+|Biome|Annual Rainfall, Soil Type|Major Vegetation|World Location|
+|Deciduous forest|70-25 cm; rich soil with high organic content|Hardwood trees|N America, Europe, AUS, E Asia|
+|Tropical rainforest|200-400 cm; poor quality soil|Tall trees with lower limbs, vines, epiphytes, plants adapted to low light intensity|S America, W AFR, SE Asia|
+|Grasslands|10-60 cm; rich soil|Sod-forming grasses|N American plains and prairies; RUS steppes; S AFR vels; Argentinean pampas|
+|Coniferous forest|20-60 cm; mostly in summer; soil is acidic due to vegetation|Coniferous trees|Northern N America; N Eurasia|
+|Tundra|Less than 25 cm; soil is permafrost|Herbaceous plants|Northern latitudes of N America, Europe, and RUS|
+|Chaparral|50-75 cm; mostly in winter; soil is shallow and infertile|Small trees with large hard leaves, spiny shrubs|W N America; Mediterranean regions|
+|Deserts|Less than 25 cm; soil has a coarse texture (ex. sandy)|Cactus, other low-water adapted plants|30° north and south of equator|
+
+====== Energy ======
+
+  * Limiting factor: factor that controls a population’s growth
+
+  * Energy that drives biogeochemical cycles (in the biosphere) comes primarily from: (1) the sun. (2) heat energy from the mantle and core of the earth
+
+  * Law of Conservation of Matter: matter can neither be created nor destroyed
+
+  * Net Primary Productivity (NPP): amount of energy plants pass on to the community of herbivores in an ecosystem
+    * NPP = GPP - respiration
+    * Units: kcal/m2/yr
+
+  * Gross Primary Productivity (GPP): amount of sugar that the plants produce in photosynthesis; rate at which the producers are converting solar energy to chemical energy
+
+====== Food chains/food webs ======
+
+===== Producers =====
+
+  * Aka autotrophs
+
+  * Organisms capable of converting radiant energy or chemical energy into carbohydrates
+
+  * Plants and algae → photosynthesis
+    * H20 + CO2 + solar eng → CH2O + O2
+
+  * Producers in non-oxygen environments make food through CHEMOSYNTHESIS
+    * Carried about specialized bacteria called chemotrophs (some found in hydrothermal vents depp in the ocean)
+    * O2 + H2S + O2 + eng → CH2O + S + O2
+
+===== Consumers =====
+
+  * Aka heterotrophs
+
+  * Organisms that obtain food energy from secondary sources by eating plant of animal matter
+
+  * Types of consumers
+    * Primary consumers: herbivores → consume only producers (plants and algae)
+    * Secondary consumers: consumes primary consumer
+    * Tertiary consumer: consumes secondary consumer
+    * Detritivores: consume nonliving organic matter (dead animals or fallen leaves)
+    * Decomposers: bacteria or fungi that absorb nutrients from nonliving organic matter such as plant material, wastes of living organisms, corpses → convert materials into inorganic forms
+
+===== Food chains =====
+
+  * 10% rule: only 10% of energy from one trophic level is passed to the next (most is lost as heat; used for metabolism, respiration, digestion, running away)
+
+  * Bioaccumulation: accumulation of a substance in the tissues of a living organism
+
+  * Food webs represent feeding relationships in ecosystems more realistically
+
+====== Biogeochemical cycles ======
+
+  * Involves living organisms, geological formation, and chemical substances
+
+  * Reservoir: place where a large quantity of a nutrient sits for a long period of time (ex. water cycle: ocean)
+
+  * Exchange pool: site where nutrient sits for only a short period of time; opposite of reservoir (ex. water cycle: cloud)
+
+  * Residency time: amount of time a nutrient spends in a reservoir/exchange pool (ex. water cycle: cloud- few days; ocean- thousands of years)
+
+====== Water cycle ======
+
+  * Precipitation: water exists in atmo as gas → condenses from gaseous state to form liquid/solid → dense enough to fall to the earth bc of gravity
+    * Travel below ground to become GROUNDWATER
+    * Travel across land’s surface as RUNOFF and enter a drainage sys (streams/rivers) → deposit into body of water (lakes/oceans)
+
+  * Reservoirs: lake, ocean, snow, ice
+
+  * Water is cycled through LIVING SYSTEMS
+    * Ex. plants consume water (and CO2) from photosynthesis → produce carbohydrates
+    * Exchange pools: bc all living organisms are primarily made up of water → plants are exchange pools for water
+
+  * Evaporation: water returned to atmosphere from earth’s surface and living organisms
+    * Animals RESPIRE and release water vapor and additional gases to the atmosphere
+    * Plants TRANSPIRE and release large amounts of water into the air
+    * Incredibly large amounts of water continually evaporate from surfaces of lakes and oceans
+
+====== Carbon cycle ======
+
+  * Respiration: animals and plants breathe in oxygen and give off CO2
+
+  * Photosynthesis: plants take in CO2, H2o, and energy from the sun to produce carbohydrates
+
+  * Exchange pools: living things are carbon exchange pools
+
+  * Decay of organic matter → atmosphere
+    * Plants are eaten by animal consumers → carbon locked in the plant carbohydrates passes to other organisms (continues food chain) → organisms die → bodies decomposed through bacteria and fungi in soil → release CO2 into atmosphere
+
+  * Fossil fuels
+    * Bodies of organisms buried → subjected to conditions of extreme heat and extreme pressure → organic matter eventually becomes oil, coal, gas (fossil fuels)
+    * When fossil fuels burned/combusted, CO2 is released into the atmosphere
+
+  * Volcanic action → atmosphere
+
+  * Reservoirs of carbon
+    * Oceans: CO2 is very soluble in water
+    * Rockes: carbonate rocks contain CO2 in the form of calcium carbonate
+    * Fossil fuels
+
+  * [[https://drive.google.com/file/d/1yEJ37eRG4BNtj-iymzXLWChxHwk7pAfW/view|Carbon Cycle Valera]]
+
+====== Nitrogen cycle ======
+
+  * Atmosphere is made up of 78% N2 and 21% O2
+
+  * Most abundant element in the atmosphere
+    * However, atmospheric nitrogen is not in the form that can be used directly by most organisms
+
+  * Steps
+    * (1) nitrogen fixation
+      * Nitrogen must be in the form of ammonia (NH3) or nitrates (NO3) to be used by living organisms
+      * Nitrogen can be fixed into NH3 or NO3 by lightning storms or certain soil bacteria
+      * Fixing: process that allows nitrogen to be made biologically available (like how photosynthesis makes carbon biologically available)
+      * Ex. Rhizobium: important nitrogen fixing soil bacteria
+      * Possible solution? Insert genes for nitrogen fixation into crop plants (ex. corn); decramount of fertilizer
+    * (2) nitrification
+      * Soil bacteria converts ammonium (NH4+) into one of the forms that can be used by plants, nitrate (NO3)
+    * (3) assimilation
+      * Plants absorb ammonium (NH3), ammonia ions (NH4+), and nitrate ions (NO3) through their roots
+      * Heterotrophs obtain nitrogen when they consume plants’ proteins and nucleic acids
+    * (4) ammonification
+      * Decomposing bacteria convert dead organisms and other waste to ammonia (NH3) or ammonium ions (NH4+)
+      * Reused by plants
+    * (5) denitrification
+      * Specialized bacteria (mostly anaerobic bacteria) convert ammonia back into nitrites and nitrates and then into nitrogen gas (N2) and nitrous oxide gas (N2O)
+      * Gases then rise to the atmosphere
+
+====== Phosphorus cycle ======
+
+  * Phosphorus doesn't exist in the atmosphere outside of dust particles
+
+  * Necessary for living organisms → major component of nucleic acids and other biological molecules
+
+  * Found in soil, rock, sediments
+    * Phosphorus is released from these rock forms through chemical weathering
+    * Usually released in the form of phosphate (PO43-) → soluble and can be absorbed from soil by plants
+
+  * Phosphorus is a limiting factor for plant growth
+    * Plants that have little phosphorus are stunted
+    * Lots of farmers like using phosphate fertilizers to help aid growth
+
+  * Phosphates that enter the water table and travel to the oceans can eventually be incorporated into rocks in the ocean floor
+    * Through geological process, ocean mixing, and upwelling → rocks from the seafloor rise up so it can once again enter the TERRESTRIAL CYCLE
+
+  * Humans
+    * Mining phosphorus rich rocks in order to produce fertilizers
+    * Fertilizes easily leach into groundwater and flow into aquatic ecosystems → eutrophication
+
+  * Eutrophication: body of water receives excess nutrients
+    * Abundance of nutrients causes overgrowth of algae and depletes the water of oxygen
+
+====== Sulfur cycle ======
+
+  * Sulfur makes up proteins and vitamins → organisms need sulfur in diets
+
+  * Plants absorb sulfur when dissolved in water → take it up their roots when it’s dissolved in groundwater
+
+  * Animals obtain sulfur by consuming plants
+
+  * Sulfur is in rocks, salts, buried deep in the ocean in oceanic sediments, atmosphere
+
+  * Enters atmosphere: volcanic eruptions, certain bacterial functions, decay of organisms
+    * Humans: industrial process that produce sulfur dioxide (SO2) and hydrogen sulfide (H2S) gases
+
+====== Freshwater ======
+
+  * Water that contains minimal quantities of dissolved salts (esp. sodium chloride NaCl)
+
+  * All freshwater comes from precipitation of atmospheric water vapor → reaches inland lakes, rivers, and groundwater bodies directly (or after melting of snow or ice)
+
+  * Water that doesn’t move through soil to become groundwater moves along the earth’s surface via gravity and forms small streams → forms larger streams → streams continues to increase to a river → river flows into ocean
+    * Watershed: land area that drains into a particular stream
+    * Streams carry sediment and other dissolved substances (small amounts of O2); turbulent waters are esp. laden with dissolved O2 and CO2 such as those found at the source of a stream
+    * Rule: the more turbulent the water, the more dissolved gases it will contain
+
+  * Moving water doesn't move in a straight line, it follows the lowest topographical path and the path of the least resistance
+
+  * Deltas: landform where rivers meet the ocean
+    * Rivers drop most of their sedimentary load as they meet the ocean because their velocity decreases significantly at deltas
+
+  * Estuaries: sites where the arm of the sea extends inland to meet the mouth of a river
+    * Rich with many different types of plant and animal species
+    * Freshwater in these areas usually have a high concentration of nutrients and sediments
+    * Water is quite shallow, fairly warm, biotic factors receive sig amounts of sunlight
+    * Subcategories: salt water marshes, mangrove forests, inlets, bays, river mouths
+
+  * Wetlands: ecologically diverse ecosystems along the shores of fresh bodies of waters
+    * Types: marshes, swamps, bogs, prairie potholes, flood plains
+
+====== Vertical stratification ======
+
+  * In all natural bodies of water, there exist layers of water that vary significantly in their temperature, O2 content, nutrient levels (affected by season and other disturbances)
+
+  * Epilimnion: uppermost layer, thus most oxygenated
+
+  * Hypolimnion: lower, colder and denser layer
+
+  * Thermocline: demarcation line between epilimnion and hypolimnion where the temperature shifts dramatically
+
+  * Zones
+    * Littoral zone
+      * Very shallow water at the shoreline
+      * Plants and animals that reside here receive abundant sunlight
+      * Rooted plants stop growing at the end of this zone
+    * Limnetic zone
+      * Surface of open water
+      * Extends to the depth that sunlight can penetrate
+      * Organisms here are short-lived and rely on sunlight to carry out photosynthesis
+    * Profundal zone
+      * Water is too deep for sunlight to penetrate
+      * Aphotic zone (a zone that light cannot reach)
+      * Photosynthesizing plants and animals can’t live here
+    * Benthic zone
+      * Deepest layer in body of water
+      * Very low temperatures and low oxygen levels
+
+====== Barrier islands ======
+
+  * Certain landforms that lie off coastal shores
+
+  * Created by buildup of deposited sediments → boundaries constantly shifting as water moves around them
+
+  * Usually the first hit by offshore storms → important buffers for the shoreline behind them
+
+  * Coral reef
+    * Barrier island in tropical waters
+    * Not formed from deposited sediments, but from community of living things
+    * Cnidarians that secrete a hard calciferous shell create coral reefs
+      * Shells provide home and shelter for many diverse species
+      * Extremely delicate → very vulnerable to physical stresses, changes in light intensity, water temperature, ocean depth, ocean pH
+
+  * [[https://drive.google.com/file/d/1CGTFmuE8T-O4hOKARbD_oDHzZDmDWPPg/view|Barrier islands good valera]]
+
+====== Oceans ======
+
+  * Zones
+    * Coastal zone
+      * Ocean water closest to land
+      * Between shore and end of continental shelf
+    * Euphotic zone
+      * Photic, upper layers of water
+      * Warmest region of ocean water → highest levels of dissolved oxygen
+    * Bathyal zone
+      * Middle region
+      * Zone receives insufficient light for photosynthesis
+      * Colder than euphotic zone
+    * Abyssal zone
+      * Deepest region of ocean
+      * Extremely cold temperatures and very low levels of dissolved oxygen
+      * Very high levels of nutrients (decaying plant and animal matter sinds down from zones above)
+
+  * Upwellings
+    * Freshwater and saltwater bodies experience a seasonal movement of water from the cold and nutrient rich bottom to the surface
+    * Provides new nutrient supply for the growth of living organisms in the photic regions
+    * Followed by an immediate exponential growth in the population of organisms in these zones (esp. single cell algae) which may form algal blooms
+    * Algae can produce toxins that may kill fish and poison the bed of filter feeders (ex. oysters and mussels)
+      * Ex. red tide: toxic algal bloom caused by prolif of dinoflagellates
+    * Water is DENSEST at 4℃
+      * In non-tropical regions of the earth after spring ice melt, water-surface temperature of lakes and ponds rise from 0℃ to 4℃ → dense surface water will sink to the bottom of the lake/pond → this displaces water at the bottom of the lake/pond to the surface → overturn brings oxygen to the bottom and nutrients to the top of the lake/pond and occurs during the spring and fall as ecosystem temperature changes from cold to warm (or the reverse)
+
+  * Ocean currents
+    * Plays a major role in modifying conditions around the earth that can affect where certain climates are located
+    * As the sun warms water near the equator, winds, salinity differences, and earth’s rotation sets ocean water in motion
+      * Ex. northern hemisphere: gulf stream carries sun-warmed water along the East Coast of the US as far as UK → warm water displaces the colder denser water in the polar regions → moves south to be rewarmed by the equatorial sun
+    * Ocean conveyor belt moves cold water in the depths of the Pacific Ocean while creating major upwellings in other areas of the Pacific
+
+====== Unit 2: The Living World - BioD ======
+
+
+====== Biodiversity ======
+
+  * Number and variety of organisms found within a specified geographic region or ecosystem
+
+  * Variability among living organisms (within/between species/ecosystems)
+
+  * bioD in all forms is the result of evolution
+
+====== Evolution ======
+
+  * Change in a population's genetic composition overtime
+    * Phylogenetic trees model evolution
+
+  * Speciation: how new species are formed
+
+  * Species: group of organisms that are capable of breeding with one another
+
+  * Evolutionary fitness: individual organisms better adapted for their environment live and reproduce → their genes are part of their population’s next generation
+
+  * Natural selection: habitat selects certain organisms to live and reproduce and others die
+    * Beneficial characteristics that can be inherited are passed down to the next generation
+    * Unfavorable characteristics that can be inherited become less common in population
+    * Nat selection acts upon whole pop, not on an individual organism
+    * Gene pool changes
+
+  * Genetic drift: accumulation of changes in the frequency of alleles (versions of a gene) over time due to sampling errors (changes that occur as a result of random chance)
+
+  * Microevolution: when a population displays small scale changes over a relatively short period of time
+
+  * Macroevolution: large-scale patterns of evolution within biological organisms over a long period of time
+
+  * Extinction: species can’t adapt quickly enough tot env change and all members of the species die
+    * Biological extinction: true extermination of a species → there are no individuals of this species left on the planet
+    * Ecological extinction: there are so few individuals of a species that they can no longer perform its ecological function
+    * Commercial/economic extincion: few individuals exist but effort needed to locate and harvest them is not worth the expense
+
+====== Ecosystem change ======
+
+  * Keystone species: single species that maintains biotic balance in a community
+    * Presence contributes to ecosystems diversity
+    * Extinction of keystone species would lead to extinction of other forms of life
+
+  * Indicator species: used as standard to eval health of an ecosystem
+    * More sensitive to biological changes within their ecosystems than other species → used as an early warning sys to detect dangerous changes to a community
+
+  * Indegenious species: originate and live or occur naturally in an area/env
+
+  * Invasive species: introduced species
+
+====== Ecological succession ======
+
+  * Primary succession
+    * If ecological succession begins in a virtually lifeless area
+
+  * Secondary succession
+    * Ecological succession that takes place where an existing community has been cleared btu the soil has been left intact
+    * Organisms in the first stages of either primary/secondary are pioneer species (usually have wide ranges of env tolerance)
+
+  * Climax community
+    * Final stage of succession
+    * Dynamic balance b/t a/biotic components of the community
+
+  * Ex. deciduous forest ecological succession
+    * Bare rock
+    * Lichen, algae, mosses, bacteria (break down rock and leave organic debris which forms soil)
+    * Grasses (add organic matter to soil and anchor it in place)
+    * Small herbaceous plants (continues to add organic matter to soil)
+    * Small bushes (add shelter and shade for other plants)
+    * Conifers (create additional habitats)
+    * Short-lived hardwoods such as dogwood/red maple (tolerates shade of conifers but are short lived and vuln to damage)
+    * Long-lived hardwoods (more specialized, hardier hardwoods such as oak and hickory)
+
+====== Island biogeography ======
+
+  * Habitat fragmentation: when the size of an organism's natural habitat is reduced
+
+  * Ecotones: where ecosystems meet at wide and overlapping boundaries
+    * Edge effect: at ecotones, greater species diversity and biological density than there is in the heart of ecological communities
+
+  * Theory of island biogeography
+    * Number of species found on an undisturbed island is determined by two factors: IMMIGRAITON and EXTINCTION
+
+====== Loss of Biodiversity (Humans) ======
+
+|Activity|Explanation|Solution|
+|Clearing land for construction, homes, roads|• Reduces habitat for many species\\ • Results in habitat fragmentation\\ |• Cluster development\\ • Smart growth planning\\ • Develop urban boundaries\\ • Habitat conservation areas\\ |
+|Logging, clear cutting, deforestation|• Reduces habitat for many species\\ • Results in habitat fragmentation\\ |• Replant trees\\ • Selective cutting\\ |
+|Agriculture\\ • Monoculture/GMOs\\ • Clearing forests to create pastureland\\ • Pesticide use\\ |• Eliminates native species; decreases genetic variation\\ • Reduces habitat for many species\\ • Eliminates native species and beneficial organisms\\ |• Encourage polyculture, agroforestry, intercropping\\ • Require GMO crops to be sterile\\ • Create wildlife, habitat corridors\\ • Grow shade-tolerant crops\\ • Implement IPM techniques, biological pest controls\\ |
+|Overfishing, hunting, overhunting, poaching|• Reduces keystone species\\ • Reduces top predators\\ • Depletes endangered species\\ |• Regulate activities\\ • Establish quotas\\ • Enforce existing laws (ESA)\\ • Ban trade (CITES)\\ |
+|Water contamination by\\ • Excess fertilizer\\ • Runoff from feedlots\\ • Runoff from construction\\ • Untreated sewage\\ |• Overloads sediments and nutrients\\ • Decreases dissolved O2 (only certain species can survive)\\ |• Regulate non-point sources of water pollution (ex. Buffer zones, swales, containment ponds, stormwater treatment areas)\\ • Secondary or tertiary treatment\\ |
+|Burning of fossil fuels|• Climate change: death of coral reefs, loss of reef habitat, increases sea level with resulting loss of coastal habitat\\ • Acid rain: increases acidity of freshwater systems (only certain species can survive)\\ |• Climate change: implement the kyoto protocol, carbon sequestration, carbon cap and trade, carbon tax, switch to renewable energy sources\\ • Acid rain: require scrubbers on coal burning power plants, switch to renewable energy sources\\ |
+|Introduction of invasive species|• displaces native species|• Checkpoints for agricultural inspections\\ • Tighter enforcement on import of horticultural or exotic species\\ • Edu regarding strategies to prevent invasives\\ |
+|Dams/hydroelectric plants|• Fragments habitat|• Steps to allow fish migration|
+|Surface mining|• Destroys habitat|• Enforce surface mining and reclamation act|
+
+====== Threatened and endangered species ======
+
+  * Threatened: number of individuals in a species is quite low
+
+  * Endangered: species in imminent danger of going extinct
+    * Most endangered: require large ranges of habitat to survive, hae low reproductive rates, have specialized feeding habits, low pop numbers
+
+  * Background extinction rate: natural rate of extinction
+
+  * bioD hot spot: highly diverse region that faces severe threats and has already lost 70% of its original vegetation
+
+  * Humans
+    * Poverty and rapid pop growth cause ppl to use destructive practices (ex. Slash and burn farming destroys species’ habitats)
+    * Building roads and cities- habitats are fragmented and lost
+    * Invasive species, direct hunting, overexploitation
+
+  * Solutions
+    * Living sustainably and conserving resources → lower demand that destroy habitats
+    * Making it illegal to trade in specific organisms → not hunted or collected
+    * Zoos have captive breeding programs where endangered species are bred under human control until their pop are high enough to be reintroduced into the wild
+    * Conserver habitats by req that large tracts of land be set aside and protected from human activity → organisms can find their niche and survive without risk of human interference (ex. National parks, animal sanctuaries)
+
+  * Causes of extinction (HIPPCO)
+    * Habitat destruction/fragmentation
+    * Invasives
+    * Population
+    * Pollution
+    * Climate change
+    * Overharvesting
+
+|Date|Law|What It Did|
+|1972|Marine mammal Protection Act|Protected marine mammals from falling below their optimum sustainable pop levels|
+|1973|Endangered Species Act Program for the protection of threatened plants and animals and their habitats|Prohibited the commerce of those species considered to be endangered or threatened|
+|1973|Convention on International Trade in Endangered Species of Wild Flora and Fauna (CITES)|Bans capture, exportation, sale of endangered and threatened species|
+
+====== Unit 3: Populations ======
+
+
+====== Population description ======
+
+  * Population density: number of individuals of a population that inhabit a certain unit of land/water area
+
+  * Population dispersion: how individuals of a population are spaced within a region
+    * Random
+      * position of each individual is not determined/influenced by the other members of the population
+      * Relatively uncommon
+    * Clumping
+      * Most common dispersion pattern
+      * Individuals flock together (ex. avoid predation, migration groups)
+    * Uniform
+      * Uniformly spaced throughout their geographic region
+      * Often the result of competition for resources in an ecosystem
+
+====== Population growth ======
+
+  * Biotic potential: amount the population would grow it there were unlimited resources in its environment
+
+  * Carrying capacity (K): max pop size that can be sustainably supported by the available resources in the region
+
+  * Exponential growth
+    * Aka J curve
+    * Ex. bacteria grows exponentially
+
+  * Logistic growth
+    * Aka S curve
+    * Initial burst in population → growth rate generally drops → curve flattens into S
+
+  * Rule of 70
+    * Predict long term population growth rates
+    * The time it takes for a pop to double can be approx by dividing 70 by the current growth rate of the population
+
+  * rselected organisms
+    * Reproduce early in life
+    * High capacity for reproductive growth
+    * Ex. bacteria, algae, protozoa
+    * little/no care given to offspring → due to sheer numbers of offspring in the population, enough of the offspring will survive to enable the population to continue
+
+  * Kselected organisms
+    * Reproduce later in life, produce fewer offspring, devote sig time and energy to the nurturing of their offspring
+    * Imp to preserve as many members of the offspring as possible bc they produce so few
+    * Ex. humans, lions, cows
+
+  * Density dependent factors: changes population’s size based on density
+    * Ex increased predation (more members of the population to attract predators); competition for food or shelter; disease (spreads more rapidly in overcrowded pop); buildup of toxic materials
+
+  * Density independent factors: change pop size regardless of pop size
+    * Ex. fire, storms, earthquakes, natural disasters
+
+====== Population cycles ======
+
+  * Boom and bust cycle
+    * Common among rstrategists
+    * Rapid increase in the population and then an equally rapid drop off
+    * Rapid changes linked to predictable cycles in env (temp, nutrient availability)
+    * When conditions are good for growth, pop incr rapidly → when conditions worsened, umbers rapidly decr
+
+  * Predator-prey cycle
+    * Incr reproduction of prey means that predators have plenty of food, pop incr rapidly
+    * Next year, less prey means predator pop also decr
+    * Predator population rises after prey population does because the prey population has to have time to build up fairly high levels before the predators can find enough to eat
+    * When there is enough good, reproducing predators have enough energy to give birth and feed their offspring → predator pop incr
+
+====== Human populations ======
+
+  * Actual growth rate (%) = (birth rate - death rate) / 10
+    * Crude birth rate = number of live births per 1000 members of the pop in a year
+    * Crude death rate = number of live deaths per 1000 members of the pop in a year
+
+  * Emigration: movement of people out of a pop
+
+  * Immigration: movement of people into a pop
+
+  * Replacement birth rate: number of children a couple must have in order to replace themselves in a pop
+
+  * Factors that affect total fertility rates in a pop
+    * Availability of birth control
+    * Demand for children in the labor force
+    * Base level of edu for women
+    * Existence of public and/or private retirement sys
+    * Population religious beliefs, culture, traditions (for/against reproduction)
+
+  * Age structure pyramids
+    * 0-14: pre-reproductive
+      * Majority here: pop increase in size as time goes by
+    * 15-44: reproductive
+    * 45+: post-reproductive
+      * Majority here: pop size decreases in the future bc mot are incapable of reproducing
+
+  * Life expectancy
+
+|Factor|Incr Life Expectancy|
+|Incr access to HC|Fewer deaths from treatable diseases; prevention of early death by vaccines|
+|Improve food qual/quantity|Better health resulting in less malnut or fewer early deaths; decr in food borne diseases|
+|Incr access to clean water|Fewer water-borne and communicable diseases|
+|Fewer pregnancies|Fewer children = fewer maternal deaths|
+|Incr health-related edu|Better sanitation, less diseases transmission|
+
+  * Fertility rate
+
+|Factor|Decr Fertility Rate|
+|Incr female edu|Fewer children; later age at first reproduction; aware of choices for fam planning|
+|Econ opp for women|Fewer children; later age at first reproduction; less dependence on males|
+|Later marriage age for women|Fewer children; later age at first reproduction|
+|Incr access to fam planning|Fewer children; confidence that children will survive to adulthood|
+|Incr gender eq|Access to fam planning; financially less dependent on males; choice in reproduction|
+|Incr econ dev|Children no long asset → financial liability|
+|Social programs for elderly|Children no longer need to support old parents|
+
+====== Demographic transition model ======
+
+  * Used to predict population trends based on birth and death rates of pop
+
+  * Demographic transition: when pop moves from first state to the second state
+
+===== States =====
+
+  - Pre-industrial state
+    - Population exhibits slow rate of growth
+    - Harsh living conditions- high birth rate and high death rate
+    - Environmental resistance: conditions that slow a pop growth (ex. harsh living conditions)
+
+  - Transitional state
+    - Birth rates high
+    - Due to better good, water, and HC, death rates are lower
+    - Rapid pop growth
+
+  - Industrial state
+    - Pop growth state is still fairly high
+    - Birth rate drops → similar to death rate
+    - Many dev countries are currently in this state
+
+  - Postindustrial state
+    - Pop approaches and reaches a zero growth rate
+    - Pop can drop below zero growth rate (RUS, S AFR, JAP)
+
+====== Humans on earth ======
+
+===== Increase pop =====
+
+  * Improved nutrition, availability of clean water, newly implemented sys for sanitary waste disposal, better medical care
+
+  * Increase in food production
+    * Almost half of earth’s land surface is devoted to producing food for humans
+    * 12 % farms
+    * 11% forests planted by humans
+    * 26% grazing livestock
+    * Bad MPX: erosion, chemical residues
+
+  * Deficiency of housing or habitable areas for incr population
+    * Homeless
+    * Homes in completely undev areas (no water/elec; no stable durable housing)
+
+===== Resources =====
+
+  * Macronutrients: nutrients needed in large amounts (proteins, carbs, fat)
+
+  * Micronutrients: nutrients needed in smaller amounts (vitamins, iron, minerals)
+
+  * Hunger: insufficient calories taken in to replace those being expended
+
+  * Malnutrition: poor nutrition that results from an insufficient or poorly balanced diet (lack essential vitamins and other components)
+
+  * Undernourished: not receiving sufficient resources
+
+  * Urban sprawl: emigration of ppl out of the city and into suburbs
+    * Urban areas grow too large and become too dense → providing water to all citizens becomes difficult
+    * Strain on water supply, more ppl = more water use → newly crowded areas lead to water shortage → restrictions on water usage
+
+===== Sustainability =====
+
+  * Transportation
+    * Encouraged to use mass transit or carpools rather than drive separately (fewer cars decr air pollution from automobiles and results to less congestion)
+    * Green modes of transpo: bikes, moto scooters, electric bikes
+    * Larger cities: build subway systems (very expensive to dev; only cost eff when they’re enough ppl who will pay to use them)
+    * Large/small cities: city buses → less expensive than subways to create and maintain; contribute to road congestion but decr congestion by having more ppl per vehicle
+    * Rapid-rail/light rail sys: magnetic levitation → suspended above a track, train moves along by strong attractive and repulsive magnetic forces
+
+  * Cities
+    * Boulder, colorado
+      * Forward-thinking green policies
+      * Bike paths cover the city → cyclists move freely from one area of the comm to another
+      * Buses move around the city and in’n’out of denver and surrounding comm → ppl commute w/o using cars
+      * Strong recycling programs help decr amount of material added to landfills
+      * Open spaces that can be used by city pop for rec
+    * Curitiba, brazil
+      * Mass transport sys (bike paths, pedestrian walkways)
+      * Recycling programs, job training, HC, env edu provided for citizens
+    * Portland, oregan
+      * Statewide zoning policies and restrictive growth policies for urban areas
+      * City developers encouraged to invest in est neighborhoods rather than dev undisturbed areas
+      * Est Metro (regional body that deals with land use, city planning, and dev of natural areas)
+      * Light rail sys developed
+
+  * Ecological footprint
+    * Env impact of a pop
+    * Amount of earth’s surface that's necessary to supply the needs of and dispose of the waste of a particular population
+    * Affluent pop have a much higher eco footprint than non-affluent ones
+    * I = P • A • T
+      * I = total mpx
+      * P = pop size
+      * A = affluence
+      * T = level of tech
+
+====== Unit 4: Earth Systems & Resources ======
+
+====== Tectonic plates ======
+
+  * Lithosphere floats atop the asthenosphere and can move and break into large pieces
+
+===== Plate boundaries =====
+
+  * Convergent
+    * Two plates pushed toward each other
+    * One of the plates will be pushed deep into the mantle
+    * Subduction occurs → results in uplifting plates to form large mountain chains
+
+  * Divergent
+    * Two plates moving away from each other
+    * Causes a gap that can be filled with magma → cools to form a new crust
+
+  * Transform fault
+    * Two plates slide from side to side relative to each other
+
+===== Volcanoes =====
+
+  * Mountains formed by magma from earth’s interiors
+
+  * Dormant volcanoes: not been known to erupt; it’s thought that extinct volcanoes will ever erupt again
+
+  * Active volcanoes: currently erupting, have erupted within recorded history
+    * Rift volcanoes: plates move away from each other; when it erupts, new ocean floor is formed as magma fills in where the plates have separated.
+    * Subduction volcanoes: plates collide and slide over each other
+    * Hot spot volcanoes: don't form at the margin of plates. Instead, they’re found over “hot spots” (areas where magma can rise to the surface through plates)
+
+===== Earthquakes =====
+
+  * Result of vibrations, often due to sudden plate movements, deep in the earth that release energy
+    * Two plates slide past one another at a transform boundary
+
+  * Focus: location at which the earthquake begins within earth
+
+  * Epicenter: initial surface location of earthquake
+
+  * Seismograph: measures size (magnitude) of earthquake
+    * [1935] devised y charles richter
+    * Richter scale measures amplitude of highest S-wave of an earthquake
+    * Each increase in Richter number corresponds to an increase of approximately 33x the energy of the previous number
+
+====== Soil ======
+
+===== General notes =====
+
+  * Hundreds of years old material that contains many living organisms
+
+  * Around half of the volume of soil is made up of mineral materials (5% is organic matter - both living and dead)
+
+  * Pores between the grains of minerals in soil are filled with air or water → so…. The size of particles that make up the soil determines the size of the pores between soil particles
+
+  * Must have enough arable (suitable for plant growth) soil to meet our agricultural needs
+    * Loamy soil is best for plant growth
+    * Most fertile soils aggregates (clumps) because it’s bound together with organic material
+
+  * Soil fertility: ability to provide essential nutrients to plants such as nitrogen (N), potassium, (K), and phosphorus (P)
+
+===== Types =====
+
+  * Clay (less than 0.002 mm in diameter)
+    * Easily adheres to each other
+    * There is little room between particles for water → clay soil is compact
+
+  * Silt (0.002 - 0.05 mm)
+
+  * Sand (more than 0.05mm)
+    * Too large to easily stick together
+    * Sandy soils have larger pores → hold more water
+
+===== Acidity =====
+
+  * Acidity: level of acid in substance
+
+  * Alkalinity: capacity of water to resist changes in pH
+
+  * pH of substance ranges from 0-14 (measure of hydrogen ion concentration)
+
+  * Most soils are between 4-8 pH range
+    * Most soils range from being neutral to slightly acidic based on pH levels
+
+  * Importance of pH
+    * Affects solubility of nutrients → determines the extent to which nutrients are available for absorption by plant roots (if it’s too acidic or too basic, certain soil nutrients can not be used by regional plants)
+
+  * When the pH of soil gets more acidic, ions of heavy metals like mercury (Hg) or aluminum (Al) can leach into groundwater
+    * Ions travel to streams and rivers→ harms both plants and aquatic life
+    * Ex. aluminum ions can damage gills of fish and cause suffocation
+
+===== Weathering =====
+
+  * Physical/mechanical weathering:
+    * Process that breaks rock down into smaller pieces without changing the chemistry of the rock
+    * Typically wind and water
+
+  * Chemical weathering
+    * As a result of chemical interactions between water/other atmospheric gases and the bedrock of a region
+    * Ex. rust → forms when iron and other metallic elements come in contact with water
+
+  * Biological weathering
+    * As a result of the activities of living organisms
+    * Ex. tree roots growing and expanding thru rocks
+
+===== Soil layers/horizons =====
+
+  * O horizon
+    * Uppermost horizon
+    * Mostly made up of organic material including waste from organisms, bodies of decomposing organisms, live organisms
+    * Dark crumbly material from the decomposition of organic material forms humus
+      * Humus is rich in organic matter
+
+  * A horizon
+    * Made up of weathered rock and some organic material that has traveled down from the O layer
+    * Called “topsoil”
+    * Zone of leaching
+    * Important role in plant growth
+
+  * B horizon
+    * Receives all minerals that are leached out of A horizon as well as organic materials that are washed down from the topsoil above
+    * Zone of illuviation
+      * Movement of dissolved material from higher soil layers to lower soil layers due to the downward movement of water (caused by gravity)
+
+  * C horizon
+    * Bottommost layer of soil
+    * Composed of larger pieces of rock that have not undergone as much weathering
+
+  * R horizon
+    * “Bedrock”
+    * Lies below all other layers of soil
+
+===== Monoculture (humans) =====
+
+  * Repeated plowing breaks down soil aggregates
+    * Leaves “plow pan”/”hard pan” → hard, unfertile soil
+
+  * Monoculture: planting of just one type of crop in a large area (modern times)
+    * Over history, significant decrease in genetic diversity of crop species has occurred
+    * Lack of genetic variation makes crops more susceptible to pests and diseases
+    * Consistent planting of one crop in an area eventually leaches the soil in that area of the specific nutrients that the plant needs in order to grow
+
+  * SOLUTION: crop rotation
+    * Different crops are planted in the area in each growing season
+
+  * Reliance on large machinery damages soil
+    * Agriculture is a huge consumer of energy
+    * Consumed energy is wasted in the production of pesticides and fertilizers and fossil fuels to run farm machinery
+
+  * Industrial revolution
+    * Huge increase in worldwide ag productivity because of the mechanization of farming
+    * Known as the GREEN REVOLUTION → bad effects
+    * Ex. chemical pesticides resulted in new pesticide-resistant insects → SOLUTION: genetically modified plants
+    * Ex. increase in irrigation worldwide
+      * Over irrigated soils undergo salinization
+      * Soil becomes water-logged when it dries out → salt forms a layer on its surface → land degradation
+      * SOLUTION: drip irrigation- allots an area only as much water necessary and delivers water directly to roots
+
+===== Soil erosion =====
+
+  * Small rock fragments that result from weathering might be moved to new locations thru erosion
+
+  * Bare soil (no plants) is more susceptible to erosion than soil that’s covered with plants
+
+  * Erosion is a continual process (constant movement of water and wind on Earth’s surface)
+
+  * Bad
+    * Removes valuable topsoil
+    * Deposits soil in undesirable places
+    * Eroded topsoil ends up in bodies of water
+      * Farmers need healthy soil for planting
+      * People rely on bodies of water that are uncontaminated with soil runoff
+
+  * Causes
+    * Logging & slash-and-burn agriculture → the removal of plants in an area makes the soil much more susceptible to agents of erosion
+    * Over cultivation of ag fields, overgrazing, urbanization, and deforestation → incr levels of erosion
+
+Soil conservation
+
+  * Use animal waste (manure), compost, and residue of plants to increase the amount of organic matter in the soil
+
+  * Practice organic agriculture
+    * Utilize compost, manue, crop rotation, non-chemical methods to manage soil fertility and pest control
+    * Limit or do not use chemical fertilizers, pesticides, GMOs
+
+  * Modify tillage practices
+    * Decrease breakup of soil and erosion
+    * Ex. implement contour plowing, strip planting
+
+  * Use trees and other wind barriers to reduce the force of wind
+
+===== Soil laws =====
+
+  * [1977] Soil and Water Conservation Act
+    * Aid landowners and users
+    * Sets up conditions to continue evaluating conditions of US soil, water, other related resources
+
+  * [1985] Food Security Act (aka “Swampbuster”)
+    * Discouraged the conversion of wetlands to non-wetlands
+    * 1990 fed legis denied federal farm supplements to those who converted wetlands to agriculture
+    * Provided restoration of benefits to those who converted lands to wetlands
+
+====== Atmosphere ======
+
+===== General notes =====
+
+  * Layer of gases held close to earth by force of gravity
+
+===== Troposphere =====
+
+  * 10-20km (5-10 mi)
+
+  * Lies closest to the earth
+
+  * Where all of the weather that we experience takes place
+
+  * Contains the majority of atmospheric water vapor and clouds
+
+  * Gradually becomes colder with an increase in altitude (6.5℃/km)
+
+  * Contains certain gases called greenhouse gases
+    * Important: H2O and CO2
+    * Greenhouse gases in troposphere intercept and absorb a lot of this radiation
+    * As the sun rays strike the earth, some of the solar radiation is reflected back into space
+    * However, GHG in the troposphere intercept and absorb this radiation
+
+  * Between the troposphere is the **TROPOPAUSE**
+    * Acts as a buffer between the troposphere and stratosphere
+    * Atmospheric temperature no longer decreases with altitude; temperature increases with altitude
+
+===== Stratosphere =====
+
+  * 20-50km
+
+  * Sits on top of tropopause
+
+  * Unlike troposphere, its gases are not very well-mixed and the temperature in the stratosphere increases as the distance from earth increases
+    * This warming effect is because of a thin band of ozone (O3) that exists in this layer
+    * Ozone traps the high energy radiation of the sun, holding some of the heat and protecting the troposphere and the earth's surface from this radiation
+
+===== Mesosphere =====
+
+  * 50-80km
+
+  * Meteors usually burn up here
+
+===== Thermosphere =====
+
+  * 80-110km
+
+  * Thinnest gas layer
+
+  * Where auroras take place
+
+  * Ionization takes place in this region
+    * Absorbs most of the energetic charged particles such as protons and electrons (solar wind) from the sun
+
+  * Reflects radio waves → makes long distance radio communication possible
+
+====== Climate ======
+
+===== General notes =====
+
+  * Weather: day-to-day properties such as wind speed and direction, temperature, amount of sunlight, pressure, and humidity
+
+  * Climate: patterns that are constant over many years (30+ years)
+    * Avg temperature and avg precipitation amounts important to describe climate
+    * Weather and climate of any given area is the result of the sun unequally warming the earth and the gases above it as well as the rotation of the earth
+
+  * Meteorologists: scientists who study weather and climate
+
+===== Air circulation =====
+
+  * Motion of air around the globe is a result of solar heating, the rotation of earth, and physical properties of air, water, and land
+
+  * Three major reasons that earth is unevenly heated
+    * More of the sun’s rays strike the earth at the equator in each unit of surface area than strike the poles in the same unit area
+    * The tilt of earth’s axis points regions toward or away from the sun. when pointed toward the sun those areas receive more direct or intense light than when pointed away. This causes the seasons.
+    * Earth’s surface at the equator is moving faster than the poles. This changes the motion of air into major prevailing winds, belts of air that distribute heat and moisture unevenly. Winds moving north from the equator in the northern hemisphere are deflected to the right or east, and winds moving south from the equator in the southern hemisphere are deflected to the left or east. This deflection pattern is known as the coriolis effect.
+
+===== Convection currents =====
+
+  * solar energy warms earth’s surface → heat transferred to atmosphere by radiation heating → warmed gases expand, become less dense, and rise creating vertical currents called convection currents
+
+  * Horizontal airflow: warm currents hold lots of moisture compared to surrounding air → large masses of warm moist air rise → cool air flows along earth’s surface into the area where the warm air was located → flowing air, known as horizontal airflow, is one way surface winds are created
+
+  * Dew point
+    * Warm moist air rises into the cooler atmosphere and colls to the dew point
+    * Temperature at which water vapor condense into liquid water
+    * Condensation creates clouds
+      * If condensation continues and the drops get bigger, they can no longer be help up by the convection in the earth’s atmosphere and they fall as precipitation (frozen/solid)
+      * The cold air is nor denser than the surrounding air
+      * This air mass sinks to the earth's surface where it is warmed and gathers more moisture
+    * Starts the convection cell rotation again
+
+===== Hadley cell =====
+
+  * Convection cell accounts for land and sea breezes, on global scale, these are hadley cells
+
+  * Large hadley cell starts its cycle over the equator → warm moist air evaporates and rises into the atmosphere (precipitation in the region near the equator is one cause of abundant equatorial rainforests) → cool dry air descends about 30 degrees North and South of the equator (forming belts of deserts seen around the earth at those latitudes)
+
+====== Weather events ======
+
+===== Monsoons =====
+
+  * Seasonal winds usually accompanied by very heavy rainfall
+
+  * Cause: land heats up and cools down more quickly than water does → hot air rises from the heated land and a low pressure system is created → rising air is quickly replaced by cooler moist air that blows in from over the ocean → as this air rises, it cools → the moistures it carries is released in a steady seasonal rainfall
+    * This process happens in reverse in the dry season → masses of air that have cooled over land blow out over the ocean
+
+  * Primarily occur in coastal areas
+
+  * Small scale: effect seen on shores of large lakes or bays
+    * DAYTIME: land warms faster that does the water → air mass over land rises → air from over the lake moves in to replace it → creates breeze
+    * NIGHT: reverse- land cools more quickly than the water → air over the lake rises → air mass from the land moves out over the lake to replace rising air → creates breeze
+
+  * Rain shadow effect: air mass encounters mountain → the air will be forced to rise → air mass rises and cools → water precipitates on the ocean side of the mountain → by the time air mass reaches the opposite side of the mountain, it will basically have no moisture
+    * Causes rapid growth of the olympic rainforest on the washington state coast (receives 5m of rain/yr; leeward side receives ~50cm rain/yr)
+
+===== Tropical storms =====
+
+  * Trade winds blow over very warm water → air warms and forms intense, isolated, low-pressure system & picks up more water vapor from the ocean surface → wind circles around the isolated low pressure air area (counter-clockwise in the northern hemisphere and clockwise in the southern hemisphere == cornelius effect)
+
+  * Low pressure system continues to move over warm water → increases in strength and wind speed
+
+===== Hurricanes =====
+
+  * Winds with speeds in excess of 130 km/hr
+
+  * Rotating winds of hurricane remove water vapor from the ocean's surface → heat released as water vapor condenses
+
+  * Added heat energy continues to contribute to the increase in wind speed (some have winds traveling at speeds of ~400 km/hr)
+    * A major hurricane contains more energy than that released during a nuclear blast, but since the force is released more slowly, the damage is generally less concentrated
+
+  * Called typhoons or cyclones when they occur in the pacific ocean
+
+====== ENSO events ======
+
+===== El Niño =====
+
+  * Climate variation that takes place in the TROPICAL PACIFIC once about every 3-7 years and it lasts for about 1 year
+
+  * Under NORMAL weather conditions, trade winds move the warm surface waters of the Pacific away from the west coast of Central/South America ⇒ upwelling
+    * Cold ocean water that lies under the displaced water moves to the surface (causes thermocline to rise)
+    * Brings nutrients with it and keeps temperature of coastal water relatively cool
+
+  * DURING El Niño
+    * Normal trade winds are weakened or reversed because of a reversal of the high and low pressure regions on either side of the TROPICAL PACIFIC
+      * Reversal called southern oscillation
+    * Without these regulate trade winds off the central/south american coast, upwelling slows or stops
+      * Water off the coast becomes warmer and contains fewer nutrients
+      * Offshore fish populations of certain coastal areas decline → bad for econ (ex. Peru relies heavily on fishing)
+    * Northern US and Canada: warmer winters and less intense hurricane season
+    * Eastern US; typically dry regions of Peru, Ecuador: higher than average rainfall
+    * Philippines, Indonesia, AUS: drier than normal
+
+===== La Niño =====
+
+  * Reverse of el niño; caused by coriolis effect
+
+  * Air moves toward the equator to replace rising hot air → moving air deflects to the west and helps move the surface water → allows upwelling
+
+  * DURING La Niña: surface waters of ocean surrounding central/south america are colder than normal
+
+====== Seasons ======
+
+  * Caused by motion of earth around sun and Earth’s axis tilt (23.5°)
+
+  * When earth is in the part of its orbit where the NORTHERN HEMISPHERE is tilted toward the sun, the northern half of the planet receives more direct sunlight for longer periods of time each day than does the southern hemisphere.
+
+  * When the NORTHERN HEMISPHERE is experiencing summer, the SOUTHERN HEMISPHERE is experiencing winter
+
+  * Bc of the earth’s tilt, the sun rises and sets just once a year at the NORTH and SOUTH POLES
+    * ~6 months of the year are daytime
+    * Other ~6 months of the year are dark (nighttime)
+
+====== Wind ======
+
+===== General notes =====
+
+  * Air that’s moving as a result of the unequal heating of the earth’s atmosphere
+
+  * Part of the earth’s circulatory system; moves heat, moisture, soil, pollution around the planet
+
+  * Between wind belts mentioned below, air movement is less predictable, and often no wind blows at all for days
+
+===== Trade winds =====
+
+  * Able to quickly propel trading ships across the ocean
+
+  * Trade winds that blow b/t 30° latitude and the equator are steady and strong; around 11-13 mph
+
+  * Types
+    * Northeast trade winds
+      * Northern hemisphere
+      * Trade winds that blow from the northeast
+    * Southeast trade winds
+      * Southern hemisphere
+      * Trade winds that blow from the southeast
+
+===== Westerly =====
+
+  * Northern hemisphere: travels south and west (30°-60°)
+
+  * Southern hemisphere: travels north and west (30°-60°)
+
+  * Ferrel cell
+    * Movement of air that accounts for westerlies
+    * Reverse of hadley cell
+    * Another result of coriolis effect
+
+===== Polar easterlies =====
+
+  * Formed by similar forces as westerlies
+
+  * Winds between latitudes 60° and the NORTH POLE blow from NORTH and EAST
+
+  * Winds between 60° and the SOUTH POLE blow from SOUTH and EAST
+
+===== Horse latitudes =====
+
+  * Aka subtropical high
+
+  * Between 30°-35° NORTH and 30°-35° SOUTH of the equator
+
+  * Region of subsiding dry air and high pressure results in very weak winds
+
+  * Ships relying on wind were unable to sail in these areas
+
+===== Doldrums =====
+
+  * Air near the equator is relatively still bc the air is constantly rising and not blowing
+
+  * Exist between 5° NORTH and 5° SOUTH of the equator → intertropical convergence zone (ITCZ)
+    * Trade winds converge in the region of ITCZ → produces convectional storms that produce regions with some of the world’s heaviest precipitation
+
+====== Unit 5: Land & Water Use ======
+
+
+====== Agriculture ======
+
+===== General notes =====
+
+  * Urbanization and industrialization: machines ready to work land and harvest crops → farms = factories
+    * Incr amount of fossil fuels, new pesticides/fertilizers, expanded irrigation, dev of new high-yield seed types
+    * Decr genetic variability of crop plants; huge problems in erosion
+    * As cost of fuel rises, cost of food rises
+
+  * Traditional subsistence ag: each family grew crops for themselves; families primarily relied on animal and human labor to plant and harvest crops (provides enough food for one family’s survival)
+    * Still practiced in dev countries
+
+===== Slash and burn =====
+
+  * Area of vegetation is cut down and burned before being planted with crops
+
+  * Because soils in edv countries are generally poor, farmer has to leave area after a relatively short time and find another location to clear
+
+  * Severely decr amount of available forest → contributes to deforestation
+
+===== Fertilizers and pesticides =====
+
+  * If chem fertilizers were suddenly no longer used, total output of food in the world would drop about 40%
+
+  * Bad
+    * reduction of organic matter and O2 in the soil
+
+  * Large amounts of energy to produce, transport, and supply
+
+  * Washed into watersheds as dangerous pollutants
+
+  * FIFRA
+    * [1947] Federal Insecticide, Fungicide, and Rodenticide Act
+    * Requires EPA to approve the use of all pesticides in the US
+
+===== Irrigation =====
+
+  * Repeated irrigation leads to salinization: sig buildup of salts on soil’s surface → land unusable for crops
+
+  * Mitigate: flood fields w massive amounts of water tomvoet he salt deeper into the soil
+    * DA: waterlogs plants roots which kill crops, causes water table of region to rise
+
+===== Integrated pest management =====
+
+  * introducing natural insect predators
+
+  * Intercropping
+
+  * Using mulch to control weeds
+
+  * Diversifying crops
+
+  * Crop rotation
+
+  * Releasing pheromone or hormone interrupters
+
+  * Traps, barriers
+
+===== Genetically engineered plants =====
+
+  * Add genes from one species to another to encourage desirable characteristics (ex. golden rice)
+
+  * Discourage biodiversity → harm beneficial insects and organisms
+
+  * Pose new allergen risks, incr antibiotic resistance, could cause new pesticide resistant pests
+
+  * Cross pollination can contaminate other crops
+
+===== Monoculture =====
+
+  * Least amount of plants monopolizing the foods we eat
+
+  * Plantation farming: monoculture cash crop exported to dev nations
+
+===== Soil degradation =====
+
+  * Contour plowing: rows of crops plowed across hillside, preventsoersion that can occur when rows are cut up and down on a slope
+
+  * Terracing: flat platforms that are cut into the hillside to provide a level planting surface → decr soil runoff and erosion on slope
+
+  * No-till methods: plant seeds without using a plow to turn the soil
+
+  * Crop rotation: provides soils with nutrients
+    * Animals an be rotated from site to site to solve overgrazing
+
+  * Intercropping (strip cropping): planting bands of diff crops across a hillside; prevent erosion by creating an extensive network of roots (plant roots holds the soil in place and decr soil erosion)
+
+===== Meat production =====
+
+  * CAFO: lots of meat or dairy animals confined in small areas
+
+  * benefits: minimizes land costs, improves feeding efficiency, incr energy that goes into meat
+
+  * disads: bacteria, disease, water disposal, decr nutrient content qual of animal feed, ethical concerns
+
+===== Urban runoff =====
+
+  * water from rain and snow that collects on man made surfaces and is directed out of cities
+
+  * picks up pollutants like oil and trash and then are dumped into large bodies of water
+
+  * increase water infiltration, replace pavement and concrete with more permeable pavement materials (pavers with pore holes), plant trees and building structures taller
+
+====== Forest resources ======
+
+===== General notes =====
+
+  * Old growth forest: one that has never been cut; contain incredible bioD, highly evolved intricate niches for multitude of organisms; myriad habitats
+
+  * Second growth forests: cutting has occurred and a new younger forest has arisen naturally
+
+  * Plantation/tree farms: planted and managed tracts of trees that are harvested for commercial use
+    * Silviculture: management of forest plantations for the purpose of harvesting timber
+    * Clear-cutting: removal of all trees in an area (typically done in areas with fast growing trees)
+    * Selective cutting: removal of select trees in an area → leavers majority of habitat in place and has less of an MPX on the ecosys
+      * Difficult to remove these trees from the forest
+      * Uneven-aged management: trees that take longer to grow
+      * Shelter-wood cutting: mature trees cut over a period of time
+
+  * Agroforestry: trees and crops planted together
+    * Creates mutualistic symbiotic rela between trees and crops
+    * Trees create habitats for animals that prey upon the pests that harm crops → roots stabilize and enrich soil
+
+  * Good: maintains habitat/bioD; releases O2; stores carbon; slows gw; absorbs air pollutants; reg local temps and maintains micro/regional climates; reduces erosion- preserves soil quality; maintains nutrient cycles
+
+===== Deforestation =====
+
+  * Removal of trees for ag or exportation purposes
+    * Industrialized countries: high demand for weed, less deforestation
+    * Developing countries: small demand for wood, more deforestation
+      * converting forests into ag/ranch land
+      * using trees/charcoal for fuel/source of income
+      * protecting forests through regs is less common
+      * harvesting timber for use as building materials
+      * using forested land for commercial purposes by corporations or industrialized countries
+      * clearing forested land to accommodate growing rural pops (ex. roads, homes, schools)
+
+  * Already poor soil is further degraded and can only support crops for a short time
+
+  * Loss in biodiversity, erosion, depletion of nutrients in the soil
+
+  * Decrease deforestation
+    * enforce laws or regs that restrict cutting of trees
+    * encourage sustainable ag/forestry programs
+    * intro more efficient cooking methods that reduce use of wood as fuel source
+    * est programs to promote alt building materials that decr demand for wood
+    * dev econ programs to incr individual incomes/decr reliance on forest conversion
+    * reduce pop growth resulting in less demand for wod for fuel and income
+    * promote ecotourism to protect natural areas and discourage tree harvesting
+
+  * Water quality and deforestation
+
+|Change in Water Quality|Deforestation Efx|
+|Incr in water temp|Loss of shade; incr solar radiation reaching the stream|
+|Incr in sediment/turbidity|Loss of root struc, leaf litter, canopy leads to incr soil erosion and runoff|
+|Incr in nutrient concentration|Loss of vegetation results in less nutrient uptake and subsequent runoff into stream|
+|Decr in pH|Loss of root struc allows naturally occurring acids to run off into streams|
+|Decr in dissolved oxygen|Loss of shade lads to warmer water, holds less dissolved oxygen|
+
+===== Forest policy =====
+
+  * USFG owns 35% of all land in the US
+
+  * [1916] national park sys: manage and preserve forests and grasslands
+
+  * Wilderness preservation areas: open only for recreational activities with no logging permitted
+
+  * National forest system, natural resource lands, national wildlife refuges → federally controlled lands that allow logging with a permit
+
+  * Greenbelts: open or forested areas built at the outer edge of a city
+    * No one is permitted to build in them → incr QOL for ppl living nearby
+    * Borders cities, putting limits on city growth
+    * Add green spaces in urban areas when satellite towns are built outside the greenbelt and interconnected by highways and mass transpo methods
+
+|Date|Name of Law|What it Does|
+|1964|Wilderness Act|Est a review of road-free areas of 5k+ acres and island within the national wildlife refuges or the national park system for inclusioni the national preservation system (restricted activities there)|
+|1968|Wild and Scenic Rivers Act|Est a national wild and scenic rivers sys for the protection of rivers with important scenic, recreational, fish and wildlife, and other values|
+
+===== Natural events =====
+
+  * Tree diseases and existence of pests
+    * Mitigate by: removing infected trees; removing select trees/planting them sparsely to provide adequate spacing; use chemical and natural pest controls; carefully inspecting imported trees and tree products; developing pest/disease resistant species of trees thru genetic engineering
+
+  * Forest fires
+    * Surface fires: burn only forests’ underbrush; do little damage to mature trees; protects forest from more harmful fires by removing underbrush and dead materials that would burn quickly and at high temperature, escalating more severe fires
+    * Crown fires: start on ground or canopies of forests; spread quickly and are char by high temperatures bc they consume underbrush and dead material on the forest floor → huge threat to wildlife, human life, and property
+
+  * If there are fewer fires, the amount of fuel (dry leaves, needles, wood) builds up to high levels → when this large amount of fuel ignites, fires are much hotter and flames are larger
+    * SOLUTION: controlled burns (small fires)
+
+====== Ocean resources ======
+
+===== General notes =====
+
+  * Fishery: industry or occupation devoted to catching, processing, or selling of fish, shellfish, or other aquatic animals
+
+  * 1 bil ppl depend on fish as their main source of food %%//%% 1 mil ppl employed in the fishing industry
+
+===== Overfishing =====
+
+  * Capture fisheries: caught in the wild and not raised in captivity for consumption
+
+  * By-catch: any other species of fish, mammals, or birds that are caught that are not the target fish
+    * Driftnets: float through the water and indiscriminately catch everything in their path
+    * Long lining: use of long lines that have baited hooks and will take in numerous aquatic organisms
+    * Bottom trawling: ocean floor scraped by heavy nets that smash everything in their path (incl whole marine mountains known as seamounts)
+    * SOLUTION: restrictions on the use of drignets; installation of ribbons on bait hooks that scare away birds and prevent them from being caught; bans on bottom trawling
+
+  * Aquaculture (fish farming)
+    * Raising of fish and other aquatic species in captivity for harvest
+    * Fish raised in captivity are those with the highest economic value
+    * Helps to meet worldwide demands for fish but its not able to solve for all fishery problems
+    * CONCERN: accidental release of farmed fish into the wild?
+      * Potential to introduce new diseases to ocean fish and contaminate the native gene pool
+      * Ex. carp release from fish farming causing issues in Mississippi River and Great lakes
+    * CONCERN: fish raised in captivity are fed captured wild fish → we want to kill fewer wild fish
+
+  * Killing of whales
+    * Norway consumes whales; Japan captures whales for scientific use
+    * However, JAP has been eating the whales it catches bc they think that whales eat too many fish that could instead be caught by humans
+    * Tourism
+      * Whale watching tours disrupt whale migration patterns and cause whales stress
+
+===== Threatened aquatic ecosystems =====
+
+  * Coral reefs
+    * Structures found in warm, shallow tropical water (diverse and ecologically crucial ecosystems)
+    * Created by small marine animals called cnidarians → mutualistic relationship with photosynthetic algae called zooxanthellae
+    * Provide local pop with great variety of seafood; important rec areas for humans
+    * Coral bleaching: higher than usual water temperature cause the death of zooxanthellae = death of coral reef
+    * Some bleaching is normal, but high water temperatures can be caused by weather fluctuations such as El Niño
+
+  * Mangrove swamp
+    * Coastal wetlands found in tropical and subtropical regions (trees, shrubs, other plants that can grow in brackish tidal waters; often located in estuaries)
+    * Huge diversity of animals bc estuarine swamps are constantly replenished with nutrients transported by freshwater runoff from the land
+    * Support: bacteria, other decomposers, filter feeders → worms, protozoa, barnacles, oysters, invertebrates → shrimp and fish → wading birds, pelicans, crocodile
+    * Nurseries for shrimp and recreational fisheries; exporters of organic matter to adjacent coastal food chains; enormous sources of valuable nutrients
+    * Prevent shoreline erosion → shields inland areas from severe damage during hurricanes and tidal waves
+    * Threatened by shrimp aquaculture and degradation of Western coastlines
+
+===== Legislation =====
+
+|Date|Name of Legislation|What it Did|
+|1965|Anadromous fish conservation act|Protected fish that live in the sea but grow up and breed in freshwater|
+|1976|Magnuson fishery conservation and management act|Governed the conservation and management of ocean fishing|
+|1972|Marine mammal protection act|Conserve marine mammals|
+|1972|Endangered species|Provided broad protection for species of fish, wildlife, and plants that are listed as threatened or endangered in the US or elsewhere|
+|1982|UN agreement for implementation of the provisions of UNCLOS|Set out the principles for the conservation and management of certain types of fish|
+|1975|CITES (convention on int’l trade in endangered species of wild fauna and flora)|An int’l agreement b/t governments that ensured that int’l trade in specimens of wild organisms don’t threaten survival|
+
+====== Water importance ======
+
+===== General notes =====
+
+  * Industries: fisheries, recreation, transp, ag, etc
+
+  * Biggest water users
+    * 73% agriculture
+    * 21% industry
+    * 6% domestic use
+
+  * Since the 1950s, global water use has tripled bc of population growth and improvements in the global standard of living
+
+  * Groundwater: water from below the ground (wells or aquifers)
+    * Aquifers: underground beds or layers of earth, gravel, porous stone that yields water
+      * Unconfined aquifers: water is free to flow both vertically and horizontally
+      * Confined aquifers: boundaries that don’t readily transport water
+
+  * Water-stressed countries: have a renewable annual water supply of about 1000-2000 m3 per person
+
+  * Water-scarce countries: have a renewable annual water supply of less than 1000 m3 per person
+    * Developing countries that have rapidly increasing populations = water scarcity problems will grow over time
+    * Ex. algeria, egypt, libya, kenya, rwanda, tunisia, israel, jordan, kuwait, SA, syria, belgium, hungary, netherlands, singapore, barbadoes, malta, lebanon, morocco, niger, somalia, S AFR, sudan
+
+===== Env MPX =====
+
+  * Groundwater reliance
+    * Depressed water table
+    * Drying up of local groundwater sources
+    * Subsidence/sinking
+      * Ex. [late 1990s] drought in FL resulted in severe reduction in aquifers → roads collapsed bc of a lack of struc support
+    * Aquifers become compacted → mineral grains collapse on each other and the area is unable to hold as much water
+    * Urbanization: groundwater incapable of being replenished bc they build structures and roads impermeable to precipitation
+
+  * SOLUTION: Interbasin transfer
+    * Water is transported very long distances from its source (aqueducts or pipelines)
+    * Disadvantages
+      * Different geographic areas arguing over water rights
+      * Increase salinity of water
+      * Change climate of ecosystem
+
+  * SOLUTION: desalination
+    * Simple physical process, but not econ viable
+    * A lot of energy to remove salt through distillation or reverse osmosis
+
+===== Water rights =====
+
+  * Riparian right: right of people who have legal rights to a riparian area (relating to the banks of a natural course of water)
+
+  * Prior appropriation: water rights given to those who have historically used water in a certain area (water squatters’ rights)
+
+====== Mining ======
+
+===== General notes =====
+
+  * Excavation of earth for the purpose of extracting ore or minerals
+
+  * Metallic minerals: mined for metals → extracted through smelting and used for various purposes
+
+  * Nonmetallic minerals: mined to be used in their natural state
+
+  * Mineral deposit: area in which a particular mineral is concentrated
+
+  * Ore: rock or mineral from which a valuable substance can be extracted at a profit
+
+===== Env MPX =====
+
+  * Disrupts ecosys and scars land; leave pollutants
+
+  * Ex. Acid forms as water seeps through mines and carries off sulfur-containing compounds → chemical conversion of sulfur-bearing minerals occurs through a combo of biological and inorganic chemical reactions → buildup of extremely acidic compounds in the soil → acid mine drainage that can severely harm local stream ecosystems called GANGUE
+    * Tailings: piles of gangue
+
+  * Strip mining
+    * Strpiping the surface layer of soil and rock (overburden) in order to expose a seam of mineral ore
+    * Used when ore is relatively close to the surface → least expensive and least dangerous mining method
+    * Removes massive amount of topsoil -> greater impact on surrounding environment than underground mining
+    * Ex. mountaintop removal trnadorsm summits of mountains and destroys ecosystems
+
+  * Refinement of mined minerals often requires extensive energy input
+    * Mined → transported to a power plant → burned in its original state
+
+===== Regulations =====
+
+  * Air, land, and water harmed by mining can be reclaimed through mine restoration projects
+
+  * [1977] surface mining control and reclamation act (SMCRA): program to help coal mines manage pollutants
+
+|Date|Name of Legislation|Purpose|
+|1872|Mining Act|Governed prospecting and mining of minerals on publicly owned land|
+|1920|Mineral Leasing Act|Permitted the Bureau of Land Management to grant leases for dev of coal, phosphate, potahs, sodium, sulphur, and other leasable mineral deposits on public domain lands|
+|1980|Comprehensive Environmental Response, Compensation, and Liability Act (Superfund)|Reg damage done by mining|
+|1976|Resource Conservation and Recovery Acts (RCRA)|Reg some mineral processing wastes|
+|1977|Surface Mining Control And Reclamation Act|Est a program for reg surface coal mining and reclamation activities; est mandatory standards for these activities on state and fed lands, incl a req that adverse MPX on fish, wildlife, and related env values be minimized|
+
+====== Unit 6: Energy Resources & Consumption ======
+
+
+**Overview**
+
+General notes
+
+  * Conservation: management or regulation of a resource so that its use does not exceed the capacity of the resource to regenerate itself
+
+  * Preservation: maintenance of a species or ecosystem in order to ensure their perpetuation, with no concern to their potential monetary value
+
+  * Natural resources: a/biotic ecosystems
+
+  * Ecosystem capital: natural resources described in terms of their value
+
+  * Energy: capacity to do work
+    * Potential energy: stored energy; energy at rest (can be converted to kinetic energy)
+    * Kinetic energy: energy inmotion
+    * Radiant energy: sunlight
+
+  * Convection: transfer of heat by the movement of the heated matter
+
+  * Conduction: transfer of energy through matter from particle to particle
+
+  * Energy quality: higher energy quality produces more heat
+
+  * Net energy yield: comparison between the cost of extraction, processing, and transpo & the amount of useful energy derived from the fuel
+
+Laws of thermodynamics
+
+  - First Law of Thermodynamics: energy can neither be created nor destroyed; it can only be transferred and transformed (ex. photosynthesis: radiant energy is converted to chem energy in the form of bonds that hold together atoms in carbs)
+
+  - Second Law of Thermodynamics: entropy (disorder) of the universe is increasing
+    - In most energy transformations, a sig fraction of energy is lost to the universe as heat
+    - Ex. 10% rule
+
+**Resources**
+
+  * Renewable sources
+    * Resources such as plants and animals
+    * Can be regenerated quickly
+
+  * Nonrenewable resources
+    * Minerals and fossil fuels
+    * Typically formed by very slow geological processes
+    * Incapable of being regenerated within the realm of human existence
+    * Consumption: of natural resources is the day to day use of env resources
+    * Production: use of env resources for profit
+
+**Fossil fuels**
+
+General notes
+
+  * Formed from the fossilized remains of once-living organisms
+    * Over time, organic matter is exposed to intense heat and pressure → organic molecules broken down into oil, coal, and natural gas
+
+  * Oil/petroleum: made of long chains of hydrocarbons
+
+  * Coal: mixture of carbon, hydrogen, oxygen, and other atoms
+    * Found in long continuous deposits called seams at various depths underground
+
+  * Natural gas: methane gas with mixture of other gases
+
+  * Oil and nat gas formed in same areas
+    * Deep in the earth under both land and ocean floor (stored in the pores between rocks)
+
+Oil
+
+  * Crude oil: oil pumped fresh from a reserve
+
+  * Three diff methods of extracting oil
+    * Primary extraction: oil easily pumped to surface
+    * Pressure extraction: use mud, saltwater, CO2 to push out oil from reserve
+    * Steam extraction: uses steam, hot water, hot gases to partially melt very thick crude oil and make it easier to extract
+
+  * Drilling for oil is only moderately damaging the env bc little land is needed to drill
+
+  * Oil is transported thousands of miles by tankers, pipelines, trucks, etc → risk of explosion, oil spill
+
+Coal
+
+  * Types of coal (order of purest)
+    * Anthracite: pure carbon
+    * Bituminous
+    * Subbituminous
+    * Lignite
+
+  * Coal mining
+    * Stip mining
+      * Removal of earth’s surface
+      * Coal is removed then the earth that was removed is replaced, topped with soil → area is contoured and re-vegetated
+    * Underground mining
+      * sinking of shafts to reach underground deposits
+      * networks of tunnels are dug or blasted and humans enter tunnels to manually retrieve the coal
+      * After production in mines stops, cave-ins occur
+
+  * Env MPX
+    * Contribute to air pollution (CO2, nitrogen oxides, mercury, sulfur dioxide are released as by-products)
+    * Produces fly ash and boiled residue as waste products
+    * Coal contains a sig amount of sulfur (iron sulfide, organic sulfur)
+    * Major source of mercury pollution → airborne mercury pollution can deposit in the ground as a result of rainfall → flows into lakes, streams, bodies of water both from rainfall and runoff → mercury travels → accumulate in fish → eaten by ppl
+
+  * Solutions
+    * Scrubbers: some by products can be removed through the actions of scrubbers (contain alkaline substances that precipitate out much of the sulfur dioxide)
+    * Burn coal with limestone: liberated sulfur combines with calcium in the limestone to form calcium sulfate → can't be released
+    * Wet scrubbing: fine mist of water to transform sulfur oxides from an air pollution issue to either a water pollution issue or to a commercial product → sulfuric acid
+    * Baghouse/cyclo scrubbers: filter or spin particulates out of the effluent gases
+    * Electrostatic filters: use electric charge to attract dust particulates to metal surfaces where they can be gathered and disposed of as solid waste
+
+Natural gas
+
+  * Methane, pentane, butane, several other gases
+
+  * Simple molecular struc → nat gas produces only CO2 and water when it burns (don’t produce oxides of nitrogen and sulfur)
+
+  * Env MPX
+    * In an uncontrolled release, can cause violent explosions
+    * More difficult to transport than coal or oil
+      * Tanks can only hold a small amount of gas → nat gas is liquified by putting it under high pressure (LNG - liquefied natural gas) → requires a lot of energy
+      * Transported by pipes: risks of leaks and explosions → damaged habitats when building pipe sys
+
+**Nuke energy**
+
+General notes
+
+  * Primary non-fossil fuel non renewable energy source
+
+  * Fission: uranium 235 isotope split up (key reaction in production of nuke eng)
+
+  * Breeder reactors: generate new fissionable material faster than they consume material
+
+  * Nuclear fusion: fusing two nuclei (most likely 2 isotopes of hydrogen → tritium-2 neutrons and deuterium-1 neutron)
+
+  * Half-lives: tie it takes for half of the radioactive sample to degrade
+
+  * Good: produces no sulfur dioxide or nitrogen oxide; less CO2 than fossil fuels
+
+Types of reactors
+
+  * Boiling water reactors
+    * Use heat of reactor core to boil water into steam → steam piped directly to turbines → steam spins turbines that generate electricity → water is cooled back to a liquid → pumped back to the core to be turned into steam again
+    * Uses 2 water circulation sys: (1) makes steam and carries it to the turbine (2) cools water form the core so it can be turned back into steam
+
+  * Pressurized water reactor
+    * Use eat from core to heat second water water supply via a heat exchanger
+    * Second water sys provides steam to spin turbings
+    * Third water circulation sys cools steam from the turbines (by using 2nd heat exchanger) → used to make steam again
+    * Uses 2 water circulation sys: (1) cools the core (2) makes steam (3) cools steam back into water to be made into steam again
+
+Safety issues
+
+|Safety Issue|Description|
+|Meltdown|Reactor loses coolant water → hot core melts through the containment building → radioactive materials could then get into groundwater|
+|Explosion|Gases generated by a uncontrolled core burst containment vessel and spread radioactive materials in the environment|
+|Nuke weapons|Some by-products of fission reaction can be remade into fission “dirty” bombs- spread damaging radioactive isotopes|
+|Highly radioactive waste|No longer usable cores, piping, and spent fuel rods need to be stored for may centuries → “spent” fuel have radioactive elements like plutonium-239 (half-life: 2.13 * 106 years)|
+|Thermal pollution|Water used to cool turbines is returned to local bodies of water at a much higher temp than when it was removed|
+|Radioactive elements|Gamma rays produced by radioactive decay can damage cells and DNA → breast, thyroid, stomach, leukemia cancer (harms immune system)|
+|Concern for one’s safety|Suffer mental stress, anxiety, depression caused by concerns for their safety → Not In My Backyard Syndrome (NIMBY)|
+
+**Renewable energy**
+
+Biomass
+
+  * Includes woods, charcoal, and animal waste products
+
+  * Gasohol
+    * gasoline extender made from a mix of 90% gasoline and 10% ethanol
+    * Obtained by ferementing ag crops or crop wastes
+    * Partly derived from organic substrate
+    * Higher octane than has and burns more slowly, cooly and completely → reduced emissions of some pollutants
+    * Vaporizes more readily than gas → potential to aggravate ozone pollution in warm weather
+
+  * Ethanol/methanol
+    * Surface carbon and carbon based → add no net carbon to the atmo
+    * CO2 is released during combustion
+    * More expensive and energy intensive to produce (one bushel of corn produces only 2.5 gallons of ethanol)
+
+  * Biodiesel: new product made largely from waste vegetable oils
+
+Hydroelectric energy
+
+  * Generated as moving water turns turbine
+
+  * ADV
+    * Production releases no pollutants
+    * As water is held behind dams, new habitats in the forms of wetlands are created
+
+  * Env MPX
+    * Produces thermal pollution
+    * Requires that rivers are dammed → change rates at which rivers flow; destroys habitats
+    * Silting: as water sits behind dams, normal sediments it carries have time to sink to the bottom → additional weight on struc
+      * Structures have to be strong enough to hold back many tons of sediment
+      * Sediment isn't passed farther down the river → sediment is used to fertilize floodplains of river
+    * Reservoirs have greater surface area = higher rate of evaporation and water loss
+    * Fish that spawn in the normally silty river no longer have a place to do so; dams prevent fish from returning to their hatching streams
+      * SOLUTION: fish ladders- let some fish return upriver, BUT … number of fish that get thru is limited so pop still decline
+
+  * Limited number of rivers = limited hydroelectricity
+
+Solar energy
+
+  * Passive solar energy collection: use of building materials, building placement, and design to passively collect solar energy that can be used to keep a building warm or cool (ex. windows)
+
+  * Active collection: use of devices that collect, focus, transport, or store solar energy (ex. solar panels)
+
+  * Solar panels
+    * absorb solar energy and pass the energy onto tubes in which water is circulating → heated water can be stored for later use
+    * Photovoltaic cells (PV cells): produces electricity which is then stored in batteries
+    * When sunlight hits PV cells, electrons energized and flow freely → produces electric current
+
+  * Produces no air pollutants, BUT… production of PV cells requires the use of fossil fuels
+
+  * PV cells use no moving parts, require little maintenance, are silent
+
+  * Not every location in the US receives enough sunlight to make solar panels worthwhile
+
+Wind energy
+
+  * Wind blows into wind turbine that spins the blades -> machinery inside base of windmill (nacelle) rotates
+
+  * Wind farms: groups of placed modern wind turbines
+
+  * Can be located offshore in the ocean
+
+  * DAs
+    * More costly than using fossil fuels bc of the initial outlay of capital that must be invested in order to build them
+    * What happens when there’s no wind?
+    * Birds could be cut up and killed by blades
+      * SOLUTION: stop placing wind turbines in the middle of migration routes
+
+  * Produces no harmful emissions
+
+Geothermal energy
+
+  * Produced by harnessing the earth’s internal heat
+    * Interior of earth is still warm due to radioactive decay
+    * Greatly elevated temperatures within earth result in a buildup of pressure → some of this heat escapes through fissure and cracks to the surface (ex. geysers, hydrothermal vents, hot springs)
+
+  * Naturally heated water and steam from the earth’s interior turn turbines to create electricity
+
+  * Wells are typically drilled down into the earth thousands of meter to water that's 300-700℉ → brought to surface and converted to steam → powers the turbine
+
+  * Concerns
+    * Limited bc only few areas have geothermal sources to tap
+    * Salts that are dissolved in the water corrode machinery parts
+    * Some gases (methan, CO2, hydrogen sulfide, ammonia) that are trapped in the water may be released as the water is utilized
+
+Ocean tides
+
+  * Tidal movements of ocean water can be tapped and used as a source of energy
+
+  * Dams erected across outlets of tidal basins → incoming tides are sluiced through the dam → outgoing tides turns turbines and generates electricity
+
+Hydrogen cells
+
+  * Hydrogen is obtained from fossil fuels by a process called reforming
+    * Hydrogen is very difficult to store and not very energy dense, BUT… hydrogen fuel cells are considered to the best, clearnest, and safest fuel source
+
+  * Free hydrogen not found on earth, but can be released thru the process of electrolysis (hydrogen atoms are stripped from water, leaves the oxygen atom)
+
+  * Hydrogen can also be obtained from organic molecules (but the use of organic sources can release pollutants)
+
+  * Once free hydrogen is released, it can be stored and then used to generate electricity through reverse reaction of electrolysis
+
+  * Good: only waste from the fuel cell is water vapor
+
+  * Bad: high cost of fuel cell and lack of hydrogen fuel stations limit tech
+
+**Energy conservation**
+
+  * Practice of reducing our use of fossil fuels and reducing the MPX we have on the env as we produce and use energy
+
+  * Hybrid vehicles: built with one electric and one gas-powered engine
+    * Good gas mileage, produce less CO2 pollution
+
+  * Diesel-fueled cars: pure diesel fuel, switch to biofuel
+
+  * CAFE (Corporate Average Fuel Economy) standards
+    * Set mile per gallon standards for a fleet of cars
+    * Goal: reduce energy consumption by incr fuel economy of cars and light trucks
+
+  * Mass transit
+
+**Env policy**
+
+Major acts
+
+|Date|Legislation|Purpose|
+|1970|National Env Policy Act|Created council on env quality which resulted in the creation of the EPA; fed agencies must prep env MPX statements|
+|1983|Int’l Env Protection Act|Authorized POTUS to assist countries in protecting and maintaining wildlife habitats and dev wildlife management and plant conservation programs; est sanctuaries, reserves, parks, anti-poaching measures|
+|1990|Pollution Prevention Act|Promote source reduction of pollution|
+|1990|Env Edu Act|Est Office of Env Edu within the EPA to dev and administer a fed env edu program|
+
+Green taxes
+
+  * Lowers taxes on income (payroll/income), raises taxes on consumption
+
+  * List of taxes
+    * Carbon taxes on the use of fossil fuels
+    * Taxes on the extraction of mineral, energy, and forestry products
+    * License fees for fishing and hunting
+    * Taxes on tech and products associated w sub neg externalities
+    * Garbage disposal taxes
+    * Taxes on effluents, emissions, and other hazardous wastes
+
+  * Goals of green taxes
+    * Generation of revenue to correct past pollution damage and reduce future pollution
+    * Change behavior
+    * Use funds received from taxes for restoration
+
+  * Market permits: cap and trade permits
+    * Companies allowed to buy permits that allow them to discharge a certain amount of substances into certain env outlets
+    * If they can reduce discharge, allowed to sell remaining portion of permit to another company
+    * Economic incentive for companies to sell = decr discharge
+
+Int’l agreements
+
+|Date|Agreement|Purpose|
+|1978|Montreal Accord|Cut emissions of CFCs that damage ozone layer|
+|1992|Basel Convention on the Control of Transboundary Movements of Hazardous Wastes|Protect human health and env against adverse efx resulting from generation, management, transboundary movements and disposal of hazardous and other wastes (US has not ratified)|
+|1997|Kyoto Protocol|Members must cut their GHG emissions back to 5% below 1990 levels (US has not ratified)|
+
+======**Unit 7-8: Atmospheric, Terrestrial and Aquatic Pollution**======
+
+  * **Types of Pollution**
+    * Noise
+    * Light
+    * Thermal
+    * Air
+    * Water
+    * Solid Waste
+    * Hazardous
+
+  * **Biggest source of pollution**
+    * Burning fossil fuels
+    * Mining
+    * Industrial processes
+    * Deforestation
+    * Hazardous waste
+
+  * **Anthropogenic Uses of Water**
+    * **Agriculture**
+      * Water footprint - the total daily per capita use of freshwater
+    * Agriculture is one of the most common uses of water. (70%)
+    * Industry (20%)
+    * Household Use (10%)
+    * The United States is the country that uses the most water globally.
+    * Different scenarios regarding geological differences
+      * Eg. West v. East
+    * China uses the least amount of water globally
+
+  * **Irrigation** - technological advances have made water use for crops more efficient.
+    * Furrow - a trench that is flooded with water
+    * Flood - the entire field is flooded with water
+    * Spray - an apparatus sprays water across the field
+    * Drip - a slow dripping hose is laid on or buried beneath the soil
+
+  * **Hydroponic Agriculture**
+
+  * The cultivation of plants in greenhouse conditions by immersing roots in a nutrient-rich solution
+
+  * An alternative to irrigation, hydroponic agriculture is more expensive but has several advantages
+
+  * Requires little to no pesticide use
+
+  * Uses up to 95% less water than traditional irrigation
+
+  * Crops can be grown year-round
+
+  * Water is also used for industrial processes and household use
+    * After agriculture, the most common use of water is in industry
+
+  * **Industry**
+    * Water is used mainly for:
+      * Generating electricity
+      * Cooling down systems
+
+  * **Household Use (Anthropogenic Uses)**
+    * About 10% of water use in the U.S
+      * Eg. Normal activities, recreational activities.
+    * U.S is the leading user of water for households.
+      * Advocacy for reduction in household use of water
+    * Gray Water - wastewater from bath, showers, bathrooms and washing machine
+    * Contaminated Water - wastewater from toilets, kitchen sinks and dishwashers.
+
+  * **Wastewater From Humans + Livestock Could Pose Multiple Problems**
+
+  * Water Pollution - the contamination of streams, rivers, lakes, oceans or groundwater with substances produced through anthropogenic activities. Wastewater produced by livestock operations and human activities, including human sewage from toilets and gray water from bathing and washing laundry.
+
+  * **Problems w. Wastewater**
+    * Oxygen depletion
+    * Lack of nutrients
+    * Disease-causing organisms + contaminants
+
+  * **Oxygen Problems**
+
+  * Biochemical oxygen demand (BOD) - the amount of oxygen a quantity of water uses over a period of time at specific temperatures
+
+  * Dead zone - an area w. Extremely low oxygen concentration + very little life
+
+  * Anoxic - no oxygen present in an area.
+
+  * **Excessive Nutrient Release**
+    * Eutrophication - a phenomenon which a body of water becomes rich in nutrients
+
+  * Cultural eutrophication - an increase in fertility in a body of water; the result of anthropogenic inputs of nutrients
+
+  * Eutrophication caused by an increase in nutrients
+    * Eg. fertilizers
+
+  * Eutrophication can cause rapid growth of algae which eventually dies causing the microbes to increase the BOD
+
+  * **Disease-Causing Organisms**
+    * Wastewater can carry a variety of pathogens
+      * Example of Diseases
+        * Cholera
+        * Typhoid
+        * Stomach Flu
+        * Diarrhea
+        * Hepatitis
+
+  * **Indicator species** - a species that indicates whether or not disease-causing pathogens are likely to be tested
+
+  * **Fecal coliform bacteria** - a group of generally harmless microorganisms in human intestines that can serve as an indicator species for potentially harmful microorganisms associated w. contaminated sewage.
+
+  * **Wastewater Treatment**
+    * **Septic Systems**
+      * Septic systems
+
+  * Septic tank
+
+  * Sludge
+
+  * Septage
+
+  * Leach field
+
+  * **Sewage Treatment Plants**
+
+  * In developed countries, municipalities use centralized sewage treatment plant that receive wastewater from hundreds or even thousands of households
+
+  * In traditional waste treatment plants, there are two phases of treatment; primary and secondary
+
+  * **Animal Feedlots and Manure Lagoons**
+
+  * Manure from concentrated animal feeding operations is a problem because of volume. It can also contain hormones and antibiotics that are given to the animals
+
+  * Manure lagoons - human-made ponds lined with rubber built to handle large quantities of manure produced by livestock.
+
+  * After the manure is broken down by bacteria\, it is spread onto fields as fertilizers
+
+  * **Heavy Metals and Other Chemicals**
+    * Three Heavy Metals are of particular concern
+      * **Lead** - found in pipes and other materials in older construction
+
+  * **Arsenic** - occurs naturally and through human activity such as mining and industry
+
+  * **Mercury** - occurs naturally and through human activity; primarily burning coal
+
+  * **Deposition** - acids deposited on Earth as rain or snow or as gases and particles that
+
+attach to the surface of plants, soil and water
+
+  * Acid deposition occurs when burning coal releases sulfur dioxide and nitrogen dioxide into the air.
+
+  * In the atmosphere, these chemicals are converted to sulfuric acid and nitric acid, which falls back to Earth as acid deposition
+
+  * Acid deposition reduces the pH of water bodies to levels that are lethal to many organisms.
+
+  * Many coal-burning facilities have installed coal scrubbers to combat this problem.
+
+  * **Synthetic Organic Compounds and Human-Produced Chemicals**
+
+  * Synthetic compounds can enter the water supply from industrial point sources or from nonpoint sources when they are applied over large areas.
+
+  * Compounds include pesticides, pharmaceuticals, military compounds and industrial compounds.
+
+  * Synthetic organic compounds can be toxic, cause genetic effects and interfere with growth and sexual development.
+
+  * **Military Compounds**
+    * Perchlorates - a group of harmful chemicals used for rocket fuel
+
+  * Sometimes contaminates the soil in regions of the world where military rockets are manufactured, tested or dismantled.
+
+  * **Industrial Compounds**
+
+  * Industrial compounds - chemicals used in manufacturing
+
+  * It use to be common for manufacturers in the United States to dump industrial compounds directly into bodies of water
+
+  * Polychlorinated biphenyls (PCBs) - a group of industrial compounds used to manufacture plastics and insulate electrical transformers and responsible for many environmental problems
+
+  * **Oil Pollution**
+
+  * Petroleum products are highly toxic to many marine organisms, including birds, mammals and fish, as well as to the algae and microorganisms that form the base of the aquatic food chain
+
+  * One source of oil in the water comes from drilling from undersea oil using offshore platforms
+
+  * Oil and other petroleum products can also enter the oceans as spills from oil tankers
+
+  * **Ways to Remediate Oil**
+
+  * Containment: Booms keep the floating oil from spreading, then boats equipped with giant oil vacuums suck up as much oil as possible
+
+  * Chemicals: Chemicals break up the oil on the surface, making it disperse before it hits the shoreline
+
+  * Bacteria: A particular bacterium consumes oil; scientists are currently trying to genetically engineer the bacterium to consume oil even faster.
+
+  * **Non-chemical Water Pollution**
+    * **Solid Waste Pollution**
+      * **Solid Waste** = Garbage + Sludge produced by sewage treatment plants
+
+  * Garbage on beaches and in the ocean is dangerous to both marine organisms and people
+
+  * In the United States the practice of dumping garbage in the ocean was curtailed in the early 1980s
+
+  * The problem remains in many developing countries.
+
+  * **Sediment Pollution**
+
+  * 30% of all sediments in our waterways come from natural sources while 70% comes from human activities
+
+  * Problems with sedimentation
+
+  * Suspension of soil particles cause waterways to become brown and cloudy
+
+  * Reduced infiltration of sunlight lowers productivity of aquatic plants and algae
+
+  * Sediments clog gills and prevent aquatic organisms from obtaining oxygen
+
+  * **Thermal Pollution**
+
+  * **Thermal Pollution** - non-chemical water pollution that occurs when human activities cause a substantial change in the temperature of water
+
+  * **Thermal Shock** - a dramatic change in water temperature that can kill organisms
+
+  * One common solution is cooling towers that release the excess heat into the atmosphere instead of into the water.
+
+  * **Noise Pollution**
+
+  * Sounds emitted by ships and submarines can interfere with animal communication
+
+  * Especially loud sonar can negatively affect species such as whales that rely on low-frequency, long distance communication.
+
+  * An increased awareness of noise pollution in the ocean has inspired some shipbuilders to design ships equipped with quieter propellers
+
+  * Developed countries have addressed the problems of pollution by clearing up polluted areas and by passing legislation to prevent pollution in the future.
+
+  * Developing countries are still in the process of industrializing and are less able to afford water-quality improvements
+
+  * Developing countries suffer from the additional pollution but also benefit economically from the additional jobs and industrial spending,
+
+  * **Air Pollution** - the introduction of chemicals, particulate matter, or microorganisms into the atmosphere at concentrations high enough to harm plants, animals, and materials such as buildings, or to alter an ecosystem
+
+  * Has many inputs and outputs
+
+  * **Classifying Pollutants**
+
+  * **Primary Pollutants** = A polluting compound that comes directly out from its source (smokestack, exhaust pipe or natural emission sources)
+
+  * Examples - CO, CO2, SO2, NO2 and most suspended particulate matter
+
+  * **Secondary Pollutants** = A primary pollutant that has undergone transformation in the presence of sunlight, water, oxygen or other compounds
+
+  * Examples - O2, sulfate and nitrate
+
+  * **Sulfur Dioxide (SO2)**
+
+  * A corrosive gas that comes primarily from combustion of fuels such as coal and oil
+
+  * A respiratory irritant and can adversely affect plant tissue
+
+  * Releases in large quantities during volcanic eruptions and in much similar quantities during forest fires.
+
+  * **Nitrogen Oxides (NOx)**
+
+  * Motor vehicles and stationary fossil fuel combustion are the primary anthropogenic sources of nitrogen oxides
+
+  * Respiratory irritant, increases susceptibility to respiratory infections
+
+  * An ozone precursor, leads to formation of photochemical smog
+
+  * Converts to nitric acid in atmosphere which is harmful to aquatic life and some vegetation
+
+  * Contributes to over-fertilizing terrestrial and aquatic systems
+
+  * **Carbon Oxides**
+
+  * Carbon monoxide (CO) is a common emission in vehicle exhaust and most other combustion processes
+
+  * CO can be a significant component of air pollution in urban areas
+
+  * Carbon dioxide (CO2) released by burning fossil fuels has led to its becoming a major pollutant
+
+  * CO2 recently exceeded a concentration of 400 parts per million in the atmosphere and appears to be steadily increasing each year.
+
+  * **Particulate Matter** - Solid or liquid particles suspended in air
+    * The sources of particulate matter and is affects
+      * Particulate matter can be natural or anthropogenic
+
+  * Particulate matter in the atmosphere ranges considerably in size and can absorb our scatter light, which creates a haze and reduces the amount of light
+
+  * **Haze** - Reduces visibility
+
+  * **Photochemical oxidant** - A class of air pollutants formed as a result of sunlight acting as compounds such as nitrogen oxides
+
+  * **Ozone** - A secondary pollutant made up of three oxygen atoms bound together
+
+  * **Smog** - A type of air pollution that is a mixture of oxidants and particulate matter
+
+  * **Photochemical Smog** - A smog that is dominated by oxidants
+
+  * **Sulfurous smog** - Smog dominated by sulfur dioxide and sulfate compounds
+
+  * **Lead**
+    * A gasoline additive, also found in coal, oil, and old paint
+    * Impairs central nervous system
+
+  * All low concentrations can have measurable effects on learning and ability to concentrate
+
+  * **Volatile Organic Compounds** (VOCS) - an organic compound that evaporates at typical atmospheric temperatures.
+
+  * Formed by evaporation of fuels, solvents, paints and improper combustion of fuels such as gasoline.
+
+  * A precursor to ozone formation.
+
+  * **Sources of Air Pollution**
+
+  * Natural emissions of pollution includes volcanoes, lightning, forest fires, and plants both living and dead; all releases compounds that can be classified as pollutants
+
+  * Anthropogenic sources include on-road vehicles, power plants, industrial processes, and waste disposal (incinerator)
+
+  * **Anthropogenic Emissions**
+
+  * In the U.S, emissions from human activity are monitored, regulated and in many cases controlled.
+
+  * Some anthropogenic sources are on-road vehicles, power plants, industrial processes, and incineration
+
+  * The Clean Air Act and its various amendments require that EPA establish standards to control pollutants that are harmful to human health
+
+  * Through the National Ambient Air Quality Standards the EPA periodically specifies concentration limits for each air pollutant.
+
+  * **Photochemical Smog and Acid Rain**
+    * Photochemical smog in the United States
+
+  * The formation of photochemical smog is complex and still not well understood.
+
+  * A number of pollutants are involved and they undergo a series of of complex transformations in the atmosphere
+
+  * Prevalent in Los Angeles, California, United States
+
+  * **Pollution Control**
+    * **Ways to address air pollution**
+      * Avoid emissions in the first place
+      * Use cleaner fuel
+      * Increase efficiency
+      * Control pollutants after emissions
+      * Management of waste pollution
+    * **Ways of Controlling Emissions**
+      * Remove sulfur dioxide from coal by fluidized bed combustion
+      * Install catalytic converter on cars
+      * Use baghouse filters
+      * Use electrostatic precipitators
+      * Install scrubbers in smokestacks
+    * **How People are Implementing Innovative Pollution Control Measures**
+      * Municipalities have tried a number of strategies
+
+  * Reduce gasoline spilled at the pump, restrict evaporation of dry-cleaning fluids, and the use of lighter fluid
+
+  * Reduce use of wood-burning stove and fireplace
+
+  * Limit automobiles to every other day uses or charge user fees for roads during heavy commute times.
+
+  * **Breakdown of Stratospheric Ozone**
+
+  * When chlorine is present (from CFCs), it can attach to an oxygen atom in an ozone molecule to form chlorine monoxide (ClO) and O2
+    * O3+Cl=ClO+O2
+
+  * The chlorine monoxide molecule reacts with a free oxygen atom which pull the oxygen from the CIO to produce free chlorine again
+
+  * ClO+O=Cl+O2
+
+  * A single chlorine atom can catalyze the breakdown of as many as 100,000 ozone molecules until finally one chlorine atom finds another and the process is stopped
+
+  * In the process, the ozone molecules are no longer available to absorb incoming UV-B radiation
+
+  * As a result, the UV-B can reach Earth’s surface and cause harm to biological organisms
+
+======**Unit 9: Global Change**======
+
+●**Global Warming**
+○**Greenhouse Gas Concentration**
+| | | |**Greenhouse Gas**| |**Pre-Industrial Level**| |**In 2016**|
+| | | | | | | | |
+| | | |Carbon Dioxide, CO2| |280 ppm| |400 ppm|
+| | | | | | | | |
+| | | |Methane, CH4| |715 ppb| |1,840 ppb|
+| | | | | | | | |
+| | | |Nitrous Oxides, N2O| |270 ppb| |328 ppb|
+| | | | | | | | |
+
+●  **Effects of Climate Change: What’s Coming?**
+○**Physical Changes**     
+      ●  Decrease of glaciers and ice sheets    
+      ●  Continued rising of average ocean levels    
+      ●  Changes in precipitation   
+      ●  Increase in frequency and duration of storms    
+      ●  Increase in number of hot days    
+      ●  Decrease in number of cold days    
+ ○**Changes in Biota**     
+    ●  Increased crop yields in cold environments    
+    ●  Loss of croplands due to drought and higher temperatures    
+    ●  Cold-tolerant species will need to migrate to cooler climates    
+    ●  Heat-tolerant species may spread and invade new habitats    
+    ●  Additional deaths from water and insect-borne diseases    
+    ●  Commerce, transport, and coastal settlements may be disrupted by    
+    changes in ocean levels and storms   
+    ●  Change in marine ecosystems and fishery productivity    
+ ○  **Adaptations to the Warmer Climate**      
+    ●  Must occur at many levels of society    
+    ●Develop new technology   
+    ●  Continue to reduce emissions from engines    
+    ●  Legislative and behavioral changes needed    
+    ●Promote sustainable growth   
+●**Reducing Climate Change**      
+   ○**Technological**     
+      ●Carbon sequestration   
+      ●  Reduction of emissions from engines    
+ ○**Behavioral**     
+    ●  Turning off the lights to conserve electricity    
+ ○**Policy**     
+    ●  Enacting new treaties and legislation    

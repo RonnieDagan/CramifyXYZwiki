@@ -1,0 +1,45 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1712190116;s:8:"modified";i:1713134286;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:10:{s:4:"date";i:1713757517;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:19:"ap_study_guides_hub";s:4:"user";s:0:"";s:3:"sum";s:13:"external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1;s:9:"timestamp";i:1713757517;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:7:"mrdough";s:6:"Ronnie";}s:5:"title";s:24:"AP Study Guide Main Hukb";s:11:"description";a:2:{s:15:"tableofcontents";a:7:{i:0;a:4:{s:3:"hid";s:24:"ap_study_guide_main_hukb";s:5:"title";s:24:"AP Study Guide Main Hukb";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:18:"📜social_studies";s:5:"title";s:18:"📜Social Studies";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:11:"🧪science";s:5:"title";s:11:"🧪Science";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:8:"📏math";s:5:"title";s:8:"📏Math";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:12:"🌎language";s:5:"title";s:12:"🌎Language";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:12:"📈business";s:5:"title";s:12:"📈Business";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:23:"💻engineeringcomp_sci";s:5:"title";s:24:"💻Engineering/Comp Sci";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:515:"AP Study Guide Main Hukb
+
+gld
+
+📜Social Studies
+
+	*  AP US History
+
+	*  AP US Government and Politics
+
+	*  AP World History: Modern
+
+	*  AP Psychology
+
+	*  AP Art History
+
+	*  AP Human Geography 
+
+🧪Science
+
+	*  AP Physics C Mechanics
+
+	*  AP Physics C Electricity and Magnetism
+
+	*  AP Physics 1
+
+	*  AP Biology
+
+	*  AP Environmental Science
+
+	*  AP Chemistry
+
+📏Math
+
+	*  AP Statistics
+
+	*  AP Pre-Calculus
+
+	*  AP Calculus AB
+
+	*  AP Calculus BC
+
+🌎Language
+
+	*   AP English Literature and Composition…";}s:8:"relation";a:2:{s:10:"references";a:24:{s:13:"ap_us_history";b:1;s:29:"ap_us_government_and_politics";b:1;s:8:"ap_world";b:1;s:13:"ap_psychology";b:1;s:14:"ap_art_history";b:1;s:18:"ap_human_geography";b:1;s:22:"ap_physics_c_mechanics";b:1;s:38:"ap_physics_c_electricity_and_magnetism";b:1;s:12:"ap_physics_1";b:1;s:10:"ap_biology";b:1;s:24:"ap_environmental_science";b:1;s:12:"ap_chemistry";b:1;s:13:"ap_statistics";b:1;s:15:"ap_pre-calculus";b:1;s:14:"ap_calculus_ab";b:1;s:14:"ap_calculus_bc";b:1;s:13:"ap_literature";b:1;s:35:"ap_english_language_and_composition";b:1;s:19:"ap_spanish_language";b:1;s:21:"ap_spanish_literature";b:1;s:17:"ap_macroeconomics";b:1;s:17:"ap_microeconomics";b:1;s:13:"ap_comp_sci_a";b:1;s:30:"ap_computer_science_principles";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1712190116;s:8:"modified";i:1713134286;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:10:{s:4:"date";i:1713757517;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:19:"ap_study_guides_hub";s:4:"user";s:0:"";s:3:"sum";s:13:"external edit";s:5:"extra";s:0:"";s:10:"sizechange";i:1;s:9:"timestamp";i:1713757517;s:4:"mode";s:4:"page";}s:11:"contributor";a:1:{s:7:"mrdough";s:6:"Ronnie";}}}

@@ -1,0 +1,589 @@
+====== AP Micro Study Guide ======
+
+===== 1. Basic Economic Concepts =====
+
+1.1: Scarcity
+
+  * Economics: the study of scarcity and choice (unlimited wants, limited resources)
+
+  * Economic choice: involves the personal choice of choosing one thing over another
+
+  * Scarcity: unlimited wants but limited resources
+    * e.g.: time = limited supply
+
+  * Scarce: not enough for everyone
+    * Causes us to make choices
+
+  * Free goods: goods with no-cost/unlimited supply (e.g.: sunlight)
+
+  * Positive statement: factual statement
+
+  * Normative statement: opinionated statement
+
+> 1.2: Resource Allocation and Economic Systems
+
+  * Economy: a system that coordinates choice about the production with choices about consumption and distributes goods and services to the people who want them.
+    * Market Economy: production and consumption result of decentralized decisions by many firms and individuals.
+    * Command Economy: industries = publicly owned + central authority making producer and consumer decisions.
+
+  * Property Rights: establish ownership and grant individuals the right to trade goods and services with each other.
+    * Creates incentives in the market economy
+
+  * Resource: anything that can be used to producing something else
+    * Factors of production
+      * Land (natural resources)
+        * Raw materials used to produce finished goods
+      * Labor (workers)
+        * Human effort/work
+      * Capital (anything used to make anything else)
+        * finished goods used to produce other goods (machines, tools, factories, etc.)
+      * Entrepreneurship (creating something of value from the prior 3)
+
+  * Opportunity Cost: next-best alternative that you lost out on doing something else
+
+  * Microeconomics: individuals/firms making decisions and how these interact
+    * e.g.: college vs job, car industry, etc
+
+  * Macroeconomics: overall ups and downs of the economy (aggregates)
+    * e.g.: employment, inflation, etc
+
+1.3: Production Possibilities Curve
+
+  * Trade-off: giving up something for something else
+
+  * PPC: illustrates trade-offs an economy faces that compares only two goods
+
+  * Efficient: The point at which there are no missed opportunities; cannot make someone better off without making someone else worse off
+
+  * Productive efficiency: lowest cost possible on PPC
+
+  * Allocative efficiency: The economy allocates resources so that consumers are as well off as possible/producing what is demanded.
+
+  * Increasing Opportunity Costs: concave PPC
+
+  * Economic Growth: allows sustained rise in aggregate output/expansion of PPC outwards
+    * Causes:
+      * increase/development in technology
+      * Increase in resources
+
+> 1.4: Comparative Advantage and Trade
+
+  * Trade: people divide work and each provides good in return for another good.
+
+  * Comparative Advantage: lower opportunity cost in the production of a good
+    * Can’t have a comparative advantage in both goods
+
+  * Absolute Advantage: more total output
+
+> 1.5: Cost-Benefit Analysis
+
+  * Terms of Trade: the rate at which goods can be exchanged
+    * Mutually beneficial **→** between opportunity costs of the 2 individuals
+    * Capital goods: goods that make consumer goods (more capital goods=more growth in future)
+    * Consumer goods: goods that are consumed (final goods)
+
+> 1.6: Marginal Analysis and Consumer Choice
+
+  * Marginal decisions: trade-off of doing a little more or a little less
+    * Marginal benefit: benefit of producing one more unit
+    * Marginal cost: cost of producing one more unit
+    * Marginal analysis: the study of the additional benefits vs the additional cost of an activity
+
+=====2. Supply and Demand=====
+
+2.1 Demand
+
+Demand is downwards sloping:
+
+  * Price and quantity demanded are inversely related
+    * Substitution effect: when the price of a good decreases, consumers substitute away from goods that are relatively more expensive to the cheaper good
+    * Law of diminishing marginal (returns) utility
+    * Income effect (how much one’s income is actually worth depends on the price of goods)
+      * Normal goods: buy more when higher income (computers)
+      * Inferior goods: buy less when higher income (cup noodles)
+
+  * Shifters of demand: tastes and preference, number of consumers, price of related goods, income, future expectations, size of the market
+
+> 2.2 Supply Supply is upwards sloping: 
+
+  * Price and quantity supplied are directly related
+
+  * Market supply curve is upward sloping because when the price that a good is being sold at is higher, producers want to produce more **→** creates more supply
+    * Inverse is true: if price that something’s being sold at is low, producers want to produce less of it
+
+  * Shifters of supply: price/availability of resources, number of sellers, technology, government actions (taxes, subsidies), prices of other related goods, expectations of future profit.
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image2|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image2.jpeg}}]]> 2.3 Price Elasticity of Demand
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image3|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image3.jpeg}}]]> - e​​= 0 means you are perfectly elastic d  e​​< 1 means you are relatively inelastic d e​​= 1 means you are unit elastic d e​​> 1 means you are relatively elastic d e​​= ∞ means you are perfectly inelastic d Midpoint formula (to find e​): d​ 
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image4|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image4.jpeg}}]]> Total Revenue Test:
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:Untitled|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:Untitled.png}}]]> 2.4 Price Elasticity of Supply
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image5|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image5.jpeg}}]]> - responsiveness of quantity supplied to price changes Determinants of price elasticity of supply: Time and price of alternative inputs “market-period” **→** firms care unable to respond to price change **→** inelastic short-run **→** firms can only increase production with existing factories **→** elastic - long-run **→** firms can expand or reduce factory capacity **→** highly elastic must be positive since higher prices=larger quantities supplied - e​​= 0 means you are perfectly $e_s$< 1 means you are relatively inelastic $e_s$= 1 means you are unit elastic $e_s$> 1 means you are relatively elastic $e_s$= ∞ means you are perfectly elastic 2.5 Other Elasticities 
+
+  * Quantity of a good demanded/supplied is not just dependent on price, so other elasticities can be measured for other factors beyond price as well
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image6|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image6.jpeg}}]]  * Measures how much the demand of a certain good can be affected by price of a related good (when the goods are complements or substitutes)
+
+  * If the cross-price elasticity of demand is positive, the goods are substitutes
+    * If it’s a very large number, they are strong substitutes
+    * If the number is only slightly above 0, they are weak substitutes
+
+  * If the cross-price elasticity of demand is negative, the goods are complements
+    * If it’s a very negative number, they are strong complements
+    * If the number is only slightly below 0, they are weak complements
+
+  * Measures how changes in income affect demand for a good
+
+  * If the income elasticity of demand is positive, the good is a normal good
+    * Quantity demanded increases with increased income
+
+  * If the income elasticity of demand is positive, the good is an inferior good
+    * Quantity demanded decreases with increased income
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image7|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image7.jpeg}}]]> 2.6 Market Equilibrium and Consumer and Producer Surplus
+
+  * Equilibrium: Where supply and demand intersect gives equilibrium price and quantity
+
+  * Consumer Surplus: Difference between how much buyers are willing to pay and the
+
+> price they do pay. Aka as: [[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image8|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image8.jpeg}}]] 
+
+  * Producer Surplus: Difference between the price and how much the seller is willing to sell the product for
+
+  * Deadweight Loss (DWL): Lost efficiency when the optimal quantity (equilibrium) is not being produced
+
+> 2.7 Market Disequilibrium and Changes in Equilibrium and 2.8 The Effects of Government Intervention in Markets
+
+  * Shortage: occurs when price is lower than equilibrium, Quantity demanded > Quantity supplied
+    * Usually due to a Price Ceiling: government sets maximum price BELOW equilibrium, creates excess demand (shortage)
+
+  * Surplus: occurs when price is higher than equilibrium, Quantity supplied > Quantity demanded
+
+  * Usually due to a Price Floor: government sets minimum price ABOVE equilibrium, creates excess supply (surplus)
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image9|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image9.png}}]]  * Double shift rule: If two curves shift at once, either price or quantity will be indeterminate, you will know the other one
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image10|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image10.png}}]]> 2.8.2: Quantity Controls
+
+  * Quota: quantity control saying only x amount can be bought or sold
+
+  * License: gives owner right to supply good/service
+
+  * Demand price: price at which given quantity is demanded
+
+  * Supply price: price at which given quantity is supplied
+
+> 
+
+  * Transactions
+    * Transactions of good/service
+    * Transaction of license
+
+  * Wedge: quota drives wedge between demand price and quantity transacted
+    * A.K.A. quota rent
+    * Vertical distance between A and B
+
+> 2.9 International Trade and Public Policy
+
+  * Protectionism - the government’s use of embargoes, tariffs, quotas, and other restrictions to protect domestic producers from foreign competition.
+
+  * Embargoes - A law that hurts trade with other countries.
+
+  * Tariffs - A tax on an import.
+
+  * Quotas - A limit on the quantity of a good that may be imported in a given time period.
+
+> 
+
+=====3. Production, Cost, and the Perfect Competition Model=====
+
+> 3.1: The Production Function Key Terms: 
+
+  - Production function: Relates physical output of a production process to physical inputs or factors of production.
+
+  - Marginal cost: The increase in cost that accompanies a unit increase in output; the partial derivative of the cost function with respect to output. Additional cost associated with producing one more unit of output.
+
+  - Output: quantity produced, created, or completed.
+
+  - Rental rate: The price of capital.
+
+  - Marginal product: The extra output from using one or more units of input.
+
+  - Capital: Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures).
+
+> Key Takeaways:
+
+  * The production function describes a boundary or frontier representing the limit of output obtainable from each possible combination of inputs.
+
+  * Firms use the production function to determine how much output they should produce given the price of a good and what combination of inputs they should use to produce given the price of capital and labor.
+
+  * The production function also gives information about increasing or decreasing returns to scale and the marginal products of labor and capital.
+
+  * One consequence of the law of diminishing returns is that producing one more unit of output will eventually cost increasingly more due to inputs being used less effectively.
+
+  * The marginal cost curve will initially be downward sloping, representing added efficiency as production increases. If the law of diminishing returns holds, the marginal cost curve will eventually slope upward and continue to rise.
+
+  * The SRAC is typically U-shaped with its minimum at the point where it intersects the marginal cost curve. This is caused by first increasing, and then decreasing, marginal returns to labor.
+
+  * The typical LRAC curve is also U-shaped, reflecting increasing returns to scale where negatively-shaped, constant returns to scale where horizontal and decreasing returns where positively sloped.
+
+  * Capital refers to the material objects necessary for production. In the short run, economists assume that the level of capital is fixed.
+
+  * Labor refers to the human work that goes into production. Typically economists assume that labor is a variable factor of production.
+
+> 
+
+  * The marginal product of an input is the amount of output that is gained by using one additional unit of that input. It can be found by taking the derivative of the production function in terms of the relevant input.
+
+> 3.2 Short-Run Production Costs Key Terms: 
+
+  - Fixed Costs - Costs that don’t change with the amount produced; i.e. pizza oven for a pizza company or salaries
+
+  - Variable Costs - Costs that do change with the amount produced
+
+  - Total Cost - Fixed Costs plus Variable Costs
+
+  - Marginal Cost - Additional Cost of one additional output;
+
+  - Average Fixed Cost:
+
+  - Average Variable Cost:
+
+  - Average Total Cost:
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image11|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image11.png}}]]Example of Calculating Marginal Cost (finding the difference between each total cost)
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image12|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image12.jpeg}}]]> 3.3 Long-Run Production Costs
+
+  * The long-run looks at situations when all resources are variable (no fixed costs)
+
+  * Depending on whether a firm has increasing, constant, or decreasing returns to scale, the output could increase, remain constant, or decrease as inputs increase
+    * Returns to scale shows what happens to a firm’s production in the long-run
+
+  * Economies of scale means that LRATC falls as more is produced (due to specialization)
+    * The firm can buy techniques to produce goods with lower cost per item
+
+  * Constant returns to scale means that LRATC remains the same as more is produced
+
+> 
+
+  * The firm is so efficient now that it can’t reach a lower cost per item
+
+  * Diseconomies of scale means that LRATC actually grows as more is produced
+    * The firm is now too big and it must now pay more due to large numbers of employees or factories which, in turn, pushes the cost per item upwards
+    * Workers interfere with each other (coordination of each worker decreases)
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image13|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image13.png}}]]> 3.4 Types of Profit
+
+  * Economic profit = profit = π = TR - TC = (P-ATC)Q
+    * Includes opportunity cost
+    * TC = implicit cost + explicit cost = ATC x Q
+
+  * Accounting profit = TR - explicit cost = π - Implicit Costs = revenue
+    * (implicit costs = opportunity costs)
+
+> 3.5 Profit Maximization
+
+  * Firms are willing to produce as long as MR ≥ MC up until the last unit produced
+    * “Optimal Output Rule” **→** Firms profit maximize where MR = MC
+
+> 3.6 Firms’ Short-Run Decisions to Produce and Long-Run Decisions to Enter or Exit a Market
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image14|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image14.jpeg}}]]> 3.6.1 Short Run
+
+  * Shutdown rule: In the short run, a firm should produce as long as long as P ≥ AVC
+    * if a firm’s AVC is higher than the price, they are better off shutting down in the short run and only paying their fixed costs than continuing to produce and paying their fixed and variable costs
+
+> 
+
+3.6.2 Long Run
+
+> Exit Rule: Exit in the long-run when π < 0 (when you are incurring losses)
+
+  - Productive Efficiency: they produce the quantity that is the lowest cost (minimum ATC).
+
+  - Allocative Efficiency: they produce the optimal quantity that the society wants (P=MC).
+
+> Short-Run vs. Long-Run Production: Short-run: Fixed no. of firms Long-Run: with entry/exit (assuming no barriers to entry) 
+
+  * Firms will make zero economic profit
+
+  * If there’s profit then firms will enter, lowering the price thus lowering profit until π=0
+
+  * If there are losses, then firms will leave increasing the price until π=0
+
+> 3.7 Perfect Competition
+
+  * Characteristics of Perfect Competition
+    * Many small firms
+    * Identical Products
+      * Think milk or fruits
+    * Low barriers to enter and exit the market
+    * No advertisements
+    * Firms are ‘Price Takers’, No control over price/market power
+    * No economic profit in the long run (which is why we say you have normal profit when you have 0 profit)
+
+Case 1: Normal Profit:
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image15|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image15.jpeg}}]]> 
+
+Case 2: Positive Economic Profit (Profit):
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image16|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image16.jpeg}}]]Case 3: Negative Economic Profit (Losses):
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image17|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image17.jpeg}}]]Example with curves shifting:
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image18|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image18.jpeg}}]]> 
+
+=====4. Imperfect Competition=====
+
+4.1 Introduction to Imperfectly Competitive Markets
+
+> Most Competitive Least Competitive
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image19|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image19.jpeg}}]]  * Common barriers that prevent other firms from entering an imperfectly competitive market: Economies of scale (high start-up costs), control of scarce resources, governmental or legal barriers
+
+  * Herfindahl--Hirschman Index, or HHI, is the square of each firm’s share of market sales summed over the industry. It gives a picture of the industry market structure.
+
+  * Concentration ratios: measure the percentage of industry sales accounted for by the “X” largest firms, for example, the four-firm concentration ratio or the eight-firm concentration ratio.
+
+> 
+
+4.2 Monopoly
+
+> Monopoly: Downward-sloping demand curve - MR ≤ Demand 
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image20|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image20.jpeg}}]]> - Produces at profit Maximization: Q at MC=MR P = D at the point where MR=MC Sells at Price> MR **→** economic profit Deadweight loss **→** output below consumer: producer surplus Supply curve = MC where MC ≥ AV C - Allocatively efficient since MR=MC Productively inefficient since it does not produce at the minimum ATC 4.3 Price Discrimination 
+
+  * Conditions: Have market power, be able to recognize differences in demand, prevent resale of product
+
+  * Imperfect Price discrimination: charging different price based on buyer’s willingness to pay
+
+  * Perfect Price discrimination ​eliminates deadweight loss **→** monopolist produce where P= MC to extract all economic surplus (D=MR)
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image21|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image21.jpeg}}]]  * Example: Coupons- a way to distinguish customers by their willingness to pay. Individuals who collect coupons are more price sensitive than those who don’t**→** charge higher price to price-sensitive customers and provide discount to price-sensitive individuals
+
+> 
+
+4.4 Monopolistic Competition
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image22|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image22.jpeg}}]]  * Firms may earn positive, negative, or zero economic profit in the short run.
+
+  * Typically use advertising as a means of differentiating product
+
+  * Free entry and exit drive profits to 0 in the long run.
+
+  * Output is smaller than what is needed to minimize avg. cost creating excess capacity.
+
+  * Is allocatively inefficient as price (due to markup) > marginal cost
+
+  * Usually caused by insurmountable barriers of entry
+
+  * Natural monopoly = similar to a long run economy of scale. ATC is minimized at the highest Q
+
+4.4.1 Monopolistic Competition Characteristics
+
+  * Many small sellers.
+    * Single firm pricing decisions have a negligible effect on the market price.
+
+  * Differentiated product - buyers are ​not indifferent.
+    * MC firms will use advertising to differentiate their product.
+
+  * Easy entry and exit.
+
+  * Allocatively inefficient (P ≠ MC)
+
+  * Productively inefficient (does not produce at minimum of ATC)
+
+  * Demand curve is downward sloping (market power) but is more elastic than the monopoly demand curve.
+
+  * Profit maximization & produce/produce at loss/shut down rules apply the same way here as it does in other markets structures.
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image23|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image23.jpeg}}]]4.4.2 Long Run
+
+> - Monopolistically competitive firms earn a normal (0) profit in the long run
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image24|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image24.jpeg}}]]> - Short run profits attract new firms to the industry, decreasing the demand for any singular firm’s product until the demand curve is tangent to LRATC.  In the long run, monopolistically competitive firms produce in a region where economies of scale exist because the firm produces in the declining portion of LRATC. 
+
+4.5 Oligopoly and Game Theory
+
+4.5.1 Oligopoly Characteristics
+
+  * Small number of very large firms - each firm has a significant share of the total market.
+
+  * Differentiated product - buyers are not indifferent.
+
+  * Difficult (but not impossible) entry and exit.
+
+  * Interdependent​- actions by one oligopoly firm affect profit outcomes of other firms.
+    * State “the firm’s actions are interdependent” if they are asking to explain why a market is an oligopoly.
+
+  * Cartels often form
+    * A group that formally agrees to control the price and output of a product (collusion) **→** acts as a monopolist
+    * Inherently unstable - there is nothing stopping firms to cheat on the deal and expand production beyond the agreed quantity
+
+4.5.2 Game Theory
+
+  * Payoff Matrix - represents the payoffs to each player for combinations of given strategies
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:Untitled_1|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:Untitled_1.png}}]]> Payoff Matrix format:
+
+  * Dominant strategy - strategy that produces a better payoff for a player regardless of the strategy the opponent chooses.
+
+  * Nash Equilibrium - point where both players can do no better given the choice of their opponent.
+
+> 
+
+=====5. Factor Markets=====
+
+> 5.1 Introduction to Factor Markets
+
+  * Derived demand: The demand for resources is determined (derived) by the products
+
+> they help produce. (ex: the demand for carpenters is derived by the demand of homes)
+
+  * The four factor payments are: Rent, wage, interest, and profit.
+
+  * Marginal revenue product (MRP): The additional revenue generated by an additional resource/worker (measured in dollars).
+
+  * Marginal factor cost (MFC): The additional cost of an additional resource/worker.
+    * Also called marginal resource cost (MRC)
+    * Also called Wage
+
+  * Least Cost Rule:
+
+  * Minimum Wage: price floor
+
+  * Perfect Competition:
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image26|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image26.jpeg}}]]  * Monopsony is the market structure
+
+  * Monopsonist is the individual which has the following firm graph:
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image28|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image28.jpeg}}]]>  5.2 Changes in Factor Demand and Factor Supply 
+
+  * What shifts the demand for labor?
+    * Change in the demand for the product
+    * Change in the productivity of the resource
+    * Change in the price of related resources (substitutes and complements)
+
+  * What shifts the supply for labor?
+    * Number of qualified workers (immigration)
+    * Government regulation/licensing
+    * Cultural expectations
+
+> 5.3 Profit-Maximizing Behavior in Perfectly Competitive Factor Markets
+
+  * The market (or industry) is a standard supply and demand curve
+    * The equilibrium wage in the market establishes the wages firms pay its workers
+    * The supply of workers derives from the amount of workers willing to work at various wages **→** = to worker opportunity costs
+    * The demand curve (in a perfectly competitive labor market) derives from the demand for the products produced by the workers and each individual workers productivity when it comes to producing said products
+
+  * Firms are capable of hiring as many workers as possible at the market wage (this results in the labor supply curve for the firms as horizontal at the market wage)
+    * Remember, the market wage equals the cost of hiring workers so the supply curve is equivalent to the marginal resource cost (MRC)
+    * Any changes in the market wage will result in a shift of the firm’s MRC supply
+    * The demand curve = marginal revenue product (MRP) of the firms workers and has a downward slope
+  * [[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:Untitled_2|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:Untitled_2.png}}]] 
+  * As changes occur in a firm’s worker productivity, demand for a firm’s products, and prices of said products (all change MRP), the demand curve will shift proportionally
+
+  * A firm’s supply curve shifts with market wage
+
+> The graph on the left depicts a decrease in the supply of workers
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image30|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image30.jpeg}}]]> - Thus causing: [[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:Untitled_3|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:Untitled_3.png}}]] 
+
+> 
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image31|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image31.jpeg}}]]> Graph to the left: Increase in MRP for the firm’s laborers. Because of : better training for worker, implementation of new technology etc **→** the MRP shifts right and the firm hires more workers 
+
+  * Firms will hire workers as long as the MRP of the last worker that was hired is ≥ the cost of hiring that worker (MRC)
+
+  * Firm’s will not hire workers when the MRC is greater than the MRP
+
+> CALCULATING MRP
+
+  * Production costs include all expenses associated with making a product, whether it be a good or service. These costs can be broken down into either fixed costs or variable costs.
+
+  * Fixed costs are stable and continuous costs of operating a business that is not dependent on production levels. These costs generally account for overhead (e.g. salaries, building rental payments, utility costs, etc.)
+
+  * Variable costs are costs directly related to production levels (e.g. cost of materials used in production, cost of operating machinery)
+    * Includes all the expenses of making the product as current levels.
+
+5.4 Monopsonistic Markets
+
+A monopsonistic market occurs when there is one buyer and many sellers; the opposite of a monopoly in which there is only one seller with many buyers. In terms of labor, the buyer is the employer and the seller are the potential workers.
+
+Things to Remember:
+
+  * For monopsonies, the MFC is greater than supply.
+
+  * Monopsonistic Firms are wage makers.
+
+  * Monopsony is an example of imperfect competition.
+
+  * A​ monopsonist cannot indulge in wage discrimination.
+
+  * Monopsonies hires workers when MRP = MRC
+
+> 
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image33|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image33.png}}]]Figure 1 Monopsony Graph Figure 2 Monopoly Graph
+
+MPL=∆Q:∆L
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image34|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image34.jpeg}}]]> 
+
+=====Examples:=====
+
+> 1.6: Marginal Analysis and Consumer Choice
+
+FRQ Example (2016 #2):
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image35|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image35.png}}]]>  2.3 Price Elasticity of Demand & 2.6 Market Equilibrium and CS : PS 
+
+FRQ Example (2009 #2)
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image36|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image36.jpeg}}]]> 2.9 International Trade and Public Policy:
+
+FRQ Example (2012 #3):
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image37|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image37.png}}]]> 
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image38|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image38.jpeg}}]]  - (i) Q = 6
+
+> (ii) CS = ½ ($9 - $4) * (10 - 0) = $25 (iii) Tariff Revenue = (Tariff amount) * (Qimported) = ($4 - $2) * (10 - 6) = $8 ​ ​ 
+
+  - Any trade restriction is a deadweight loss, and will decrease the CS + PS sum (aka total surplus). So to maximize CS + PS (total surplus) there should be 0 tariffs, or a $0 per-unit tariff.
+
+>  3.5 Profit Maximization 
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image39|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image39.jpeg}}]]> 3.6 Firms’ Short-Run Decisions to Produce and Long-Run Decisions to Enter or Exit a Market 
+
+  * If a firm is currently producing 10 goods and their AFC is 10, their AVC is 13, and they can only sell their goods for $8, they should shut down in the short run.
+
+  * If they continue to produce those 10 goods, they will have to pay $100 in total fixed costs and $130 in total variable costs, which gives them a total cost of $230. However, they are only earning $80 in revenue, so they have an economic loss of $150.
+
+  * If they don’t produce any goods, they will not need any labor, so they will not pay any variable costs. However, they will still have to pay their fixed costs (since they are fixed in the short run and can only be changed in the long run). They will continue to pay $100 in fixed costs and will not earn any revenue, so their economic loss will be $100. They are better off not producing because they will have a lower economic loss.
+
+> 
+
+4.5.2 Game Theory
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image40|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image40.png}}]]> 
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image41|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image41.jpeg}}]]  - Two oligopoly firms will cooperate where the total maximum revenue occurs at. For this example, this occurs when the two firms MAINTAIN : MAINTAIN.
+
+5.3 Profit-Maximizing Behavior in Perfectly Competitive Factor Markets
+
+  * EXAMPLE: Let’s say a company that makes 84 bananzos has production costs for all 84 bananzos it produces. The MRP is the cost of producing one additional unit. Let’s say that the cost of producing 100 units is $200, and the total cost of producing 101 units is $204. The average cost of producing 100 units is $2 (total cost/total units). However, for MRP, the marginal cost for producing unit #101 is $4 %%((%%$204-$200)%%:(%%101-100))
+    * In layman's terms it is found by dividing the change in production cost by the change in quantity
+      * (new production cost - original production cost)%%/(%%new number of units - original number of units)
+
+> 
+
+5.4 Monopsonistic Markets
+
+[[AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image42|{{AP_Micro_Study_Guide_c7825824723445efa613f06eb9556e84:image42.jpeg}}]]{{:pasted:20240411-025848.png}}

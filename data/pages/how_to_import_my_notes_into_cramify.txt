@@ -1,0 +1,14 @@
+====== How to Import my Notes into Cramify ======
+
+Importing your notes into Cramify is fairly easy but can be challenging without knowing Dokuwiki formating.
+
+  - Export your notes into either HTML, DOCX, PDF format. In my experience, HTML and DOCX works best.
+
+  - Head over to the corresponding website for your file format.
+    - For HTML: [[https://www.vertopal.com/en/convert/html-to-dokuwiki|https://www.vertopal.com/en/convert/html-to-dokuwiki]]
+    - For DOCX: [[https://www.vertopal.com/en/convert/docx-to-dokuwiki|https://www.vertopal.com/en/convert/docx-to-dokuwiki]]
+    - For PDF: [[https://www.vertopal.com/en/convert/pdf-to-dokuwiki|https://www.vertopal.com/en/convert/pdf-to-dokuwiki]]
+
+3. Convert your notes. You will download a file with the tag “.dokuwiki”, drag this file into your browser, you’ll see a bunch of text, just copy all of it (CTRL+A then CTRL+C) and paste it into the Cramify Document.
+
+Other: If you can’t get it working email me (found at [[Help]]) with you notes and what credit you want and I can do it through my end

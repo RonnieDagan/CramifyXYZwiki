@@ -1,0 +1,1354 @@
+====== AP Psychology Study Guide ======
+
+Credit: u/hucketbats1
+
+====Foundations (10-14%)====
+
+History
+
+  * John Locke and empiricism
+    * Philosopher who extended Descartes’s application of natural laws to all things: believing that even the mind is under the control of such laws
+      * Descarte: Fluid in the brain flows through nerves, causing movement so reflexes aren’t controlled
+    * Locke’s school of thought is known as empiricism
+      * The view that knowledge comes from experience via the senses, and science flourishes through observation and experiment
+      * The roots of psychology can be traced back to the philosophy of Empiricism: emphasizing the role of experience and evidence, especially sensory perception, in the formation of ideas, while discounting the notion of innate ideas
+    * In his book, Essay Concerning Human Understanding, Locke proposed that humans are born knowing nothing; Locke used the term tabula rasa (Latin for “blank slate”) to describe the mind of an infant
+    * Locke felt that all knowledge must derive from experience
+    * Locke emphasized nurture over nature as the greater influence on development
+
+  * Thomas Hobbes and behaviorism
+    * Thomas Hobbes (1588--1679) believed that the idea of a soul or spirit, or even of a mind, is meaningless
+    * Hobbes’s philosophy is known as materialism, which is the belief that the only things that exist are matter and energy and what we experience as consciousness is simply a by-product of the machinery of the brain
+    * Hobbes greatly influenced behaviorism
+      * The view that psychology should be an objective science that studies behavior without reference to mental processes
+      * This learning theory states that behaviors are learned from the environment, and says that innate or inherited factors have very little influence on behavior
+
+  * Charles Darwin and evolutionary theory
+    * In On the Origin of Species (1859), Charles Darwin (1809--1882) proposed a theory of natural selection, according to which all creatures have evolved into their present state over long periods of time
+    * This evolution occurs because there exists naturally occurring variation among individuals in a species, and the individuals that are best adapted to the environment are more likely to survive and then reproduce—and are likely to produce more successful offspring
+    * Evolutionary theory affected psychology by providing a way to explain differences between species and justifying the use of animals as a means to study the roots of human behavior
+    * Behavior evolves just like physiology: both function to help individuals survive
+
+  * Edward Titchener and introspection
+    * Edward Titchener (1867--1927) was a student in Wundt’s laboratory and was one of the first to bring the science of psychology to the United States
+    * Titchener sought to identify the smallest possible elements of the mind, theorizing that understanding all of the parts would lead to the understanding of the greater structure of the mind
+    * Which are illuminated through interviews with a subject describing his or her conscious experience, this is known as introspection
+    * Introspection is just looking within oneself to explore the elemental structure of the human mind
+
+  * Wilhelm Wundt and structuralism
+    * Many credit Wilhelm Wundt (1832--1920) as the founder of the science of psychology.
+    * Wundt was trained in physiology and hoped to apply the methods that he used to study the body to the study of the mind
+    * Structuralism was founded by Wilhelm Wundt, who used controlled methods, such as introspection, to break down consciousness to its basic elements without sacrificing any of the properties of the whole
+      * Structuralism was the approach and introspection was the methodology
+    * Structuralism entails looking for patterns in thought
+
+  * William James and functionalism
+    * William James (1842--1910), an American psychologist, opposed the structuralist approach
+      * Examined how the structures identified by Wundt function in our lives
+      * Structures of consciousness must have a function such as smelling and thinking
+    * Argued that what is important is the function of the mind, such as how to solve a complex problem
+    * James, influenced by Darwin, believed that the important thing to understand is how the mind fulfills its purpose
+    * This function-oriented approach is appropriately called functionalism
+
+  * Mary Whiton Calkins, Dorothea Dix, G. Stanley Hall, Margaret Floy Washburn
+    * Mary Whiton Calkins: first female graduate student in psychology, but she was denied a PhD because of her gender; she outscored all of the male students in her qualifying exams
+    * Dorothea Dix: reformed mental institutions in the U.S.
+    * G. Stanley Hall: first president the American Psychological Association, formed in 1892
+    * Margaret Floy Washburn: first female PhD in psychology and served as the second female president of the American Psychological Association
+
+Approaches
+
+  * Behavioral genetics
+    * Behavioral genetics is the field of psychology that explores how particular behaviors may be attributed to genetics
+    * This perspective takes into account biological predispositions as well as the extent of influence that the environment had
+    * A person studying behavioral genetics might investigate to what extent risk-taking behavior in adolescents is attributable to genetics
+
+  * Behaviorism
+    * Behaviorism posits that psychology is the study of observable behavior and that the mind or mental events are unimportant as they cannot be observed
+    * Classical conditioning, first identified by Ivan Pavlov (1849--1936), was one of the behaviorists’ most important early findings; it is defined as a form of learning in which learning in which a behavior comes to be elicited by a formerly neutral stimulus
+      * John Watson (1878--1958) and his assistant Rosalie Rayner applied classical conditioning to humans in the famed Little Albert experiment: they made loud sounds behind a 9-month-old whenever he would touch something white and furry, and he was afraid of everything white and furry afterwards
+    * B. F. Skinner (1904--1990), through the development of Skinner Box, described operant conditioning, in which a subject learns to associate a behavior with an environmental outcome
+      * A Skinner box is a device used to record an animal's behavior in a compressed time frame in which it will be rewarded or punished for engaging in certain behaviors
+    * Behaviorism no longer prevailing approach in psychology but behavioral principles still used in behavior modification: techniques in which psychological problems are considered to be the product of learned habits and can be unlearned by using behavioral methods
+
+  * Biological
+    * View genes, chemicals and body types as the determinant of personality
+    * Genetics play a role in temperament: emotional style and characteristics that define how a person deals with the world
+
+  * Biopsychosocial
+    * Emphasizes the need to investigate the interaction of biological, psychological, and social factors as contributing to a behavior or a mental process
+
+  * Cognitive/cognitive-behavioral
+    * Cognitive psychology is an approach rooted in the idea that to understand people’s behavior, we must first understand how they think
+    * Cognitive psychology concerns itself with thinking, memory, and internal thought processes
+    * This approach combines the structuralist approach of looking at the subcomponents of thought and functionalist approach of understanding the purpose of thought
+    * Replaced the purely behavioral approach as the predominant psychological method used in U.S.
+
+  * Evolutionary
+    * The study of behaviors and mental processes that are inherited from ancestors and how the principles natural selection and genes present
+    * Draws from Darwinian theories of natural selection and evolution
+    * For example, fear is an adaptive evolutionary response and without fear our survival would be jeopardized
+
+  * Gestalt
+    * School of thought that looks at the human mind and behavior as a whole
+    * Core belief is [[https://www.verywellmind.com/what-is-holism-4685432|holism]], or that the whole is greater than the sum of its parts
+    * When trying to make sense of the world around us, we do not simply focus on every small component; instead, our minds tend to perceive objects as part of a greater whole and as elements of more complex systems
+
+  * Humanistic
+    * Humanistic approach is rooted in the philosophical tradition of studying the roles of consciousness, free will, and awareness of the human condition
+    * Humanistic psychologists emphasize personal values and goals and how they influence behavior
+    * Abraham Maslow (1908--1970) proposed the idea of self-actualization: we have a hierarchy of needs; you can’t achieve the top level, self actualization, unless the previous levels have been achieved because lower needs dominate an individual’s motivation as long as they are unsatisfied; from bottom to top the levels are physiological needs, safety, belonging, self-esteem, self-actualization
+    * Carl Rogers (1902--1987) believed in unconditional positive regard: people will naturally strive for self actualization and high self-esteem, unless society taints them
+
+  * Psychodynamic/psychoanalytic
+    * Developed by Freud (1856--1939) who believed that the id, superego and ego, fought for dominance in an individual’s unconscious and thus compose their personality
+      * Id (instincts): the primitive and instinctual part of the mind that contains sexual and aggressive drives and hidden memories; exists in the unconscious mind
+      * Ego (reality): reality principle/negotiator between desires of the id and limitations of the environment; mediate between id and superego; exists in party conscious and partly unconscious
+      * Superego (morality): control the id's impulses, especially those which society forbids, such as sex and aggression and persuades the ego to turn to moralistic goals rather than realistic ones and to strive for perfection; operates on conscious and unconscious level
+    * Believed innate drives for sex and aggression are the primary motives for our behavior and personalities
+
+  * Sociocultural
+    * Belief that the environment a person lives in has a great deal to do with how the person behaves and how others perceive that behavior
+    * Cultural values vary from society to society and must be taken into account if one wishes to understand, predict, or control behavior
+{{:ap_psychology_study_guide_5fea70d0062d4f6f9e9b5cefff580543:image3.png?400|}}
+{{:ap_psychology_study_guide_5fea70d0062d4f6f9e9b5cefff580543:image1.png?400|}}
+Domains
+
+  * Biological
+    * A question that concerns the effect of drugs on behavior refers to the biological domain
+
+  * Clinical
+    * A question that considers treatments for someone addicted to drugs deals with the clinical domain
+
+  * Cognitive
+    * What thoughts might someone entertain to justify their drug use?
+
+  * Counseling
+    * How might a school counselor talk to a student about drugs?
+
+  * Developmental
+    * At what ages might someone be more susceptible to peer pressure?
+
+  * Educational
+    * How effective are school-based programs?
+
+  * Experimental
+    * Dealing with experiments
+
+  * Industrial-organizational
+    * Dealing with workplaces
+
+  * Personality
+    * Dealing with personality
+
+  * Positive
+    * Focuses on positive aspects and strengths of human behavior
+
+  * Psychometric
+    * Dealing with how to measure things in psychology
+
+  * Social
+    * A question about relationships between drug users and their families refers to the social domain
+
+Methods
+
+  * Causation vs. correlation
+    * Correlation is a relationship between two variables; when one variable changes, the other variable also changes
+    * Causation is when there is a real-world explanation for why this is logically happening; it implies a cause and effect
+
+  * Descriptive statistics
+    * Correlation coefficient
+      * The correlation coefficient is a numerical value that indicates the degree and direction of the relationship between two variables
+      * Correlation coefficients range from +1.00 to --1.00; the sign (+ or --) indicates the direction of the correlation, and the number (0 to + or --1.00) indicates the strength of the relationship
+    * Frequency distribution (normal, bimodal, positive or negative skew)
+      * In a perfectly normal distribution, the mean, median, and mode are identical
+      * If two numbers both have the greatest frequency (mode), the distribution is bimodal
+      * A positive skew means that most values are on the lower end, but there are some exceptionally large values
+      * A negative skew means the opposite: most values are on the higher end, but there are some exceptionally small values 
+{{:ap_psychology_study_guide_5fea70d0062d4f6f9e9b5cefff580543:image2.png?400|}}
+    * Measures of central tendency
+      * The mean is the arithmetic average of a set of numbers
+      * The mode is the most frequently occurring value in the data set
+      * The median is the number that falls exactly in the middle of a distribution of numbers
+      * These statistics can be represented by a normal curve
+
+{{:ap_psychology_study_guide_5fea70d0062d4f6f9e9b5cefff580543:image4.png?400|}}
+  * Variation (range, standard deviation)
+    * The range is simply the largest number minus the smallest number
+    * The standard deviation determines the height and width of the graph
+      * When the standard deviation is large, the curve is short and wide
+      * When the standard deviation is small, the curve is tall and narrow
+      * In a typical distribution of numbers, about 68 percent of all scores are within one standard deviation above or below the mean, and about 95 percent of all scores are within two standard deviations above or below the mean
+        * So, for example, IQ is typically said to have a mean of 100 and a standard deviation of 15, so a person with a score of 115 is one standard deviation above the mean
+      * Math questions about normal distributions can appear on the test, but because skewed distributions do not all share the same mathematical properties, questions about percentages and these distributions are often trick questions
+      * In skewed distributions, the median is a better indicator of central tendency than the mean
+
+  * Groups
+    * Control vs. experimental
+      * The group receiving or reacting to the independent variable is the experimental group; the control group does not receive the independent variable but should be kept identical in all other respects
+      * Using two groups allows for a comparison to be made and causation to be determined
+    * Random assignment
+      * Subjects are randomly assigned into both the experimental and control groups
+      * Random assignment is done to ensure that each group has minimal differences
+    * Random selection
+      * Random sampling/selection is a way of ensuring maximum representativeness: the degree to which a sample reflects the diverse characteristics of the population that is being studied
+        * Unintentional sampling bias occurred during the 1948 U.S. Presidential Election: a survey was conducted by randomly calling households and asking them whom they intended to vote for, Harry Truman or Thomas Dewey, and based on this phone survey, Dewey was projected to win but the results of the election proved otherwise, as Truman was re-elected
+        * In 1948, having a telephone was not such a common thing, and households that had them were generally wealthier; as a result, the “random” selection of telephone numbers was not a representative sample because many people did not have telephone numbers
+      * Types of sampling bias
+        * The bias of selection from a specific real area occurs when people are selected in a physical space; for example, if you wanted to survey college students on whether or not they like their football team, you could stand on the quad and survey the first 100 people that walk by; however, this is not completely random because people who don’t have class at that time are unlikely to be represented
+        * Self-selection bias occurs when the people being studied have some control over whether or not to participate; for example, an Internet survey might elicit responses only from people who are highly opinionated and motivated to complete the survey
+        * Pre-screening or advertising bias occurs often in medical research; how volunteers are screened or where advertising is placed might skew the sample; for example, if a researcher wanted to prove that a certain treatment helps people to stop smoking, the mere act of advertising for people who “want to quit smoking” might provide only a sample of people who are already highly motivated to quit and might have done so without the treatment
+        * Healthy user bias occurs when the study population tends to be in better shape than the general population
+
+  * Inferential statistics
+    * Purpose is to determine whether or not findings can be applied to the larger population from which the sample was selected
+    * The extent to which the sample differs from the population is known as sampling error
+    * Psychologists typically want to be able to generalize the results of the experiment to a larger group of people so it is important that the sample reflects the characteristics of the population as a whole and if it does, then the sample is referred to as being representative
+
+  * Inter-rater reliability
+    * It is also important that the study have reliability, which is whether or not the same results appear if the experiment is repeated under similar conditions
+    * A related concept is inter-rater reliability, the degree to which different raters agree on their observations of the same data
+
+  * Operational definitions
+    * The conceptual definition is the theory or issue being studied, the operational definition refers to the way in which that theory or issue will be directly observed or measured in the study
+    * In a study on the effects of adolescent substance abuse, the way in which taking drugs affects adolescent behavior is the conceptual definition, while the number of recorded days the student is absent from school due to excessive use of substances is the operational definition
+    * Operational definitions have to be internally and externally valid
+
+  * Study types
+    * Case study
+      * Case studies are intensive psychological studies of a single individual
+      * These studies are conducted under the assumption that an in-depth understanding of single cases will allow for general conclusions about other similar cases
+      * Multiple case studies on similar cases are combined to draw inferences about issues
+      * The danger of generalizing from the outcomes of case studies is that the individuals studied may be atypical of the larger population, so researchers try to ensure that their studies are generalizable—that is, applicable to similar circumstances because of the predictable outcomes of repeated tests
+      * Disadvantage because cannot assume cause & effect
+    * Correlational
+      * Involves assessing the degree of association between two or more variables that occurs naturally; if the characteristics under consideration are related, they are correlated
+      * Researchers do not directly manipulate variables but rather observe naturally occurring differences
+      * It is important to note that correlation does not prove causation; correlation simply shows the strength of the relationship among variables
+        * For example, poor school performance may be correlated with lack of sleep; however, we do not know if lack of sleep caused the poor performance, or if the poor school performance caused the lack of sleep, or if some other unidentified factor influenced them both
+      * One way to gather information for correlational studies is through surveys. Using either questionnaires or interviews, one can accumulate a tremendous amount of data and study relationships among variables.
+        * For example, survey studies might examine the relationship between socioeconomic status and educational levels.
+      * Correlational studies can be preferred to experiments because they are cheaper, consume less time, easier to conduct, and some concepts can't be ethically studied in experiments
+        * For example, you may want to study how child abuse affects self-efficacy in adulthood, but no one will allow you to randomly assign half of your baby participants to the child abuse condition
+      * It can identify relationship between two variables but not cause & effect
+    * Cross-sectional
+      * Cross-sectional studies are designed to test a wide array of subjects from different backgrounds to increase generalizability
+      * It does not involve manipulating variables and happens at a single point in time
+      * Allows researchers to look at numerous characteristics at once (age, income, gender, etc.)
+      * Done because don’t have to wait a long time with the same subjects and can simply use people from other gaps; the generational gap may cause differences however
+    * Experimental
+      * An experiment is an investigation seeking to understand relations of cause and effect
+        * The experimenter changes a variable (cause) and measures how it changes another variable (effect)
+          * The manipulated variable is called the independent variable and the dependent variable is what is measured
+        * At the same time, the investigator tries to hold all other variables constant so she can attribute any changes to the manipulation
+      * Subjects are randomly assigned into both the experimental and control group to ensure that each group has minimal differences using single or double-blind method
+        * Single-blind design means that the subjects do not know whether they are in the control or experimental group and in a double-blind design, neither the subjects nor the researcher knows who is in the two groups
+          * Double-blind studies are designed so that the experimenter does not inadvertently change the responses of the subject, such as by using a different tone of voice with members of the control group than the experimental group
+            * In some double-blind, the control group is given a placebo which makes the control group to believe they’re the experimental group, but it contains none of the tested material
+      * Researcher can control variables to establish cause and effect but difficult to generalize
+    * Longitudinal
+      * Research that follows and retests the same people over time
+      * Good because it eliminates groups differences and had lots of detail but it’s also expensive, time consuming, and had high dropout rates
+    * Naturalistic observation
+      * This technique involves studying the spontaneous behavior of participants in natural surroundings and recording what they see
+      * Advantage in real world validity (people in their own setting) but no cause & effect
+    * Survey
+      * Research conducted through info gathered from surveys that’s been statistically analyzed
+      * Susceptible to sampling bias
+
+  * Validity (internal and external)
+    * Internal validity is the certainty with which the results of an experiment can be attributed to the manipulation of the independent variable rather than to some other, confounding variable
+    * External validity is the extent to which the findings of a study can be generalized to other contexts in the “real world”
+
+  * Variables
+    * An experiment is an investigation seeking to understand relations of cause and effect: the experimenter changes a variable (cause) and measures how it changes another variable (effect); at the same time, the investigator tries to hold all other variables constant so she can attribute any changes to the manipulation
+      * Confounding
+        * If an unknown factor is playing a role, it is a confounding variable
+      * Control
+        * The control variable is constant in both groups
+      * Dependent
+        * The dependent variable is what is measured
+      * Independent
+        * The manipulated variable is called the independent variable
+
+====Biological Bases of Behavior (8--10%)====
+
+  * Brain regions
+    * Broca’s area
+      * Area in the left hemisphere is typically specialized for language processing
+      * Named for Paul Broca, who noticed that brain damage to the left hemisphere in stroke patients resulted in expressive aphasia, or loss of the ability to speak
+    * Frontal lobe
+      * Responsible for higher-level thought and reasoning, working memory, paying attention, solving problems, making plans, forming judgments, and performing movements
+      * Holds the motor cortex: the region involved in the planning, control, and execution of specific movements; map of our motor neurons
+    * Occipital lobe
+      * Where vision is processed and internal visualizations occur
+      * Each lobe receives visual information primarily from opposite visual field
+    * Parietal lobe
+      * Handles somatosensory (sensation) information and is the home of the primary somatosensory cortex-- map of sensory receptors
+      * Receives information about temperature, pressure, texture, and pain
+    * Temporal lobe
+      * Handles auditory input and is critical for processing speech and face recognition
+      * Located around temples
+    * Wernicke’s area
+      * Area in the left temporal lobe that is responsible for comprehension of speech
+      * Named for Carl Wernicke who discovered that when damaged in stroke patients, resulted in receptive aphasia, or the inability to comprehend speech
+
+  * Consciousness
+    * Alertness and arousal (reticular formation)
+      * Alertness and the arousal involve the ability to remain attentive to our surroundings; can be impaired by head injuries, toxins, or other medical conditions or by a variety of disorders, including narcolepsy, ADHD, depression, and chronic fatigue syndrome
+      * Alertness and arousal are controlled by structures within the brainstem known as the reticular formation (also known as the reticular activating system, or RAS)
+    * Altered consciousness (hypnosis, meditation)
+      * Hypnosis is an altered state of consciousness in which the hypnotized person is very relaxed and open to suggestion
+        * In some psychotherapy, hypnotism is used to extract memories that were repressed
+        * Posthypnotic suggestions are instructions given to people when they are hypnotized that are to be implemented after they wake that have had limited success
+      * Meditation has been utilized successfully to manage pain, stress, and anxiety disorders
+        * Mindfulness-based stress reduction (MBSR) is a protocol commonly used in the medical setting to help alleviate stress
+        * Meditators have increased alpha and theta waves while they are meditating
+    * Sleep (circadian rhythms, disorders, stages of sleep)
+      * Sleep is an altered state of consciousness
+      * Interestingly, scientists still do not precisely understand the function of sleep
+        * One theory holds that sleep is necessary for restorative processes.
+          * If this theory is correct, then some chemical in the body should be associated with sleep; researchers have discovered some neurochemicals, notably melatonin, that play a role in sleep, yet a definitive cause-and-effect relationship between a brain chemical and the control of sleep has not been demonstrated
+        * Another theory of sleep is based on evolution
+          * According to this point of view, our ancestors who survived to pass on their genes were diurnal (awake during the day and asleep at night) because our nocturnal ancestors were more likely to meet with disaster and die off before passing on their genes, as their visual system was not built to survive at night against nocturnal predators
+      * Our body temperature and other physiological markers follow a day-to-night pattern, known as a circadian rhythm
+        * Body temperature rises as the morning approaches, peaks during the day, dips in early afternoon, and then begins to drop again before sleep at night
+        * Circadian rhythms also vary with age: newborns can spend two-thirds of a day asleep, older adults tend to peak in the morning and decline as the day progresses, while adolescents and young adults tend to be more energetic in the mid to late evening
+        * External stimuli are important to setting our circadian rhythms; rapidly changing these stimuli, such as traveling across time zones, can disturb circadian rhythms
+      * Sleep can be divided into stages based on brain-wave patterns using EEGs
+        * Stage 1
+          * When we are awake and focused, **beta wave** activity is happening.
+          * While still awake but more relaxed, we drift into **alpha waves**.
+          * When we drift off to sleep, **theta wave** activity takes over
+        * Stage 2
+          * A pattern of waves known as **sleep spindles** appears
+          * These spindles are occasionally broken up by **K complexes**, which are large, slow waves
+          * The skeletal muscles relax during this portion of sleep
+        * Stages 3 and 4
+          * **Delta waves** are most common, with a larger proportion of delta waves occurring during stage 4 sleep
+          * The last stage of sleep is called REM (rapid eye movement) sleep
+            * In all other stages of sleep, which often are referred to collectively as NREM or non-REM sleep, the eyes are relatively still
+            * Researchers Aserinsky and Kleitman discovered that the eyes move vigorously during the REM stage
+            * In REM sleep, our brain waves are mostly **theta and beta**
+          * Each sleep cycle is approximately 90 minutes long
+      * Disorders regarding sleeping; or dyssomnias: abnormalities in the amount, quality, or timing of sleep
+        * Insomnia is the inability to fall asleep or to maintain sleep
+        * Narcolepsy is the inability to stay awake
+        * Sleep apnea is a disorder in which a person repeatedly stops breathing while sleeping, which results in awakening after a minute or so without air
+        * Parasomnias involve abnormalities of movement during deep sleep; they include sleepwalking (or somnambulism) and night terrors
+    * Stream of consciousness (William James)
+      * The stream of consciousness is a metaphor describing how [[https://en.wikipedia.org/wiki/Thought|thoughts]] seem to flow through the [[https://en.wikipedia.org/wiki/Consciousness|conscious]] [[https://en.wikipedia.org/wiki/Mind|mind]]
+    * The unconscious (Sigmund Freud)
+      * Freud hypothesized that dreams are the expression of unconscious wishes or desires
+      * In psychoanalytic theory, the manifest content, or storyline and imagery of the dream, offers insight into and important symbols relating to unconscious processes
+      * The latent content is the emotional significance and underlying meaning of the dream
+
+  * Endocrine system
+    * Another way by which various parts of our bodies relay information to one another; works through groups of cells known as glands, which release substances called hormones which affect cell growth and proliferation
+      * Hypothalamus
+        * Controls the pituitary gland, hunger, thirst, sex drives, body temperature, and biological rhythms; serves as “reward/pleasure center” essential to survival
+        * Blood vessels support the hypothalamus, which enables it to quickly respond to any change in the amount of glucose in the bloodstream
+          * “Start eating” center (lateral) and a “stop eating” (ventromedial)
+          * Controls metabolic rate
+      * Pineal gland
+        * Region responsible for the production of melatonin
+        * Processes information about light, natural and artificial, from photoreceptors
+      * Pituitary gland
+        * Primary gland, also known as the master gland, is located just under the part of the brain that controls it—the hypothalamus
+        * Regulates growth, water and salt metabolism, reproductive organs and controls the adrenal glands
+
+  * Evolution
+    * Adaptive value
+      * Refers to the usefulness of certain abilities or traits that have evolved in animals and humans and tend to increase their chances of survival, such as finding food, acquiring mates, and avoiding pain and injury
+    * Heredity and environment
+      * Nature vs nurture debate
+      * Nature is the degree of variance among individuals that can be attributed to genetic variations as many physical and psychological characteristics are inherited
+      * Nurture is the degree to which a trait’s expression is caused by the environment in which an individual lives
+      * Psychology has long been concerned with the relative influences of genetics and environment and today, the common view is that nature and nurture work together: our psychological makeup is largely the result of the interaction of these two forces
+
+  * Nervous system
+    * Central and peripheral
+      * The central nervous system (CNS) comprises the brain and the spinal cord
+      * The peripheral nervous system (PNS) comprises all other nerves in the body
+        * Somatic NS: Voluntary movement: Responsible for voluntary movement of large skeletal muscles
+        * Autonomic NS: Involuntary: Controls the non-skeletal or smooth muscles, such as those of the heart and digestive tract (which are typically involuntary)
+          * Sympathetic NS: The system responsible for the heightened state of physiological arousal (fight-or-flight)—an increase in heart rate and respiration, accompanied by a decrease in digestion and salivation
+          * Parasympathetic NS: The complementary system responsible for conserving energy; when the fight ends it becomes active and returns the body to homeostasis (sending blood to the stomach for digestion, slowing the heart rate)
+    * Parts of a neuron
+      * Dendrites: Receive input from other neurons through receptors on their surface
+      * Soma: Clearly defined cell body (includes nucleus)
+      * Axon: Long, tubelike structure that responds to input from the dendrites and soma and transmits a neural message down its length ending at a terminal button
+      * Myelin Sheath: Fatty coating around some neurons that is insulation for the electrical impulses and quickens the rate at which electrical information is carried down the axon; the better insulated the sheath, the faster and more efficiently it can send action potentials
+        * The myelin looks like beads on a string; the small gaps between the “beads” are known as the nodes of Ranvier; these nodes help speed up neural transmission
+      * Terminal Button: Knobs on the branched end of the axon that come very close to the cell body and dendrites of other neurons, but don’t touch; they release neurotransmitters across the synapse, where they bind with receptors on subsequent dendrites
+      * Synapse: Gap between the terminal button and the dendrites and cell body of other neurons which neurotransmitters travel across
+    * Signal transmission between neurons
+      * Communication between cells happens via neurotransmitters, which bind to receptors on the dendrites of the adjacent neurons
+      * Excitatory neurotransmitters serve to excite the cell or cause the neuron to fire
+      * Inhibitory neurotransmitters inhibit (or stop) cell firing
+
+  * Neurotransmitters
+    * Chemicals released in synaptic gap that are received by neurons
+      * GABA (gamma-Aminobutyric acid): Major inhibitory NT
+      * Glutamate: Major excitatory NT and the all-purpose counterpart to GABA
+      * Dopamine: Movement, attention, and reward; dopamine imbalances play a part in Parkinson’s and schizophrenia
+      * Serotonin: Arousal, sleep, pain sensitivity, hunger regulation, mood and emotion
+      * Acetylcholine (ACh): Memory function and muscle contraction, particularly in the heart
+      * Epinephrine & Norepinephrine: Alertness and adrenaline (controls release in sympathetic nervous system); both are the same epinephrine has a stronger effect on the heart and norepinephrine has a stronger effect on blood vessels; lack of norepinephrine is implicated in depression
+      * Endorphins: Body’s pain killers, relieve stress, and give happiness
+      * Oxytocin: Love and bonding
+    * Agonists and antagonists
+      * Agonist: drug that mimics a NT
+      * Antagonist: drug that blocks a NT
+    * Reuptake
+      * Unused NTs or NTs that have conducted their impulse are either broken down by enzymes or absorbed back into the sending neuron
+      * SSRIs (selective serotonin reuptake inhibitors) block reuptake as treatment for depression
+
+  * Neuroplasticity
+    * The brain can reorganize and ‘heal’ itself by forming or severing neural connections throughout one’s life
+    * This important ability (neuroplasticity) allows the brain to compensate for injury or disease, in order to continue responding adaptably to the environment
+
+  * Psychoactive drugs, responses
+    * Addiction/dependence
+      * Dependence occurs when an individual continues using a drug despite overarching negative consequences in order to avoid unpleasant physical and/or psychological feelings associated with not taking it
+      * Psychological dependence is biologically based
+      * Many addictive drugs share the characteristic of stimulating the release of dopamine
+    * Tolerance
+      * A person has developed tolerance to a drug when increasingly larger doses are needed in order for the same effect to occur
+      * It is possible to develop tolerance without being dependent
+    * Withdrawal
+      * The process of weaning off a drug one has become dependent upon
+      * This often involves physical and psychological symptoms of a highly unpleasant nature
+
+  * Psychoactive drugs, types
+    * Depressants
+      * Alcohol, barbiturates, tranquilizers, and narcotics
+      * Decrease sympathetic NS activation, highly addictive
+    * Hallucinogens
+      * LSD and marijuana
+      * Causes hallucinations, not very addictive
+    * Stimulants
+      * Caffeine, amphetamines, cocaine, and nicotine
+      * Increase sympathetic NS activation, highly addictive
+
+  * Research tools
+    * Autopsy
+      * psychological autopsy is conducted when a person has successfully ended their life with suicide; the goal of the autopsy is to gather information that will help determine that it was indeed suicide and to assess what steps could have been taken to prevent the death
+      * It is used to determine the victim's psychological intent, using interviews and examination of documents to reconstruct the behaviour, personality, lifestyle, habits and history of the victim prior to death
+    * Case studies
+      * An in-depth, descriptive psychological analysis of a single case or person
+    * Imaging techniques
+      * Imaging techniques allow researchers to map the structure and/or activity of the brain and correlate this data with behavior
+      * An **EEG** (electroencephalogram) measures subtle changes in brain electrical activity through electrodes placed on the head; the data can be filtered mathematically to yield evoked potentials, which allow psychologists to get an electrical picture of brain activity
+      * Computerized axial tomography scans, **CAT scans**, generate cross-sectional images of the brain using a series of X-ray pictures taken from different angles
+      * Magnetic resonance imaging or an **MRI** uses extremely powerful electromagnets and radio waves to get 3-D structural information from the brain; the techniques capture only “snapshots” of the brain so they don’t allow observation of the brain in action over time
+        * Functional MRI or **fMRI** allows you to see the brain in action over time by rapid sequencing of MRI images
+      * **PET scans,** positron emission tomography, allow scientists to see the brain as it works
+        * PET scans provide images via diffusion of radioactive glucose in the brain
+        * Glucose is the primary “fuel” of brain cells; the more glucose being used in a given brain area, the more that area is in active use, so psychologists can see what brain areas are at work during various tasks and psychological events
+    * Lesioning
+      * A lesion is damage to a part of the brain that results in destruction to the neurons
+      * An ablation experiment (or lesioning study) is a research method in which areas of the brain are removed or disabled in order to determine their specific functions
+    * Split-brain research (Michael Gazzaniga, Roger Sperry)
+      * Roger Sperry demonstrated that the two hemispheres of the brain can operate independently of each other
+        * He did this by performing experiments on split-brain patients who had their corpus callosums severed to control their epileptic seizures
+        * Split brain patients can describe objects without deficit if presented in the right visual field (processed on the left, more verbal side of the brain), but they have great difficulty drawing the image; whereas, if the image is presented in the left visual field (and processed in the more visual right side of the brain), the person can draw or choose the object but cannot explain it verbally
+        * This is called contralateral processing
+      * Michael Gazzaniga has also done pioneering research in this area
+        * Performed the split brain experiments where he asked people to start in the center of the word “heart” they reported seeing “art,” which was processed in the left hemisphere of the brain
+        * this is because the left hemisphere contains two association areas: Broca’s Area and Wernicke’s Area that are involved in expressive and receptive language
+        * Yet when asked to point to the word, they all pointed at “he” first rather than “art” (right hemisphere)
+
+====Sensation and Perception (6-8%)====
+
+General
+
+  * Absolute vs. difference threshold (Weber’s law)
+    * Absolute Threshold: the minimum stimulation needed to detect a stimulus 50% of the time
+    * Difference Threshold: the minimum difference needed between two stimuli required for detection 50% of the time
+    * Weber’s Law: The more intense the stimulus, the more change will be needed for us to detect
+
+  * Bottom-up vs. top-down processing
+    * Bottom-up processing achieves recognition of an object by breaking it down into its component parts
+      * It relies heavily on the sensory receptors
+      * Bottom-up processing is the brain’s analysis and acknowledgement of the raw data
+    * Top-down processing, by contrast, occurs when the brain labels a particular stimulus or experience
+      * For example, let’s think about the first time a person tastes the sourness of a lemon: in this example, the neurons firing to alert the brain of the presence of some taste in the mouth is a bottom-up process, whereas labeling it “sour” is the top-down process
+        * However, the next time the person sees a lemon, they might salivate or wince before ever tasting the lemon; this is top-down processing because the expectation based on experience influences the perception of the lemon
+
+  * Experience and culture can affect perception
+    * Context effects
+      * A context effect describes the influence of environmental factors on one's perception of a stimulus; the impact of context effects is considered to be part of top-down design
+    * Perceptual set
+      * A perceptual set refers to a predisposition to perceive things in a certain way; in other words, we often tend to notice only certain aspects of an object or situation while ignoring other details
+      * A person driving a car has a perceptual set to identify anything in the car or on the road that might affect his or her safety
+    * Schema
+      * A schema is a cognitive framework or concept that helps organize and interpret information
+      * Schemas can contribute to stereotypes and make it difficult to retain new information that does not conform to our established ideas about the world
+        * Children learn from their cultures a concept of what it means to be male or female and that they adjust their behavior accordingly
+
+  * Gestalt psychology
+    * The Gestalt approach to form perception is based on a top-down theory
+    * Some basic Gestalt principles of figure detection include the following:
+      * Proximity—the tendency to see objects near each other as forming groups
+      * Similarity—the tendency to prefer grouping like objects together
+      * Symmetry—the tendency to perceive forms that make up mirror images
+      * Continuity—the tendency to perceive fluid or continuous forms, rather than jagged ones
+      * Closure—the tendency to see closed objects rather than those that are incomplete
+    * These Gestalt principles represent the Law of Prägnanz, or minimum tendency, meaning that we tend to see objects in their simplest forms
+
+  * Sensory adaptation
+    * Adaptation is an unconscious, temporary change in response to environmental stimuli
+    * An example of this process is our adaptation to being in darkness. At first, it is difficult to see, but our visual system soon adapts to the lack of light
+
+  * Signal detection theory
+    * This theory takes into consideration that there are four possible outcomes on each trial in a detection experiment: the signal (stimulus) is either present or it is not, and the participants respond that they can detect a signal or they cannot
+      * Hit—the signal was present, and the participant reported sensing it
+      * Miss—the signal was present, but the participant did not sense it
+      * False alarm—the signal was absent, but the participant reported sensing it
+      * Correct rejection—the signal was absent, and the participant did not report sensing it
+    * SDT takes into account response bias, moods, feelings, and decision-making strategies that affect our likelihood of having a given response
+
+  * Synesthesia
+    * Synesthesia is a neurological condition in which information meant to stimulate one of your senses stimulates several of your senses
+
+  * Transduction
+    * Through a process called transduction, the receptors convert the input, or stimulus, into neural impulses, which are sent to the brain
+    * For example, when we hear something, tiny receptor cells in the inner ear first convert mechanical vibrations into electrochemical signals; these signals are then carried by neurons to the brain
+    * Transduction takes place at the level of the receptor cells, and then the neural message is passed to the nervous system
+
+Auditory
+
+  * Order of transmission of auditory information
+    * Pathway of sound: sound → pinna → auditory canal →eardrum (tympanic membrane) → hammer, anvil, stirrup (HAS) → oval window → cochlea → auditory nerve → temporal lobes
+
+Body senses
+
+  * Kinesthetic
+    * Keeps track of position and orientation of specific body parts in relation to each other
+
+  * Pain and pressure
+    * Gate control theory: the spinal cord contains a neurological “gate” that blocks pain signals or allows them to pass on to the brain
+
+  * Vestibular
+    * Tells how body is oriented in space; sense of balance
+
+Chemical senses
+
+  * Taste
+    * The tongue is coated with small protrusions known as papillae. Located on the papillae are the taste buds, the receptors for gustatory information
+    * There are five basic tastes: sweet, salty, bitter, sour, and umami (savory); These five tastes may have evolved for specific reasons
+    * Information from the taste buds travels to the medulla oblongata and then to the pons and the thalamus. This information is then relayed to the gustatory areas of the cerebral cortex, as well as the hypothalamus and limbic system
+
+  * Smell
+    * Scent molecules reach the olfactory epithelium, deep in the nasal cavity and contact receptor cells at this location
+    * Axons from these receptors project directly to the olfactory bulbs of the brain
+    * From there, information travels to the olfactory cortex and the limbic system
+    * Because the amygdala and hippocampus connect to olfactory nerves, it is easy to understand why certain smells trigger memories
+
+Visual
+
+  * Depth perception (visual cliff studies)
+    * The binocular cues for vision enable us to have depth perception
+      * Binocular depth cues rely on both eyes viewing an image: they result from the fact that each eye sees a given image from a slightly different angle
+    * To test whether depth perception was innate (nature) or learned (nurture), researchers Eleanor Gibson and Richard Walk developed the visual cliff to test depth perception
+      * The visual cliff was a glass tabletop that appeared to be clear on one side and had a checkerboard design visible on the other side
+      * Infants were placed on the checkerboard side of the “cliff,” and researchers tracked whether they would crawl onto the clear side, thus going “over the cliff”
+      * Most infants refused to do so, which implies that depth perception is at least partially innate, but because the infant had to be a few months old, it was unclear how much learning had influenced depth perception
+      * With other animals tested (chicks, pigs, kittens, turtles), it was concluded that the animal’s visual skills depended on the importance of vision to that specific organism’s survival
+
+  * Feature detection (David Hubel and Thorsten Wiesel)
+    * Specialized cells that see motion, shapes, lines, etc
+    * Feature detector neurons “see” different parts of the pattern, such as a line set at a specific angle
+    * Like pieces of a puzzle, these parts are amalgamated to produce the pattern in the environment
+    * Hubel and Wiesel demonstrated that some neurons were only responsive to information that came from a single eye, a phenomenon they referred to as “ocular dominance”
+
+  * Order of transmission of visual information
+    * Pathway of vision: light → cornea →pupil/iris → lens → retina → rods/cones → bipolar cells → ganglion cells → optic nerve → optic chiasm → occipital lobe
+
+  * Theories of color vision
+    * Cones, concentrated in the center of the retina, or fovea, are sensitive to bright light and color vision
+    * Two different processes contribute to our ability to see in color
+      * The first is based on the **Young-Helmholtz or trichromatic theory**: according to this theory, the cones in the retina of the eyes are activated by light waves associated with blue, red, and green and we see all colors by mixing these three, like a television
+      * However, this does not tell the whole story: another theory, known as **opponent process theory**, contends that cells within the thalamus respond to opponent pairs of receptor sets—namely, black/white, red/green, and blue/yellow; if one color of the set is activated, the other is essentially turned off
+        * For example, when you stare at a red dot on a page and then you turn away to a blank piece of white paper, you will see a green dot on the blank piece of paper because the red receptors have become fatigued and, in comparison, the green receptors are now more active: this is known as an afterimage
+        * Color blindness responds to this theory, as well
+
+  * Visual illusions
+    * Visual illusions involve visual deception: due to the arrangement of images, the effect of colors, the impact of light source or other variables, a wide range of misleading visual effects can be seen
+
+====Learning (7--9%)====
+
+  * Learning is a relatively permanent or stable change in behavior as a result of experience
+
+Behavioral problems
+
+  * Behavior modification
+    * The alteration of behavioral patterns through the use of such learning techniques
+
+  * Biofeedback
+    * Biofeedback is a mind-body technique that involves using visual or auditory feedback to teach people to recognize the physical signs and symptoms of stress and anxiety, such as increased heart rate, body temperature, and muscle tension
+    * During biofeedback, you're connected to electrical sensors that help you receive information about your body and this feedback helps you make subtle changes in your body, such as relaxing certain muscles, to achieve the results you want, such as reducing pain
+
+  * Coping strategies
+    * Problem-focused coping: attempting to alleviate stress by changing the stressor or by changing the way we interact with the stressor
+    * Emotion-focused coping: attempting to alleviate stress by avoiding or ignoring a stressor and tending to emotional needs related to our stress reaction
+
+  * Self-control
+    * Ability to control impulses and delay short term gratification for long-term rewards
+
+Classical conditioning
+
+  * Classical conditioning occurs when a neutral stimulus, paired with a previously meaningful stimulus, eventually takes on some meaning itself
+    * John Watson and his assistant Rosalie Rayner demonstrated classical conditioning with a child known now as Little Albert
+    * Watson then presented Albert repeatedly with a small, harmless white rat, and at the same time, banged the steel bar, making the child cry
+    * Afterward, Albert cringed and cried any time he was presented with the rat—even if the noise wasn’t made
+    * Furthermore, Albert showed that he was afraid of other white fluffy objects; the closer they resembled the white rat, the more he cried and cringed
+
+  * Conditioned response
+    * Acquisition
+      * Acquisition takes place when the pairing of the natural and neutral stimuli (the loud noise and the rat) have occurred with enough frequency that the neutral stimulus alone will elicit the conditional response
+    * Extinction
+      * Extinction, or the elimination of the conditioned response, can be achieved by presenting the CS without the US repeatedly (in other words, the white rat without the loud noise).
+    * Rest period
+      * The period of lessened response to the CS
+    * Spontaneous recovery
+      * Spontaneous recovery, in which the original response disappears on its own, but then is elicited again by the previous CS at a later time, is possible under certain circumstances
+
+  * Stimulus type
+    * Conditioned
+      * Conditioned stimulus (CS) is the initially neutral stimulus (white rat)
+    * Unconditioned
+      * Unconditioned stimulus (US) is the initially meaningful stimulus (loud bang)
+    * Neutral
+      * Neutral stimulus has no meaning until conditioning occurs
+
+  * Discrimination and generalization
+    * If Albert could distinguish among similar but distinct stimuli, he would be exhibiting discrimination
+    * Albert generalized all fluffy white objects by being scared of all of them
+
+  * Ivan Pavlov
+    * Classical conditioning was first described by Ivan Pavlov and his experiment using dogs, bells, and food and noting the salivation response
+
+  * Taste aversion (John Garcia)
+    * John Garcia demonstrated that animals that eat a food that results in nausea induced by a drug or radiation will not eat that food if they ever encounter it again
+      * This effect is profound and can be demonstrated with forward or backward conditioning
+      * It is also highly resistant to extinction
+      * A notable feature of this phenomenon is that it works best with food
+        * It is hard to condition an aversion to a light paired with illness, for example
+    * Psychologists have used this finding as evidence that animals are biologically predisposed to associate illness with food, as opposed to, say, light
+      * This predisposition is a useful feature for a creature that samples many types of food, such as a rat
+    * Humans also experience CTA
+
+Operant conditioning
+
+  * Operant conditioning (also called instrumental conditioning) involves an organism’s learning to make a response in order to obtain a reward or avoid punishment
+
+  * Biological constraints
+    * Reinforcement (think reward) and punishment
+      * Food is a form of natural reinforcement; natural reinforcers, such as food, water, and sex, provide primary reinforcement: they don’t have to be learned to be liked
+      * Secondary reinforcement is provided by learned reinforcers; Money is a good example of a secondary reinforcer; in nature, money is just paper or metal; it has no intrinsic value
+      * Punishment is also an important element of operant conditioning, but the effect is the opposite: reinforcement increases behavior, while punishment decreases it
+      * Punishment is the process by which a behavior is followed by a consequence that decreases the likelihood that the behavior will be repeated
+      * Reinforcement is a better alternative to encourage behavioral changes and learning
+    * Positive vs. negative
+      * Positive reinforcement or punishment adds (giving money vs giving chores)
+      * Negative reinforcement or punishment subtracts (taking away a chore vs taking food)
+
+  * Schedules
+    * Behaviorists use various schedules of reinforcement in their experiments
+      * **Continuous reinforcement schedule**: every correct response emitted results in a reward
+        * This produces rapid learning, but it also results in rapid extinction, where extinction is a decrease and eventual disappearance of a response once the behavior is no longer reinforced
+      * **Partial/intermittent reinforcement schedules** is when not all responses are rewarded
+        * A **fixed-ratio schedule** is one in which the reward always occurs after a fixed number of responses
+          * For example, a rat might have to press a lever 10 times in order to receive a food pellet; this schedule is called a 10:1 ratio schedule
+          * Fixed-ratio schedules produce strong learning, but the learning extinguishes relatively quickly
+        * A **variable-ratio schedule** is one in which the ratio of responses to reinforcement is variable and unpredictable
+          * A good example of this is slot machines: the response, putting in money and pulling the lever, is reinforced with a payoff in a seemingly random manner; reinforcement can come at any time
+          * This type of schedule takes longer to condition a response; however, the learning that occurs is resistant to extinction
+        * A **fixed-interval schedule** is one in which reinforcement is presented as a function of fixed periods of time, as long as there is at least one response
+          * This schedule is similar to being a salaried employee: every two weeks, the paycheck arrives regardless of your work performance
+        * In the **variable-interval schedule**, reinforcement is presented at differing time intervals, as long as there is at least one response
+          * This schedule of reinforcement is illustrated by a teacher who gives pop quizzes: the time the quiz will be given is always changing
+          * Variable-interval, like variable-ratio, is more difficult to extinguish than fixed schedules
+
+  * Shaping
+    * To get the rats to learn to press a lever, the experimenter would use a procedure called shaping, in which a rat first receives a food reward for being near the lever, then for touching the lever, and finally for pressing the lever; at the end, the rat is rewarded only for pressing the lever
+    * This process is also referred to as differential reinforcement of successive approximations
+
+  * B. F. Skinner
+    * B.F. Skinner pioneered the study of operant conditioning, although the phenomenon first was discovered by Edward L. Thorndike, who proposed the law of effect, which states that a behavior is more likely to recur if reinforced, Skinner ran many operant conditioning experiments: he often used a specially designed testing apparatus: an operant conditioning chamber, or a Skinner Box
+
+  * Superstitious behaviors
+
+Other forms of learning
+
+  * Nonassociative
+    * Nonassociative learning occurs when an organism is repeatedly exposed to one type of stimulus
+    * Two important types of nonassociative learning are habituation and sensitization
+      * A habit is an action that is repeatedly performed and habituation follows that same idea: essentially, a person learns to “tune out” the stimulus
+        * For example, suppose you live near train tracks, and trains pass by your house on a regular basis, when you first move into the house, the sound of the trains passing by is annoying and loud, and it always makes you cover your ears; however, after living in the house for a few months, you become used to the sound and stop covering your ears and you may even become so accustomed to the sound that it becomes background noise, and you don’t even notice it
+        * After a person has been habituated to a given stimulus, and the stimulus is removed, this leads to dishabituation—the person is no longer accustomed to the stimulus. If the stimulus is then presented again, the person will react to it as if it were a new stimulus
+      * During sensitization, there is an increase in responsiveness due to either a repeated application of a stimulus or a particularly aversive or noxious stimulus: instead of being able to “tune out” or ignore the stimulus so as to avoid reacting at all (as in habituation), the stimulus actually produces a more exaggerated response
+        * Imagine you attend a rock concert and the feedback noise from the amplifier may at first be merely irritating, but as the aversive noise continues, instead of getting used to it, it actually becomes much more painful, to the point at which you have to cover your ears and perhaps even move
+        * Sensitization may also cause you to respond more vigorously to similar stimuli: for example, as you leave the rock concert, an ambulance passes, but the siren, which usually doesn’t bother you, seems particularly loud and abrasive, as you’ve been sensitized to the noise of the rock concert
+        * Sensitization is usually temporary and unlikely to result in any long-term change
+        * Desensitization is a decreased responsiveness to an aversive stimulus after repeated exposure; this may occur on its own or in desensitization therapy
+
+  * Latent learning
+    * Learning that is not outwardly expressed until the situation calls for it
+    * Derives from the work of Edward Tolman
+    * Rats permitted to explore a maze without being reinforced would find the exit after following an indirect path; the time it took them to exit the maze without reinforcement decreased quite slowly
+    * However, when reinforcers were applied after several trials without reinforcement, the rats’ time to exit the maze decreased dramatically, indicating that the rats knew how to navigate to a specific location within the maze and so had formed a cognitive map
+
+  * Insight learning (Wolfgang Köhler)
+    * This occurs when we puzzle over a problem, and suddenly the complete solution occurs to us
+    * Wolfgang Köhler had a chimp in a cage with two sticks and outside of the cage were some bananas; the chimp wanted the bananas but could not reach them with either stick
+    * After struggling for a while, the chimp took the two sticks, and put the thinner end of one into the hollow end of the other, making one long stick of sufficient length to reach the bananas
+    * The novel approach of combining the sticks was presumably the result of an insight
+
+  * Social and emotional learning
+    * Social learning (also called observational learning) is learning based on observing the behavior of others as well as the consequences of that behavior
+    * Emotional learning is the process through which children and adults acquire and effectively apply the knowledge, attitudes, and skills necessary to understand and manage emotions
+
+Social-cognitive learning
+
+  * Albert Bandura (bobo doll experiment)
+    * Albert Bandura conducted some of the most important research on social learning
+    * Bandura had children in a waiting room with an adult confederate (someone who was “in” on the experiment): for one group of children, the adult would simply wait and for another group of children, the adult would punch and kick an inflatable doll
+    * In both groups, the children were then brought into another room to play with interesting toys, but after a short time, the experimenters told the children they had to stop, and brought them back to the waiting room; the idea was to frustrate the children, and then see how they managed frustration
+      * Many children who had witnessed an adult abusing the doll proceeded to abuse the doll
+      * Most children who had witnessed an adult quietly waiting proceeded to quietly wait
+    * This experiment illustrated the power of modeling in affecting changes in behavior and calls into question the behaviorist assertion that learning must occur through direct experience
+
+  * Vicarious learning
+    * Learning that takes place by observing others
+
+====Cognitive Psychology (13--17%)====
+
+Cognitive processes
+
+  * Attention (selective and divided)
+    * Selective attention: our tendency to focus on certain stimuli among many other stimuli
+      * Cocktail party effect- ability to attend to only one voice among many but will pick up on another voice if it speaks your name
+    * Divided attention: occurs when mental focus is on multiple tasks or ideas at once (multitasking); decreases the amount of attention being placed on any one task
+
+  * Metacognition
+    * Ability to recognize one’s cognitive processes and adapt those processes if they aren’t successful
+    * Thinking about thinking
+
+  * Processing (effortful, automatic, deep, shallow)
+    * The more emphasis on MEANING the deeper the processing, and the better remembered
+      * Shallow processing: Processing on basic level based off appearance or structure of words
+      * Deep processing: Processing information with respect to its meaning
+    * Effortful processing: Active processing of information that requires sustained effort
+    * Automatic Processing: Unconsciously encoding new information
+
+Intelligence
+
+  * Fluid vs. crystallized intelligence
+    * Fluid intelligence is the ability to think in terms of abstract concepts and symbolic relationships
+    * Crystallized intelligence is the specific knowledge of facts and information
+    * Fluid decreases with age but crystallized increases with age
+
+  * Flynn effect
+    * Worldwide phenomenon that indicates the average person’s IQ is rising
+    * The Flynn effect supports the need to restandardize tests for each new population because the data indicates that the population has become smarter over the past 50 years
+
+  * Gifted historical figures (Alfred Binet, Francis Galton, Lewis Terman, David Wechsler)
+    * **Alfred Binet** was a French psychologist who first began to measure children’s intelligence for the French government; Binet’s test measured the “mental age” of school-age children so that children needing extra help could be placed in special classrooms
+    * An American psychologist and Stanford University professor named **Lewis Terman** modified Binet’s test to create a test referred to as the Stanford-Binet Test, which became the first widely administered intelligence test during World War I when the U.S. Army used it to rank recruits
+    * **David Wechsler** improved on the Binet and Stanford: developed the WAIS (Wechsler Adult Intelligence Scale) and WISC (Wechsler Intelligence Scale for Children)-- most used today
+      * The WISC-IV and WAIS generally have six types of questions
+        * Information “How many wings does a bird have?”
+        * Comprehension “What is the advantage of keeping money in a bank?”
+        * Arithmetic “If 3 pencils cost $1, what will be the cost of 15 pencils?”
+        * Similarities “In what ways are seals and sea lions alike?”
+        * Vocabulary “What does “retain” mean?”
+        * Digit span questions in which subjects are asked to hold information in short-term memory
+
+  * Intellectual disability
+    * Intellectual disability refers to low levels of intelligence and adaptive behavior
+      * Low IQ alone does not signify this: to be classified as intellectually disabled, a person must also demonstrate a low level of adaptive competence, the ability to get along in the world
+    * Intellectual disability can be categorized by severity ranging from mild, with an IQ range of 50--70, to profound, characterized by an IQ lower than 25
+
+  * Savant syndrome
+    * Rare condition wherein a person of less than normal intelligence or severely limited emotional range has prodigious intellectual gifts in a specific area
+
+  * Single vs. multiple intelligences
+    * Howard Gardner
+      * The most famous proponent of the idea of multiple intelligences
+      * Gardner has identified the following types of intelligence: **verbal** and **mathematical** (these are the two traditionally measured by IQ tests) as well as **musical**, **spatial**, **kinesthetic**, **environmental**, **interpersonal** (social), and **intrapersonal** (self)
+    * Charles Spearman
+      * In the early part of the 20th century, Charles Spearman proposed that there was a general intelligence (or **g factor**) that was the basis of all other intelligence
+        * The g factor is the intelligence applied across mental activities, which is close to the standard definition for “intelligence”
+      * The **s factor** is the breakdown of this intelligence into a specific component, such as one’s ability to process math equations or linguistic puns
+      * Spearman used factor analysis, a statistical measure for analyzing test data
+    * Robert Sternberg
+      * Proposed that intelligence could be more broadly defined as having three major components (**triarchic theory of intelligence**): analytical, practical, and creative
+        * Analytical: Mental ability to solve problems, what IQ tests assess (book smarts)
+        * Practical: Ability to assess situations and adapt real-life demands (street smarts)
+        * Creative: Intellectual and motivational processes that lead to novel solutions, ideas, and products
+
+  * Stereotype threat
+    * The danger of positive or negative ideas we have about people in a specific group
+    * High IQ stereotype: ‘mad genius’, ‘early ripe, early rot’, socially awkward, physically weak
+
+  * Testing
+    * Meaning of scores on a normal curve
+      * To determine the meaning of one’s score, tests are standardized
+    * Reliability and validity of intelligence tests
+      * Reliability refers to the likelihood that the same individual would get a similar score if tested with the same test on separate occasions (disallowing for practice effects or effects due to familiarity with the test items from the first testing)
+        * Reliability is often assessed by giving participants a test and later—preferably after they have forgotten the specific items—administering the same test again
+        * The two sets of scores are compared and a correlation coefficient is computed between them—this is called the test-retest method—tests that are perfectly reliable have a reliability coefficient of one
+      * Validity refers to the extent that a test measures what it intends to measure
+        * Validity is calculated by comparing how well the results from a test correlate with other measures that assess what the test is supposed to predict
+        * So, for example, if you just developed a new IQ test, and you wanted to know if it was valid, you might compare your results to those that the same participants had achieved on other IQ measures
+        * It is possible to have a test that is reliable but not valid: such a test consistently measures something, but not what it is intended to measure; however, it is impossible to have a test that is valid but not reliable: if individuals’ scores fluctuate wildly, then they cannot consistently correlate with others’ scores, whatever these other scores may be
+
+Language
+
+  * Noam Chomsky
+    * Noam Chomsky postulated a system for the organization of language
+      * ‘Transformational grammar’ differentiates between the surface structure—the superficial way in which the words are arranged—and the deep structure—the underlying meaning of the words
+
+  * Language acquisition
+    * Chomsky was struck by the similarities between the grammars of different languages and of language acquisition in children, regardless of the language they were learning
+      * He proposed an innate language acquisition device, which facilitates the acquisition of language in children, and a critical period for the learning of language
+    * B.F. Skinner, a noted behaviorist, countered Chomsky’s argument for language acquisition
+      * Skinner explored the idea of the “language acquisition support system,” which is the language-rich or language-poor environment the child is exposed to while growing up
+    * Chomsky’s language acquisition device (LAD) provides the foundational structure of language, while the language acquisition support system (LASS) provides the scaffolding to help young children learn language
+
+Memory
+
+  * Encoding, storage, and retrieval
+    * Encoding: Process that information is transformed into a code that our memory system can accept and use
+    * Storage: Retaining information over time
+    * Retrieval: Taking information out of storage
+
+  * Failures of memory
+    * Alzheimer’s disease
+      * Affects memory, cognition, and personality
+      * Caused by destruction of acetylcholine in hippocampus
+    * Amnesia
+      * Anterograde Amnesia: an inability to form new memories due to injury or illness
+      * Retrograde Amnesia: an inability to retrieve information from one’s past due to injury or illness
+      * Source Amnesia/Source Misattribution: faulty memory for how when or where information was learned or imagined
+    * Distortion (Elizabeth Loftus)
+      * Memories of both trivial and serious events can be reconstructed by repeated suggestion
+      * Elizabeth Loftus and other psychologists are studying false or implanted memories
+        * They have demonstrated that repeated suggestions and misleading questions can create false memories; this is called framing.
+
+  * Long-term memory
+    * Explicit: Conscious memories of facts or events we actively try to remember
+      * Episodic memories- memories of an event stored as episodes
+      * Semantic memories- generalized storage of knowledge
+      * Flashbulb memories- clear memory of an emotionally significant moment or event
+    * Implicit: unintentional memories that we might not even realize we have
+      * Procedural memories- knowledge and information about how a task is completed
+
+  * Retrieval strategies
+    * Method of loci as visual memory aid
+      * Using locations to remember a list of items in order
+    * Maintenance rehearsal
+      * Simple repetition to keep an item in short-term memory until it can be used (as when you say a phone number to yourself over and over again until you can dial it)
+    * Elaborative rehearsal
+      * Involves organization and understanding of the information that has been encoded in order to transfer the information to long-term memory (as when you try to remember the name of someone you have just met at a party)
+      * Elaborative rehearsal is more effective than maintenance rehearsal for ensuring short-term memory information is sent to long-term memory
+    * Serial position curve and recall
+      * Short-term memory stores items from a list sequentially which leads to our tendency to remember the first few and last few items in a list better than the ones in the middle
+        * **Primacy** (first items) and **recency** (rlast items) **effects**
+        * Recency effect tends to fade in about a day; the primacy effect tends to persist longer: this overall effect is called the serial position effect
+
+  * Sensory memory
+    * Echoic
+      * Fleeting sensory memory for auditory stimuli; lasts 2-3 seconds
+    * Iconic
+      * Fleeting sensory memory of visual stimuli; lasts 0.3 seconds
+
+  * Short-term/working memory
+    * Working memory would be between the sensory registry and short-term memory, and it can last up to about 30 seconds before decaying or being transferred into either short- or long-term memory; information in working memory can be manipulated in a way iconic or echoic memory can’t
+      * Iconic memory would allow a person to remember five letters presented visually, whereas working memory would allow a person to remember those five letters and rearrange them in alphabetical order
+    * Episodic buffer
+      * Temporary store that integrates information from the other components and maintains a sense of time, so that events occur in a continuing sequence
+      * For example, the maintenance of series of letters with their spatial locations on screen requires the binding of verbal and visuospatial information
+    * Phonological loop
+      * Component of working memory model that deals with spoken and written material
+    * Visuospatial sketchpad
+      * Component of working memory model that provides a virtual environment for physical simulation, calculation, visualization and optical memory recall
+
+Problem solving: barriers and strategies
+
+  * Representativeness heuristic
+    * Estimating the likelihood of events in terms of how well they match up to prototypes (leads to stereotypes)
+
+  * Availability heuristic
+    * Estimating the likelihood of events based on their availability in our mind (believing every place, like california, experiences earthquakes)
+
+  * Halo effect
+    * Tendency for an impression created in one area to influence opinion in another area
+    * When one assumes a successful athlete would also be articulate
+
+  * Functional fixedness
+    * Tendency to assume that a given item or idea is useful only for the task for which it was designed or originally used for
+
+====Developmental Psychology (7--9%)====
+  * Gender and sexual orientation
+    * Sex = chromosomes vs gender = what you identify yourself as
+      * Gender Identity: our sense of being male, female, a combination of the two, or neither
+      * Transgender: an umbrella term describing people whose gender identity or expression differs from that associated with their birth-designated sex
+    * Gender roles are expected behaviors for men/women
+    * We learn gender roles and identity from those around us (social learning theory)
+    * Sexual orientation: enduring sexual preference that may differ from heterosexuality
+      * Common myths about homosexuality
+        * Result of traumatic childhood event, parenting styles, or parental orientation
+        * Induced by a biological factor- size of brain structures, hormone levels in womb
+
+  * Physical: pre-natal to neonatal
+    * Prenatal development
+      * Germinal Stage: when a fertilized egg goes under rapid cell division 10-14 days after fertilization (called the zygote)
+      * Embryo: after 6 weeks, the zygote’s inner cells become the embryo
+      * Fetus: 9 weeks after conception, an embryo becomes a fetus because of its defining human characteristics
+      * Fetal Stage: when defining human features (hands, feet, facial features, etc) begin to form
+    * Substance abuse and teratogens
+      * Substance abuse during pregnancy can cause various harmful environmental agents, known as teratogens, which may affect fetal development
+        * One such agent is alcohol: some fetuses exposed to alcohol develop fetal alcohol syndrome (FAS), resulting in physical abnormalities and cognitive deficiencies
+    * Reflexes
+      * A newborn baby, or neonate, is nearly helpless, but is equipped with a few reflexes
+        * The **sucking reflex** can be triggered by placing something in the baby’s mouth
+        * The **palmar reflex** is the automatic grabbing elicited by something being placed in one of the neonate’s hands
+        * Stroking the bottom of the foot causes the toes to splay out: the **Babinski reflex**
+        * The **head-turning reflex** (also called the **rooting reflex**) is the response elicited by touching the baby’s cheek
+        * The **Moro reflex** is the splaying out of the limbs in response to loss of support, such as when a baby believes it is suddenly falling
+        * The **orienting reflex** is activated when they orient themselves to sudden changes
+
+  * Social
+    * Attachment theory (Harry Harlow, Mary Ainsworth)
+      * Harlow studied theory of attachment in infant Rhesus monkeys and their attachment to soft vs. food (discovered that contact comfort is more important than feeding) and discovered monkeys could not recover from social isolation
+      * Developed the strange situation paradigm that determines attachment style
+        * Secure attachment (60%): upset when mom leaves, easily calmed on return, tend to be more stable adults
+        * Avoidant attachment (20%): actively avoids mom, doesn’t care when she leaves
+        * Ambivalent attachment (10%): actively avoids mom, freaks out when she leaves
+        * Disorganized attachment (5%): confused, fearful, dazed -- result of abuse
+    * Parenting styles (Diana Baumrind)
+      * Authoritarian: strict rules and punishments (corporeal); punish more than reinforce
+        * High control; low warmth
+        * Children of these parents are socially withdrawn, lack decision-making capabilities, and lack curiosity
+      * Permissive: no clear guidelines; few expectations and non-demanding, ‘friends’
+        * Low control; high warmth
+        * Children of these parents are not good at accepting responsibility, controlling their impulses, or being generous in social relationships
+      * Authoritative: set standards that are reasonable and explained; praise as often as punish
+        * High control; high warmth
+        * Children of these parents have high self-esteem, are independent, and are articulate
+    * Zone of proximal development (Lev Vygotsky)
+      * Proposed the concept of a zone of proximal development, which is the range between the developed level of ability that a child displays and the potential level of ability of which the child is actually capable
+        * Referred to as the actual development level vs. the potential development levels
+      * Actual development rarely lives up to its potential because ability depends on input from the environment, and environmental input is rarely truly optimal
+      * According to Vygotsky, a child realizes his potential is through the process of scaffolding
+
+  * Stage theories
+    * Cognitive stages (Jean Piaget)
+      * Sensorimotor (0-2) : these are little babies who think in terms of things they can touch and feel; object permanence—the understanding that things that leave the visual field still exist (9 months)—develops along with stranger anxiety
+      * Preoperational (2-6) : kids can’t think logically about abstractions, so fantasy is reality, imaginary friends and beliefs like Santa and the Easter bunny are real
+      * Operational (6-12) : kids do think logically about concrete things, so how could Santa go to all those houses in one night; learn that relationships go two ways and reversibility (“I have a sister and so does my sister”); learn conservation—liquid in a tall container is not necessarily more than liquid in a short, wide container
+      * Formal Operational (after 12): learn to think and reason abstractly about things like justice and to forecast the future based on the past and mature moral reasoning develops
+    * Moral stages (Lawrence Kohlberg, Carol Gilligan)
+      * Lawrence Kohlberg
+        * Preconventional (before 9 years): right and wrong is determined by whether or not you will be punished; obey out of self-interest
+        * Conventional (early adolescence): decide behavior based on what society says; “rules are rules,” obey to maintain social order and gain social approval
+        * Post-conventional: requires formal operational thinking; self-defined moral principles; do what you believe is right even if it goes against society
+      * Carol Gilligan
+        * Developed a revised version of Kohlberg’s theory: rather than focusing on the awareness and development of the concept of justice, places the development of caring relationships as central to moral progress
+        * Said moral reasoning and moral behaviors are two different things (what you say isn’t always what you do)
+        * Criticised Kohlberg for only observing boys and overlooking differences between the moral judgment of men and women
+    * Psychosexual stages (Sigmund Freud)
+      * This is a stage theory in which attention was given to parts of the body that were especially significant for the developing person
+        * Oral (0--1.5 years): pleasure centers on the mouth—sucking, biting, chewing, and using voice to call for caretakers
+          * People who develop fixations during this stage may become addicted to gum, cigarettes, or alcohol, or may become verbally abusive
+        * Anal (1.5--3 years): pleasure focuses on bowel and bladder elimination, praised when they do well with toilet training and aren’t when they don’t
+          * People who develop fixations during this stage may have issues with control, either being over controlling or willfully messy
+        * Phallic (3--6 years): pleasure zone is the genitals; becoming aware of boy v girl, the opposite-sex parent is taken as an ideal for future partner choices
+          * Oedipal complex: young boys learn to identify w/ their father out of fear of retribution
+            * Castration anxiety
+          * Electra complex: young girls learn to identify w/ their mother b/c they cannot with their father
+            * Penis envy
+          * People who develop fixations during this stage may be extremely picky about their partner choices, only selecting people who are similar to their parent
+        * Latency (6--puberty): dormant sexual feelings, focus on gender identity and stick with their own gender
+          * People who develop fixations in this stage primarily socialize with their own gender as adults
+        * Genital (puberty on): maturation of sexual interests, the genital region becomes the primary source of sensual/sexual pleasure, unless traumas in prior stages have resulted in fixations
+    * Psychosocial stages (Erik Erikson)
+      * Neo-Freudian who focused on identity formation
+        * Trust vs. Mistrust-- infants; if needs are dependably met, develop a sense of basic trust
+        * Autonomy vs. Shame-- toilet training; toddlers learn to exercise will and do things for themselves, or they doubt their abilities
+        * Initiative vs. Guilt-- preschoolers learn to initiate tasks and carry out plans, or they feel guilty about efforts to be independent
+        * Industry vs. Inferiority-- children learn the pleasure of applying themselves to tasks, or they feel inferior
+        * Identity vs. Confusion-- teenagers work at refining a sense of self by testing and integrating roles to form an identity, or become confused about who they are
+        * Intimacy vs. Isolation-- young adults struggle to form close relationships and to gain the capacity for intimate love, or they feel socially isolated
+        * Generativity vs. Stagnation-- the middle-aged discover a sense of contributing to the world, usually through a family and work, or they may feel a lack of purpose
+        * Integrity vs. Despair-- when reflecting on their life, the older adult may feel a sense of satisfaction or failure
+
+====Motivation, Emotion, and Personality (11--15%)====
+
+Motivation
+
+  * Basic concepts
+    * Drives
+    * Intrinsic vs. extrinsic motivation
+    * Instincts
+    * Needs
+
+  * Theories
+    * Arousal theory (Yerkes-Dodson law)
+    * Drive reduction theory and homeostasis
+    * Evolutionary
+    * Theory incentive theories
+    * Maslow’s hierarchy of needs
+
+Emotion
+
+  * Cannon-Bard theory of emotion
+
+  * Paul Ekman and cross-cultural display of emotions
+
+  * Evolutionary theory (primary emotions)
+
+  * James-Lange theory of emotion
+
+  * Schachter-Singer two-factor theory of emotion
+
+Stress and coping
+
+  * Kurt Lewin’s motivational conflict theory (approach-avoidance)
+
+  * Hans Selye’s General Adaptation theory
+
+  * Stress-related illnesses
+
+Personality
+
+  * Approaches
+    * Behavioral (B. F. Skinner)
+    * Social cognitive (Albert Bandura)
+    * Psychoanalytic (Hans Adler, Sigmund Freud, Carl Gustav Jung)
+    * Humanistic (Carl Rogers)
+    * Trait (Paul Costa & Robert McCrae)
+
+  * Cultural context and self-concept (individualistic vs. collectivistic societies)
+
+  * Researching and measuring personality
+    * Case studies
+    * Personality inventories
+    * Projective tests
+    * Surveys
+
+====Clinical Psychology (12--16%)====
+
+  * Disordered behavior is composed of four components
+    * First, disordered behavior is unusual—it deviates statistically from typical behavior
+    * Second, disordered behavior is maladaptive: that is, it interferes with a person’s ability to function in a particular situation
+    * Third, disordered behavior is labeled as abnormal by the society in which it occurs
+    * Finally, disordered behavior is characterized by perceptual or cognitive dysfunction
+
+Categories of Disorders
+
+  * Neurodevelopmental and neurocognitive
+    * The term neurodevelopmental refers to the developing brain
+    * Related disorders manifest early in development, and may be due to genetic issues, trauma in the womb, or brain damage acquired at birth or in the first years of life
+    * These disorders can range from very specific learning deficits to very global impairments to social skills or intelligence
+      * Intellectual disability (formerly known as mental retardation) is characterized by delayed development in general mental abilities
+      * Autism spectrum disorder is a neurodevelopmental disorder that often manifests early on in childhood development
+        * This may manifest itself in social communication deficits, both verbal and nonverbal, in which the individual has difficulty noticing social cues and has difficulty engaging others or in the form of restrictive or repetitive behaviors, difficulty coping with change, or difficulty with accepting change in activity
+      * Attention-deficit hyperactivity disorder (ADHD) is described as patterned inattention and/or hyperactivity-impulsivity
+      * Other neurodevelopmental disorders include communication disorders such as language disorder, speech sound disorder, and fluency disorder (stuttering); motor disorders such as developmental coordination disorder, stereotypic movement disorder, and tics; and specific learning disorders
+
+  * Schizophrenia spectrum and other psychotic disorders
+    * These disorders are marked by disturbances in thought, perception and speech, as well as motor behavior and emotional experience
+    * Delusions are beliefs that are not based in reality, such as believing that one can fly, that one is the president of a country, or that one is being pursued by the CIA
+    * Hallucinations are perceptions that are not based in reality, such as seeing things or hearing voices that are not there, or feeling spiders on one’s skin
+    * Disorganized thinking and disorganized speech are typical: a person with such a disorder may switch from one topic to another in illogical fashion, may respond to questions with irrelevant answers, and may produce streams of speech that have little or no coherence
+
+  * Bipolar, depressive, anxiety, and OCD
+    * Bipolar disorders, as the name suggests, involve movement between two poles: depressive states on the one hand, and manic states on the other hand
+      * Because manic states often have psychotic features, the DSM-5 now regards bipolar disorders as a bridge between the psychoses and the major depressive disorders
+    * Depressive disorders involve the presence of a sad, empty, or irritable mood, combined with changes in thinking and bodily functioning that significantly impair one’s ability to function
+      * Separate or combined treatments such as psychotherapy (in particular cognitive-behavioral therapy) and antidepressant medications may assist in recovery
+    * In a state of anxiety, the nervous system wants to get into fight-or-flight mode, but there is nothing there to fight and nothing to flee from
+      * Physical effects of anxiety may include but are not limited to muscle tension, hyperalertness for danger signs, and avoidance behaviors
+      * Sleep disturbances, irritability, and inability to concentrate are common related symptoms
+      * Panic disorder is an anxiety disorder characterized by recurring panic attacks, as well as the constant worry of another panic attack occurring
+      * Generalized anxiety disorder (GAD) is an anxiety disorder characterized by an almost constant state of autonomic nervous system arousal and feelings of dread and worry
+      * Phobias, or persistent, irrational fears of common events or objects, are also anxiety disorders
+    * OCD is characterized by involuntary, persistent thoughts or obsessions, as well as compulsions, or repetitive behaviors that are time consuming and maladaptive, that an individual believes will prevent a particular (usually unrelated) outcome
+      * Related disorders include body dysmorphic disorder and hoarding disorder, which involve obsessive thoughts about bodily defects or the need to save possessions
+      * Some specific disorders involve hair-pulling and skin-picking
+
+  * Trauma- and stressor-related disorders
+    * These disorders follow a particularly disturbing event or set of events (the trauma or the stressor)
+    * Post-traumatic stress disorder (PTSD), which can involve intrusive thoughts or dreams related to the trauma, irritability, avoidance of situations that might recall the traumatic event, sleep disturbances, diminished interest in formerly pleasurable activities, and social withdrawal
+    * Other disorders include reactive attachment disorder, which can occur in seriously neglected children who are unable to form attachments to their adult caregivers, and adjustment disorders, or maladaptive responses to particular stressors
+
+  * Dissociative and somatic symptom disorders
+    * In many cases, these disorders appear following a trauma, and may be seen as the mind’s attempt to protect itself by splitting itself into parts
+      * One might experience derealization, the sense that “this is not really happening”
+      * Depersonalization, the sense that “this is not happening to me”
+      * Significant gaps in memory may be related to dissociative amnesia, an inability to recall life events that goes far beyond normal forgetting
+      * Perhaps the most extreme of these disorders is dissociative identity disorder, in which one may not only “lose time,” but also manifest a separate personality during that lost time
+    * Somatic symptom disorder involves bodily symptoms combined with disordered thoughts, feelings, and/or behaviors connected to these symptoms
+    * It is not the symptoms themselves, but how the individual experiences them, that is striking and seems maladaptive: the level of worry seems out of proportion to the symptom itself
+      * Related worries appear in illness anxiety disorder, in which one worries excessively about the possibility of falling ill.
+      * Conversion disorder involves bodily symptoms like changed motor function or changed sensory function that are incompatible with neurological explanations
+        * There may be a suspicion that the symptoms are psychogenic (created by the mind) however, a symptom can originate from the mind but end up in the body
+      * There is also factitious disorder, in which an individual knowingly falsifies symptoms in order to get medical care, or sympathy or aid from others
+
+  * Feeding and eating disorders, substance and addictive disorders
+    * Anorexia nervosa (commonly called anorexia) involves not only restriction of food intake, but also intense fear of gaining weight and disturbances in self-perception, such as thinking one looks fat, when one does not
+      * The self-starvation behavior associated with this disorder can lead to life-threatening medical conditions
+    * Bulimia nervosa (commonly called bulimia) involves recurrent episodes of binge-eating: eating large amounts of food in short amounts of time, followed by inappropriate behaviors to prevent weight gain, such as self-induced vomiting (purging), using laxatives, or intense exercising
+      * There is usually a heightened sense of shame in connection with both binging and purging
+    * Binge-eating disorder might be thought of as bulimia without purging; this occurs in both normal-weight and overweight/obese people
+    * Pica refers to regular consumption of non-nutritive substances (plastic, paper, dirt, string, etc.)
+      * This occurs more often in children, but can occur in adults, and is occasionally seen in pregnant women and individuals with iron deficiency
+
+  * Personality disorders
+    * A personality disorder refers to a stable (and inflexible) way of experiencing and acting in the world, one that is at variance with the person’s culture, that starts in adolescence or adulthood, and leads to either personal distress or impairment of social functioning
+      * It is important to note that children cannot have personality disorders; think of it this way: children are still developing their personalities
+    * Cluster A includes paranoid, schizoid, and schizotypal personality disorders: these individuals appear to be markedly odd or eccentric
+      * With paranoid personality disorder, there may be a pattern of general distrust of others that is not justified by real circumstances
+      * Schizoid personality disorder is marked by disturbances in feeling (detachment from social relationships, flat affect, does not enjoy close relationships with people)
+      * Schizotypal personality disorder is marked by disturbances in thought (odd beliefs that do not quite qualify as delusions, such as superstitions, belief in a “sixth sense,” etc.; odd speech; eccentric behavior or appearance)
+    * Cluster B includes antisocial, borderline, histrionic, and narcissistic personality disorders
+      * Antisocial personality disorder, which is characterized by a persistent pattern of disregard for, and violation of, the rights of others: lying, cheating, stealing, and having no remorse are common
+      * Borderline personality disorder involves a very stormy relationship with the world, with others, and with one’s own feelings: people with this disorder have a regular pattern of instability in relationships, often involving frantic efforts to avoid abandonment (imagined or real), alternating between extremes of idealization and devaluation with the same person, identity disturbance, impulsivity, chronic feelings of emptiness, and anger
+      * Histrionic personality disorder involves a pattern of excessive emotionality and attention-seeking, beyond what might be considered normal
+      * Narcissistic personality disorder involves an overinflated sense of self-importance, fantasies of success, beliefs that one is special, a sense of entitlement, a lack of empathy for others, and a display of arrogant behaviors or attitudes
+    * Cluster C includes avoidant, dependent, and obsessive-compulsive personality disorders
+      * Avoidant personality disorder involves an enduring pattern of social inhibition, feelings of inadequacy, and hypersensitivity to real or perceived criticism, which lead to avoidance behavior in relation to social, personal, and intimate relationships
+      * Dependent personality disorder is marked by an excessive need to be cared for, leading to clingy and submissive behavior and fears of separation; people with this disorder may feel unable to make everyday decisions without constantly consulting others and getting their advice and approval
+      * Obsessive-compulsive personality disorder (OCPD) is marked by a rigid concern with order, perfectionism, control, and work, at the expense of flexibility, spontaneity, openness, and play
+        * In distinction to OCD, which involves unwanted or intrusive thoughts along with unwanted or intrusive compulsions, OCPD can involve similar thoughts and compulsions, but they are not seen by the person as intrusive; rather, the person with OCPD may think that the problem lies with other people, who do not see the need for things to be ordered in a certain way
+    * Usually, people do not seek treatment for their personality disorders, but, if their disorder leads them to become depressed or anxious, due to social or occupational impairments, they may seek help for depression or anxiety, and may become diagnosed in that way
+
+General perspectives and issues
+
+  * DSM-5
+    * The Diagnostic and Statistical Manual of Mental Disorders (DSM-5) is the American Psychiatric Association’s handbook for the identification and classification of behavioral disorders
+    * DSM-5 calls for the separate notation of important social factors and physical disabilities, in addition to the diagnosis of mental disorder
+
+  * Etiology of disorders
+    * Freud and the psychoanalytic school hypothesized that the interactions among conscious and especially unconscious parts of the mind were responsible for a great deal of disordered behavior
+    * The humanistic school of psychology suggests that disordered behavior is, in part, a result of people being too sensitive to the criticisms and judgments of others
+    * The cognitive perspective views disordered behavior as the result of faulty or illogical thoughts
+    * The behavioral approach to disordered behavior is based on the notion that all behavior, including disordered behavior, is learned
+    * The biological view of disordered behavior views disordered behavior as a manifestation of abnormal brain function, due to either structural or chemical abnormalities in the brain
+    * The sociocultural approach holds that society and culture help define what is acceptable behavior
+
+  * Negative consequences of diagnostic labels (Rosenhan study)
+    * The Rosenhan experiment or Thud experiment was an experiment conducted to determine the validity of psychiatric diagnosis: the participants feigned hallucinations to enter psychiatric hospitals but acted normally afterwards and they were diagnosed with psychiatric disorders and were given antipsychotic medication
+    * Rosenhan's study demonstrated that normal people often cannot be distinguished from the mentally ill in a hospital setting; according to Rosenhan, this is because of the overwhelming influence of the psychiatric-hospital setting on the staff's judgment of the individual's behavior
+
+  * Psychology and the legal realm (confidentiality, insanity defense)
+
+Treatment
+
+  * Biological perspective of treatment
+    * Biological therapies are medical approaches to behavioral problems
+    * Biological therapies are typically used in conjunction with another form of treatment
+    * **Electroconvulsive therapy (ECT)** is a form of treatment in which fairly high voltages of electricity are passed across a patient’s head
+      * This treatment causes temporary amnesia and can result in seizures
+      * It has been successful in the treatment of major depression, but today it is used only when all other means have failed because of the risks involved with memory loss
+    * Another form of biological treatment is **psychosurgery**
+      * The most well-known form is the prefrontal lobotomy, in which parts of the frontal lobes are cut off from the rest of the brain
+        * This surgery was a popular treatment for violent patients from the 1930s--1950s
+        * It frequently left patients in a zombie-like or catatonic state: its use marked a controversial chapter in the history of psychotherapy
+    * **Psychopharmacology** is the treatment of psychological and behavioral maladaptations with drugs
+      * There are four broad classes of psychotropic, or psychologically active drugs: antipsychotics, antidepressants, anxiolytics, and lithium salts
+        * Antipsychotics like Clozapine, Thorazine, and Haldol reduce the symptoms of schizophrenia by blocking the neural receptors for dopamine
+          * Jerky movements, tremors, and muscle stiffness are among the side effects of these drugs: the clinician must decide which is worse—the psychological disorder being treated or the side effects of the drugs
+        * Antidepressants can be grouped into three types: monoamine oxidase (MAO) inhibitors, tricyclics, and selective reuptake
+          * **MAO inhibitors**, like Eutron, work by increasing the amount of serotonin and norepinephrine in the synaptic cleft by blocking monoamine oxidase, which is responsible for the breakdown of many neurotransmitters
+            * These drugs are effective but toxic and require special diets
+          * **Tricyclics**, like Norpramin, Amitriptyline, and Imipramine, increase the amount of serotonin and norepinephrine
+          * **Selective reuptake inhibitors** (selective serotonin reuptake inhibitors, or SSRIs) increase the amount of neurotransmitter at the synaptic cleft, by blocking the reuptake mechanism of the cell that released the neurotransmitters: Prozac (Fluoxetine) is one example of such a drug
+            * The indirect mechanism of action of these drugs means that they have fewer side effects and are the most frequently prescribed class of antidepressant drugs in the United States
+        * **Anxiolytics** depress the central nervous system and reduce anxiety while increasing feelings of well-being and reducing insomnia: a commonly prescribed anti-anxiety medication is Xanax
+          * Anxiolytics also include barbiturates, which are rarely used because of their potential for addiction and danger when mixed with other drugs
+        * **Lithium carbonate** treats bipolar disorder (mechanism of action is unknown)
+
+  * Biopsychosocial perspective of treatment
+    * Biopsychosocial model helps primary care doctors to understand interactions among biological and psychosocial components of illnesses to improve the dyadic relationship between clinicians and their patients and multidisciplinary approaches in patient care
+
+  * Psychological perspectives of treatment
+    * Behavioral (Mary Cover Jones, Joseph Wolpe)
+      * Cover Jones was best able to reduce Peter's fear of rabbits through what she called direct conditioning a method similar to what’s known today as systematic desensitization
+      * Wolpe is most well known for his reciprocal inhibition techniques: reciprocal inhibition refers to the complete or partial suppression of anxiety responses as a consequence of the immediate evocation of other responses
+      * Behavioral therapy stands in dramatic contrast to the insight therapies
+        * First, behavioral therapy is a short-term process, whereas the insight approaches are extended over long periods of time, often spanning years
+        * Secondly, behavior treats symptoms because, in this school of thought, there is no deep underlying cause of the problem
+          * The disordered behavior itself is both the problem and symptom
+          * To change behavior, behavioral therapists use specific techniques with defined methods of application and clear ways to evaluate their efficacy
+      * **Counterconditioning** is a technique in which a response to a given stimulus is replaced by a different response
+        * If a patient seeks behavioral therapy to stop drinking alcohol, the therapist must take the learned responses, the positive feelings generated by drinking alcohol, and replace them with a new reaction, negative feelings concerning alcohol
+        * There are multiple methods of counterconditioning
+          * **Aversion therapy** is an aversive stimulus that is repeatedly paired with the behavior that the client wishes to stop
+            * Therapist might administer a punishment to the patient each time the patient drinks alcohol
+          * **Systematic desensitization i**nvolves replacing one response, such as anxiety, with another response, such as relaxation
+            * A variation can occur when a therapist introduces the client to increasingly more anxiety-inducing stimuli instead of relying solely on their imagination
+      * Another form of behavioral therapy are **extinction procedures**, which are designed to weaken maladaptive responses
+        * **Flooding** is exposing them to the stimulus that induces the undesirable response
+          * If a client has come to a therapist to try to overcome a fear of spiders, the therapist will actually expose the client to spiders: the client will have high anxiety, but after a few minutes without any negative consequences, the client will realize that the situation is not dangerous
+        * **Implosion** is a similar technique, in which the client imagines the disruptive stimuli rather than actually confronting them
+      * **Behavioral contracting** is when the therapist and the client draw up a contract by which they both agree to abide
+        * The client must, according to the contract, act in certain ways and the therapist must provide stated rewards if the client holds up their end of the bargain
+      * **Modeling** is a therapeutic approach based on Bandura’s social learning theory. This technique is based on the principle of vicarious learning
+        * Clients watch someone act in a certain way and then receive a reward: presumably, the client will then be disposed to imitate that behavior
+    * Cognitive (Aaron Beck, Albert Ellis)
+      * Cognitive approaches to the treatment of disordered behavior rely on changing cognitions, or the ways people think about situations, in order to change behavior
+        * **Rational-emotive behavior therapy (REBT)** (sometimes called simply RET, for rational-emotive therapy), formulated by **Albert Ellis**
+          * REBT is based on the idea that when confronted with situations, people recite statements to themselves that express maladaptive thoughts
+          * The maladaptive thoughts result in maladaptive emotional responses
+          * The goal of REBT is to change the maladaptive thoughts and emotional responses by confronting the irrational thoughts directly
+        * **Cognitive therapy**, by **Aaron Beck**, focuses on maladaptive schemas
+          * Maladaptive schemas include arbitrary inference, where a person draws conclusions without evidence
+          * Dichotomous thinking: all-or-none conceptions of situations
+            * These schemas cause the client to experience cognitive distortions, which lead them to feel worthless or incompetent
+          * Beck asserted that there is a negative triad of depression that involves a negative view of self, of the world, and of the future
+          * This view is learned through experiences and then becomes a cycle of response that needs to be addressed through cognitive therapy
+    * Humanistic/client-centered (Carl Rogers)
+      * Client-centered therapy was invented by Carl Rogers and involves the assumption that clients can be understood only in terms of their own reality
+      * Differs from the Freudian approach in its focus on the client’s present perception of reality, rather than the past and its analysis of conscious, instead of unconscious, motives
+      * Not detached: therapist is open, honest, and expressive of feelings (active listener)
+      * The goal of the therapy is to help the client realize full potential through self-actualization
+      * Successful client-centered therapy, according to Rogers, is unconditional positive regard
+      * Accurate empathic understanding; Rogers used this term to describe the therapist’s ability to view the world from the eyes of the client
+      * Gestalt therapy: combines both physical and mental therapies
+        * Fritz Perls developed this approach to blend an awareness of unconscious tensions with the belief that one must become aware of and deal with those tensions by taking personal responsibility
+        * Clients may be asked to physically “act out” psychological conflicts in order to make them aware of the interaction between mind and body
+    * Psychodynamic (Sigmund Freud)
+      * Psychoanalysis, or psychoanalytic therapy, as it is sometimes called, was first developed by Freud and focuses on probing past defense mechanisms of repression and rationalization to understand the unconscious cause of a problem
+      * A primary tool for revealing the contents of the unconscious is free association, in which the patient reports any and all conscious thoughts and ideas
+      * Within the pattern of free associations are hints to the nature of the unconscious conflict
+      * The therapist strives to remain detached from the patient, resisting personal involvement
+        * This detachment is to encourage transference, which is when the patient shifts thoughts and feelings about certain people or events onto the therapist
+          * This is thought to help reveal the nature of the patient’s conflicts
+          * Countertransference may occur if the therapist transfers his or her own feelings onto the patient
+            * In order to avoid countertransference, psychotherapists have typically undergone analysis themselves and many continue to do so while practicing therapy
+
+====Social Psychology (8--10%)====
+
+  * Attitude
+    * Cognitive dissonance (Leon Festinger)
+      * Cognitive dissonance occurs when attitudes and behaviors contradict each other
+        * Generally, such tension is not pleasant, and people tend to change in order to achieve cognitive consistency
+        * Leon Festinger studied this phenomenon and came to the conclusion that people are likely to alter their attitude to fit their behavior
+          * Law-abiding citizens speed frequently: a cognitive conflict exists
+            * Which is going to change—their attitude toward the law or their over-the-limit driving?
+            * Generally, people adjust their attitudes and continue their behavior
+        * Cognitive dissonance tends to occur only when the person feels that he has a choice in the matter
+          * If he feels that he’s being forced to speed, then his attitude will remain intact
+    * Elaboration likelihood model of persuasion
+      * Persuasion is the process by which a person or group can influence the attitudes of others
+      * The efficacy of persuasion derives in part from the characteristics of the persuader
+        * People who have positions of authority or who appear to be experts on a given topic are more likely to be viewed as persuasive
+      * The motive of the persuader is also critical
+        * If an author tries to convince you that authors are poor, and that you should donate five dollars to the poor authors’ fund, you would not believe the author
+        * Your disbelief would stem from your belief that the author’s motive is selfish
+        * However, if an author asks for five dollars for disaster relief, you might be more likely to be persuaded because the motive seems more altruistic
+      * An additional factor affecting persuasive ability is interpersonal attractiveness
+        * More attractive, likeable, trustworthy, knowledgeable people are more persuasive
+      * Most people are also swayed by the presentation of facts
+      * Another factor influencing the persuasion process is the nature of the message
+      * Repetition is an effective technique for achieving persuasion, which is why the same advertisements run so frequently
+      * Fear is another motivator of attitudinal change
+        * A prime example of the use of fear in persuasive attempts is the practice of putting cars wrecked in DWI (driving-while-intoxicated) accidents on display
+        * The idea is that seeing the result of such an accident will induce an attitudinal change about drunk driving
+      * The elaboration likelihood model explains when people will be persuaded by the content of a message (or the logic of its arguments), and when people will be influenced by other, more superficial characteristics like the length of the message, or the appearance of the person delivering it
+        * The three key elements ar the message characteristics, source characteristics, and target characteristics
+          * The message characteristics are the features of the message itself, such as its logic and the number of key points in the argument
+            * Also includes more superficial things, such as the length and grammatical complexity
+          * The source characteristics of the person or group delivering the message, such as expertise, knowledge, and trustworthiness play an important role
+            * People are much more likely to be persuaded by a major study described in the New England Journal of Medicine than by something in the pages of the local supermarket tabloid
+          * Target characteristics of the person receiving the message (such as self-esteem, intelligence, and mood) have an important influence on whether a message will be perceived as persuasive
+            * Some studies have suggested that those with higher intelligence are less easily persuaded by one-sided messages than those with lower
+
+  * Attribution Theory
+    * Attribution errors
+      * **Dispositional attribution** assumes that the cause of a behavior or outcome is internal
+      * **Situational attribution** assigns the cause to the environment or external conditions
+        * When students fail a test, they might attribute that failure to their own poor work habits (a dispositional attribute), or they could attribute their failure to some external factor such as bad instruction (a situational attribute)
+      * A self-serving bias sees the cause of actions as internal (or dispositional) when the outcomes are positive and external (or situational) when the results are negative
+        * When a teacher’s class fails a test, they blame the students for their lack of initiative, however, when they do well, it’s because of their teaching
+      * **Fundamental attribution error**: in this process of judging the behavior of others, people are more likely to overestimate the role of dispositional attributes and to underestimate the role of the situation
+        * If you are waiting for your friend to meet you at the movies and she’s so late that the movie has already started, you would be more likely to blame your friend’s lateness on her laziness or procrastination than on a traffic jam or car accident
+    * Person perception
+      * Person perception refers to a general tendency to form impressions of other people
+      * Some forms of person perception occur indirectly and require inferring information about a person based on observations of behaviors or based on second-hand information
+    * Self-fulfilling prophecy
+      * When attributions actually affect the outcome of the behavior
+        * Person A expects Person B to achieve or fail, Person B is likely to do just that.
+      * This is especially true in education and is known as the Rosenthal Effect
+        * When teachers are told that certain children are expected to do better, those children tend to do better, even when there is no difference in ability levels
+
+  * Conformity, Compliance, and Obedience
+    * Solomon Asch
+      * Solomon Asch performed studies on the nature of conformity
+      * Participants thought that they were being evaluated on their perceptual judgments: small groups of people were shown stimuli together, such as lines of differing lengths, and each member of the group was to report which of several comparison lines matched a standard line in length orally in turns; the participants did not know that the other members of a given group were not naïve participants, but rather were confederates of the experimenter
+      * The correct answers in the experiment were obvious, however, the confederates, pretending to be naïve participants, would purposely respond incorrectly
+      * Asch found that the naïve participants agreed with the other members of the group, even though the answer they gave was obviously incorrect; furthermore, Asch demonstrated that the participants knew that the answers they gave were wrong, but said them anyway
+    * Groupthink
+      * Groupthink occurs when members of a group are so driven to reach unanimous decisions that they no longer truly evaluate the repercussions or implications of their decisions
+        * Groupthink may be observed when the groups making decisions are isolated and homogeneous, when there is a lack of impartial leadership inside or outside the group, and when there is a high level of pressure for a decision to be made
+    * Stanley Milgram
+      * Obedience studied in famous experiments: quiz and shock experiment
+      * Several factors critical to whether or not the person would obey
+        * The perceived authority of the test administrator
+          * For example, when the person overseeing the experiment introduced himself as a graduate student instead of as a scientist, the subject was much less likely to comply
+        * Another factor was physical distance
+          * If the subject was forced to sit in the room with the person receiving the shocks, his level of obedience dropped
+        * The subject was also less likely to obey if the experimenter communicated the commands by phone instead of in person
+        * Obedience also tended to go down if:
+          * The subject was told that he was responsible for the outcome
+          * If the subject witnessed someone else disobeying the experimenter
+          * If the experimenter instructed the subject to immediately apply a high level of voltage to the “learner”
+      * Major conclusion is that people tended to be obedient to a figure of authority, but only if certain criteria were met and that people are much less likely to obey when they feel that they have an ally in standing up to the pressure
+    * Philip Zimbardo
+      * Stanford Prison Experiment tested the effect of role-playing in obedience and conformity
+      * Within a short period of time, the participants in each group began to act as though they hated the participants in the other group
+      * Both groups, when stripped of individual identities, turned to mob identity and violence
+      * In effect, what started out as role-playing became serious identification with the roles
+      * The experiment got out of hand and had to be stopped prematurely to preserve the participants’ well-being
+
+  * Group Influences on Behavior and Thinking
+    * Bystander effect and diffusion of responsibility
+      * The bystander effect asserts that the more people there are witnessing a crime, the less likely any one of them is to help the victim
+      * It occurs as a result of diffusion of responsibility: simply put, each person assumes that someone else will (or should) help or call the police
+    * Deindividuation
+      * Phenomenon in which people engage in seemingly impulsive, deviant, and sometimes violent acts in situations in which they believe they cannot be personally identified
+    * Groupthink and group polarization
+      * Group polarization occurs when a judgment or decision of a group is more extreme than what individual members of the group would have reached on their own
+        * For example, if people with negative racial attitudes are placed into a group and told to discuss racial issues, those who started off the experiment with high prejudice often end up with an even higher prejudice after the discussion
+    * In-group/out-group bias
+      * In-groups are groups of individuals with a shared identity
+      * Out-groups are groups that don’t have a shared identity
+      * In-group bias the tendency for people to give preferential treatment to those who belong to the same group as them
+    * Social facilitation and social inhibition
+      * **Social facilitation** is an increase in performance on a task that occurs when that task is performed in the presence of others
+        * You may have experienced this effect if you play sports
+      * The opposite effect is called social inhibition, which occurs when the presence of others makes performance worse
+        * Many people experience social inhibition when giving speeches
+      * People experience social facilitation when they find a task to be easy or well-practiced, and they suffer from social inhibition when a task is overly difficult or novel
+
+  * Bias, Prejudice, and Discrimination
+    * Behavior (discrimination) vs. thought (prejudice)
+      * Prejudice is a negative attitude toward members of a particular group without evidence.
+        * Bias and prejudice are not the same: bias simply refers to a tendency or preference, and biases are not necessarily negative
+      * Whereas prejudice refers to a belief, discrimination refers to an action: that is, discrimination involves treating members of a group differently from members of another group
+    * Ethnocentrism
+      * Ethnocentrism refers to holding values or beliefs of one’s own in-group as better than those of another’s, which can lead to conflict, prejudice, and more
+    * Scapegoat theory
+      * Scapegoat theory is the tendency to blame someone else for one's own problems that often results in feelings of prejudice toward the person or group that one is blaming
+      * Opportunity to explain failure or misdeeds, while maintaining one's positive self-image
+
+  * Attraction, altruism, and aggression
+    * Mere exposure effect
+      * The tendency of people to tend to prefer people and experiences that are familiar
+      * Repeated exposure to novel stimuli increases liking of them

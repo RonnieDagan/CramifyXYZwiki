@@ -1,0 +1,8 @@
+<WRAP>
+====== Help ======
+If you have any questions or anything to ask u can email me at [[MrDoughCramifyHelp@gmail.com]], i should get back within the same day
+</WRAP>
+<WRAP>
+=====Existing and answered questions=====
+  * How do I upload my notes? Check [[how to import my notes into cramify]]
+</WRAP>

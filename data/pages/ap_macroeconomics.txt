@@ -1,0 +1,665 @@
+====== AP Macro Study Guide ======
+
+Credit: [[https://drive.google.com/file/d/1hiWaXGCw3kmDF32ITlIsczsxUbAq9IIl/view?usp=sharing|this]] pdf on google drive
+
+====Unit 1: Basic Economic Concepts====
+
+1.1: Scarcity
+
+  * Economics: the study of scarcity and choice (unlimited wants, limited resources)
+
+  * Economic choice: involves the personal choice of choosing one thing over another
+
+  * Scarcity: unlimited wants but limited resources
+    * e.g.: time = limited supply
+
+  * Scarce: not enough for everyone
+    * Causes us to make choice
+
+1.2: Opportunity Cost and the Production Possibilities Curve (PPC : PPF)
+
+  * All choices have tradeoffs
+    * Opportunity Cost: next-best alternative that you lost out on doing something else
+
+  * The PPC (or PPF) curve graphically represents opportunity costs
+    * Also a representation of an economy’s maximum sustainable capacity
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image2|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image2.jpeg}}]]> -
+
+  * Types of PPCs:
+
+
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image3|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image3.jpeg}}]]> -
+
+  * Factors of Production
+    * Land (natural resources)
+      * Raw materials used to produce finished goods
+    * Labor (workers)
+      * Human effort:work
+    * Capital (anything used to make anything else)
+      * finished goods used to produce other goods (machines, tools, factories, etc.)
+    * Entrepreneurship (creating something of value from the prior 3)
+
+  * Consumer vs. Capital Goods
+    * Focusing on consumer goods does not allow for an increase in the factors of production
+    * Focusing on capital goods expands future production possibilities for both consumer and capital goods.
+
+  * PPC Determinants
+    * Shift outward
+      * Increase in:
+        * Economic growth
+        * Technology
+        * Population
+        * Capital investment
+    * Shift inward
+      * Decrease in above
+
+1.3: Comparative Advantage and Gains from Trade
+
+  * Absolute Advantage (AA): Producing a good using fewer resources than someone else
+
+  * Comparative Advantage (CA): Producing a good at a lower opportunity cost than someone else
+    * Someone always has a comparative advantage in something
+
+  * Output Table Example ("Other goes over")
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled.png}}]][[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled_1|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled_1.png}}]]  * Input Table Example ("Other goes under") [[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled_2|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled_2.png}}]] 
+
+  * Terms of Trade
+    * Terms of trade are beneficial if they fall inside two entities’ relative opportunity costs.
+
+1.4: Demand
+
+  * Demand - curve:schedule showing various quantities demanded at various prices
+    * Change in demand - a shift of the whole demand curve
+
+  * Quantity demanded - one specific point showing one quantity demanded at one price
+    * Change in quantity demanded - a movement along the demand curve between data points
+
+  * The Law of Demand
+    * Inverse relationship between price and quantity
+
+  * Non-Price Determinants of Demand
+    * Number of buyers (direct)
+    * Income (normal = direct, inferior = inverse)
+    * Price of related goods (substitute = direct, complement = inverse)
+    * Future expectations of price changes (direct)
+
+1.5: Supply
+
+  * Supply - curve:schedule showing various quantities sellers are willing to produce at various prices
+    * Change in supply - a shift of the whole supply curve
+
+  * Quantity supplied - one specific point showing one quantity produced at one price
+    * Change in quantity supplied - a movement along the supply curve between data points
+
+  * The Law of Supply
+    * Direct relationship between price and quantity
+  * [[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled_3|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled_3.png}}]] 
+  * Non-Price Determinants of Supply
+    * Number of sellers (direct)
+
+> - Costs of production (inverse) Price of alternative goods (inverse) Future expectations of price changes (inverse) 
+
+1.6: Market Equilibrium, Disequilibrium, and Changes in Equilibrium
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image6|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image6.jpeg}}]][[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled_4|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:Untitled_4.png}}]]  * Concurrent Shifts (what happens if S & D shifts simultaneously?)
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image7|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image7.jpeg}}]]
+====Unit 2: Economic Indicators and the Business Cycle====
+
+2.1: The Circular Flow and GDP
+
+  * Gross Domestic Product (GDP): The market value of all final goods and services produced in a nation during a period of time (usually a year)
+
+  * GDP Exclusions:
+    * Intermediate goods (to avoid “double counting”)
+    * Secondhand transactions
+    * Nonproductive financial transactions
+      * Private gifts
+      * Government transfer payments
+      * Stock:bond trading
+
+  * Calculating GDP:
+    * Expenditures approach
+      * Y=C+I+G+(X-M)
+        * C = Personal Consumption Expenditures
+        * I = Gross Private Domestic Investment (business investment)
+        * G = Government Consumption Expenditures & Gross Investment
+        * (X - M)= Net exports of goods:services (X = exports; M = imports)
+    * Income approach:
+      * Y=W+I+R+P
+        * W = wages
+        * I = interest income
+        * R = rent
+        * P = profits (revenue - cost)
+    * Value-added approach:
+      * The total value added by a firm is equal to the sale price of the good, minus the total cost of any intermediate goods.
+    * Income & value-added approaches honestly almost never come up on the exam.
+
+2.2: Limitations of GDP
+
+  * GDP does NOT count non-market transactions (ex: DIY projects, black market, etc.)
+
+  * GDP is not a qualitative measure of output
+
+  * Neglect of leisure time
+    * As nations get richer, leisure time grows.
+
+  * Negative externality costs unaccounted for (ex: environmental damage)
+
+2.3: Unemployment
+
+  * Employed - Everyone currently working, including part-time workers.
+
+  * Unemployed - People looking for work or temporarily laid off work.
+
+
+
+  * Civilian Labor Force - # of people older than 16 who are employed or actively seeking work (excluding members of the military, homeless, and discouraged workers)
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image8|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image8.jpeg}}]]> -
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image9|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image9.jpeg}}]]> -
+
+  * Unemployment rate - the % of people in the labor force w:o jobs looking for jobs.
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image10|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image10.jpeg}}]]> -
+
+  * The unemployment rate calculation method is often criticized for understating the level of joblessness, as it excludes discouraged : part-time workers.
+
+  * Types of Unemployment:
+    * Frictional - Caused by the normal search time required by workers with marketable skills who are changing jobs
+      * Initially entering the labor force
+      * Reentering the labor force
+      * Seasonally unemployed
+    * Structural - unemployment due to a mismatch of skills of out-of-work workers and the skills required for existing job offers (ex: manufacturing job losses)
+    * Cyclical - unemployment due to a recession
+
+  * Full employment = Natural Rate of Unemployment (NAIRU)
+    * Frictional & structural unemployment exist, but no cyclical unemployment
+
+2.4: Price Indices and Inflation
+
+  * Inflation - an increase in the general (average) price level of goods:services
+
+  * Deflation - a decrease in the general (average) price level of goods:services
+
+  * Disinflation - a reduction in the rate of inflation
+
+  * Price Index (PI) - a comparison of prices between two years
+
+  * Ways to measure the general price level:
+    * Consumer Price Index (CPI)
+      * The CPI doesn’t account for the substitution effect, thus it overstates the true inflation rate.
+    * Producer Price Index (PPI)
+      * Calculating the PPI is beyond the scope of the AP Macro exam.
+    * GDP Deflator
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image11|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image11.png}}]]
+
+2.5: Costs of Inflation
+
+  * Inflation erodes real value : reduces real income
+
+  * Inflation affects fixed payments
+    * Actual inflation < expected inflation **→** BORROWERS LOSE, LENDERS WIN
+      * Borrowers’ fixed loan payments are worth more real dollars
+    * Actual inflation > expected inflation **→** BORROWERS WIN, LENDERS LOSE
+      * Borrowers’ fixed loan payments are worth less real dollars
+
+2.6: Real v. Nominal GDP
+
+  * Nominal GDP - aggregate output not adjusted for inflation
+
+  * Real GDP - aggregate output adjusted for inflation
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image13|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image13.png}}]]> -
+
+2.7: Business Cycles
+
+  * Alternating periods of economic growth and contraction, which can be measured by changes in real GDP.
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image14|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image14.jpeg}}]]
+
+====Unit 3: National Income and Price Determination====
+
+3.1: Aggregate Demand (AD)
+
+  * Curve representing the total amount of demand for all finished goods:services produced in an economy. Each point on the curve represents the total amount of money exchanged for those goods:services at a specific price level and point in time.
+
+  * Why is the Aggregate Demand curve downward sloping?
+    * Real Balance Effect
+      * The impact on total spending caused by the inverse relationship between the price level and the real value of financial assets w: fixed nominal value.
+      * In other words: inflation erodes value, & that value buys less real GDP.
+    * Interest Rate Effect
+      * The impact on total spending caused by the direct relationship between the price level and the interest rate.
+      * In other words: inflation increases the interest rate, making investment less affordable. Decrease in investment decreases real GDP.
+    * Net Exports Effect
+      * The impact on total spending caused by the inverse relationship between the price level and the net exports of an economy.
+      * In other words: more imports decreases real GDP.
+
+  * Aggregate Demand determinants
+    * Any change in aggregate expenditures
+      * (Y = C + I + G + Nx)
+      * C = Personal consumption
+        * Interest sensitive
+        * **↑**C **→ ↑**AD; **↓**C **→ ↑**AD
+        * **↑**income tax **→ ↓**C **→ ↑**AD; **↓**income tax **→ ↑**C **→ ↑**AD
+      * I = Business investment
+        * Interest sensitive
+      * G = Government surplus
+        * Deficit spending
+      * Nx = Net exports
+
+3.2: Multipliers
+
+  * Marginal propensity to consume (MPC) = the portion:percentage of a dollar of income that gets spent.
+
+  * Marginal propensity to save (MPS) = the portion:percentage of a dollar of income that gets saved.
+
+  * MPC + MPS = 1 (there are no other uses for income)
+
+  * Spending Multiplier
+
+
+
+  * The degree to which an initial change in spending multiplies into further rounds of spending, as spending becomes income, some of which gets spent.
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image15|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image15.jpeg}}]]> -
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image16|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image16.jpeg}}]]> -
+
+  * Tax Multiplier
+    * Since people save a portion of their income and tax changes aren’t a form of spending, the tax multiplier is always smaller than the spending multiplier.
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image17|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image17.jpeg}}]]> -
+
+3.3: Short-Run Aggregate Supply (SRAS)
+
+  * Curve representing the total amount of supply for all finished goods:services produced in an economy. Each point on the curve represents the total amount of goods supplied at a specific price level and point in time.
+
+  * Why is the Aggregate Supply curve upwards sloping?
+    * Prices:wages are sticky in the short run.
+      * It takes time for changes in the price level to affect nominal wages:prices
+
+  * Aggregate Supply determinants
+    * Costs of production (wages, energy, inputs) (inverse)
+    * Productivity changes (direct)
+    * Technology (direct)
+    * Inflationary expectations (inverse)
+
+3.4: Long-Run Aggregate Supply (LRAS)
+
+  * Another representation of an economy’s maximum sustainable capacity (like PPC).
+
+  * Since prices:wages are flexible in the long run…
+    * There are no long-run tradeoffs between inflation and unemployment.
+    * Prices and wages immediately adjust, so the LRAS curve is vertical.
+
+3.5: Equilibrium in the Aggregate Demand--Aggregate Supply (AD--AS) Model
+
+  * Short run equilibrium:
+    * The economy is in short run equilibrium when AD = SRAS (i.e they intersect)
+
+> - E < Efe→ recessionary gap E > Efe**→** expansionary gap 
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image18|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image18.png}}]]  * Long run equilibrium:
+    * The economy is in long run equilibrium when AD = SRAS (i.e they intersect) AND they do so at the full-employment level of output.
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image19|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image19.jpeg}}]]> -
+
+3.6: Changes in the AD--AS Model in the Short Run
+
+  * Demand-Pull inflation - a rise in the general price level from an increase in AD
+    * **↑**AD **→ ↑**rGDP & **↑**PL
+
+  * Cost-Push Inflation - an rise in the general price level from a decrease in SRAS
+    * **↓**SRAS **→ ↓**rGDP & **↑**PL
+
+  * **↓**AD **→ ↓**rGDP & **↓**PL
+
+  * **↑**SRAS **→ ↑**rGDP & **↓**PL
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image20|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image20.jpeg}}]]3.7: Long-Run Self-Adjustment
+
+  * In the absence of government intervention:
+    * Correcting **↑**AD: **↑**inflation **→ ↑**nominal wages **→ ↑**input prices **→ ↓**SRAS
+    * Correcting **↓**AD: **↓**inflation **→ ↓**nominal wages **→ ↓**input prices **→ ↑**SRAS
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image21|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image21.jpeg}}]]3.8: Fiscal Policy
+
+  * The use of changes in government spending & taxes to achieve macroeconomic goals.
+    * Expansionary fiscal policy (​**↑**AD & **↑**rGDP)
+      * Used to correct recessionary gap
+      * Increase government spending and:or decrease taxes
+        * **↑**G **→ ↑**AD **→ ↑**rGDP & **↑**PL
+        * **↓**taxes **→ ↑**disposable income **→ ↑**C **→ ↑**AD **→ ↑**rGDP & **↑**PL
+    * Contractionary fiscal policy (**↓**AD & **↓**rGDP)
+      * Used to correct expansionary gap
+      * Decrease government spending and:or increase taxes
+        * **↓**G **→ ↓**AD **→ ↓**rGDP & **↓**PL
+
+  * **↑**taxes **→ ↓**disposable income **→ ↓**C **→ ↓**AD **→ ↓**rGDP & **↓**PL
+
+3.9: Automatic Stabilizers
+
+  * Federal expenditures and tax revenues that automatically change levels in order to stabilize an economic expansion or contraction
+    * Progressive Income Tax System
+      * Tax revenues decrease automatically as rGDP falls, increasing disposable income and allowing for more consumer consumption in the recession.
+      * Tax revenues increase automatically as rGDP rises, decreasing disposable income and preventing consumers from overspending too much.
+    * Unemployment Compensation (transfer payments)
+      * Provides an increasing injection of income as an economy slows, helping to reduce declines in consumption during a recession.
+
+====Unit 4: Financial Sector====
+
+4.1: Financial Assets
+
+  * Types of financial assets
+    * Cash, demand deposits
+      * Most liquid (easily convertible to ready cash) form of money
+    * Stocks (equity) - owner of a part of a company
+      * Gives a share of ownership and a vote in a company
+      * Pays out dividends
+      * Bought:sold on the stock market
+    * Bonds (debt)
+      * Does not give ownership nor a vote in a company
+      * Pays out interest and has face value (principal)
+      * Bought.sold on the primary & secondary bond market
+      * Bond prices and bond interest rates are inversely related.
+
+  * The opportunity cost of holding money is the interest that could have been earned from holding other financial assets such as bonds.
+
+4.2: Nominal v. Real Interest Rates
+
+  * Nominal interest rate (NIR) - rate of interest paid for a loan, unadjusted for inflation.
+
+  * Real interest rate (RIR) - rate of interest paid for a loan, adjusted for inflation.
+
+  * Fisher equation **→** (RIR) + (inflation) = (NIR)
+
+
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image22|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image22.jpeg}}]]> -
+
+4.3: Definition, Measurement, and Functions of Money
+
+  * Money is any asset that is accepted as a means of payment.
+
+  * Functions of money:
+    * Medium of exchange - it’s accepted in buying and selling goods:services.
+    * Store of value - it’s a way of storing wealth without it depreciating quickly. Measure of value (unit of account) - it states how much things are worth.
+      * M1: Most narrowly defined money supply.
+        * Currency
+        * Traveler’s checks
+        * Checkable deposits (demand deposits)
+      * M2: M1 + “near monies”
+        * Currency
+        * Traveler’s checks
+        * Checkable deposits (demand deposits)
+        * Savings account
+        * Small time deposits
+        * Money market funds
+      * MB or M0: Monetary base
+        * Currency in circulation & bank reserves
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image23|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image23.jpeg}}]]4.4: Banking and the Expansion of the Money Supply
+
+  * Bank assets:liabilities organized on a balance sheet (assets = liabilities)
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image24|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image24.jpeg}}]]  * Fractional reserve banking - a system in which banks keep only a percentage of their deposits on reserve as vault cash or on deposit with the Fed.
+
+  * Total reserves = (required reserves) + (excess reserves)
+
+  * Required reserve ratio (RR) - The % of deposits that the Fed requires to hold in vault cash or on deposit with the Fed.
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image25|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image25.jpeg}}]]> -
+
+  * Money Multiplier (MM)
+    * Due to the fractional reserve banking system, a portion of all deposits gets held in reserve while the rest is loaned out, expanding the money supply.
+
+  * Consumer deposits vs Fed bond purchase
+    * Some of a consumer deposit needs to go to required reserves, so not all of the consumer deposit is given out.
+      * [[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image27|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image27.jpeg}}]] 
+    * When the Fed purchases bonds, it’s the banks’ “securities” assets directly going into excess reserves. Therefore, it “bypasses” the required reserves and can all be given out.
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image28|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image28.jpeg}}]]> -
+
+  * ΔMS may be less than predicted as it does not take into account a bank’s desire to hold excess reserves or the public holding more currency.
+
+4.5: The Money Market
+
+  * Money demand curve (MD) shows the inverse relationship between the nominal interest rate (NIR) and the quantity of money people want to hold.
+
+> - ↑MD → ↑NIR & ↑Q​; ↓MD → ↓NIR & ↓Q​ M​ M
+
+  * MD determinants:
+    * Transaction demand (money for purchases) (direct)
+
+  * Precautionary demand (money as safety net) (direct)
+
+  * Speculative demand (money as an asset) (direct)
+
+  * Money supply curve represents the money supply
+    * Since the central bank can directly control the monetary base, the money supply is independent of the NIR, and the money supply curve is completely vertical.
+    * Determinants of money supply is monetary policy (see 4.6)
+
+  * Equilibrium where MD = MS (i.e where they intersect)
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image29|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image29.png}}]]4.6:
+
+Monetary Policy
+
+  * The Fed indirectly affects the nominal interest rate in order to achieve macroeconomic goals.
+
+  * Tools of monetary policy:
+    * Open market operations: Buying:selling bonds
+      * Most common form of monetary policy
+    * Reserve requirement: decrease:increase required reserve ratio
+    * Discount rate (interest rate from borrowing from Fed): decrease:increase rate
+      * Banks can also borrow from other banks at the federal funds rate. The federal funds rate, however, is directly related to the discount rate.
+
+  * Expansionary monetary policy:
+    * Buy bonds **→ ↑**MS **→ ↓**NIR **→ ↑**C & **↑**I (interest sensitive) **→ ↑**AD **→ ↑**rGDP
+      * **↑**PL
+
+  * Contractionary monetary policy:
+    * Sell bonds **→ ↓**MS **→ ↑**NIR **→ ↓**C & **↓**I (interest sensitive) **→ ↓**AD **→ ↓**rGDP
+      * **↓**PL
+
+  * Long run:
+    * Money neutrality - in the long run, changes in MS can affect PL, but not rGDP.
+    * In the long run, interest rates don’t change
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image30|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image30.jpeg}}]]4.7: The Loanable Funds Market
+
+> - Market between sales of funds and borrowers of funds - “links savers and borrowers” The demand for loanable funds curve (D​ )​ shows the inverse relationship between real 
+
+LF
+
+> interest rates and the quantity demanded of loanable funds.
+
+  * The supply of loanable funds curve (S​ )​ shows the positive relationship between real
+
+LF
+
+> interest rates and the quantity supplied of loanable funds.
+
+> - Desire by individuals to save more:less (direct) Equilibrium where D​ ​= S​ ​(i.e where they intersect) LF LF 
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image31|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image31.png}}]]
+====Unit 5: Long-Run Consequences of Stabilization Policies====
+
+5.1: Fiscal and Monetary Policy Actions in the Short Run
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image32|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image32.jpeg}}]]5.2: The Phillips Curve
+
+  * Represents the short run tradeoffs between inflation and unemployment
+
+  * Short Run Phillips Curve (SRPC) is downward sloping
+    * An economy is always operating somewhere along the SRPC.
+
+  * Long Run Phillips Curve (LRPC) is vertical
+    * No long run tradeoffs between inflation and unemployment
+
+  * Long-run equilibrium where SRPC = LRPC (i.e where they intersect)
+    * Corresponding unemployment of point on SRPC < NAIRU **→** expansionary gap
+    * Corresponding unemployment of point on SRPC > NAIRU **→** recessionary gap
+
+  * Determinants of the SRPC:
+    * Changes in AD = movements along SRPC
+      * **↑**AD **→** leftward movement; **↓**AD **→** rightward movement
+    * Changes in AS = shifts in SRPC
+      * **↑**SRAS **→ ↓**SRPC; **↓**SRAS **→ ↑**SRPC
+
+  * Determinants of the LRPC:
+    * Changes in the NAIRU
+    * Changes in labor force participation rates
+    * Changes in unemployment compensation
+    * Changes in minimum wages & changes in job availability information
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image33|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image33.png}}]]5.3: Money Growth and Inflation
+
+  * Quantity theory of money:
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image34|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image34.jpeg}}]]MV=PQ
+
+M = Quantity of money
+
+V = Velocity of money (how fast it changes hands) P = The general price level
+
+Q = Quantity of output (rGDP)
+
+5.4: Government Deficits and the National Debt
+
+  * Reminder **→** budget balance = tax revenue - gov. spending - gov. transfers
+
+  * Discretionary expansionary fiscal policies ​reduce​the budget balance (by increasing spending and transfers, all of which are subtracted from tax revenue).
+
+  * Discretionary contractionary fiscal policies ​increase​the budget balance (they are increasing taxes, reducing spending, and reducing transfers).
+
+  * Cyclically-adjusted budget balance - estimate of budget balance if the economy were at potential output
+
+  * Budget balance moves pretty close to unemployment rate
+
+  * *Should not try to overly control the budget balance, at the most put a cap on government spending, but otherwise ​don’t mess with it that much​%%**%%
+
+  * Fiscal year: from October 1 to September 30, denoted by the year that it ends in
+
+  * Debt-GDP ratio common indicator of fiscal wellbeing
+
+  * Reported debt understates true debt!
+    * Why? The government has a lot of implicit liabilities - spending promises (like Social Security - paying into social security means you trust gov. to pay you back in the future) also medicare : medicaid, which are all not counted for in debt
+
+  * *Large public debt makes it harder for economic growth to occur.%%**%%
+
+5.5: Crowding Out
+
+  * Government deficit spending typically requires it to borrow money; can “crowd out” : reduce investment spending
+
+  * **↑**G **→ ↑**D_LF **→ ↑**RIR **→ ↓**I
+
+5.6: Economic Growth
+
+  * Economic Growth = production of more goods and services over time (​**↑** in GDP)
+
+  * Economic growth measured by per capita rGDP
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image35|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image35.jpeg}}]]> -
+
+  * Rule of 70 - approximate time it takes to double a nation’s output:income
+    * [[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image36|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image36.jpeg}}]] 
+  * Change in LRAS:
+    * **↑**NIR or RIR **→ ↓**I **→ ↓**capital formation **→ ↓**LRAS
+    * **↓**NIR or RIR **→ ↑**I **→ ↑**capital formation **→ ↑**LRAS
+
+  * Increase:decrease in LRAS corresponds to outward:inward shift of PPC.
+
+5.7: Public Policy and Economic Growth
+
+  * Factors that increase growth
+    * i​mprovements in technology
+    * Improvement in labor force education:training
+    * Political Stability
+    * Larger labor force through procreation or immigration (health care helps)
+    * New natural resource deposits (could result through discovery or conquest)
+    * Reliable infrastructure (helps get good and services produced to market)
+
+====Examples:====
+
+1.2: Opportunity Cost and the Production Possibilities Curve FRQ Example:
+
+2013 #2
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image37|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image37.jpeg}}]]1.3: Comparative Advantage and Gains from Trade FRQ Example:
+
+2008 #3 - “Output” table problem:
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image38|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image38.png}}]]  - 2 (hats)
+
+  - Rayland will import bikes because it has a comparative disadvantage in bike production. (Many other explanations were accepted - basically any correct observation about comparative advantage:disadvantage or opportunity cost will work.)
+
+  - (i) Artland can either forego ½ of a bike producing 1 hat themselves or forego **⅕** of a bike by trading for 1 bike. Trading has a lower opportunity cost, so trade is advantageous for Artland.
+    - Rayland can either forego 4 hats producing 1 bike themselves or forego 5 hats by trading for 1 bike. Trading has a higher opportunity cost, so trade isn’t advantageous for Rayland.
+
+  - Multiplying productivity in both hats and bikes doesn't change the ratio with respect to each other (aka their opportunity cost.) So Rayland still would have the CA in hats.
+
+2.3: Unemployment FRQ Example:
+
+FRQ Example for 2.3 (2018 #3):
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image39|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image39.jpeg}}]](b)
+
+2.4, 2.5, 2.6 FRQ Example:
+
+2011B #3
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image40|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image40.jpeg}}]]  - By definition, inflation reduces real income. Thus, real wages will be lower.
+
+  - Sara benefits from the unexpected inflation because her fixed loan payments are worth less real dollars.
+
+3.2: Multipliers FRQ Example:
+
+2015 #1
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image41|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image41.jpeg}}]]  * $300 billion = Initial ΔrGDP x
+
+  * Initial ΔrGDP = $60 billion
+
+1
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image42|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image42.png}}]]1−0.8
+
+  - Greater, because the tax multiplier (4) is smaller than the spending multiplier (5) due to part of the initial increase in disposable income caused by the decrease in income tax being saved rather than spent.
+
+4.2: Nominal v. Real Interest Rates FRQ Example:
+
+FRQ Example for 4.2 (2009 #1)
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image43|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image43.jpeg}}]](b) (RIR) + (inflation) = (NIR) **→** (RIR) + (6%) = (8%) **→** RIR = 2%
+
+4.1, 4.3, & 4.4 FRQ Example:
+
+2011 #3
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image45|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image45.jpeg}}]]  - (i) All of the freed securities goes to excess reserves, so $5,000. (ii) $0. No deposits were made - the Fed bought bonds.
+
+  - Because the Fed purchased bonds, all of the newly freed securities can be loaned out. ΔMS = MM × Amount of Fed bond purchase:sale = 01.2 × $5,000 = $25,000
+
+  - **↑**MS **→ ↓**NIR **→ ↑**bond price
+
+  - No immediate change, because cash on hand and demand deposits are both in M1.
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image46|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image46.png}}]]5.3: Money Growth and Inflation FRQ Example:
+
+[[AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image47|{{AP_Macro_Study_Guide_13acb6915ec848f781d38315f28b4442:image47.jpeg}}]]  - See graph* to left
+
+  - (i) ​**↓**NIR **→ ↑**bond prices
+    - **↓**NIR **→ ↑**C & **↑**I **→ ↑**AD **→ ↑**rGDP & **↑**PL (C & I are interest sensitive)
+
+  - By quantity theory of money, MV = PQ.
+
+If P & Q increase, and M is fixed, then V must increase.
+
+  * ​graphing is not on the 2020 AP Macro exam

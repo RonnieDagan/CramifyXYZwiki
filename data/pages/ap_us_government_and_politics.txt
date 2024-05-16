@@ -1,0 +1,2360 @@
+====== AP US Government and Politics Review======
+Credit: TheAngrySquirrel48 on Reddit, this google doc: [[https://docs.google.com/document/d/1cRT4ioJ1y_9ljPOMkCblXJ28GCYEMRUSlXUxVaHCsmg/edit?usp=sharing|AP Gov Review]]
+
+
+===== UNIT I: THE CONSTITUTIONAL UNDERPINNINGS =====
+
+> A. Enlightenment Philosophies:
+
+  * Major Enlightenment Philosophers:
+    * Thomas Hobbes:
+      * Humans left on their own=chaos/violence
+      * State of nature=”solitary, poor, nasty, brutish, and short”
+      * Best way to protect life is to give total power to an absolute monarch bc man cannot be trusted to rule himself
+    * John Locke:
+      * Life liberty and property are natural rights granted by God
+      * Duty of all government to respect and protect natural rights
+        * Failure to do so=right of revolution
+    * Charles de Montesquieu:
+      * Greatly influenced founders
+      * Separation of power into 3 branches of government
+    * Jean-Jacques Rousseau:
+      * Only good government is one that was freely formed with the consent of the people
+
+  * 3 forms of Democracy:
+    * **Participatory Democracy:**
+      * Broad participation in politics at all socioeconomic levels
+    * **Pluralist Democracy:**
+      * Organized group-based activism by citizens with common political interests
+    * **Elite Democracy:**
+      * Discourages participation by majority of citizens
+      * Power given to educated/wealthy
+
+  * Enlightenment had big influence on Founding Fathers
+    * Promoted Republicanism
+      * Individual liberty
+      * God-given rights
+      * All governmental power is derived from the people
+      * Rejects aristocracy
+      * Encourages broad participation in political affairs
+
+  * America=**Representative Democracy**
+    * Elected officials represent group of people
+    * Some direct democracy
+      * Referendums
+
+  * **Popular Sovereignty**
+    * Authority of government created/sustained by consent of its people through elected representatives
+
+  * The Declaration of Independence
+    * Majority of document outlines injustices by King George III against colonies
+    * Used as template by other nations when declaring independence from other colonial powers
+
+> B. The Weaknesses of the Articles of Confederation
+
+  * Pros of **Articles**
+    * Establishes **federalism**
+      * States and government share governing responsibilities
+    * Negotiated treaty that ended the Revolutionary War
+    * Established **Northwest Ordinance**
+      * Method by which new states would enter the Union
+
+  * Weaknesses
+    * 1787
+      * Interstate trade in decline
+      * Inflation
+      * Threat of social disorder
+    * **Shays’ Rebellion**
+      * Farmer attacked federal arsenal to protest foreclosure of farms in West
+      * Major concern of Constitutional Convention
+        * Need for stronger central government
+      * Frightened statesmen
+      * Exposed weaknesses of **Articles of Confederation**
+    * Federal Government under **Articles of Confederation**
+      * Could not draft soldiers
+      * Was completely dependent on states for revenue
+        * Federal gov. not permitted to tax citizens
+      * Could not pay off Revolutionary War debt
+      * Could not control interstate trade
+      * No Supreme Court to interpret law
+      * No executive branch to enforce national law
+      * No national currency
+      * No control over import/export taxes between states
+      * Needed unanimity to amend Articles
+      * Needed 9/13 state approval to pass legislation
+    * **CONSTITUTIONAL CONVENTION** NEEDED
+      * **Constitution** created
+
+  * Constitutional Convention
+    * Opposing views
+      * Current government weak/ineffective
+      * changes =infringement of state/citizens’ rights
+    * Delegates agreed that stronger central gov. was necessary but fearful of corruption
+
+  * **The Great Compromise**
+    * Aka **Connecticut Compromise**
+    * Compromise between **Virginia Plan** and **New Jersey Plan**
+      * **Virginia Plan**
+        * Strong government
+        * Each state represented according to population
+      * **New Jersey Plan**
+        * Each state represented equally
+    * End Result:
+      * **Bicameral** legislature with a House of Representatives (population based), and a Senate (equal state representation)
+
+  * **Three-Fifths Compromise:**
+    * Slaves will count as ⅗ of a person in apportioning seats in HoR
+
+  * President created by Constitution
+    * Enforcer of law
+    * 2nd check on power of legislature
+      * Veto power
+        * Overridden by ⅔ Congressional vote
+
+  * Supreme Court created
+    * Arbitrate disputes between:
+      * Congress/President
+      * States
+      * states/central government
+
+  * **Federalists**
+    * Supporters of Constitution
+    * **The Federalist Papers**
+      * Authors:
+        * Alexander Hamilton
+        * James Madison
+        * John Jay
+      * Primary source for understanding original intent of founding fathers
+      * Attempt to persuade states to ratify Constitution
+
+  * Constitution lacked **Bill of Rights**
+
+  * **Anti-Federalist**
+    * Opponents of Constitution
+
+  * **Brutus No. 1**
+    * Began series of Federalist.Anti-Federalist Papers
+    * Series of questions about/critiques of proposed Constitution
+    * National government under constitution
+      * Too much power
+      * Standing army=less liberty
+      * Representatives would not represent the people
+
+  * **Federalist No. 10**
+    * Author: JAmes Madison
+    * Addressed dangers of factionalism
+    * How to protect minority factions in a nation founded on majority rule
+    * Large republic ensures multiple factions
+      * Prevents any one faction taking control
+        * No suppression of minority opinion
+    * Dissent:
+      * Naive
+      * Nation with multiple factions could never create the “perfect union”
+      * Would not survive long
+        * States’ separate interests would pull them apart
+
+  * **Federalist No. 51**
+    * Author: James Madison
+    * Separation of powers/checks/balances guarantees no one faction becomes completely dominant
+    * Separation of powers makes nat. gov. more efficient
+    * Dissent:
+      * No perfect way to separate powers
+      * Eventually one branch will hold more power
+
+  * **Federalist No. 70**
+    * Author: alexander Hamilton
+    * Executive branch should consist of a single head: the President
+    * Proposed term limits as check on president’s power
+    * Dissent:
+      * only presidents’ “minions” would influence him
+      * Alarmed at prospect of giving military control to single poeron
+
+  * **Federalist No. 78**
+    * Author: Alexander Hamilton
+    * Addressed Anti-Federalist critiques on the power of federal judiciary
+      * Under Constitution, judicial branch will have least power
+      * Still has **judicial review**
+        * Check on Congress
+    * Dissent:
+      * Judiciary will overshadow state systems
+        * State courts will be practically powers
+      * Scared by lifetime appointments
+        * Corruption
+
+C. The Constitution as an Instrument of Government
+
+  * Constitution vague/skeletal in form
+    * Blueprint for gov. structure
+    * Guide for guaranteeing rights of citizens
+    * Allows change to anticipate needs of future generations
+
+  * First 3 Articles
+    * Sets up separation of powers
+      * **Legislative Branch**
+      * **Executive Branch**
+      * **Judicial Branch**
+
+  * **Necessary and proper clause**
+    * Article I, Section 8
+    * Allows Congress to “make all laws” that appear “necessary and proper”
+    * Aka **elastic clause**
+
+  * **Executive orders**
+    * Same effect as law
+    * Bypasses Congress in policy making
+    * Not mentioned in Constitution
+    * Used as part of enforcement duties
+
+  * **Executive Agreements**
+    * Same elements as treaties
+
+  * **Marbury v. Madison**
+    * Drastically increased SCOTUS power
+    * **Judicial review** established
+      * Ability to overturn laws passed by legislature
+
+  * **Federalism**
+    * US Gov. form
+    * System of government where national/state governments share powers
+    * Opposite of **confederation**
+      * System where many decisions are made by an external member-state legislation
+    * Important cases
+      * **McCulloch v. Maryland**
+        * States do not have the power to tax the national bank/fed. gov.
+        * Reinforced Supremacy clause
+      * **Gibbons v. Ogden**
+        * State of New York could not grant a steamship company monopoly to operate on interstate waterway
+        * Increased power over interstate commerce
+    * Powers
+      * **Delegated powers**
+        * Aka **enumerated powers**
+        * Only belong to national gov.
+        * Ex:
+          * Printing money
+          * Regulating interstate/international trade
+          * Making treaties
+          * Conducting foreign policy
+          * Declaring war
+      * **Reserved powers**
+        * Only belongs to states
+        * 10th Amendment: include any powers not specifically granted to national gov. Or denied to state gov.
+        * Ex:
+          * Issue licenses
+          * Regulation of interstate business
+          * Responsibility to run an pay for federal elections
+      * **Concurrent powers**
+        * Shared by federal/state governments
+        * Ex:
+          * Power to collect taxes
+          * Power to build roads
+          * Power to operate courts of law
+          * Power to borrow money
+      * Federal duties
+        * guarantee states:
+          * a republican government
+          * Protection from foreign invasion
+          * Protection from domestic rebellion
+        * Prevent states from subdividing/combining w/o COngressional consent
+      * State Duties:
+        * Accept other states licenses/contracts/etc.
+          * **Full faith and credit clause**
+        * May not refuse police protection/access to courts to a citizen because of state citizenship
+          * **Privileges and immunities clause**
+        * Must return fugitives to states they have fled from
+          * **Extradition**
+
+  * **Supremacy clause**
+    * Disputes between federal/state law resolved in favor of federal law
+
+  * Federalism has changed over time
+    * 1st part of history:
+      * Governments separate/independent
+      * **Dual federalism**
+      * National government:
+        * International trade
+        * Road construction
+        * Harbor construction
+        * Railway construction
+        * Distribution of public land in the West
+
+|Federal Government does NOT have Power to:|State Government does NOT have Power to:|
+|• Suspend writ of **habeas corpus** except in times of national crisis|• Enter into treaties with foreign countries|
+|• Pass **ex post facto** laws or issue **bills of attainder**|• Declare war|
+|• Impose Export taxes|• Maintain a standing army|
+|• Use money from treasury w/o approval of appropriations bill|• Print money|
+|• Grant titles of nobility|• Pass **ex post facto** laws or **bill of attainder**|
+| |• Grant titles of nobility|
+| |• Impose import or export duties|
+
+  * Grants
+    * **Categorical grants**
+      * Aid with strict provisions from federal government on how it will be spent
+      * Favored by nationalists
+    * **Block grants**
+      * State can use the money however they see fit
+      * Favored by States’ Righters
+
+|Advantages of Federalism|Disadvantages of Federalism|
+|• Mass participation|• Lack of consistency|
+|• Regional autonomy|• efficiency|
+|• Government a many levels|• Bureaucracy|
+|• Innovative methods| |
+
+  * Separation of Powers
+    * Purpose: prevent one factino from taking over
+    * Borrowed from **Charles de Montesquieu**
+    * **Legislative branch**
+      * Makes laws
+      * Congress
+    * **Executive branch**
+      * Led by president
+      * Enforces laws
+    * **Judicial Branch**
+      * Interprets laws
+    * A person cannot serve in more than one branch at the same time
+  * {{:ap_gov_review_7e20792c46634ca291785967193e003d:untitled.png?400|}}
+  * System of Checks and Balances
+    * **Checks and balances** are another constitutional safeguard to prevent any one branch from becoming dominant
+    * Ex:
+      * **Nomination of officials**
+        * President chooses nominees; but must be approved by Senate
+      * **Negotiation of treaties**
+        * President negotiates treaties must only goes into effect with ⅔ Senate approval
+      * **Enactment of legislation**
+        * Only Congress can pass laws, but President can veto
+        * Veto overridden by ⅔ Senate vote
+        * Courts determine constitutionality of law
+
+D. Amendment Process
+
+  - Amendment introduced to both houses of Congress
+
+  - Approved by ⅔ majority in each
+
+  - ¾ of state legislatures must **ratify** the amendment
+    - Number of votes required for **ratification** determined by states
+      - Mostreuire simple majority
+    - Congress can mandate a **ratifying convention**
+      - Used for **21st Amendment**
+
+  * **Constitutional convention**
+    * ⅔ state legislature petition Congress
+
+E. Amendments
+
+  * Bill of Rights (December 15, 1791)
+    * **First Amendment**
+      * **Freedom of religion**
+      * **Free exercise clause**
+      * **Establishment clause**
+      * **Freedom of speech**
+        * **Clear and present danger test**
+          * Speech intended to incite violence/slander not protected
+      * **Freedom of the press**
+        * **Prior restraint**
+      * **Freedom of assembly**
+        * Peaceful assembly
+        * Violent demonstrations not protected
+      * **Freedom to petition the government**
+    * **Second Amendment**
+      * Right to bear arms
+    * **Third Amendment**
+      * Forbids quartering of soldiers
+      * No direct public support of armed forces
+    * **Fourth Amendment**
+      * Protects citizens’ privacy under criminal/civil procedural investigations
+      * **Exclusionary rule**
+    * **Fifth Amendment**
+      * Right to a **grand jury** if a suspect is held for a capital crime
+      * Prohibits **double jeopardy**
+      * **Eminent domain**
+        * Government can seize property for public use if seizure can be “justly compensated”
+      * Prohibits **self-incrimination**
+      * Cannot deprive citizens rights without **due process of law**
+
+  * **Sixth Amendment**
+    * Right to a speedy public trial
+    * Right to be informed of charges
+    * Right to confront witnesses
+    * Subpoena witnesses for defense
+    * Right to a lawyer for defense
+    * **Habeas corpus**
+    * 5th+6th=Miranda Rights
+    * **Seventh Amendment**
+      * Trial by jury in all common-law cases
+    * **Eighth Amendment**
+      * Prohibits Excessive bail in federal cases
+    * **Ninth Amendment**
+      * Limited federal government
+      * Rights to expressed by Constitution still protected
+    * **Tenth Amendment**
+      * Federalism
+      * Defines **reserved power** as long as states to not infringe of rules of Constitution/federal government
+
+  * Early AMendments (1795-1804)
+    * **Eleventh Amendment (1795)**
+      * States may not be sued in federal court by citizens of another state/country without the consent of the states being sued
+    * **Twelfth Amendment (1804)**
+      * Electors would now have to cast separate votes for the president and the vice president
+
+  * Civil War/Civil Rights Amendments (1865-1870)
+    * **Thirteenth Amendment (1865)**
+      * Prohibited the institution of slavery except as a criminal punishment
+    * **Fourteenth Amendment (1868)**
+      * Expanded the right to due process to all Americans
+    * **Fifteenth Amendment (1870)**
+      * Granted voting rights to males of all races
+        * Later narrowed/eliminated voting rights
+
+  * Progressive Era Amendments (1913-1920)
+    * **Sixteenth Amendment (1913)**
+      * **Progressive income tax**
+    * **Seventeenth Amendment (1913)**
+      * Direct election of US senators
+    * **Eighteenth Amendment (1920)**
+      * Prohibition of alcohol manufacture/sale/transportation in or out of US
+    * **Nineteenth Amendment (1920)**
+      * Voting rights to all American women
+
+  * Later Amendments (1933-1992)
+    * **Twentieth Amendment (1933)**
+      * Shortened amount of time between presidential election and inauguration
+    * **Twenty-first Amendment (1933)**
+      * Repealed Prohibition
+    * **Twenty-Second Amendment (1951)**
+      * Limited the president to two terms
+    * **Twenty-third Amendment (1961)**
+      * Allowed resident of Washington DC to vote in presidential elections
+        * Electoral vote count now 538
+    * **Twenty-fourth Amendment (1964)**
+      * No poll taxes
+        * Blacks can vote YEET
+    * **Twenty-fifth Amendment (1967)**
+      * Clarifies line of succession for Vice President
+      * VP can temporarily be President in even of presidential disability
+    * **Twenty-sixth Amendment (1971)**
+      * Lowered voting age from 21 to 18
+    * **Twenty-seventh Amendment (1992)**
+      * If Congress votes itself a pay increase, it cannot take effect until after the next election
+
+F. State and Local Governments
+
+  * States can form whatever form of government they like
+    * Must be defined by a state constitution
+      * Approved by Congress
+
+  * All states have executive branch led by a **governor**
+    * **Governor** powers
+      * Command state National Guard
+      * Can grant **pardons** and **reprieves**
+      * Appoint state judges (mostly)
+        * With “advice and consent” of state legislature
+      * Veto power over state legislature
+
+  * Most have bicameral legislatures
+    * Can **override** the **gubernatorial veto**
+      * Governors can use **line-item veto**
+    * All have state judiciaries to interpret state law
+      * Hear criminal and civil cases
+
+===== UNIT II: PUBLIC OPINION AND THE MEDIA =====
+
+A. Characteristics of Public Opinion
+
+  * Characteristics of public opinion
+    * **Saliency**
+      * Degree to which it is important to an individual/group
+    * **Intensity**
+      * How strongly do people feel about a particular issue
+    * **Stability**
+
+  * Public opinion measured regularly
+    * **Public opinion polls**
+    * Elections
+    * Referenda
+      * Measure public opinion on specific issue
+
+B. Polls Measure Public Opinion
+
+  * Determine public opinion by asking questions of a much smaller group
+    * **Random sampling**
+    * **Exit polls**
+    * Carefully worded questions
+      * Multiple choice
+      * Closed-ended questions
+        * Easily quantifiable
+        * Provide accuracy
+    * **Sampling error**
+      * Tells how far off poll results may be
+      * More respondent, more accuracy
+
+C. Where does Public Opinion Come from?
+
+  * **Political socialization**
+    * Process by which political attitudes are developed
+    * Influences:
+      * **Family**
+      * **Location**
+      * **School**
+      * **Religious institutions**
+      * **Mass media**
+      * **Higher education**
+      * **Real-life experiences**
+      * Conservative influences
+        * Family responsibilities
+        * Property ownership
+      * Liberal influence
+        * Discrimination
+
+D. Political Ideologies
+
+  * 3 US **ideologies**
+    * **Conservative**
+      * Individuals responsible for their own well-being
+      * No reliance on government assistance
+      * Oppose gov. interference in the private sector
+      * Oppose most federal regulations
+      * **laissez -faire**
+      * 37% of Americans
+    * **Liberal**
+      * Government should be used in a limited way to remedy injustices
+      * Support government regulation of the economy
+      * Pro-affirmative action
+      * Gov. enforced separation of church and state
+      * Pro-choice
+      * 24% of Americans
+    * **Moderate/Independent**
+      * Common sense>philosophical principles
+      * Decline after Recession
+      * 35% of Americans
+
+  * US politics
+    * Fewer main ideological groups
+    * Readily vote outside of main party
+    * Those who are more ideological tend to be more politically active
+
+  * Factors of Political behavior
+    * **Race/ethnicity**
+      * Lower income=more liberal
+      * Black/Hispanic support of liberal social programs
+      * Exception:Cuban Americans tend to be conservative
+    * **Religion**
+      * More liberal
+        * Jews
+        * African-American Protestants
+      * Catholics
+        * Politically liberal
+        * Socially conservative
+    * **Gender**
+      * women=more liberal
+    * **Income level**
+      * Higher income
+        * Supportive of liberal goals
+          * Racial equality
+          * Sexual equality
+          * International cooperation
+        * Fiscally conservative
+    * **Region**
+      * East Coast
+        * ethnic/racial mix
+        * Liberal
+      * South
+        * Religious
+        * Conservative
+      * West Coast
+        * Polarized
+      * Cities
+        * Liberal congregation
+      * Rural areas
+        * Conservative congregation
+
+E. Public Opinion and the Mass Media
+
+  * Media
+    * Intermediary between people and government
+    * Questions government motives/actions
+    * Public exposure to media increased over time
+      * Higher literacy rates
+      * Expansion of news sources
+    * **Public agenda**
+      * Decide which stories to cover/ignore
+        * Decide importance of certain issues
+
+===== UNIT III: LINKAGE INSTITUTIONS =====
+
+A. Political Parties
+
+  * **Bipartisan system**
+    * Democrat v. Republican
+    * Reinforced by electoral system
+
+  * Party characteristics
+    * Serve as intermediaries between the people and the government
+    * Parties are made up of grassroots members, activist members, and leadership
+    * Parties are organized to raise money, present positions on policy, and get their candidates elected into office
+    * Created outside of constitution
+    * In the past, candidates chosen by party hierarchy; no public input
+      * Now, **primary elections** are used
+        * Candidates must raise own money
+        * Campaigning for party nomination without support from party
+
+  * Functions of Modern Political Parties
+    * 3 major subdivisions
+      * Party among the electorate
+        * Voters
+      * Party in government
+        * Government officials
+      * Party organization
+        * Neither elected officials or average voters
+        * Recruit candidates/voters
+        * Organize campaign events
+        * Raise money to promote party
+    * Functions
+      * recruit/nominate candidates
+      * educate/mobilize voters
+        * Propaganda campaigns
+        * Send mailings
+        * Hold rallies
+        * Run ads
+        * Target regions with strong support
+      * Provide campaign funds/support
+        * funds for House/Senate campaigns
+        * state/national office funds by state parties
+        * Most candidates fund themselves, but party funds still important
+      * Organize government activity
+        * Ex.
+          * House
+          * Senate
+          * State legislatures
+      * Provide balance
+        * Each party as check on the other
+          * minority party=loyal opposition
+      * Reduce conflict/tension in society
+        * Promote compromise/negotiation
+          * Encourage parties to accommodate voters
+          * Encourage voters to compromise on policy
+    * Not hierarchical
+    * Party committees organized by geographic subdivisions
+      * Local
+        * Get-out-the-vote drives
+        * Canvassing
+        * Leaflet distribution
+        * Volunteer based
+        * Work concentrated in election time
+      * County
+        * Coordinate efforts in local elections
+        * Organize precinct committees
+        * Send reps to polling places to monitor voting procedures
+      * State
+        * Raise money
+        * Provide volunteers
+        * Staff campaign events
+        * Support on state/national level
+      * NAtional
+        * Plans **national convention**
+          * Held every 4 years
+          * Nominate presidential candidate
+
+  * In decline?
+    * Few years of one-party dominance in modern era
+    * Voting a split-ticket more common in recent years
+    * Voters consider position/merits of candidate rather than party affiliation
+    * Candidates rely less on party support
+      * Appeal directly through internet
+      * Raise own funds
+    * Parties have less power
+      * Media consultants gain power instead
+
+  * Party coalitions
+    * Republican
+      * Veterans’ groups
+      * Military supporters
+      * Religious conservatives
+      * Libertarians
+      * Opponents of gay marriage
+      * Opponents of affirmative action
+      * Rural dwellers
+    * Democratic
+      * Disaffected moderate Republicans
+      * Pro-choicers
+      * African/ Hispanic Americans
+      * members/supporters of labor unions
+      * Gay rights supporters
+      * People with lower incomes
+      * City dwellers
+      * Feminists
+      * Environmentalists
+
+|Democrats Tend to Be...|Republicans Tend to Be...|
+|Less disposed to spend on defense|More disposed to spend on defense|
+|Less disposed to use vouchers or other public funds to enable certain students to attend private/charter schools|More disposed to use vouchers or other public funds to enable certain students to attend private/charter schools|
+|More disposed to spend money to advance social-welfare programs|Less disposed to spend money to advance social-welfare programs|
+|More disposed to use government money for public education|Less disposed to use government money for public education more disposed to grant tax relief to targeted programs|
+|more disposed to grant tax relief to targeted programs such as the lower and middle classes|More disposed to grant tax relief to everyone, including the wealthy and corporations|
+|Against private ownership of public weapons and supportive of broader regulations on the ownership of firearms|Less disposed to regulate firearms|
+
+  * **Party Realignment**
+    * Occurs when coalitions making up the party fall apart
+      * Major traumatic event
+    * Rare
+      * No realignment since the 1930s
+    * Trend towards dealignment in modern day
+      * Result of party members becoming disaffected as a result of policy position
+      * Number of independent voters increased dramatically
+
+  * Third Parties
+    * **splinter/bolter parties**
+      * Feeling that major parties not responding to the demands of some segment of the electorate
+    * **Doctrinal parties**
+      * Represent radical ideology
+    * **Single-issue parties**
+      * Promote one principle
+    * Failure
+      * Successful election requires large sums of money/organization
+      * Electoral system discourages third parties
+
+> B. Interest Groups
+
+  * Def: organization dedicated to a particular political goal/ set of unified goals
+
+  * group members share common bond
+    * Race
+    * Religion
+    * Professional
+    * Common interest
+    * Political reform
+
+  * Try to influence outcome of elections/legislation
+
+  * Do not nominate candidates
+
+  * Do not address wide range of issues
+
+  * **Lobbying**
+    * Interest group tries to influence legislator on bill/issue
+
+  * Categories of interest groups
+    * **Economic groups**
+    * **Public Interest Groups**
+      * Nonprofit
+      * Consumer groups
+      * Environmental groups
+      * Religious groups
+    * **Government interest groups**
+      * Represent nation’s governors/mayors/etc.
+
+  * How Interest groups influence government
+    * **Direct Lobbying**
+      * Private meeting with gov. official to suggest legislation/present arguments of their positions
+      * Attempts to limit lobbying
+        * Violate 1st amendment?
+        * Former officials can’t lobby for 1 year after removal
+          * Limit **influence peddling**
+        * No campaign contributions from corporations/unions/trade associations
+          * **PACs** solve that issue
+    * Testifying before Congress
+    * Socializing
+    * Political donations
+    * Endorsements
+    * Court Action
+      * **Class action lawsuits**
+      * **Amicus curiae briefs**
+    * Rallying membership
+    * Propaganda
+
+C. **PACs** and **Super PACs**
+
+  * **Federal Election Campaign Act (FECA)**
+    * Allowed corporations/unions/trade association to form PACs to raise campaign funds
+    * Set restrictions on contributors/contributions
+      * Money must be drawn from donations, not own treasury
+
+  * **Bipartisan Campaign Reform Act (BCRA) of 2002**
+    * Aka **McCain-Feingold Act**
+    * Regulated campaign finance and PAC regulated campaign finance
+    * No **soft money**
+    * Limits on corporate donations for political ads near election time
+
+  * **Citizens United v. Federal Elections Committee**
+    * Overturned BCRA limits on campaign fundraising
+
+D. 527 Groups
+
+  * Tax-exempt
+
+  * Promotes political agenda
+
+  * Cannot expressly advocate for/against specific candidate
+
+  * Not regulated by **FEC**
+
+===== UNIT IV: ELECTIONS =====
+
+A. The Election Cycle
+
+  * **Incumbent advantage**
+    * Representatives who run for reelection wil 90% of the time
+    * Incumbent senators have electoral advantage, House incumbents even more
+      * Senators run statewide, face serious challenge
+      * HoR run in home district
+        * Smaller scale
+        * Help of gerrymandering
+
+  * 2 Phases of elections
+    * **Nominations**
+    * **General elections**
+
+  * Types of primaries
+    * **Closed primary**
+      * Most common
+      * Can vote only for candidates running for declared party
+    * **Open primary**
+      * Only vote in one party’s primary, but whichever party they choose
+      * Allows voters to sabotage opponents’ primaries
+        * Vote for candidate least likely to win
+        * Only has effect when there are no close contests in one party
+    * **Blanket primary**
+      * Vote for one candidate per office of either party
+
+  * Candidate with **plurality** or **majority** wins
+    * Some states have a minimum percentage
+      * **Runoff primary** if minimum percentage not met
+
+  * Presidential primary
+    * Voters choose **delegate** pledged to a particular presidential candidate
+    * Winning **delegates** attend party’s **national convention**
+      * Some states have **state caucuses** and **conventions**
+
+  * Democratic National convention
+    * **Superdelegates**
+      * Automatic delegate status to party leaders
+        * Ex:
+          * Congresspersons
+          * Important state leaders
+      * Support front-runner
+
+  * Republican National Convention
+    * No superdelegates
+    * **McGovern-Fraser Commission**
+      * Promote diversity
+      * Delegates represented by proportion of population in each state
+
+{{:ap_gov_review_7e20792c46634ca291785967193e003d:untitled_1.png?400|}}
+  * Financing campaigns
+    * Federal funding
+      * Must receive at least 10% of vote in an election
+      * **Federal matching funds**
+        * Match donations under $250
+      * Candidates must obey federal spending limits if they accept federal funding
+        * Cannot spend/accept other donations
+      * No federal funding for independents/congressional campaigns, but no spending limits
+        * Limits on amount donated at one time/by an individual
+
+  * Primary Season
+    * Early primaries
+      * Boost to winner
+        * Increase media exposure
+        * Fundraising easier
+      * **Super Tuesday** in many states
+      * Front-loading
+        * Some states move their primaries forward to have greater political influence
+
+  * National Conventions
+    * After primary season, both parties hold national conventions to confirm nominee
+    * No majority delegate vote=**brokered convention**
+      * RARE
+    * Unifies party
+    * Site of many political negotiations
+      * Intense battle over **platform**
+      * Political drama
+    * **post -convention bump**
+    * Now only a coronation, instead of an actual selection process like it used to be
+    * During primary, candidate courts political base, then moves toward center in general election to win undecided votes/majority
+
+B. Media Influence on Elections
+
+  * New media
+    * Daily campaign info
+    * Concentrate on poll standing
+      * Horse race aspect
+      * Can be communicated quickly
+      * Always changes
+
+  * Campaign advertisement
+    * Controlled look at candidates
+    * Build positive image with public
+    * Negative advertising
+      * Belittle opponents
+
+===== UNIT V: INSTITUTIONS OF GOVERNMENT =====
+
+A. Congress
+
+  * Congressional Structure
+    * Bicameral
+    * REsponsibilities
+      * Write laws of nation
+      * Oversee bureaucracy
+      * Consensus building
+      * Clarify policy
+      * Express diversity
+      * Legitimize
+    * 2 Houses
+      * **House of Representatives**
+        * 435 members
+      * **Senate**
+        * 100 members
+    * **census** used to determine number of **congressional districts**
+      * Redraw boundaries to ensure equal population in each district
+      * **Redistricting** don by state legislature
+        * **Gerrymandering** by majority party
+
+  * Congressional Elections
+    * House of REpresentatives
+      * Every 2 years
+      * REquirements
+        * Residency in district they represent
+        * Citizen of state
+        * At least 25 years old
+      * Over 90% incumbent success rate
+    * Senate
+      * ⅓ of Senate up for election every 2 years
+      * Term lasts 6 years
+      * Requirements
+        * 30 years old
+        * Citizenship requirements
+      * Every state given 2 senators
+    * Comparison
+      * Senate
+        * More expensive
+        * More competitive
+        * High profile
+        * Draw candidates from other elected offices
+
+  * **ESSENTIAL CASE: SHAW V. RENO**
+    * Facts
+      * Reapportionment of seats in HoR after 1990 census
+    * Issue
+      * North Carolina accused of racial gerrymandering
+      * Whites sued
+        * District court dismissed case; went to Supreme Court
+    * Holding
+      * 5-4 decision
+      * Clear racial bias in drawing of congressional map; must be redrawn
+      * Dissent
+        * Not Court’s place to make ruling, since plaintiffs were white
+
+  * Minorities and women underrepresented in Congress
+
+  * Congressional powers
+    * Delegated
+      * Require cooperation of houses
+      * Taxing
+      * Borrowing money
+      * Regulate commerce
+      * Raise army
+      * Create rules for federal courts
+      * Naturalization laws
+      * Establish post offices
+      * Provide for militia
+      * Anything under **supremacy clause**
+      * Power of the purse
+        * Influence president/bureaucrats via distribution of funds
+    * HoR only
+      * Initiation of tax laws/spending bills
+      * **House Ways and Means Committee**
+        * Oversee taxing/spending legislation
+        * Senate only has amending powers on revenue bills
+    * Senate only
+      * Confirmation of presidential nominations
+      * Ratification of treaties
+    * Restrictions
+      * No **bills of attainder**
+      * No **ex post facto** **laws**
+      * No export taxes
+      * No grating titles of nobility
+      * Same prohibitions apply to states
+
+  * Non Legislative tasks
+    * Oversight
+      * Review work of federal agencies
+      * Check executive branch
+      * Committee chairs have power to subpoena
+      * Confirm members of cabinet/other presidential nominations
+    * Public education
+      * Hearings.floor debates increase public awareness of government/societal problems
+    * Represent constituents
+      * Vote on laws
+      * Help **politicos** in dealings with government
+        * receive/act on complaints about federal services
+        * Sponsor voters seeking federal contracts
+        * Solicit suggestions on how to improve government
+
+  * Legislative process
+    * Slow and complicated by design
+      * Prevent hasty actions
+      * Foster compromise
+    * Proposal
+      * Bill can be written by anyone, but must be proposed by **sponsor** in Congress
+    * Bills must pass both houses in same form
+    * House
+      * **Rules Committee**
+        * Determines how long bill will be debated
+        * Determines open/closed ruling
+          * open=amendments allowed
+          * closed=no amendments allowed
+        * **Poison-pill amendment**
+          * kills/delays bill
+    * Senate
+      * No time restraints
+        * **Filibusters** allowed
+          * Delays vote
+          * Only stopped by **cloture**
+      * No closed rules for amendments
+        * Allows riders
+          * Irrelevant amendments that allow senators to pass pet projects
+            * **Pork barrels**
+            * **Earmarks** no longer allowed
+    * Both versions of bill sent to **conference committee**
+      * Come from committees from both houses that wrote bill
+      * Negotiate compromise bill
+        * Returned to houses to be passed
+          * PResident’s signature
+          * Failure to pass from conference committee will kill bill
+    * Presidents signature
+      * Bill becomes law if it is not signed after 10 days
+        * If congressional session ends in those 10 days, president must sign every bill into law
+          * Becomes **pocket veto** if he does not
+            * Bill must go through legislative process again
+        * Bill can be vetoed if there is more than 10 days left in congressional session
+          * Reasons must be given by president
+          * Bill returned to house of organization
+          * Veto overridden by ⅔ vote of both houses
+      * **Line-item vetos** declared unconstitutional
+
+  * Committees
+    * Majority party holds all committee chairs
+      * Committee member of majority party with most seniority becomes chair
+      * Senior minority party mecomes ranking member
+    * Majority party holds majority of seats on each committee
+      * ⅔ maj. party on important committees
+    * Committee assignments determined by House+Senate+caucus of both political parties
+      * investigate/debate bills
+    * Congress members attempt to get on committee that allow them to do the most constituent work and get reelected
+    * **Subcommittees** provides initial consideration for a bill
+      * Recently subcommittees have increased in popularity
+      * Determine how money is spent
+      * Most bills die immediately in subcommittee due to lack of interest
+    * House has more committees than Senate
+      * House more specialized
+    * Types of committees
+      * **Standing committees**
+        * Permanent
+        * Specialized
+      * **Joint committees**
+        * Made of House and Senate members
+        * Communicate to public
+        * Investigations
+        * Mostly do not send bills to the floor for votes
+      * **Select committees**
+        * Temporary
+        * Special purpose
+        * Carry out investigations
+        * Write out special legislation
+      * **Conference committees**
+        * Temporary
+        * Members of committees of both houses responsible for writing bill
+        * Negotiate compromise bills
+          * Submitted to both houses for up/down vote w/o amendments
+          * Disbanded once compromise has been reached
+    * **Pigeonholing**
+      * **Discharge petition**
+    * Responsible for bureaucratic departments
+
+  * Congressional Leadership
+    * The House
+      * ;eader=**Speaker of the House**
+        * Chosen by majority party in special election
+        * Directs floor debate
+        * Influence over committee assignments
+        * Directs Rules Committee
+        * Controls which bills go to which committees
+      * #2=**Majority leader**
+        * Keeps party members in line
+        * Helps determine party policy/party agenda
+      * **Minority leader**
+        * Same as majority leader but for minority party
+      * **Whips**
+        * Both majority and minority
+        * Keep members loyal to party
+        * Garner support for legislation
+    * The Senate
+      * #1=vice president
+        * Minimal participation
+        * Only votes to break a tie
+      * Presiding officer=**president** **pro tempore**
+        * Honorary
+        * Senior member of majority party
+        * Controls legislative agenda
+        * Power broker
+        * Policy initiator
+      * Minority leader
+        * Power broker
+        * Less power than majority leader
+        * Cannot initiate policy
+        * Cannot control agenda
+
+  * Voting patterns
+    * Members cross-pressured to influence their vote
+      * Own party
+      * Opposition
+      * President via jawboning
+      * Colleagues via **logrolling**
+      * PACs via contributions
+      * Constituents
+      * Interest Groups
+    * Personal ideology
+    * Religious beliefs
+    * Party affiliation
+      * Most important factor in voting patterns
+
+B. The President
+
+  * Formal powers
+    * Broadly defined, allows flexibility
+      * today , resulted in greatly expanded power
+    * REsponsibilities/powers
+      * Enforce laws
+      * Handle foreign policy
+      * Serve as ceremonial head of state
+      * Administrative head of government
+      * Force Congress into session
+      * Must brief Congress on “state of the nation”
+      * Veto legislation
+      * Grant reprieves/pardons
+      * Appointment with Senate approval
+        * Federal judges
+        * Supreme Court justices
+        * Department secretaries
+      * Negotiate treaties
+        * Ratification by ⅔ Senate
+
+  * **Commander in Chief** of armed forces
+    * Only Congress has power to declare war
+    * Only president can make war
+      * Needs money from Congress though
+    * Chief strategist/director of military
+
+  * Informal Powers
+    * Powers not expressed explicitly in constitution
+    * Morale building
+    * Legislative leader/coalition builder
+    * Policy persuader
+    * Communicator to American people
+
+  * Executive Office
+    * 3 Areas
+      * Domestic
+      * Military
+      * Foreign
+    * Chief of staff
+      * Top aide to president
+      * Complete trust with pres., likely longtime friend/associate
+      * Manages Executive Office
+      * Controls access to president
+        * Controls information president receives
+    * **National Security Council** **(NSC)**
+      * Headed by national security advisor
+      * Access to president in military/foreign policy matters
+      * Involved in decision-making during national emergencies
+      * Mostly free from Congressional oversight
+    * Domestic Policy Council
+      * Formulates policies related to:
+        * Energy
+        * Education
+        * Agriculture
+        * Natural resources
+        * Economic affairs
+        * health/human resources
+        * Welfare reform
+        * Drug abuse
+        * Crime
+    * **Office of MAnagement and Budget (OMB)**
+      * Prepares US budget
+      * controls/manages executive agencies
+      * Enormous power
+        * Allocates money to cabinet departments thorough budget process of executive branch
+    * Council of Economic Advisors
+      * Helps president make economic policy
+      * Made up of economists
+      * Advises president on policies to increase prosperity
+    * US Trade Representative
+      * Negotiates complex trade/tariff agreements for president
+
+  * **Cabinet**
+    * Not mentioned in Constitution
+      * Created through custom/usage
+    * Cabinet secretary appointed by president
+      * Confirmed by Senate
+      * Dismissed at President’s will
+    * explain/promote presidential policies
+    * Fight for department’s budget/jurisdiction/personnel
+    * 15 cabinet departments
+      * **Department of Homeland Security** is the newest
+        * Supports local police departments
+        * Supports local fire department
+        * Detects chemical/biological/nuclear weapons
+        * Analyzes intelligence
+    * 3rd largest executive branch department
+
+  * **Impeachment**
+    * Removal from office for “treason, bribery, or other high crimes or misdemeanors”
+    * HoT impeaches president
+      * Majority vote
+    * Senate convicts
+      * Trial with Chief Justice presiding
+      * ⅔ vote for removal
+    * Only way for federal judges to be removed
+
+C. The Judiciary and the Law
+
+  * American legal principles
+    * **Equal justice under the law**
+    * **Due process of law**
+      * **Substantive**
+        * Whether laws are fair
+      * **Procedural**
+        * Whether laws are fairly applied
+    * **Adversarial system**
+      * 2 sides debate burden of guilt.liability
+    * **Presumption of innocence**
+
+  * **Criminal law**
+    * Suspected arrested, must be indicted
+      * Done by **grand jury**
+        * 24-48 jurors who decide whether trial should commence
+    * Option of **plea bargaining** after indictment
+    * State v. defendant
+    * Trial before **petit jury**
+      * 12 people
+      * Guilty verdict must be unanimous
+      * split=”hung jury”; causes mistrial
+    * Burden of proof is on prosecution to prove guilt beyond a **reasonable doubt**
+
+  * **Civil law**
+    * Disputes over contracts/property/custody/liability
+    * Government only involved only if it is the party being sued
+    * Plaintiff v. defendant
+    * **Settlement** avoids trial
+    * Defendant cannot be jailed/executed
+    * Plaintiff must show **preponderance of evidence**
+      * 51% favoring his side
+    * Juries used, but not as many
+    * “Winner” gets monetary payment or Bill can be written by anyone, but must be proposed by **sponsor** in Congress **equity** (specific must cease certain action)
+
+  * Structure/Jurisdiction
+    * Federal courts interpret/settle disputes arising out of federal law
+    * State courts interpret/settle disputes arising out of state law
+    * 3 levels of federal courts
+      * Federal District Courts
+        * **Original jurisdiction**
+        * Created by Congress to create inferior courts
+        * Both criminal and civil cases
+        * Decides guilt/innocence
+        * Can have juries
+      * Federal Circuit of Appeals
+        * Hear cases on appeal from District Courts
+        * 13 throughout US
+        * Can’t decide issues of fact
+        * No juries
+        * Decisions made by panels of appointments
+      * **Supreme Court**
+        * Hears appeals of cases dealing with constitutional questions
+        * Some original suits between states
+        * Original jurisdiction in cases involving foreign ministers
+        * No jury
+        * **Appellate jurisdiction** allows decisions on issues on law, not facts
+
+  * Politics
+    * Appointed by president for lifetime terms
+      * Confirmation by Senate
+      * Removal only by impeachment
+      * Same party as appointer
+    * **Senatorial courtesy**
+      * Senators of same party of president recommends nominees
+    * **Judicial restraint**
+      * Reluctant to overturn previous legislature
+      * More conservative
+    * **Judicial activist**
+      * Eager to overturn legislature
+      * Favored by liberals
+
+  * PRocess where cases reach Supreme Court
+    * All appellate courts must be gone through before Supreme Court will grant hearing
+      * Most cases do not make it to Supreme Court; Court agrees with lower courts
+    * 4 justices must agree to review
+      * **Writ of** **habeas corpus**
+        * Requests transcript of lower courts
+    * Petitioners bringing cases must have **standing**
+      * Vested interest in outcome of case
+
+  * Judicial Review
+    * Granted through **Marbury v. Madison**
+    * Right to judge constitutionality of laws
+
+  * **ESSENTIAL CASE: MARBURY V. MADISON (1803)**
+
+  * Facts
+    * MArbury commissioned as Justice of PEace at end of Jefferson’s term
+    * Approved by SEnate, but MArbury was not formally commissioned
+      * President Madison Tried to appoint someone else; appealed directly to Supreme Court
+
+  * Issue
+    * Judicial Review? (Article III Section 2)
+    * Did Supreme Court have original jurisdiction
+
+  * Holding
+    * Unanimous
+      * Marbury entitled to Justice of Peace
+      * Set precedent for **judicial review**
+
+  * **ESSENTIAL CASE: MccULLOCH V. MARYLAND(1819)**
+
+  * Facts
+    * Second Bank of US created in 1816
+    * 1818 Maryland taxed bank
+      * Bank refused to pay
+      * State court dealt with suit first
+
+  * Issue
+    * Bank not mentioned in Constitution, so tax was legal
+    * Federal banking system unconstitutional
+
+  * Holding
+    * Unanimous
+      * Second Bank of US constitutional
+      * States not truly sovereign over territory, so tax illegal
+      * Victory for those who believed federal power superseded state power
+
+  * How Court Hears Cases
+    * Both sides submit **briefs**
+    * Interest groups submit **amicus curiae** **briefs** to try to sway justices
+    * **Oral arguments** heard from October to April
+      * Lawyers from each party have 30 min. to present arguments before 9 justices
+      * **SOlicitor general** also gets 30 min. to present arguments if federal government has taken sides
+        * Solicitor general=second highest ranking member of justice dept.
+      * Justices meet after arguments
+        * Highly secretive
+        * Cast votes
+        * Opinion writing duties handed out
+
+D. The Bureaucracy
+
+  * **Bureaucracy** ensures policies/programs enacted by Congress/executive depts. are carried out
+    * Executes laws
+    * Provides for defense
+    * Administers social programs
+
+  * Part of executive branch
+
+  * Department of Defense
+    * Largest department
+    * Administered by **SEcretary of Defense**
+      * Must be civilian
+      * Reports directly to president
+    * **Joint Chiefs of Staff**
+      * Each of 5 military services headed by uniformed staff member
+
+  * 15 Departments of Bureaucracy
+    * Department of State
+    * Department ofthe Treasury
+    * Department of Justice
+    * Department of the Interior
+    * Department of Agriculture
+    * Department of Commerce
+    * Department of Labor
+    * Department of Health and Human Services
+    * Department of housing and Urban Development
+    * Department of Transportation
+    * Department of Energy
+    * Department of Education
+    * Department of Veterans’ Affairs
+    * Department of Homeland Security
+    * Secretary heads each department
+      * Appointed by President w/o Senate confirmation
+      * Replaced at end of President's’ term
+    * **Senior Executive Service**
+      * Just below department secretary
+      * Includes appointees and non-appointees
+
+  * Government Corporations
+    * Cross between private business corporation and government agency
+    * Freedom of action
+    * Flexibility
+    * Produce at least enough revenue to support themselves(supposedly)
+    * Ex. Amtrak
+      * Never produced enough money to support itself; asks Congress for subsidies each year
+      * Ensures intercity passenger rail service in US
+
+  * Regulatory Agencies and Commissions
+    * 2 categories of Agencies not within 15 cabinet dpts.
+      * Independent agencies
+        * Broad presidential oversight
+        * **Quasi-legislative agencies**
+          * Write rules/fill in gaps in laws
+        * **Quasi-judicial agencies**
+          * Rule enforcement
+          * Punishing violators
+        * **Independent regulatory commissions**
+        * Higher degree of independence
+        * Act as watchdogs over federal government
+        * Run by Board of Commissioners
+          * Presidential appmt. w/ Senate approval
+          * Staggered terms to minimize political pressure
+    * Legislation written in general terms to allow experts in jurisdiction to fill in gaps
+    * Reducing agency’s budget reduces effectiveness/staff/etc
+    * President can reorganize an agency
+
+  * Rule Setting/Alliance Building/Iron Triangles
+    * Regulation setting is a participatory process
+      * Industry actively involved in making rules
+        * Industry goes to Court when they disagree
+      * Public hearing for testimony/advice
+      * Agencies MUST consult industry before rule/regulations can go into effect
+      * Lobbyist involvement
+    * **Alliance network** when issue affects many
+      * Aka **issue network**
+      * Coalition of interest groups
+      * Members of Congress
+      * Bureaucrats
+    * **Deregulation** pros
+      * Competition of marketplace only regulation needed
+      * Agencies expensive
+      * Agencies time-consuming
+      * Red tape
+
+  * Civil Service
+    * Government jobs filled through **civil service system**
+    * **Hatch Act 1939**
+      * Ensures bureaucratic neutrality
+      * Bureaucrats cannot:
+        * Campaign for political candidates
+        * Work for parties
+        * Run for office
+
+===== UNIT VI: PUBLIC POLICY =====
+
+A. Making Policy
+
+  * 3 purposes of policy making
+    * Solving a social problem
+    * Countering threats
+    * Pursuing an objective
+
+  * Achieved by:
+    * Prohibiting certain kinds of behavior
+    * Protecting certain activities by providing direct benefits to citizens
+
+  * **Issue-attention cycle**
+    * Requires policy makers to act quickly
+
+  * **Incrementalism** used to prevent sudden unforeseen effects
+
+  * 5 main steps to policy making
+    * Defining role of government
+      * Left sees greater responsibility than right
+        * Left governments more expensive/expansive/active
+    * Agenda setting
+      * Identifies social/economic problems; redefines them into political issues
+      * Large amount of people affected=higher importance
+      * More money=higher up on agenda
+    * Policy formulation/adoption
+      * Most difficult=legislative process of Congress
+      * easiest =executive branch via executive orders
+      * Rules enacted by regulatory agencies
+      * Precedent-setting decisions by Supreme Court
+    * Policy implementation
+      * Enforcement through appropriate agency
+    * Policy evaluation
+      * Does policy work?
+      * Unforeseen consequences?
+
+  * Obstacles to policy making
+    * Policy made at federal, state, and local levels
+    * 4 policy making stations
+      * Executive policy
+      * Legislative policy
+      * Judicial policy
+      * Also Bureaucracy
+    * Influence from interest groups
+    * Policy purposely made cumbersome to prevent tyranny and corruption
+    * **Policy fragmentation**
+      * Problems dispersed among multiple agencies, but never solved completely
+      * Policy coordination necessary
+
+B. Economic Policy
+
+  * Economic policy most important to politicians
+    * Electorate holds president responsible for state of economy
+
+  * Economic Theory
+    * **Mixed economy**
+      * private/public ownership of goods and services
+    * **Free-market economy**
+      * Periods of prosperity with periods of economic contraction
+    * **Laissez-faire**
+      * Government should never be involved in economic issues
+    * **Keynesian economics**
+      * Government can smooth out business cycles by influencing amount of income individuals/businesses can spend on goods and services
+    * **Fiscal Policy**
+      * raising/lowering taxes
+        * Affects consumer spending
+        * Effects enactment of government programs
+      * Keynesian theory
+        * When economy is prosperous, surplus taxes should be saved for government spending that must take place in economic downturn
+      * **Supply-side economics**
+        * Increasing supply of goods decreases inflation
+        * Government should cut taxes and spending to stimulate production
+    * Monetary Policy
+      * Government controls money supply through **Federal reserve Board**
+        * Increase money by lowering interest rates
+          * Makes borrowing cheaper
+          * Causes higher prices/wages
+      * 3 ways to implement monetary policy
+        * **Reserve requirement**
+          * Amount of money banks required to keep on hand
+          * Raising reserve=less money to borrow, higher interest rates
+        * **Discount rate**
+          * Amount banks pay to Fed for borrowing money
+            * Lower discount rate=lower interest rates, more consumer purchases
+        * **Open market operations**
+          * buying/selling bonds
+          * Buying bonds=more money available for loans, lower interest rates
+
+  * Tools of Economic Policy Making
+    * President receives advice on economy from:
+      * Council of Economic Advisor
+      * National Economic Council
+      * **Office of MAnagement and Budget**
+      * Secretary of the TReasury
+    * President can influence fiscal/monetary policy through appointment power and initiatives
+
+  * Fiscal Policy Making
+    * Director of OMB meets with president president
+      * State of economy discussed
+        * Gov. revenue projections via income taxes
+      * Appropriate funds to executive agencies
+      * OMB write president's budget and submits it to Congress
+      * Budget proposal sent to:
+        * **House Ways and Means Committee**
+          * Taxing aspects of budget
+        * **Authorization Committees**
+          * What programs Congress should fund
+        * **Appropriations committees**
+          * How much money to spend on authorized agencies
+    * Mistrust between Congress and President
+      * **Budget Reform Act of 1974** enacted
+        * **Congressional Budget Office** created
+          * Budget committees in both House and Senate
+    * Failure to achieve budget by beginning of **fiscal year** could mean government shutdown
+    * **Budget Enforcement Act of 1990**
+      * Streamline budget process
+      * Make compromise budget easier
+    * **Mandatory spending**
+      * Required by law
+      * Ex.:
+        * **Entitlement programs**
+        * **Social Security**
+        * **Medicare**
+        * Veterans’ pensions
+        * Payment to national debt
+    * **Discretionary Spending**
+      * Not required by law
+      * Ex.:
+        * Defense
+        * Education
+        * Highways
+        * Research grants
+        * All government operations
+      * Target for budget cuts
+
+C. Trade Policy
+
+  * US is largest producer and consumer of products
+
+  * **Balance of trade**
+    * Ratio of imported products to exported products
+
+  * **Trade deficits**
+    * Imports exceed exports
+    * Cause wealth to flow from nation
+    * Nation places restrictions on imported goods to remedy trade deficits
+      * Retaliation from nation facing restrictions by keeping foreign goods out
+        * TRADE WAR
+    * **General Agreement on Tariffs and Trade (GATT)**
+      * Effort to promote trade
+      * Evolved into World Trade Organization
+      * 125 members of WTO account for 97% of world trade
+      * Works to lower tariffs/ reduce unfair trade practices
+    * **North American Free Trade Agreement (NAFTA)**
+      * Promote free trade between US, Canada, Mexico by effectively removing import tariffs from one another’s products
+
+D. Domestic Policy
+
+  * Liberals believe gov. has obligation to provide **social welfare**/help needy
+
+  * Conservatives believe social-welfare programs are encroachments to individual liberties/responsibilities
+
+  * Change in view of welfare programs
+    * Before Great Depression, there were no programs to help old/disabled/unemployed/poor
+    * **Great Society** programs expanded government welfare programs
+      * Many eliminated/scaled back due to price/ineffectiveness
+
+  * 2 kinds of social welfare programs
+    * Social insurance programs
+      * employers/employees pay taxes into
+      * Ex. Right to **Social Security**
+    * Public assistance programs
+      * Seen as handout to the lazy
+
+  * Social Security
+    * Entitlement program mandated by law
+      * Change would require Congressional action
+        * Unlikely since largest voting bloc is nearing/at retirement age
+      * May go bankrupt in future
+    * 4 categories of grants
+      * 65+ years receive monthly payments
+      * Insurance for disabled
+        * Learning disabled
+        * drug/alcohol addicts
+      * **Medicare** to those 65+
+      * **Medicaid** to poor/disabled
+        * state/federal funding
+      * Temporary unemployment insurance
+
+  * Social welfare
+    * Aid to Families with Dependent Children most controversial
+      * Incentive to have more children
+      * Larger family=larger amount paid out
+    * **Supplemental public assistance programs**
+      * Help old/disabled at/near poverty level
+    * **Food stamps**
+      * Improve diet/buying power of poor
+    * **Welfare Reform Act (1996)**
+      * Reduce people living on public assistance
+      * Funding via block grants
+        * Allow states freedom to experiment with new types of programs
+      * Intended to reduce welfare rolls/force people to find work by:
+        * Abolishing AFDC (replaced with Temporary Assistance for Needy Families)
+        * Requiring adults to find work within 2 years or be cut off
+        * Placing lifetime limit of 5 years for welfare eligibility
+          * Possible to get waiver if recipient is actively seeking work
+        * Prohibiting undocumented immigrants for receiving assistance
+
+  * Health Care
+    * High cost
+      * 17% of **GDP** spent on health care
+      * US has most expensive health care in world
+      * Only industrialized nation w/o national health care
+    * Fund via “sin taxes” on alcohol/tobacco
+      * anti -obesity taxes on sodas still controversial
+    * **Patient protection and Affordable Health Care Act**
+      * Aka Obamacare
+      * Political debate/controversy
+        * Expensive intrusion into federal sector vs. helping needy
+      * Fines individuals without insurance (individual mandate)
+        * IS Constitutional
+
+===== UNIT VII: CIVIL RIGHTS AND CIVIL LIBERTIES =====
+
+  * **Civil liberties**
+    * Applies to protections enjoyed by all Americans from the abuse of government power
+
+  * **Civil rights**
+    * Protection from discrimination based on race/gender/etc.
+
+  * Historically
+    * Barron v. Baltimore
+      * Bill of Rights restricted national gov. but not state gov.
+      * Overturned in Gitlow v. New York by citing 14th Amendment
+        * Press could not exceed limits allowed the national gov.
+    * **SElective incorporation**
+      * Bill of Rights applied to state law on case-by-case basis
+      * Rights NOT incorporated into state laws
+        * 3rd Amendment protection from troop quartering in homes
+        * 5th Amendment right to **indictment** by grand jury
+        * 8th Amendment protection from excessive bail/fines
+
+A. First Amendment Rights and Restrictions
+
+  * First Amendment guarantees
+    * **Freedom of speech**
+    * **Freedom of the press**
+    * **Freedom of petitioning the government**
+    * **Freedom of assembly**
+    * **Freedom of religion**
+    * None absolute; may be limited in interest of public goo
+      * Restrictions must be:
+        * Justified
+        * Well defined
+        * Limited to few instances with genuine threats
+
+  * Freedom of Speech
+    * **Clear and present danger test**
+    * No constitutional protection for false defamatory speech
+      * **Slander**
+      * **Libel**
+      * **obscenity**
+      * Speech intended to incite violence
+    * **Preferred position doctrine** to determine limits of free speech
+
+  * **ESSENTIAL CASE: SCHENCK V. UNITED STATES (1919)**
+    * Facts
+      * Dissenters prosecuted during First World War
+      * Scheck (Socialist) arrested for handing out leaflets calling on men not to enlist
+        * arrested/convicted of violating the Espionage Act of 1917
+          * Appealed to Supreme Court
+    * Issue
+      * ESpionage Act violated First Amendment
+    * Holding
+      * Unanimous
+        * Conviction was constitutional
+          * Speech posed “clear and present danger” to US
+
+  * **ESSENTIAL CASE: TINKER V. DES MOINES (1969)**
+    * Facts
+      * anti-Vietnam War protester John Tinker wore a black armband to school as a form of silent protest
+      * Suspended after multiple warnings
+      * ACLU helped Tinker family take their case to court
+    * Issue
+      * West Virginia State Board of Education v. Barnette (1943) held that First Amendment protects minors at school under certain circumstances
+        * Does this apply to Tinker?
+    * Holding
+      * 7-2 decision
+        * Children in public schools completely protected by First Amendment as long as their speech did not violate specific, constitutional regulations
+      * Dissent
+        * Although speech was constitutional, specific locations such as schools inappropriate for anti-war protests
+
+  * **ESSENTIAL CASE: CITIZENS UNITED V. FEDERAL ELECTION COMMISSION**
+    * Facts
+      * Campaign Reform Act of 2002 prohibited corporations from spending money on political ads less than 60 days from presidential election
+      * Citizens United (Interest group)sued FCC for allowing corporations to advertise politically charged films within 60 days of the 2004 presidential election
+    * Issue
+      * Where is it appropriate to draw the line of what constitutes political speech by corporations
+    * Holding
+      * 5-4 decision
+        * Restricting political spending by corporations violated corporations’ First Amendment rights
+        * Dissent
+          * Ruling would weaken democratic institutions as corporations could now spend as much as they pleased to influence elections
+
+  * Freedom of the Press
+    * Government occasionally tries to control press in the name of national security interests
+      * Conflicts usually end up in courts
+        * Judges weigh security concerns vs. need to be informed
+    * Reporters Not exempt from testifying in court cases
+      * Can b asked to name sources
+        * Jailed if they refuse
+        * **Shield laws** to protect reporters in state cases, but not in federal cases
+    * **Three-part obscenity test**
+      * Would the average person, applying community standards, judge the work as appealing primarily to people’s baser sexual instincts
+      * Does the work lack other value, or is it also of literary, artistic, political, or scientific interest?
+      * Does the work depict sexual behavior in an offensive manner?
+
+  * **ESSENTIAL CASE: NEW YORK TIMES V. UNITED STATES (1971)**
+    * Facts
+      * Daniel Ellsberg leaked Pentagon Papers to The New York Times
+      * Government sued, sought restraining order
+      * Washington Post began publishing papers; government filed lawsuit that went to Supreme Court
+    * Issue
+      * Gov. claimed that release of Pentagon Papers violated Espionage Act of 1917
+        * Right to use prior restraint
+    * Holding
+      * 6-3 decision
+        * Newspapers could publish Pentagon Papers
+          * Govt. had not met burden of proof
+      * Dissent
+        * Court did not have enough time to adequately research info relevant to case
+          * Pentagon Papers had 7,000+ pages
+
+  * **Freedom of Assembly and Association**
+    * Right to not extend to violent groups/demonstrations that would incite violence
+    * Government may place restrictiction on crows gatherings as long as they are applied equally to all groups
+      * Must not disrupt day-to-day affairs
+    * Implied **freedom of association**
+
+  * **LETTER FROM BIRMINGHAM JAIL**
+    * MLK arrested 1963 for organizing series of marches/sit-in protests
+    * Wrote letter to city’s black leaders from jail
+    * Outlined key ideas regarding importance of nonviolent resistance in the form of peaceful assembly
+
+  * Freedom of Religion
+    * Gov. may not prevent individuals from racticing their faiths with exceptions
+      * No human sacrifice
+      * Polygamy not protected
+      * No denial of medical treatment to a child
+      * Amish children may stop attending school after 8th grade
+    * No establishment of state religion
+    * **Lemon Test** to decide if a law violates establishment clause
+      * Does the law have a secular, rather than a religious purpose?
+      * Does the law neither pronounce nor discourage religion?
+      * Does the law avoid “excessive entanglement” of the government and religious institution?
+
+  * **ESSENTIAL CASE: ENGEL V. VITALE (1962)**
+    * Facts
+      * In early 1960s, group of Jewish families in New York brought suit against their children’s school district for imposing prayer in the classroom
+      * NY Court of Appeals upheld school prayer before families took case to Supreme Court
+    * Issue
+      * School prayer violates First Amendment’s establishment clause?
+    * Holding
+      * 6-1 decision
+        * School prayer is a violation of 1st Amendment
+      * Dissent
+        * Forbidding school prayer denied children the nation’s “spiritual heritage”
+
+  * **ESSENTIAL CASE: WISCONSIN V. YODER (1972)**
+    * Facts
+      * Amish family discouraged higher education to preserve Amish way of life
+      * 3 Amish families fined $5 for taking children out of school after the 8th grade
+      * Appealed case, state Supreme Court took family’s side; took case to Supreme Court
+    * Issue
+      * In a conflict between free expression of religious belief and state laws regarding compulsory education, who wins?
+    * Holding
+      * 8-1 decision
+        * Amish families taking children out of school after 8th grade protected by 1st Amendment free exercise clause
+      * Dissent
+        * Allowing parents to take children out of school sets dangerous precedent
+
+B. The Second Amendment Goes to Court
+
+  * **ESSENTIAL CASE: McDONALD V. CHICAGO** (2008)
+    * Facts
+      * In 2008, Otis McDonald, a Chicago resident, wanted to purchase a handgun for self-defense. However, he could not buy one due to the city’s laws restricting new handgun registrations
+      * McDonald+group of other residents sued city
+    * Issue
+      * McDonald: Chicago’s laws violated 14th Amendment due process clause
+        * He had not committed crime, so city had no right to deny him a handgun
+    * Holding
+      * 5-4 decision
+        * Used 14th Amend Metm to incorporate 2nd Amendment to the states, striking down gun control laws in Chicago and other cities
+      * Dissent
+        * Case not the right vehicle for incorporation, aas self-defense is not mentioned in the Second Amendment
+
+  * **ESSENTIAL CASE: UNITED STATES V. LOPEZ (1995)**
+    * Facts
+      * Student Alfonso Lopez arrested for bringing a gun to school
+        * tried/convicted for violating Gun-Free School Zones Act of 1990
+          * Appealed to Supreme Court
+    * Issue
+      * Gunn-Free School Zones Act violates Constitution, as fed. gov. Does not have power over school system?
+      * Constitutional based on commerce clause?
+    * Holding
+      * 5-4 decision
+        * No Gun-Free School Zones Act
+          * Carrying a gun did not qualify as commerce
+      * Dissent
+        * School shootings violently disrupt children’s education and education is crucial for financial success--interstate commerce
+
+C. **Rights of the Accused**
+
+  * **ESSENTIAL CASE: GIDEON V. WAINWRIGHT**
+    * Facts
+      * Earl Gideon charged with breaking-and-entering; found guilty but not given attorney
+        * Gideon studied constitutional law from jail; appealed to Supreme Court
+    * Issue
+      * Florida had violated his 6th Amendment right to an attorney
+    * Holding
+      * Unanimous
+        * 6th Amendment violated
+        * Effect=6th Amendment incorporated into all states
+
+  * Protection from Self-Incrimination
+    * Defendant cannot be forced to testify at trial
+      * Jury not supposed to infer guilt when a defendant chooses not to testify
+    * Defendant must be notified of right to remain silent
+    * Must be notified of protection against self-incrimination at time of arrest
+    * Coerced Confession ≠ invalidated conviction
+
+  * Protection from Unreasonable search and Seizure
+    * **Fourth Amendment**
+      * Limits power of govt. To search for evidence of criminal activity
+      * Judge can issue **search warrant** if he believes there is **probable cause**
+        * Limits on where police can search
+        * Judge convinced they will probably find evidence
+        * Evidence found by police who disregard this rule not admitted
+          * Esceptions
+            * **Exclusionary rule**
+            * **Objective good faith**
+              * Police thought seizure was legal
+            * **Inevitable discovery rule**
+              * Evidence would have been found eventually
+            * Immediate search following legal arrest
+            * Can search private property with owner’s consent
+            * In plain view
+
+  * Rights to an Attorney and a Speedy Trial
+    * **Sixth Amendment** **right to an attorney in federal cases**
+    * Extended to misdemeanor cases they case could result in jail time
+      * Lawyer not required to litigants in civil cases
+    * **Right to a speedy trial**
+      * 100 day limit
+        * Little practical effect since an extension can be easily requested
+
+  * Protection from Excessive Bail and “Cruel and Unusual Punishment”
+    * Eighth Amendment
+    * Bail must be offered to all defendants
+      * exception=defendant dangerous/likely to leave country
+
+D. Right of All Americans to Privacy
+
+  * **Implied right to privacy** by Amendments 1/3/4/9/14
+
+  * **ESSENTIAL CASE: ROE V. WADE**
+    * Facts
+      * Roe=alias for Norma McCorvey, young Texas mother of 2 who unsuccessfully tried to have an abortion in Texas
+      * Sued Dallas County after having child
+    * Issue
+      * Was abortion a medical procedure?
+      * Was abortion covered by the right to privacy established in Griswold v. Connecticut
+    * Holding
+      * 7-2 decision
+        * Protected by guarantee to privacy established in Griswold
+          * Support from Amendments 9/14
+        * Dissent
+          * Constitutional rights created out of thin air
+
+D. Civil Rights
+
+  * Civil Rights and African Americans
+    * Pre Civil-War:African American population slaved w/o legal rights
+    * Civil Rights Events
+      * Civil War (1861-1865)
+        * Started over issue of slavery+relative powers of fed./state govt.
+        * **Emancipation Proclamation** defined war as being about slavery
+        * Resulted in increase in federal power over states
+          * Allowed govt. To enforce equal rights laws in the states
+      * Thirteenth Amendment (1865)
+        * Made slavery illegal
+      * Fourteenth Amendment (1868)
+        * Prevent South from depriving newly freed slaves of their rights
+        * **Due process**
+        * **Equal protection**
+        * Overruled **Dred Scott** case
+      * Fifteenth Amendment
+        * Banned laws preventing African Americans from voting
+      * Civil Rights Act of 1875
+        * Banned discrimination in hotels/restaurants/railroad cars/jury duty
+        * Declared unconstitutional in 1883
+      * **Jim Crow** laws/voting Restrictions
+        * Fed had less power in south
+          * Many discriminatory/segregationist laws passed
+            * Support from Supreme Court since it was ruled that 14th Amendment did not protect blacks from discriminatory state laws
+            * **Poll taxes**
+            * **Grandfather clauses**
+      * Equal Pay Act of 1963
+        * Illegal to base an employee’s pay on race/gender/religion/national origin
+        * Also important to women’s movement
+      * Twenty-fourth Amendment (1964)
+        * Outlawed poll taxes
+      * Civil Rights Act of 1964
+        * Increased rights of blacks/minorities
+        * Gave food. govmt. Greater means to enforce equal rights laws
+        * Banned discrimination in public accomodations/federal programs
+        * Prohibited hiring discrimination based on race/gender
+        * Cut off funding for noncompliance
+        * Power to initiate lawsuits in cases of school segregation
+      * Voting Rights Act of 1965
+        * Fed. govmt. Can step in any state with less than 50% voting participation or areas with literacy tests to prevent voting
+      * Civil Rights Act, Title VIII (1968)
+        * No racial discrimination in housing
+      * Civil Rights Act of 1991
+        * Eased restrictions preventing job applicants/employees to bring suits
+
+  * **BROWN V. BOARD OF EDUCATION**
+    * Facts
+      * 1951: 20 families from Topeka, Kansas filed suit against city’s board of education for enforcing school segregation
+      * Upheld by District Court because it didn’t violate Plessy v. Ferguson
+        * Appeal to Supreme Court; heard alongside 4 other school segregation cases
+    * Issue
+      * Did the Fourteenth Amendment’s equal protection clause apply to school segregation
+    * Holding
+      * Unanimous
+        * School segregation struck down nationwide
+        * Overturned precedent set by Plessy
+
+  * Discrimination still exists
+    * Segregation by neighborhoods
+    * **De facto** **segregation**
+      * Disparity in average income
+        * Since schools supported by income taxes, low-income neighborhoods poorly funded/overcrowded
+    * Employment discrimination
+    * Housing discrimination
+    * **Affirmative action** started to prevent segregation
+      * Accused of starting **reverse discrimination**
+
+  * Civil Rights and Women
+    * Not given suffrage until 1920
+    * Not given 12 weeks maternity leave until 1990
+    * **Sexual harassment** still prominent
+      * Difficult to prove legally
+    * **Abortion** still controversial
+
+  * **ESSENTIAL CASE: BAKER V. CARR**
+    * Facts
+      * Tennessee not redrawn legislative districts since turn of century
+      * Sued by Charles Baker since his county had grown without getting more representation\
+      * defendant=Tennessee Secretary of State
+    * Issue
+      * Did Tennessee's refusal to redistrict violate the 14th Amendment’s guarantee of “equal protection under the law”?
+      * Redistricting a state issue?
+
+  * Holding
+    * 6-2 decision
+      * Federal government can force states to redistrict every 10 years after national census
+    * Dissent
+      * Ruling imperiled separation of powers between legislative and judicial branches
+
+===== Glossary =====
+
+Adversarial system: a system of law in which the court is seen as a neutral where disputants can argue the merits of their cases
+
+Affirmative Action: Government-mandated programs that seek to create special employment opportunities for minorities, women, and other victims of past discrimination
+
+Amendment: addition to the Constitution. Amendments require approval by ⅔ of both houses and by ¾ of the states. The first amendments make up the Bill of Rights
+
+Amicus curiae briefs: “Friend of the court” briefs that qualified individuals or organizations file in lawsuits to which they are not a party, so the judge may consider their advice in respect to matters of law that directly affect the cases in question
+
+Appellate Jurisdiction: term used to describe courts whose role is to hear appeals from lower courts
+
+Articles of Confederation: the United States’ first constitution. The government formed by the Articles of Confederation lasted from 1781 (the year before the end of the Revolutionary War) to 1789. The government under the Articles proved inadequate because it did not have the power to collect taxes from the states, nor could it regulate foreign trade to generate revenue from import and export tariffs.
+
+Bicameral legislature: Consisting of two legislative houses. The United States has a bicameral legislature; its two houses are the House of Representatives and the Senate
+
+Bill of Rights: First 10 amendments to the US Constitution. The Bill of Rights guarantees personal liberties and limits the powers of the government
+
+Blanket primary: primary election in which voters may select a candidate from any party for each office. Blanket primaries use the same procedure as general elections (currently struck down by SCOTUS, but a variation exists in Louisiana and Washington)
+
+Block grants: Federal money given to states with only general guidelines for its use. The states have the authority to decide how the money will be spent
+
+Bread-and butter issues: those political issues that are specifically directed at the daily concerns of most working-class Americans such as job security, tax rates, wages, and employee benefits
+
+Broad constructionism:belief that the Constitution should be interpreted loosely when concerning the restrictions it places of federal power. Broad constructionists emphasize the importance of the elastic clause
+
+Brown v. Board of Education: the 1954 case n which the SCOTUS overturned the “separate but equal” standard as it applied to education. In a 9-0 decision, the court ruled that “Separate but equal facilities are inherently unequal”. “Separate but equal” had been the law of the land since the court had approved it in Plessy v. Ferguson (1896)
+
+Budget deficit: condition that arises when federal expenditures exceed revenues; in other words, when the government spends more money than it takes in
+
+Budget resolution: set of budget guidelines that must pass both houses of Congress in identical form by April 15th. The budget resolution guides government spending for the following fiscal year.
+
+Categorical grants: federal aid given to states with strings attached. To receive money, the states must agree to adhere to federally mandated guidelines for spending it.
+
+Caucus: meeting of local party members for the purpose of choosing delegates to a national party convention. The term also refers to a meeting of the Democratic members of the House of Representatives,
+
+Census: the process, mandated by the Constitution, by which the population of the US is officially every 10 years. Census data is then used to help distribute federal money and to reapportion congressional districts.
+
+Checks and Balances: the system that prevents any branch of government from becoming too powerful by requiring the approval of more than one branch for all important acts
+
+Civil court: court in which lawsuits are heard. In contrast, criminal cases are heard in criminal court
+
+Civil disobedience: nonviolent civil disobedience requires activists to protest peacefully against laws they believe unjust and to be willing to accept arrest as a means of demonstrating the justice of their cause. The notion was popularized by 19th-century American writer Henry David Thoreau and was practiced by MArtin Luther King Jr.
+
+Civil Liberties: those protections against government power embodied in the Bill of Rights and similar legislation. Civil liberties include the right to free speech, free exercise of religion, and right to a fair trial
+
+Civil rights: those protections against discrimination by the government and individuals. Civil rights are intended to prevent discrimination based on race, religion, gender, ethnicity, physical handicap, or sexual orientation
+
+Civil Rights Act of 1964; federal law that made segregation illegal in most public places, increased penalties and sentences for those convicted of discrimination in employment, and withheld federal aid from schools that discriminated on the basis of race or gender
+
+Civil service system: method of hiring employees based on merit rather than on political beliefs or allegiances, This system replaced the spoils system in the US.
+
+Class action lawsuit: a lawsuit filed in behalf of a group of people, and whose result affects that group of people. Interest groups such as the NAACP often use these as a means of asserting their influence over a policy decision
+
+Clear and present danger test: interpretation by Justice Wendell HOlmes regarding limits on free speech if it present clear and present danger to the public or leads to illegal actions
+
+Closed primary: Primary election in which voting is restricted to registered members of a political party
+
+Cloture: a motion in the Senate to end debate, often used in the event of a filibuster. A cloture vote requires a ⅗ majority of the Senate.
+
+Coalition: a combination of groups of people who work together to achieve a political goal. For example the coalition of the Democratic Party is largely made up of urban dwellers on the coasts, minority groups, and young people. Coalitions also form among legislators who work together to advance or defeat a particular bill.
+
+Commander in chief: the president’s role as leader of all US military forces. This is one of the executive powers authorized in the Constitution
+
+Concurrent powers: constitutional powers shared by the federal and state governments.
+
+Conference committees: congressional committee that includes representatives of both houses of Congress. Their purpose is to settle differences between the House and Senate versions of bills that have been passed by their respective legislatures.
+
+Congressional Budget Office: Congressional agency of budget experts who assess the feasibility of the president's plan and who help create Congress’ version of the federal budget
+
+Congressional district: the geographically defined group of people on whose behalf a representative acts in the House of Representatives. Each state is divided into congressional districts of equal population, with larger states having more districts and representatives than small states. Congressional districts are reapportioned every 10 years according to new census data]
+
+Conservative: a political ideology that tends to favor defense spending and school prayer and to disapprove of social programs, abortion, affirmative action, and a large, active government. Conservatives are generally affiliated with the Republican party
+
+Constitutional convention: an as-of-yet untried method by which the Constitution May be amended. To call a constitutional convention, ⅔ of all state legislatures must petition the federal government; not to be confused with the Constitutional Convention when the Constitution was written.
+
+Cooperative federalism: preeminent form of US federalism since the passage of the 14th Amendment initiated the long demise of dua federalism by providing the national government the means to enforce the rights of citizens against state infringements.. The Progressive Era, the New Deal, and the Great Society all increased federal involvement in state government. The result is a system called cooperative federalism in which the national and state governments share many powers.
+
+CRiminal court: court in which criminal trials are heard. In contrast, lawsuits are heard in [[about:blank#uw5trkd0cqpi|civil court]]
+
+Dealignment:a recent trend in which voters act increasingly independent of a party affiliation. This is partially the result of television because candidates can appeal directly to the electorate without relying on their party. One consequence is split-ticket voting, which leads to a divided government in which neither party controls both the executive and the legislative branch.
+
+Delegated powers: constitutional powers granted solely to the federal government
+
+Direct democracy: form of government in which all enfranchised citizens vote on all matters of government. In contrast, in a representative democracy, voters choose representatives to vote for them on most government issues
+
+Divided government: a government in which the presidency is controlled by one party and Congress is controlled by the other. This has become a common occurrence in recent decades as voters have begun to act more independently of parties and increasingly vote split tickets.
+
+Double jeopardy: the act of trying an individual a second time after he has been acquitted on the same charges, Double jeopardy is prohibited by the Constitution
+
+Dual federalism: form of US federalism during the nation’s early history. During this period, the federal and state governments remained separate and independent. What little contact most Americans had with government occured on the state level, as the national government concerned itself primarily with international trade construction of roads, harbors, and railways, and the distribution of public land in the West.
+
+Due process: established legal procedures for the arrest and trial of an accused criminal
+
+Earmark: a provision within legislation that appropriates money to a specific project, usually to benefit a small small number of individuals or a region.
+
+Elastic clause: the section of the Constitution that allows Congress to pass laws “necessary and proper” to the performance of its duties. It is called the elastic clause because it allows Congress to stretch its powers beyond those that are specifically granted to it (enumerated) by the Constitution
+
+Electoral College: constitution established body created for the sole purpose of choosing the president and vice president. During general elections, voters choose a presidential ticket. The winner in each state usually receives all of the state’s Electoral votes in the Electoral College. A majority of electoral votes is required for victory in the Electoral College; if such a majority cannot be reached, the election result is determined by the House of Representatives
+
+Eminent domain: the power of the government to take away property for public use as long as there is just compensation for property taken.
+
+ENtitlement programs: social insurance programs that allocate federal funds to all people who meet the conditions of the program. Social Security is the largest and most expensive entitlement program. BEcause they are a form of mandatory spending, it is incredibly difficult to cut funds to entitlement programs during the budgetary process
+
+Equal Rights Amendment: failed constitutional amendment that would have guaranteed equal protection under the law for women (1970s)
+
+Establishment clause: section of the Constitution that prohibits the government from designating one faith as the official religion of the US
+
+Ex post facto laws: If allowed, these laws would punish people for actions that occurred before suh actions were made criminal
+
+Exclusionary rule: rule that prohibits the use of illegally obtained evidence at trial. The Supreme Court has created several exceptions to the exclusionary rule, notably the objective good faith rule and the inevitable discovery rule.
+
+Executive agreements: Presidential agreements made with foreign nations. Executive agreements have the same legal force as treaties but do not require the approval of the Senate.
+
+Executive privilege: the right of the president to withhold information when doing so would compromise national security (for example, in the case of diplomatic files and military secrets). Executive privilege is not mentioned in the Constitution. It is, rather, part of the unwritten Constitution.
+
+Extradition: process by which governments return fugitives to the jurisdiction from which they have fled.
+
+Federal Reserve Board: executive agency that is largely responsible for the formulation and implementation of monetary policy. By controlling the monetary supply, the Fed helps maintain a stable economy.
+
+Federalism: Term describing a system under which the national government and local governments (state governments, in the case of the US) share powers.
+
+The Federalist Papers: a series of essays written by James MAdison, Alexander hamilton, and John Jay to defend the COnstitution and persuade Americans that it should be ratified. These documents presented the concerns and issues the framers faced as they created a blueprint for the new government.
+
+15th Amendment (1870): prohibited states from denying voting rights to African Americans. Southern states circumvent the 15th Amendment through literacy tests and poll taxes.
+
+Filibuster: a lengthy speech that has all legislative action in the Senate. Filibusters are not possible in the House of Representatives because strict time limits govern all debates there.
+
+1st Amendment: protects the right of individuals against the government by guaranteeing the freedom of speech/press/religion/assembly
+
+Fiscal year: 12-month period starting on October 1. Government budgets go into effect at the beginning of the fiscal year. Congress and the president agree on a budget resolution in April to guide government spending for the coming fiscal year.
+
+14th Amendment: prevented the states from denying “due process of law” and “equal protection under the law” to citizens. The amendment was specifically aimed at protecting the rights of newly freed slaves. In the 20th century, the Supreme Court used the amendment to strike down state laws that violate the Bill of Rights.
+
+Freedom of Information Act (1974): Act that declassified government documents for public use
+
+Front-loading: because early primaries have grown increasingly important in recent years, many states have pushed forward the date of their primary elections. Political analysts refer to this strategy is frontloading
+
+Full faith and credit clause: Section of the Constitution that requires states to honor one another’s license marriages, and other acts of state courts
+
+General election: Election held on the Tuesday after the first Monday of November, during which voters elect officials
+
+Gerrymandering: the practice of drawing congressional district lines to benefit one party over the other
+
+Gideon v. Wainwright (1963): Supreme Court case in which the court ruled that a defendant in a felony trial must be provided a lawyer free of charge if the defendant cannot afford one.
+
+Gramm-Rudman-Hollings Bill (1985): Set budget reduction targets to balance budget but failed to eliminate loopholes
+
+Great Compromise: Settlement reached at the Constitutional Convention between large states and small states. The Great Compromise called for two legislative houses; one in which states were represented by their populations (favoring large states) and one in which states receive equal representation (favoring small states)
+
+Great Society: President Lyndon B. Johnson’s social/economic program, aimed at raising the standard of living for America’s poorest residents. Among the Great Society programs are Medicare, MEdicaid, Project HEad Start, Job Corps, and Volunteers in Service to America (VISTA).
+
+Griswold v. Connecticut (1965): Supreme COurt decision in which the court ruled that the Constitution explicitly guarantees citizens rights to privacy.
+
+Hatch Act (1939): A congressional law that forbade government officials from participating in partisan politics and protected government employees from being fired on partisan grounds; it was revised in 1993 to be less restrictive.
+
+House of Representatives: Lower house of the US Congress, in which representation is allocated to states in direct proportion to their population. The House of Representatives has sole power to initiate appropriations legislation
+
+House Rules COmmittee: Determines the rules for debate of each bill, including whether the bill may be amended. This is the most powerful committee in the House. The Senate, which is smaller, has no rules for debate.
+
+Impeachment: Process by which a president, judge, or other government official can be tried for high crimes or misdemeanors. Andrew Johnson was impeached but was found not guilty and was not removed from office.
+
+Indictment A written statement of criminal charges brought against a defendant. Indictments guarantee that defendants know the charges against them so they can plan a defense.
+
+Inevitable discovery: exception to the exclusionary rule that allows the use of illegally obtained evidence at trial if the court determines that the evidence would eventually have been found by legal means.
+
+Initiative: Process through which voters may propose new laws. One of several Progressive Era reforms that increased voters’ power over government
+
+Interest group: Political group organized around a particular political goal or philosophy. Interest groups attempt to influence public policy through political action and donations to sympathetic candidates.
+
+Iron Triangle: Also called subgovernment. Iron triangles are formed by the close working relationship among various interest groups, congressional committees, and executive agencies that enforce federal regulations. Working together, these groups can collectively exert a powerful influence over legislation and law enforcement.
+
+Jim Crow laws: state and local laws passed in the post-Reconstruction Era South to enforce racial segregation and otherwise restrict the rights of African Americans
+
+Joint Committee: Congressional committee composed of members of both houses of Congress, usually to investigate and research specific subjects
+
+Judicial Activism: Term referring to the actions of a court that frequently strikes down or alters the acts of the executive and/or legislative branches
+
+Judicial Restraint: term referring to the actions of a court that demonstrates an unwillingness to break with precedent or to overturn legislative and executive acts
+
+Judicial Review: the power of the Supreme Court to declare laws and executive actions unconstitutional
+
+Ku Klux Klan: NAtivist hate group founded during the REconstruction Era. The Klan terrorizes black people throughout the south, especially those who attempted to assert their civil rights. The Clan also preaches hatred of Catholics and Jews
+
+Legislative oversight: One of Congress’ most important tasks. In order to check the power of the executive branch, congressional committees investigate and evaluate the performance of corresponding executive agencies and departments.
+
+Liberal: Descriptive of an ideology that tends to favor government spending on social programs, affirmative action, a woman’s right to an abortion, and an active government, and to disfavor defense spending and school prayer. Liberals are generally affiliated with the Democratic PArty.
+
+Lilly LEdbetter Fair Pay Act (2009): Law that closed the loophole that limited suits on discriminatory pay
+
+Limited Government: Principle of government that states that government powers must be confined to those allowed it by the nation’s Constitution
+
+Line-item veto: Power held by some chief executives (such as governors) to excise some portions of a spending bill without rejecting the entire bill. The purpose of this power is to allow executives to eliminate frivolous appropriations. The president’s claim to the line-item veto was denied by the Supreme Court.
+
+MAndate: level of support for an elected official as perceived through election results
+
+Marbury v. Madison (1803): Supreme Court decision that established the principle of **judicial review**
+
+MArshall, John: Third Chief of Justice of the Supreme Court (serving from 1800-1835). A Federalist who worked to increase the powers of the federal government over the states. MArshall established the principle of judicial review.
+
+Miranda v. Arizona (1966): Supreme Court case in which the court ruled that, upon arrest, a suspect must be advised of the right to remain silent and the right to consult with a lawyer.
+
+National convention: Occasion at which a political party officially announces its presidential nominee and reveals its party platform for the next four years. Today’s national convention are merely media events; nominees have already been determined by primary election results.
+
+NAtional Organization for Women (NOW): FEminist political group formed in 1967 to promote legislative change. NOW lobbied for the failed Equal Rights AMendment to the Constitution.
+
+National Security Council: Presidential advisory board established in 1947. The NSC consults with the president on matters of defense and foreign policy.
+
+19th Amendment (1920): granted voting rights to women
+
+Nomination: Endorsement to run for office by a political party
+
+Objective good faith: exception to the exclusionary rule that allows the use of illegally obtained evidence at trial if the court determines that police believed they were acting within the limits of their search warrant when they seized the evidence
+
+Office of Management and Budget: Executive branch office responsible for drawing up the president’s proposals for the federal budget
+
+Open primary: Primary election in which voters may vote in whichever party they choose, though they must select that party before entering the voting booth
+
+Original jurisdiction: term used to describe a court’s power to initially try a case. Courts in which cases are first heard are those with original jurisdiction in the case. By contrast, appellate courts hear challenges to earlier court decisions.
+
+Override: the COnstitutional power of Congress to supersede a president’s veto by ⅔ majority in both houses. Such a vote is difficult to achieve however, so overrides are fairly rare.
+
+PArdon: cancellation of criminal punishment. Presidents and governors have the power to grant pardons to those awaiting trial and to those convicted of crimes.
+
+Patriot Act (2001): Act passed in response to the terrorist attacks of SEptember 11, 2001, granting broad police authority to the federal, state, and local governments to interdict, prosecute, and convict suspected terrorists.
+
+Platform: statement of purpose and policy objectives drafted and approved by political parties at their national conventions. Party platforms rarely exert much influence on day-to-day politics
+
+Plessy v. Ferguson: Supreme Court ruling that “separate but equal” facilities for different races are not unconstitutional. This ruling opened the door to 75 years of state-sanctioned segregation in the South.
+
+Pocket veto: If the president fails to approve a pill passed during the last ten days of a congressional session, the bill doesn't become law. This process is called a pocket veto.
+
+Poison pill amendment: Amendment to a bill proposed by its opponents for the specific purpose of decreasing the bill’s chance of passage. Also known as a killer amendment.
+
+Policy implementation: The process by which executive departments and agencies put legislation into practice. Agencies are often allowed a degree of freedom to interpret legislation as they write guidelines to enact and enforce the law
+
+Political Action Committee (PAC): The fundraising apparatus of interest groups. Donations to and contributions from PACs are regulated by federal law, PACs contribute heavily to the reelection campaigns of representatives and senators sympathetic to the PAC’s political agenda.
+
+Political party: Group of people with common political goals, which hopes to influence policy through the election process. Parties run candidates for office who represent the political agenda of party members. They therefore serve as an institutional link between the electorate and politicians.
+
+Populists: Political party of the late 1800s. The Populists primarily represented farmers and working-class Americans. They sought inflationary economic policies to increase farm income. They also lobbied for a number of Democratic reforms that would later be adopted by the Progressives, such as the direct election of senators.
+
+Pork barrel: budget items proposed by legislators to benefit constituents in their home state or district. Such expenditures are sometimes unnecessary but are passed anyway because they are politically beneficial.
+
+President pro tempore: Individual chosen to preside over the Senate whenever the vice president is unavailable to do so. The president pro tempore is chosen by the senate from among its members.
+
+Primary Elections: form of election held by the majority of states, during which voters select the nominees for political parties. Winners of primary elections appear on the ballot during the general election
+
+Prior restraint: censorship of news material before it is made public,
+
+Privileges and immunities clause: section of the Constitution stating that a state may not refuse police protection or access to its courts to US citizens because they live in a different state
+
+Progressive income tax: a progressive tax increases tax rates for people with higher incomes. Those citizens at the poverty level, for example, may py few or no taxes. Middle-class citizens ,ay be taxed a a 15% ratem while the wealthy are taxed at two or three times that rate. The goal of a progressive tax is to allow those with greater need to keep more of what they earn while taking more from those who can best afford it
+
+Quorum: the minimum number of people required for the legislature to act
+
+Realignment: Occurs when a party undergoes a major shift in its electoral base and political agenda. The groups of people composing the party coalition may split up, resulting in a vastly different party. Realignments are rare and tend to be signaled by a critical election. The last realignment occurred during the New Deal, when many working-class and ethnic groups joined togethers under the Democratic Party
+
+Recall election: process through which voters can shorten an office holder’s term. One of several Progressive Era reforms that increased voters’ power over government
+
+Redistricting: process by which congressional districts are redrawn to reflect population changes reported by census data. Each district must have an equal number of residents. Redistricting typically occurs with reapportionment, a process in which seats are redistributed in the House. States may lose or gain sats during reapportionment, but the total House membership remains 435.
+
+Referendum: process through which voters may vote on new laws. One of several Progressive Era reforms that increased voters’ power over government.
+
+Regulatory agency: executive agency responsible for enforcing laws pertaining to a certain industry. The agency writes guidelines for the industry, such as safety codes, and enforces them through methods such as inspection.
+
+Representative democracy: form of government under which citizens vote for delegates who in turn represent citizens’ interests within the government. In contrast, a direct democracy requires all citizens to vote on all government issues. The US is a representative democracy.
+
+Reserved powers: constitutional powers that belong solely to the states. According the the 10th Amendment, these powers include any that the Constitution does not either specifically grant the national government or deny the state governments.
+
+Roe v. Wade (1973): Supreme Court case that decriminalized abortion
+
+Runoff primary: election held between top two vote-getters in a primary election, when neither received a legally required minimum percentage of the vote. Many states require a runoff when no candidate receives at the 40% of the primary vote for his or her party
+
+Sampling error: margin of error in public opinion poll. Most polls are accurate within a margin of +4%
+
+Saving amendment: Amendment to a bill proposed in hopes of softening opposition by weakening objectionable elements of the bill
+
+Schenck v. United States: Supreme Court case involving limits on free speech rights. The Schenck case established the “clear and present danger” principle in determining what type of speech could be restricted
+
+Search warrant: Document issued by the courts to allow the police to search private property. To obtain a warrant, the police to search private property. To obtain a arrant, the police must go before a judge and explain (1) where they want to search and (2) what they are looking for. A search warrant also limits where the police may search and what they may take as evidence (4th Amendment).
+
+Select committee: Temporary committee of Congress, usually created to investigate specific issues
+
+Selective incorporation: process by which the Supreme Court has selectively applied the 14th Amendment to state law.
+
+Senate: Upper house of Congress, in which each state has two representatives. The Senate has the sole power to approve cabinet, ambassadorial, and federal judicial appointments. International treaties must receive ⅔ approval from the Senate.
+
+Senatorial courtesy: A tradition whereby candidates for the federal bureaucracy are appointed by the president and selected from a list of nominees submitted by senators.
+
+Separation of powers: the system that prevents any branch of government from becoming too powerful by dividing important tasks among three branches. Also called the system of checks and balances.
+
+Shield law: law guaranteeing news reporter the right to protect the anonymity of their sources. MAny states have passed shield laws, but there is no federal shield law.
+
+16th Amendment: authorized Congress to impose and collect federal income taxes
+
+Soft money: political donations made to parties for the purpose of general party maintenance and support, such as get-out-the-vote campaigns, issue advocacy, and advertisements that promote the party (but not individual candidates). Soft money contributions to political parties were banned in 2002 by the Bipartisan Campaign Reform Act (BCRA) (also known as the McCain-Feingold Bill).
+
+Speaker of the House: Individual chosen by members of the House of Representatives to preside over its sessions
+
+Split-ticket voting:choosing candidates from different parties for offices listed on the same ballot. Voters have been more inclined to vote a split ticket in recent decades. This trend has led to divided government.
+
+Spoils system: the political practice of trading government jobs and preferences for political and financial support. President Andrew Jackson was the first to be widely accused of using the spoils system to reward political friends and supporters.
+
+Standing committee: a permanent congressional committee
+
+Strict constructionism: belief that the COnstitution should be read in such a way as to limit the powers of the federal government as much as possible. Strict constructionists emphasize the importance of the 10th Amendment, which reserves to the states all powers not explicitly granted to the federal government
+
+Super PAC: a type of political action committee that does not have donation limits, but cannot donate directly to a specific candidate
+
+Supremacy clause: section of the Constitution that requires conflicts between federal and state laws to be resolved in favor of federal law. State constitutions and laws that violate the US constitution, federal laws, or international treaties can be invalidated through the supremacy clause
+
+Supreme Court: Highest court in the US. The only federal court specifically mentioned in the US Constitution
+
+13th Amendment (1865): abolished slavery
+
+⅗ Compromise: agreement reached at the Constitutional Convention between Southern and Northern states. The South wanted slaves counted amoth the population for voting purposes but not for tax purposes; the North wanted the exact opposite. Both sides agreed that ⅗ of a state’s slave population would be counted toward both congressional appointment and taxation
+
+24th Amendment (1964): outlawed poll taxes, which had been used to prevent the poor from voting
+
+22nd Amendment (1951): limited the number of ears an individual may serve as president. According to the 22nd Amendment, president may be elected no more than twice.
+
+26th Amendment (1971): lowered the voting age from 21 to 18
+
+Unanimous consent decree: agreement passed by the Senate that establishes the rules under which a bill will be debated, amended, and voted upon
+
+United Nations: International organization established following WWII. The United Nations aims to preserve international peace and foster international cooperation
+
+Unwritten constitution: certain deeply ingrained aspects of our government that are not mentioned in the Constitution, such as political parties, political conventions, and cabinet meetings
+
+Veto: the power held by chief executives (such as the president or governors) to reject acts of the legislature. A presidential veto can be overridden by a ⅔ majority vote of both houses of Congress
+
+Voting Rights Act of 1965: federal law that increased government supervision of local election practices, suspended the use of literacy tests to prevent people (usually black people) from voting, and expanded government efforts to register voters. The Voting Rights Act of 1970 permanently banned literacy tests.
+
+War on Poverty:Those programs of President Lyndon Johnson’s Great Society that were specifically aimed at assisting the poor. Among these programs was Volunteers in Service to America (VISTA), Medicaid, and the creation of the Office of Economic Opportunity
+
+War Powers Act: LAw requiring the president to seek periodic approval from Congress for any substantial troop commitment. Passed in 1973 in response to national dissatisfaction over the Vietnam War.
+
+Warren Court (1953-1969): the Supreme Court during the era in which Earl Warren served as Chief Justice. The Warren Court is best remembered for expanding the rights of minorities and the rights of the accused
+
+Watergate: the name of the hotel in which spies working for President Richard Nixon’s 1972 re election campaign were caught breaking into Democratic National HEadquarters. The name Watergate soon became synonymous with a number of illegal activities undertaken by the Nixon White House. The resulting scandal forced Nixon to resign the presidency in 1974.
+
+Writ of certiorari: a legal document issued by the Supreme Court to request the court transcripts of a case. A writ of certiorari indicates that the court will review a lower court’s decision.
+
+WRit of habeas corpus: a court order requiring an explanation as to why a prisoner is being held in custody.

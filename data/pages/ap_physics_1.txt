@@ -1,0 +1,405 @@
+====== AP Physics 1 Study Guide ======
+  * Also refer to our [[AP Physics C Mechanics]] Study Guide, it has very similar topics for the most part and prettier formatting
+Credit goes to u/OldFlyingHat
+  - 1D motion
+    - Distance is d
+      - D=sum of lengths
+      - Distance is all negative and positive
+      - Displacement is final position minus initial
+      - $\Delta X = X_f -X_i $
+    - Speed is scalar, so not a vector
+      - Distance/time
+        - S=d/$\ \Delta t$
+      - Average speed is over long period of time
+        - Savg=total d/total t
+      - Instantaneous Is at a particular moment in time
+      - Speed can never be negative, only zero or positive
+    - Velocity is displacement per time
+      - V=$ \frac{\Delta X}{\Delta t}$
+      - Can be negative or positive
+        - Generally if pointed left its negative
+        - Generally if pointed right its positive
+    - Acceleration
+      - $\frac{m}{s^2}$
+      - is a vector
+      - points in the direction of the net force
+      - if velocity is changing acceleration is present
+      - a= $ \Delta $ v/t or ($v_f$-$v_i$)/t
+    - position vs time graph
+      - y axis is x or position (m)
+      - x axis is time
+      - slope is velocity
+      - curvature means there’s acceleration
+        - concave up means positive acceleration
+        - concave down means negative acceleration
+    - Velocity vs time graph
+      - Y axis is velocity (m/s)
+      - X axis is time
+      - Slope is acceleration
+      - Area under the curve is displacement or $ \Delta $ X
+    - Acceleration vs time graph
+      - Y axis is acceleration (m/s^2)
+      - X axis is time
+      - Slope is Jerk or Jolt (not needed)
+      - Area under graph is change in velocity
+    - Kinematic formulas: ACCELERATION **HAS** TO BE **CONSTANT**
+      {{:pasted:20240406-033657.png}}
+    - Free Falling Object/ Flying Object
+      - Acceleration is G (9.8m/s^2), but in a free falling occurrence the acceleration due to gravity is negative
+      - “Dropped” means $v_i$ is 0
+        - Time after a drop is t=sqrt(2h/g)
+      - At maximum height means $V_f$=0
+
+  - 2D motion
+    - Vector components can be broken down into perpendicular pieces
+      - Along x and y directions
+
+>   - $V_x$= Vcos($\theta$)
+
+  - $V_y$=Vsin($\theta$)
+
+  - DON’T FORGET SIGNS OF THE VECTORS YOU NERDS
+
+  - Tip to tail vector addition
+    - Place the tail of the next vector on the tip of the previous one
+    - Then draw total vector form the first tail to the last head
+    - If the vector is subtracted flip its tail and head
+
+  - Component Vector addition
+    - Add vectors together by adding their components to find the total vector
+
+>   - To subtract a vector, multiply its components by -1 then add, or….ya know…..just subtract
+
+  - 2D kinematics and projectiles
+    - Vertical Equations
+      - Vf=Vi+(-9.8)t
+      - $ \Delta $X=vi*t+(1/2)(-9.8)^2
+      - $v_f^2=v_i^2+2(-9.8)(x_f-x_i)$
+      - (vf+vi)/2=(xf-xi)/t
+    - Horizontal equation note: no horizontal acceleration
+      - $ \Delta $ x=vt
+    - X and y velocities behave independently
+
+  - Graphing data to a linear fit
+    - If the data is a parabola (exponentially rising) then make the x value squared
+
+  - Forces and Newton’s laws
+    - Newton’s first law
+      - “Objects will maintain a **constant** **velocity** (which could be zero), unless acted upon by an unbalanced force”
+      - a=0 if Sigma F=0 (ie no net force)
+      - there does not need to be force in order for motion to occur but there needs to be a force if there is acceleration
+      - works on systems too
+        - the Center of mass will stay at constant motion unless an outside force acts on the system
+    - Newton’s Second Law
+      - “The acceleration of an object is proportional to the **net force** on the object, and inversely proportional to the mass of the object”
+      - Unbalanced net forces cause acceleration (speed up slow down or change directions)
+      - Equations
+        - A=(sigma force)/m
+        - Ax=(sigma force in the x direction)/m
+        - Ay=(sigma force in the y direction)/m
+    - Newton’s Third Law
+      - “For every action, there is an equal and opposite reaction”
+      - Basically If object A exerts a force on an object , then object B must exert an equal and opposite force back on Object A
+      - Fab=-Fba
+    - Force of Gravity
+      - Is a vector
+      - Always downwards
+      - Synonymous with weight
+      - Weight is NOT mass, mass times g
+      - Fg=mg
+    - Normal Force: N
+      - It is a vector
+      - The outward perpendicular force exerted on an object by a surface
+      - Always pushes, cannot pull an object
+      - Fn=? No set equation. Need to use newton’s second law to find
+      - If there is acceleration in the direction of the normal force, then fn is not mg, acceleration y= (Sigma Fy/m)
+    - Tension: N
+      - Is a vector
+      - Always pulls an object, a rope can’t push an object
+      - Use newton’s second law to find (a=sigma/m)
+    - Kinetic friction: N
+      - Is a vector
+      - Stops surfaces from sliding
+      - Fk=Uk*Fn
+    - Static friction: N
+      - Is a vector
+      - Will eb equal to the force trying to move the object until it reaches its maximum
+      - Fsmax=UsFn
+      - Fs<or=Us*Fn
+    - Inclines
+      - Angled surfaces that objects can slide up or down
+      - Motion can only take place parallel to the incline’s surface
+      - MgSine(theta) is the parallel motion
+        - If force friction is present its Mgsine(Theta)-Force kinetic friction or MgsinTheta-Uk(Mgcos(theta))
+      - MgCose(theta) is the perpendicular motion
+      - Net force in perpendicular direction has to be zero
+      - N=Mgcos(theta)
+    - Treating systems as a single object
+      - If two or more objects are required to move **with the same speed/acceleration,** then we can treat them as a single object
+      - A(system)=(sigmaFexternal)/M(total)
+        - For a system of the boxes with friction it’d be a=(m2g-ukfn1)%%/(%%m1+m2)
+
+>   - Ignore internal forces
+
+  - Centripetal Forces
+    - Period and Frequency
+      - Period (t) can’t be neg
+        - Number of seconds it takes for one entire revolution or circle
+        - T=seconds/cycles second per cycle
+        - Measured in seconds
+      - Frequency (f) can’t be neg
+        - Number of cycles completed by an object in one second
+        - F=cycles/seconds cycles per second
+        - Unit is 1/seconds which is Hz
+      - Velocity
+        - 2piR/T
+        - 2piR*f
+    - Centripetal acceleration ac
+      - Measured in m/s^2
+      - Is a vector
+      - ALWAYS POINTS TOWARDS MIDDLE OF THE CIRCLE
+      - Only changes direction of velocity does not speed up or slow down
+      - Ac=v^2/r or (4*pi^2*r)/T^2 or 4pi^2*f^2*r
+      - If it is speeding up there needs to be a tangential acceleration, which points in the direction of motion
+    - Centripetal forces
+      - Measured in N
+      - Is a vector
+      - Any regular force that make something move in a circular path
+        - For satellites and planets, it’d be Fg
+        - Yoyo going around on a string or anything like that its Ft
+        - Skateboarder or roller-coaster in a loop de loop Fn
+        - Car going around a roundabout itd be Fs (force static friction) 
+        - Ac=Sigma Fc/m where ac=v^2/r
+        - V^2/r=Sigma Fc/m
+          - If the Fc points inward its positive as it points in the direction of the centripetal acceleration
+          - If the Fc is pointed outwards, then it will be negative as it points in the opposite direction of the centripetal acceleration
+          - Only plug in centripetal/radial force for Fc
+        - Forces that are tangential are not included they go into a separate newton’s second law equation, tangential changes speed, centripetal changes direction
+        - Example, ball rolling over hill would be Fn=Mg-Force centripetal, so Fn=Mg-M(s^2/r)
+    - Newton’s universal force of gravity
+      - Fg
+        - Measured in N
+        - All masses in the universe pull/attract every other mass with a gravitational force Fg
+        - Force Fg is proportional to the masses
+        - Fg=GM1m2/R^2
+          - G is the universal gravitational constant
+          - 6.67*10^-11 Nm^2/kg^2
+        - **EVEN IF THE MASS IS DIFFERENT THEY EXERT THE SAME FORCE ON EACH OTHER SO FG IS EQUAL TO EACH OTHER**
+        - i'm going to talk about this again in energy as it relates to kinetic
+    - Acceleration due to gravitational field
+      - Gravitational field is just another word for acceleration due to gravity
+      - All masses create a gravitational field that points radially in towards them
+        - The strength is affect by 1/r^2 meaning the further away the less strong
+      - g(acceleration due to gravity)=G(6.67*10^-11)M/R^2
+      - measured in m/s^2 or N/kg
+      - g=Fg/m and Fg=g*m
+    - Density
+      - P(density)=M/v
+      - Density is mass per volume
+      - We can use density to determine the mass of an object if we also know the volume
+    - Gravitational orbits
+      - When object orbits due to gravitational force
+      - If the orbit is circular we can relate the speed, radius of the orbit, and the mass
+        - A=sigma F/m so newtons second law
+        - V^2/r(or ac)=Fg/m
+        - V^2/r=(G(Mm)/d^2)/m
+        - V^2=GM/r
+        - (Big m is the mass of the object that is being orbited around, so not the satellite) mass in orbit doesn’t matter
+        - **MAKE SURE TO COUNT RADIUS OF THE PLANET IN YOUR R COUNT SO IF AN OBJECT IS ORBITING 3R AND THE PLANET HAS A RADIUS OF R THEN THE VALUE IN THE EQUATION SHOULD BE 4 R. GRAVITATION STARTS AT THE CENTER OF AN OBJECT**
+
+  - Energy and Work
+    - Energy J, joules
+      - Objects and systems can have, transfer, or transform energy
+      - Energy being transferred between systems is called work
+        - Works equation is w= $ \Delta $ E
+      - Energy is conserved so it can’t be created nor destroyed, however energy can leave the system if the earth isn’t included
+      - **Side note potential gravitational energy doesn’t exist when the earth isn’t included in the system**
+      - If there is no external work then energy is constant
+    - Types of energies:
+      - K=kinetic energy= (½)mv^2 (energy due to motion)
+      - Ug= Gravitational potential energy= mgh (energy due to height)
+      - Us= spring potential energy= (½)kx^2 (energy in a spring) (x is the length of compression r stretch from x=0)
+      - $ \Delta $ E thermal=thermal energy=FkD (heat energy from friction/air resistance)
+      - E mechanical= mechanical energy= K+Ug+Us (does not include thermal)
+    - Work W joules
+      - Not a vector
+      - Work is the transfer of energy from one object or system to another
+      - W=$ \Delta $ E=Fdcos(theta) so force applied times displacement of object times the cos of the angle
+      - If the force is perpendicular to the movement of an object then it provides zero work unless it points towards the surface the object is moving on and there is friction present as it would increase the normal force which affects Ff
+    - Work energy principle NET WORK
+      - Wnet=$ \Delta $ W
+      - W1+w2+w3=Kf-Ki=1/2mvf^2-1/2mvi^2
+      - **Work is always negative if it moves against the motion don’t forget to square the v, v does not become negative if its moving in a new direction**
+    - Force vs. x graph force position graph
+      - Work is area bound by the curve or under the curve
+      - Above x axis is positive work done
+      - Below x axis is negative work
+      - **IF IT IS A FORCE VS TIME GRAPH THE AREA IS ACTUALLY IMPULSE, NOT WORK**
+    - Power
+      - Power is the amount of work done per time
+      - Amount of energy transferred per time
+      - Measured in watts
+      - Pavg=W/t=$ \Delta $ E/t
+    - **Gravitational potential energy when the gravitational field is not constant**
+      - If the gravitational field is varying (like two planets acting on each other or some similar situation) then you cannot use ug=mgh
+      - Instead use Ug= -G%%((%%m1+m2)/d) where G is the gravitational constant (6.67*10^-11)
+      - **key point: while Ug will always be negative, it can still be transferred into kinetic as it gets lower and lower due to it being defined as a perpetual negative**
+      - **in order for the ug to be transferred into kinetic the distance between planets needs to decrease**
+
+  - Momentum and Impulse
+
+  - Momentum (p)
+    - Is a vector
+    - Momentum is mass times the velocity p=mv
+      - note: p is lower case, capital is power
+    - momentum will be conserved if there is no external force on the system **<question (object-earth system=no external?)**
+    - momentum in each direction is conserved independently
+      - if there is no external force in the y-direction then the momentum is conserved
+      - vice versa
+    - Kg*m/s
+    - **Impulse (J)**
+      - Kg*m/s
+      - Is a vector
+      - Equal to the amount of force exerted on the object/system multiplied by the time in which the force has acted
+        - J=F*$ \Delta $ t
+      - The total impulse is equal to the change in momentum
+        - Sigma J=$ \Delta $ p=p final-p initial
+      - Net impulse (total impulse) is equal to the Net Force times the change in time, which also equals the change in momentum
+      - Sigma J= Sigma F*time= $ \Delta $ momentum
+      - Can be negative
+    - **Impulse as area under the curve**
+      - Force is y axis and time is x axis
+      - “Area under a F vs t graph is the impulse”
+      - Area under the t axis is negative impulse
+      - Area under the graph equals the change in momentum
+    - **Elastic and inelastic collisions**
+      - **LISTEN YOU DUNG HEAD, IF THE VELOCITY IS MOVING OPPOSITE OF THE OTHER VELOCITY THEN IT IS NEGATIVE, THE DIRECTION DETERMINES THE SIGN OF THE VELOCITY**
+      - **ELASTIC:**
+        - **Momentum is conserved, kinetic energy is conserved**
+        - If the total kinetic energy is conserved during the collision it is called elastic
+          - They bounce off of each other
+          - K initial + K initial= K final + K final
+          - Total K conserved
+          - If it doesn’t bounce but stick together it isn’t elastic
+      - **INELASTIC:**
+        - **Momentum is conserved, kinetic energy is not conserved**
+        - Can bounce or stick together
+        - If some of the energy is transformed into thermal energy and other forms of non-mechanical energy during a collision
+        - K initial + K initial does not equal k final + k final
+      - **PERFECTLY INELASTIC:**
+        - **Momentum is conserved, kinetic energy is not conserved**
+        - This is inelastic when both of the objects stick together
+        - K initial + k initial + (m1+m2)vf
+    - **2D collisions:**
+      - Okay bois, bunker down, this is where David stops sounding coherent and babbles like a mentally insane reject physics student
+      - Momentum is conserved in a 2d collision for each direction in which there is no net impulse
+        - Sigma p (momentum) initial x = sigma p final x
+          - p1i+p2i=p1f+p2f
+        - Sigma p initial y = sigma p final y
+          - p1i+p2i=p1f+p2f
+      - When an object hits an object in a fashion that isn’t head on (glancing collision)
+      - [[%5BFinal%5D%20If%20god%20was%20a%20student%20I%20think%20They'd%20declar%20e19eca28248a48b88ac37d097cf0b3eb:image5|{{%5BFinal%5D%20If%20god%20was%20a%20student%20I%20think%20They'd%20declar%20e19eca28248a48b88ac37d097cf0b3eb:image5.png}}]] 
+    - **Center of mass: Unit is meters**
+      - Center of mass of an object is the point the object/system would balance
+      - It is also the point upon which gravity acts
+      - CM= (m1x1+m2x2+…)%%/(%%M total)
+      - **Center of mass does not accelerate unless there is an external force on the system NEWTON’S FIRST LAW**
+        - **SO IF THE OBJECT INSIDE THE SYSTEM EXERT FORCE ON IT THEN THERE IS NO CHANGE IN THE CM’S ACCELERATION AS THEY ARE** **WITHIN THE SYSTEM**
+      - If there is no reference point given, then you can choose one
+        - left of the reference is negative
+        - right is positive
+
+.7 Torque and Angular momentum (sorry formatting gets weird here)
+
+  - Rotational Kinematics formulas
+    - basic formulas
+      - $ \Delta $ theta=change in angle over a certain time
+      - w(angular velocity)=$ \Delta $ theta/$ \Delta $ t
+      - alpha (angular acceleration)= $ \Delta $ w/$ \Delta $ t
+      - they mirror linear kinematics
+      - s (arc length)= radius*$ \Delta $ theta (kinda basic pre-cal)
+    - wf = wi+ alpha*t
+    - $ \Delta $ theta= wi*t+(½) alpha t^2
+    - THESE FOLLOWING ONES ARE NOT ON THE FORMULA SHEET
+      - wf^2=wi^2+2(alpha)($ \Delta $ theta)
+      - (wf+wi)/2=($ \Delta $ theta)/t
+    - Only true if the angular acceleration is constant
+    - TO GET THE Tangential SPEED OF THE OBJECT: v=rw, or if you have period it would be v=2PiR/T
+    - TO GET THE TANGENTIAL ACCELERATION: a=r(alpha)
+      - tangential acceleration causes an object to speed up or slow down in its path
+      - centripetal acceleration (ac=v^2/r) causes it to change direction
+
+  - Torque
+    - **TORQUE IS A VECTOR SO IT CAN BE NEGATIVE OR POSITIVE**
+      - **counter clockwise is positive**
+      - **clockwise is negative**
+    - measured in Nm, newton meters
+    - causes angular acceleration
+    - in order to have a torque you have to have forces acting on the object
+      - Torque=rFsine(theta)
+    - **key point: the further from the axis of rotation, the more torque.**
+    - **perpendicular forces apply the most torque 90deg or 180 deg**
+
+  - Rotational inertia
+    - a large rotational inertia will make the object harder to get rotating and harder to stop rotating (cause ya know, inertia)
+    - **key point: If the mass of an object is distributed far from the axis of rotation, then it will have a larger rotational inertia**
+    - **If the mass is distributed closer to the axis then it will have a smaller rotational inertia**
+    - **I=mr^2** if a single mass is going in a circle of a single radius **THIS IS NOT GIVEN**
+    - **I=sigma(m)r^2** if multiple individual masses are going in circles of different radii
+    - If you have an object that is continuous, sort of like a bar that is rotating around a certain point rather than a ball going around an axis, then the formulas differ
+      - For a rod rotating around its center: I=(1/12)mL^2 where L is length
+      - for a rod rotating on one end: I=(1/3)mL^2
+      - for a sphere rotating around an axis at its center: (2/5 )mr^2
+      - for a disk or cylinder rotating around an axis through its center: (1/2)mr^2
+      - **the rotational inertia for a hoop is I=mr^2 since all of the mass is distributed the furthest position from the axis of rotation**
+      - **measured in kg*m^2**
+
+  - Angular Second Law
+    - **Angular acceleration is proportional to the net torque and inversely proportional to the rotational inertia**
+      - alpha=sigma(torque)/I
+        - is similar to how linear acceleration is equal to force/mass
+
+  - Rotational kinetic energy
+    - if an object is rotating or spinning it has rotational kinetic energy
+    - If an object is moving and rotating/spinning, then it will have translational kinetic energy(linear movement) and rotational kinetic energy(the actual rotation)
+      - K(rotational)= (½)Iw^2 if the object is rotating with an angular velocity w
+      - K(translational) =(½)mv^2 so literally just kinetic in the linear fashion
+    - **Is not a vector, so rotational kinetic energy is always positive**
+    - measured in J
+
+  - **Angular momentum**
+    - Angular momentum is conserved **if there is no external torque**
+    - L(angular momentum)=Iw **useful for continuous objects**
+    - **For point masses masses moving in a straight line: L=mv(r*sin(theta))**
+      - **point masses can have L because if they hit an object they can start to rotate**
+      - Okay so my explanation here may get weird, but y’all are smart people so it'll be fine
+        - L=mv(R) where R is the distance of closest approach (how close it will ever get to the axis
+          - you can determine R by drawing a straight line from the Mand a line across the axis (pic below)
+          - [[%5BFinal%5D%20If%20god%20was%20a%20student%20I%20think%20They'd%20declar%20e19eca28248a48b88ac37d097cf0b3eb:image4|{{%5BFinal%5D%20If%20god%20was%20a%20student%20I%20think%20They'd%20declar%20e19eca28248a48b88ac37d097cf0b3eb:image4.png}}]] 
+    - **Angular momentum is a vector** (counter clockwise is positive and clockwise is negative due to the nature of w)
+
+**8. Harmonic motion**
+
+  - **hooke’s law**
+    - Force exerted by an “ideal” spring **is proportional to the amount the spring is stretched or compressed from its equilibrium**
+      - equilibrium position of a spring is the location of **the end of the spring** when it is sitting **at its natural length** with no forces applied
+      - **Fs=kx**
+        - x is the distance from its equilibrium (**always positive**)
+        - k is the spring constant
+
+  - **simple harmonic motion or simple harmonic oscillator**
+    - **variable x is a simple harmonic oscillator when it changes according to a sine or cosine function**
+      - if you don't know what that is, **may god have mercy on you,** but it looks like waves of a frequency with an equal amplitude on both sides of the x-axis
+    - x(t)(variable that's changing as a function of time)=A(amplitude)*sin(2*pi*f*t) **or** A*sin%%((%%2pi*t)/period).
+      - you can switch out sine or cosine depending on the start of the graph
+
+  - T
+    - T is the period of motion
+    - In a circular motion situation, it would be, T=2PiR/V where v is tangential
+    - mass on a spring:
+      - 2pi(sqrt(m/k))
+      - does **not depend on amplitude**
+    - pendulum:
+      - 2pi(sqrt(length of the pendulum/magnitude of the acceleration due to gravity)
+      - does not depend on amplitude (if the angles are small
+      - does not depend on mass either

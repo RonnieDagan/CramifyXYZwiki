@@ -1,0 +1,1773 @@
+    
+====== AP Human Geography Study Guide ======
+
+Credit: [[https://www.simplestudies.org/|simple studies]]
+
+===== Unit 1: Thinking Geographically =====
+
+**Geographic and Spatial Information**
+
+  * Latitude: Measurement of distance north or south of the equator (vertical)
+
+  * Longitude: Measurement of distance west or east of the prime meridian (horizontal)
+
+  * Global Positioning System (GPS) : used for navigation and shows accurate location
+
+  * Remote Sensing: Satellites orbit Earth and send back data to Earth
+
+  * Geographic Information System (GIS): a computer system that stores information about locations in layers
+
+Absolute vs. Relative Location
+
+  * Absolute Location: coordinates for a location, doesn’t change
+    * Ex. I live at 123 Woodward Dr
+
+  * Relative Location: location in relation to the objects around it
+    * Ex. I live by Mcdonalds and Walmart
+
+Place
+
+  * Unique characteristic of a location
+
+Time-Distance Decay
+
+  * The further sources are from each other, the less they will contact each other
+
+**Diffusion**
+
+  * How characteristics spread across space from one place to another
+    * Relocation Diffusion: When people emigrate, they take with them their culture and knowledge
+    * Hierarchical Diffusion: Spreads from an important figure, leader, or group
+      * Contagious Diffusion: Quick spread of a characteristic throughout the population
+        * Think of it like a disease, it is contagious and spreads very quickly
+
+  * Stimulus Diffusion: Main idea is spread but some changes are made
+
+Early Maps vs Contemporary Maps
+
+  * Early Maps
+    * Simple Navigation Tools
+    * Shows how to get from point A to B
+
+  * Contemporary Maps
+    * Communication tool
+    * Geographic informations explained
+
+**Map Scales and Projections**
+
+  * Map scale shows the features in relation to the actual size on the earth
+    * Ratio Scale
+      * 1:10,000
+      * The number on the left will always be the units of distance on the map
+      * The number on the right will always be the units of distance on the Earth’s surface
+      * Every 1 inch represents 10,000 actual inches on Earth’s surface
+    * Written Scale
+      * 1 inch equals 10 miles
+      * Explains the relationship in words
+    * Graphic Scale
+      * Bar line on the map to show how much distance is covered
+
+  * Projection Types
+    * Robinson Projection
+      * Used to focus on oceans
+      * Land masses are smaller
+    * Mercator Projection
+      * Accurate shape and direction
+      * Map is rectangular
+      * Size of poles are distorted
+
+**Types of Maps**
+
+  * Topographic Maps
+    * Detailed, graphic representations of features that are on Earth’s surfaces
+      * These features are cultural, hydrography, relief, vegetation
+        * Cultural: international and state borders, buildings, airports, names of places
+        * Hydrography: lakes, rivers, streams, swamps
+        * Relief: Mountains, Valleys, Cliffs
+        * Vegetation: wood and clear areas, orchards, vineyards
+    * Used for various reasons such as hiking, hunting, surveying, resource management, etc.
+
+  * Thematic Maps
+    * Also known as a statistic map, Special purpose, Single-topic map
+    * Shows the distribution of one or more specific data themes for the geographical areas shown
+    * All types have two things: Base map and statistical data
+    * Different types of thematic maps: Choropleth, Isoline, Dot-Density, Cartograms
+
+Choropleth Maps
+
+  * Uses color variations to indicate quantitative values across geographical areas
+
+  * Look at the color legend and make sure to interpret it properly before associating that with the map
+
+[[AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image4|{{AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image4.png}}]]Isoline Maps
+
+  * The isoline is a line that connects the points with equal values and can be used with gradient colors to show the different areas.
+
+  * Isolines should have equal intervals
+
+  * Help to recognize patterns between the geography of an area and the data collected
+
+> ● Dot- Maps 
+
+Density
+
+  * Show density differences in geographic distributions across a landscape
+
+  * Must be drawn on an equal map area projection
+    * Using a map projection that doesn’t keep the size of the areas will mess up the density of dots
+
+  * Can map raw data such as number of farms or ratios such as number of farms per square km
+
+  * Work perfectly fine with black and white when color can’t be used
+
+[[AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image5|{{AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image5.png}}]]Cartograms
+
+  * Combines statistical information with geographical locations
+
+  * Distorted with what the cartographers wants to display the information
+
+  * Area and distance cartograms
+    * Area Cartograms: alters the entire physical location by scaling a chosen factor, could be environmental, physical, social, economic, political.
+      * Ex. Total Population
+    * Distance Cartograms: displays the relative time and distance within a chosen network
+      * Exact time and distance from one location to another location is distorted, can still be used for moving about. Ex. Subways
+
+[[AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image6|{{AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image6.jpeg}}]]  * Toponym: name given to a place on Earth
+    * 158 woodwards dr is the house address
+
+  * Site: Characteristics of a place
+    * (vegetation, hills, streams and other bodies of waters)
+
+  * Situation: Location that is in relation to something
+    * My apartment is between walmart and kroger
+
+  * Formal Region
+    * Everyone shares a common characteristics
+      * Same language, climate and other environmental factors, religion
+
+  * Functional Region
+    * Often organized around a central point (Node)
+    * Center of the city that attracts people
+
+  * Vernacular Region
+    * Also known as perceptual region
+    * Reflect a sense of place, normally emerges from culture
+      * Ex. South America
+
+Websites that I referenced:
+
+> https://help.revealbi.io/en/data-visualizations/visualization-types/choropleth-map/choropleth-map.html
+
+[[https://rdavisaphgfinal.weebly.com/nature-and-perspectives/types-of-regions|https://rdavisaphgfinal.weebly.com/nature-and-perspectives/types-of-regions]]
+
+Photo Sources:
+
+[[https://help.revealbi.io/en/data-visualizations/visualization-types/choropleth-map/choropleth-map.html|https://help.revealbi.io/en/data-visualizations/visualization-types/choropleth-map/choropleth-map.html]]
+
+[[http://oliviasmapcatalog.blogspot.com/2012/03/isoline-maps.html|http://oliviasmapcatalog.blogspot.com/2012/03/isoline-maps.html]]
+
+[[https://www.e-education.psu.edu/natureofgeoinfo/c3_p16.html|https://www.e-education.psu.edu/natureofgeoinfo/c3_p16.html]]
+
+[[https://gisgeography.com/cartogram-maps/|https://gisgeography.com/cartogram-maps/]]
+
+===== Unit 2: Population and Migration Patterns and Processes =====
+
+**Migration**
+
+  * Migration: The permanent move to a new location
+    * o Humans have migrated for the past 7,000 years
+
+  * Mobility: general term covering all types of movement
+    * Circulation- short, repetitive, cyclical movements that recur on a regular basis
+      * An ex. is going to work or school
+
+  * Seasonal Mobility- Migration by season
+    * o An example would be college students moving to dormitories in the fall and coming back home the following spring
+
+  * Emigration: moving out of a location
+
+  * Immigration: moving into a location
+
+  * Net Immigration- # of immigrants - # of emigrants (I -- E = N)
+    * o Positive (Net-in Migration): more immigrants than emigrants
+    * o Negative (Net-out Migration): more emigrants than immigrants
+
+  * Migration occurs less frequently < other forms of mobility
+    * People take their culture, race, ethnicity, language, farming techniques, and economic practices
+
+  * Three main reasons why people move ( Pull Factors)
+
+> o Economic Opportunity o Cultural Freedom o Environmental Comfort 
+
+  * Reasons why people want to move out (Push Factors)
+
+  * Political Reasons: war, other political unrest, severe racism and physical torture to a specific group
+
+  * Environmental issues: Natural Disaster
+
+  * Economic: Decline in economy, no jobs available or no good pay
+
+**International Net Migration**
+
+  - The definition is the permanent movement of one country to another
+
+  * E.G. Ravenstein made the basic laws of Migration and the three main ones are: o The distance that migrants move
+
+> o The reasons why migrants move o The characteristics of migrants 
+
+**International Migration Flows**
+
+  * 3% or 214 million people = international migrants
+
+  * 3 largest migration flows are:
+
+> o Latin America -> North America o South Asia -> Europe o South Asia -> Southwest Asia 
+
+  * Mexico to the United States is the largest flow
+    * People tend to migrate from developing to developed countries
+
+  * North America, Europe, Southwest Asia, and South Pacific = Net- in
+
+  * Latin America, all regions in India except Southwest Asia = Net-out
+
+  * United States has the more foreign-born residents: 42 million
+
+  * Russia is the distant second with 11 million
+
+  * Australia and Canada have a higher net-in migration but < population
+
+  * The highest in net-in migration rates are in the petroleum export areas in SW Asia
+
+**Migration Transition**
+
+  * Changes in a society comparable to those in demographic transition
+    * Geographer Wilbur Zelinsky -> linked migration transition to demographic transition
+
+> International Migration
+
+  * to move from 1 country to another
+    * Voluntary Migration- Migrant chooses to move usually for economic reasons sometimes for environmental reasons.
+      * Intervening Opportunity: At one of the places along the path, pull factors encourage the migrant to settle there
+      * Intervening Obstacle: Environmental or cultural feature that stops migration
+      * Sometimes migrants are stopped or turned back
+      * Environmental ex.: Mountains, Deserts, Bodies of Waters
+      * Cultural ex.: Ethnocentrism, Racism, Xenophobia, Immigration policies
+      * Quotas: Limit the source regions and numbers of new migrations
+        * Brain Drain: Preference to talented and skilled workers in professions that are wanted and in long-term, will injure the countries these workers are emigrating from
+    * Chain Migration: Migration to a place where family and friends have settled
+
+  * Forced Migration- Migrant has been forced to move by cultural or environmental factors
+    * 3 groups of forced migration
+      * Refugees: someone who is forced from their home because of violence or conflict
+      * Internally Displaced Person (IDP): someone who is trying to get refuge somewhere else within their country because of some sort of conflict. They hope to return to their homeland when the conflict is over
+      * Asylum Seeker: someone who is trying to find international protection but doesn’t have approval yet for refugee status claim
+
+**Internal Migration**
+
+  * permanent move from within the same country
+    * Interregional Migration: movement from one region of a country to another (rural -> urban areas)
+    * Intraregional Migration: movement within one region. (Urban areas, from older cities -> newer suburbs)
+
+**Population Trends and Information**
+
+  * Overpopulation: area’s population exceeds the capacity of the environment to support it at an acceptable standard of living
+
+  * ⅔ of the world’s inhabitants are clustered in 4 regions:
+    * South Asia
+    * East Asia
+    * Southeast Asia
+    * Europe
+      * Low-lying areas with fertile soil and temperate climate
+      * Near an ocean or river
+
+  * Sparsely Populated Regions
+    * Avoid clusters in certain areas
+      * Dry lands
+      * Wetlands
+      * Cold lands
+      * Highlands
+    * Places are considered too harsh to survive in
+    * Ecumene: Places of permanent human settlement
+
+  * Population Density: Density can be calculated in 3 ways for a place
+    * Arithmetic Density
+      * Total # of objects in an area
+      * Divide population by land area
+    * Physiological Density
+      * # of people supported by a unit area of arable land
+      * Divide population by arable land area
+    * Agricultural Density
+      * Ratio of # of farmers to amount of arable land
+      * Divide the population of farmers by the arable land area
+
+**Factors of Population Growth**
+
+  * Measure pop. change in a country/world as a whole by these measures
+    * Crude Birth Rate (CBR)- total number of live birth in a year for every 1,000 people alive in society
+    * Crude Death Rate (CDR) - total number of deaths in a year for every 1,000 people alive in society
+    * Natural Increase Rate (NIR)- percentage by which pop. grows in a year
+      * CBR-CDR = NIR
+      * Rate of natural increase affects the doubling time
+        * Doubling Time is the # of years needed to double the population with the assumption that a constant rate of natural increase
+    * Infant Mortality Rate (IMR)
+      * Measure that is used to understand death rates in a society
+      * Annual # of deaths of infants under 1 year of age, compared with total live births
+    * Total Fertility Rate (TFR)
+      * Measure used to understand birth rate in society
+      * average # of children a woman will have throughout her childbearing years (15-49)
+      * 2.5 for world
+      * Above 5 in Sub-Saharan Africa
+      * 2 or less in almost all European Countries
+
+  * Life Expectancy: The average # of years a newborn can be expected to live based on current mortality levels
+
+  * Developed Countries have lower rates and developing countries have higher rates of natural increase, crude birth, total fertility, and infant mortality
+
+  * Population Pyramid
+    * Bar graph that can display a country’s population structure
+      * X-axis
+        * % male displayed to the left of zero
+        * % female displayed to the right of the zero
+      * Y-axis
+        * Age cohorts normally grouped in 5-year intervals
+        * Youngest at the bottom and oldest at the top
+
+**Population Structure**
+
+  * Dependency Ratio
+    * # of people who are too young or old to work compared to the number of people in their productive years
+      * Ppl. aged 0 to 14 and over 65 are considered dependents
+
+  * Sex Ratio
+    * # of males per 100 females in the pop.
+
+**Demographic and Epidemiologic Transition**
+
+  * Demographic Transition Model (DMT) : Describes population trends over time between birth and death rates
+    * Stage one:
+      * Most of the world before industrial revolution
+      * Birth and Death rates were very high
+      * Population size remains fairly constant
+        * Can have major changes such as pandemics or wars
+    * Stage two:
+      * Into to modern medicine lowers death rate, especially children
+      * Birth rates are high
+      * This results in rapid population growth
+      * Many Least Developed Countries are in this stage
+    * Stage Three:
+      * Birth rates gradually decrease
+      * Result with improved economic conditions and access to contraceptives
+      * Population growth continues at a lower rate
+      * Most developing countries are at this stage
+    * Stage Four:
+      * Birth and Death Rates are low
+      * As a result, population is stabilized
+      * Stronger economy, high levels of education, better healthcare
+      * Most developed countries are here
+    * Stage Five:
+      * Fertility Rates fall significantly
+      * Elderly pop. is greater than youth pop.
+
+  * Epidemiologic Transition: health threats in each stage of the demographic transition
+    * Stage 1: Pestilence and Famine
+      * High CDR
+      * Infectious and Parasitic Diseases - black plague
+    * Stage 2: Receding Pandemic
+      * Rapidly declining CDR
+      * Pandemic: disease that happens over a huge geographic area and affects a very high proportion of the population
+      * Reduction of the spread of disease if from:
+        * Improved sanitation, medicine, nutrition, healthcare
+    * Stage 3: Degenerative Diseases
+      * Moderately Declining CDR
+      * Decrease in deaths from infectious diseases
+      * Increase in chronic disorders that happens from aging - cardiovascular diseases
+
+  * Stage 4: Delayed Degenerative Disease
+    * Low but increasing CDR
+    * Deaths caused by chronic disorders delayed because medical advancements
+
+  * Stage 5 reasons as to why the possibility
+
+  * Infectious disease evolve and are able to resist to antibiotics and other medical drugs
+
+  * Infectious disease are more present in poor area because of unsanitary conditions and not being able to afford treatment
+
+  * Transportation makes it more easier for an individual to be infected in one country to be in another country before showing any symptoms
+
+===== Unit 3: Cultural Processes and Patterns =====
+
+  * Culture- body of material traits, customary beliefs, social forms that together constitute a distinct tradition of a group of people
+    * 3 components of culture
+      * Material Traits- visible elements that a group possesses and leaves behind for future generations
+      * Customary belief- 2 important components- language and religion
+      * Social forms- maintain values and protect artifacts (ethnicity and political institutions)
+    * Migration = similarities of cultural beliefs between two locations
+    * Limited interaction -> differences of cultural beliefs
+    * Habit: repetitive act that occurs from a particular individual
+    * Custom: repetitive act that occurs from a group of people
+    * Hearth is a center of innovation
+
+> 2 elements of culture that are emphasized
+
+  * Daily necessities, including food, clothing, and shelter
+
+  * Leisure activities, such as arts and recreation
+
+Introducing Folk and Popular culture
+
+  * Each Cultural element has a distinct-> origin, diffusion, and distribution
+
+  * Built Environments -- each cultural group takes elements from the environment into its culture and in turn builds landscapes that modify nature in distinctive ways
+    * Increased connection with pop. culture makes maintaining practices difficult to accomplish
+
+  * Globalization impacts the landscape in folk culture
+
+  * Pop. culture
+    * Pollution of landscape
+    * Depletion of scarce resources
+
+**Folk Culture**
+
+  * Traditionally practiced by a small, homogenous group living in a rural and isolated area
+
+  * Changes very slowly and differs from place to place
+
+  * Preservation and protection
+
+  * Anonymous hearth, sources, unknown dates, unidentified originators
+
+  * A group’s unique folk customs are developed through centuries of relative isolation from customs practiced by other cultural groups
+
+  * Clothing preference is to the agricultural processes and climate conditions
+
+  * Food Taboo
+    * Restriction put in place by a social custom that eating particular foods that are thought to have negative forces
+    * Muslims have a taboo against eating pork
+    * Hindus have a taboo against eating beef
+
+  * Housing is based on environmental conditions and what resources are there
+    * Stone, grass, sod, skins are used to build
+    * Sacred spaces in the house
+
+**Popular Culture**
+
+  * Found in large, heterogeneous societies that share certain habits despite differences of other personal characteristics.
+    * Changes very rapidly through global communications & differs from time to time
+    * More dominant, at a global scale
+    * No concern shown, modify environment according to global values
+    * As a result from developed countries ( North America, Europe mostly)
+    * Origin is able to trace back to a person or specific corporation
+    * Food is consumed in large quantities of snack foods
+    * Clothing styles reflect occupation more than environment
+    * Housing shows trends since the 1940’s in the U.S.
+      * No longer build their own houses
+      * Show influences of shapes, materials, and other features of architectural style
+    * Electronic Diffusion: Most important media format is TV
+      * Internet Diffusion from the US to the rest of the world is 10 years
+    * Diffusion of Social Media: 21rst Century
+
+  * Himalayan Art:
+    * Bhutan, Nepal, Northern India and Southern Tibet (China)
+    * 4 religious groups -- tibetan buddhists (N), Hindus(S), Muslims (W), Animist (E)
+      * Tibetan Buddhists- idealized divine figures (some were bizarre and terrifying to represent the inhospitable environment)
+      * Hindus- everyday life
+      * Muslims- beautiful plants and flowers,
+      * Animist Groups- symbols
+
+**Influence of Physical Environment**
+
+  * Environmental determinism
+
+  * Environment determines food, clothing, and shelter
+
+  * Waterproof wooden shoes in the Netherlands in the wet environment
+
+**Introducing Languages**
+
+  * Language: system of communications through speech, a collection of sounds that a group of people understands to have the same meaning
+    * one of the three traits that distinguish cultural values (other two are religion and ethnicity)
+    * It is how other cultural values are communicated
+
+  * Language and Migration
+
+  * Study of language follows migration because the contemporary distribution of languages around the world results from past migration
+    * People in two locations speak the same language because of migration from one place to another
+    * Ex: Madagascans speak a language from the same language family as Indonesia and Philippines:
+      * this is evidence of migration, which research shows is from 2000 years ago
+
+  * When 2 groups have few connections after migration, the language starts to differ
+    * After long periods of time, the two languages become so different that they are classified as separate languages
+    * Interaction and isolation help explain the distribution of ind. lang. and lang. Families
+    * Language = luggage (people carry it from place to place)
+      * People incorporate new words into their own lang. when they reach new places
+        * (vice versa) contribute words brought with them to the existing language in that location
+
+  * Geographers look at similarities among lang. To understand the diffusion and interaction of people around the world
+
+  * Classifying Languages
+    * Good ex of cultural diversity is the world’s heterogeneous collection of languages
+    * Distribution of some of these languages are easy to document, others (mostly in Africa and Asia) are not
+    * Institutional language -- used in education, work, mass media, and government (there are 578 according to Ethnologue)
+      * Many countries designate at least one institutional language as an official language...
+    * Official language - used by government for laws, reports and public objects (road signs, money, and stamps)
+      * Usually, the official language is understood by most of the citizens,
+
+  * But in many once British colonies, the off. Lang. Is English, even if few can speak it
+
+  * Some countries have more than one off. lang. and require all public documents to be in all off. Lang.
+
+  * Literary Tradition- also an institutional language, meaning it’s written and
+
+> spoken (includes writing and rules of grammar)
+
+  * Thousands of spoken languages lack a literary tradition
+
+  * Lack of written records is one reason it’s difficult to document the total number of languages
+
+  * Developing language- spoken in daily use by people of all ages, from children to elderly individuals
+    * According to Ethnologue- 1,598
+    * Also has a literary tradition, though the literature is not widely distributed
+
+  * Vigorous language -- daily use, but lacks a literary tradition (2,479 according to Ethnologue)
+
+  * Languages that are in trouble and dying, are considered by Ethnologue to be in various stages of disappearing from use
+
+  * Organizing Language Families:
+    * Language family- collection of languages related through a common ancestral language that existed long before recorded history (ex. Indo-European)
+    * Language branch -- collection of languages within a family related through a common ancestral language that existed several thousand years ago (ex. Germanic)
+      * Differences aren’t as extensive/old between language families
+      * Archaeological evidence can confirm that branches derive from the same family
+    * Language group -- collection of languages within a branch that share a common origin in the relatively recent past and display many similarities in grammar and vocab (ex. North Germanic)
+
+  * **Language Families**
+
+  * Differences among language families, branches, groups, and individual languages shown through tree model
+    * Language families form trunks
+    * Individual languages are leaves
+    * Some trunks divide into several branches- language branch
+    * Branches representing Germanic, Balto-Slavic, and Indo-Iranian divide a second time into language groups
+    * Super-families (Sino-Caucasian, Austric, & Nostralic) are shown as roots below surface because their existence is controversial and speculative
+
+  * Quentin Atkinson (New Zealand biologist) argues that all languages can be ultimately traced to Africa
+    * Languages are complex and diverse in Africa
+    * Believes humans outside Africa display less linguistic diversity because their languages have a shorter time to involve into new ones
+
+  * Ethnologue identifies 142 language families
+
+  * 2 language families: Indo-European (46.5% of people) and Sino-Tibetan (20.1) are used more than 1 bil people, 7 language families between 100-500 mil, and 5 between 9-100 mil
+
+  * **Two Largest Language Families**
+
+  * Indo-European
+    * Most widely used language family, predominant in Europe, South Asia, North America, and Latin America
+    * 8 branches (from most to least used):
+      * Widely used: Indo-Iranian, Germanic, Romance, and Balto-Slavic
+      * Lesser used: Albanian, Armenian, Celtic, and Greek
+
+  * Sino-Tibetan
+    * Includes languages spoken in China (population of 1.3 B), several smaller countries in SE Asia
+    * Languages of China mostly belong to the Sinitic branch
+    * No single Chinese language, most common is Mandarin (“common speech”) which is spoken by ¾ of the people
+
+  * Mandarin is the most-used language in the world
+
+  * Official language of China and Taiwan, and one of the 6 official languages of the UN
+
+  * 7 other Sinitic branch languages are spoken by >20 mil each in China (mostly southern and eastern parts)
+    * Wu, Yue (Cantonese), Min, Jinyu, Xiang, Hakka, and Gan
+    * Government imposes Mandarin countrywide
+
+**Other Large Language Families**
+
+  * Southeast Asia Language Families
+    * 3 largest families are Austronesian, Austro-Asiatic, and Tai-Kadai
+    * Austronesian
+      * Spoken by about 6% of the world, most from Indonesia
+        * Indonesia has many distinct languages and dialects (706 just in Indonesia)
+      * Most widely spoken is Javanese (by 84 million) mostly from Java
+    * Austro-Asiatic
+      * 2% of the world
+      * Most common language is Vietnamese
+        * Written in the Roman alphabet, along w large # of diacritical marks above the vowels
+        * Vietnamese alphabet was created in the 17th century by Roman Catholic missionaries
+    * Tai-Kadai
+      * Was once classified as a branch of Sino-Tibetan
+      * Spoken in Thailand and neighboring portions of China
+      * Some scholars believe that speakers may have migrated from the Philippines
+
+  * East Asia Language Families
+    * 2 most widely used language families outside of china:
+    * Japanese
+      * Partly written w Chinese characters
+
+  * 2 systems of phonetic symbols are used either in place or alongside of Chn. Characters
+
+  * Chinese cultural traits have diffused into Japan society, including original form of writing
+
+  * The structure of chinese and japanese still differ
+
+  * Korean
+    * Written in a system known as hankul/hangul/onmun (unlike Sino-Tibetan languages and Japan)
+    * Each letter represents a sound, like western languages
+    * More than ½ of Korean vocab comes from Chinese
+
+  * Chinese and Japanese words are the principal sources for creating new words to describe new technology and concepts
+
+  * Other Asian Language Families
+    * Dravidian
+      * principal language family of South Asia, aside from Indo-European, mostly in southern India
+      * Most widely used are Telugu and Tamil
+      * Origin is unknown- been studied less than other widely used language families
+      * When Indo-European speakers reached India, Dravidian was already present
+    * Altaic
+      * Thought to have originated bordering the Qilian Shan and Altai mountains between Tibet and China
+      * Covers 8000-kilometer band in Asia today
+      * Turkish has most speakers by far
+      * Altaic languages were suppressed when the Soviet Union governed the region
+      * Official in Azer, Baijan, Kazakhstan, Kyrgyzstan, Turkmenistan, and Uzbekistan
+    * Uralic
+
+  * Traceable back to a common language that was first used 7000 years ago in Ural Mts.
+
+  * Migrants carried this family to Europe, amid Germanic and Slavic-Speaking people
+
+  * Estonians, Finns, and Hungarians
+
+  * African Language Families
+    * Nobody knows the exact number of languages in Africa
+    * 1800s: Europeans recorded them using the Roman/Arabic alphabet
+    * Ethnologue- 2146 languages, 699 of which have a literary tradition
+    * Afro-Asiatic
+      * World's 3rd largest language family
+      * Arabic is the major language
+        * official in 2 dozen countries of SW Asia and N Africa
+        * 1/6 of the official lang. In UN
+        * Spoken and written by 206 million
+      * 54 mil people use Egyptian spoken Arabic
+      * 34 distinct Arabic Languages in addition to the official one
+      * Quran (Muslim religious book) is written in Arabic
+      * This family also includes Hebrew
+
+  * Spoken by 95% of people in Sub-Saharan Africa
+
+  * Most spoken- Yoruba, Igbo, (Nigeria) and Swahili (Tanzania’s off.)
+
+  * Swahili is often used to communicate w “outsiders” in rural areas
+    * Its vocab has strong Arabic influence because of interaction w Arab traders
+    * One of the few African languages w an extensive literature
+
+  * Nilo-Saharan
+    * 43 mil in North-central Africa (north of Niger-Congo)
+    * Hard to classify these languages
+      * Divided into 6 branches, and numerous groups and subgroups
+      * Total number of speakers of each individual language is ext. Small
+
+  * America’s Other Language Family: Quechuan
+    * Most widely used language family in the western Hemisphere, other than Indo-Eur.
+    * Speakers are mostly in the Andes Mountains of western South America
+    * Ethnologue- 9 million speakers
+    * 44 distinct languages
+    * Quechua Cusco is the only one w more than 1 million speakers
+    * Most speakers use Spanish
+
+  * **Distribution of Indo-European Branches**
+    * Nearly ½ of the world’s people speak a language part of I-E family
+    * 8 branches: 4 widely spoken, and 4 much less...
+
+  * Germanic Branch
+    * West Germanic group includes English, German, and Dutch
+    * Also includes languages in the North Germanic group: Swedish, Danish, Norwegian, and Icelandic
+      * Also called the four Scandinavian languages
+      * All derive from Old Norse; the principal language of Scandinavia before 1000 AD
+
+  * Romance Branch
+    * 4 most widely used (contemporary)- Spanish, Portuguese, French, and Italian
+      * The regions in which these 4 are spoken correspond -- somewhat- to the boundaries of the countries today ^^
+    * 5th most spoken -- Romanian -- principal language in Romania and Moldova
+      * Is separated from the other Romance-speaking countries by Slavic people
+
+  * Indo-Iranian Branch
+    * IE Branch with the most speakers
+    * Divided into 2 groups: Iranian (Western) and Indic (Eastern)
+    * Iranian:
+
+  * Major languages include Persian in Iran, Pashto in E. Afghanistan & west Pakistan, and Kurdish in W Iran, N Iraq, and E Turkey
+
+  * Written w Arabic alphabet
+    * Most widely spoken group in s. Asia
+    * 461 only in India, 29 of which are spoken by at least 1 mil. People
+    * Off. Language in India is Hindi, though some communicate in English
+    * India also recognizes 22 “scheduled” languages, including 15 IE, 4 Dravidian, 2 Sino-Tibetan, and 1 Austro-Asiatic
+    * Hindi can be spoken several ways, but there’s only one off. way to write it
+
+> (Devanagari)
+
+  * Balto-Slavic
+    * Predominate in Eastern Europe
+    * Slavic used to be a single language, but divided into E, W, S, and Baltic because of migration and isolation
+    * Most widely used are in the east: Russian
+    * Most spoken west Slavic languages: Polish, Czech, Slovak (Czech and Slovak are quite similar, and the speakers can understand each other)
+    * “Serbo-Croatian”
+      * Language spoken by Bosnia + H, Croatia, Montenegro, and Serbia during Yugoslavia
+      * They now prefer to call them separate languages, to demonstrate their uniqueness
+        * Bosnians and Croats use Roman alphabet
+        * Montenegrins and Serbs use Cyrillic alphabet
+    * Differences between all these languages are relatively small, but is part of their cultural identity
+
+**Origin and Diffusion of Indo-European**
+
+  * Distribution of language exists because of geographic processes of origin and diffusion
+
+  * Language branches and individual ones can be documented
+    * Families can’t (predates recorded history)
+
+  * Origin and Diffusion of Romance Languages
+    * Originated from Latin, or the “Romans” language
+    * As roman empire conquered provinces, they brought their language with them
+    * Previous languages spoken by natives were extinguished or suppressed
+    * Latin used in each province was based on the speech of the Roman army at time of occupation, so the Latin spoken in each province also integrated words from their previous language
+    * Vulgar Latin - the language that people in the provinces learned, not the standard literary form, but a spoken form
+      * “the masses”
+    * After the collapse of the Roman Empire, because of isolation, the languages became distinct and different
+    * Romance branch has achieved worldwide importance because of colonial activities:
+      * Spanish is the official Lang. Of 18 Latin American states
+      * Fewer than 10% of the speakers of Spanish live in Spain
+      * Portuguese in Brazil- 200 mil, Portuguese in Portugal -- 10 million
+
+  * Common Ancestry of Indo-European Languages
+    * Geographers are unsure if Germanic, Romance, Balto-Slavic and Indo-Iranian all came from a single ancestor, which would be called Proto-Indo-European language family
+    * Evidence of relation comes from words related to physical environment:
+      * Ind. I-E languages share common words for winter and snow: the original Proto-Indo-European speakers lived in cold winter climate, w no oceans
+      * Share words for some animals and trees, but not others: they lived in a place where the shared animals and nature are found, while others were added after the original lang. split into branches
+
+  * Nomadic Warrior Theory
+    * Archaeologist Marija Gimbutas -- the first Proto-Indo-European speakers were the Kurgans
+
+  * 4300 BC around Russia and Kazakhstan
+
+  * · Because of domestication of horses and chariots, they migrated westward through Europe, spreading their language
+
+  * Sedentary Farmer Theory
+    * Archaeologist Colin Renfrew -- first speakers lived 2000 years before the Kurgans, in eastern part of Turkey
+    * Biologist Russel D. Gray dates the first speakers even earlier -- 6700 BC
+      * oBelieves that Indo-European diffused into Europe and S. Asia along w agricultural practices, NOT military conquest
+    * Do cultural elements such as language diffuse primarily through warfare and conquest or primarily through peaceful sharing of food?
+    * After many generations of complete isolation, regardless if it was spread by warfare or farming, it evolved into distinct languages
+
+  * **Origin and Diffusion of English**
+    * Celts arrived in the British Isles around 2000 BC, spoke Celtic
+    * 450 AD -- tribes from mainland Germany invaded the British Isles
+
+  * German Invasion
+    * 3 tribes invaded the Isles: Angles (southern Denmark), Jutes (northern Denmark),
+      * Saxons (northwestern Germany)
+    * Modern English has evolved from the language spoken by these three tribes
+    * Anglo-Saxons: people who trace their cultural heritage back to England
+    * Vikings from Norway came to the northeastern coast of England in the 9th century, adding their language to the basic English
+    * England -- Angles’ Land
+
+  * Norman Invasion
+    * English is different from German because England was conquered by Normans in 1066
+    * They spoke French, which became England’s official language for the next 300 years
+    * Royalty and leaders spoke French, commoners (majority) spoke English
+
+  * Conflict between France in 1204 lead to people choosing not to speak French, and English once more became the dominant language
+
+  * Diffusion of English
+    * English first diffused to N. America in the 17th century
+    * Jamestown, Virginia and Plymouth, Massachusetts -- first successful English colonies
+    * took control of Ireland in the 17th century
+      * South Asia in mid-18th century
+      * South Pacific in the late 18th - early 19th
+      * Southern Africa in the late 19th century
+    * In each case, English became an official language, even though very few people spoke it
+    * 20th century: US diffused English to the Philippines
+
+  * Combining English with Other Languages
+    * Franglais
+      * Served as lingua franca for hundreds of years for international diplomats
+    * Spanglish
+    * Denglish
+
+**Global Importance of English**
+
+  * · Dominance of English has facilitated the diffusion of popular culture and science and growth of international trade
+
+  * Lingua Franca
+    * Language of international communications -- like English
+    * Are created by mixing elements of the 2 languages into a simple common one
+    * “language of the Franks”
+      * Used by Arabs in the Middle East who traded with Europeans (“Franks”)
+    * All children learn English in countries like Netherlands and Sweden
+    * Pidgin language- simplified form of a language, by learning a few of the grammar rules and words, and mixing in some elements of their own
+      * Has no native speakers
+    * Modern lingua francas are: English, Swahili (e. Africa). Hindi, Indonesian, and Russian
+
+  * Official Languages
+    * Some countries have more than one official languages
+    * Official languages are used by government to enact legislation and conduct public business
+    * In some cases, only official languages are used in public schools
+    * Europe has the largest # official Languages (EU recognizes 24:
+      * Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish
+    * English is official in 58 countries (more than any other language)
+      * But not an official language in the US
+    * Dialect -- regional variation of a language distinguished by distinctive vocabulary, spelling, and pronunciation
+      * Most speakers of one dialect can understand those speaking another dialect
+    * Subdialect -- a subdivision of a dialect
+      * 2 sub dialects of the same dialect share relatively few differences, primarily in pronunciation and a small amount of vocabulary
+    * Differences in dialects and sub dialects reflect distinctive features of the environments in which groups live
+
+**English Dialects**
+
+  * Migration of English speakers to N. America
+
+  * Large number of speakers and widespread distribution -- large number of dialects and subdialects
+
+  * American and British English
+
+  * Early colonists spoke the language they had been using in England at the time (17th century)
+    * Acculturation- each group retains distinct culture features
+    * Assimilation -- a group’s cultural features are altered to resemble those of another more dominant group
+    * Syncretism- combining of elements of two groups into a new cultural feature*
+
+  * When later immigrants arrived in N. America, they became acculturated to the society that already spoke English
+
+  * English in the US and England evolved independently during the 18th and 19th centuries, which is why they differ in vocabulary, spelling, and pronunciation
+
+  * Vocabulary
+    * Settlers in America encountered many new objects and experiences, new names had to be given to physical features, animals (vocab was taken from native Americans), and new inventions (ex. Car parts)
+
+  * Spelling
+    * Spelling is different because of a strong national feeling in the US for an independent identity
+    * Noah Webster was determined to develop a uniquely american dialect of English, ignored recently created rules of grammar and spelling that were developed in England
+    * This helped establish a national language, reduc cultural dependence on England, and inspire national pride
+
+  * Pronunciation
+    * Surprisingly, the pronunciation has changed more in England than in the
+
+> US
+
+  * Standard language -- the dialect that’s well established and widely recognized as the most acceptable for government, business, education, and mass communication
+
+  * Received Pronunciation -- dialect used by upper-class residents in the capital city of London, and the 2 important university cities of Cambridge and Oxford
+
+  * Despite RP, strong regional differences persist in English
+
+**Religion**
+
+  * Universalizing Religion
+    * Attempt to be global by appealing to ppl. regardless of location or culture
+      * Christianity, Islam, Buddhism
+    * Precise place of origin
+    * Major holidays that relate to events in life of the founder
+    * A branch is a large and fundamental division within a religion.
+    * A denomination is a division of a branch that unites a number of local congregations in a single body.
+    * A sect is a small group that has broken away from an established denomination
+      * Christianity
+        * Hierarchical Diffusion: Emperor Constantine helped diffuse the religion to the entire Roman Empire
+        * Relocation Diffusion: Missionaries went around to different areas to convert others to christianity
+        * 3 Branches of Christianity:
+        * Roman Catholic: dominant in southwestern and eastern europe
+        * Protestant: dominant in northwestern europe
+        * Orthodox: dominant in eastern and southeastern europe
+
+  * Islam
+    * Relocation Diffusion: missionaries went to areas such as Asia and Africa to convert others
+    * 2 Branches:
+    * Sunni
+      * Largest branch found in most muslim countries in SW Asia and N Africs
+    * Shiite
+      * Middle Eastern Countries of Iran, Azerbaijan, Iraq, Omran, and Bahrain
+
+  * 3 Branches of Buddhism
+    * Mahayana
+      * China, Japan, Korea
+    * Theravada
+      * Cambodia, Laos, Myanmar, Sri Lanka and Thailand
+    * Vajrayana
+      * Tibet and Mongolia
+
+  * Ethnic Religion
+    * Appeals to one group of people living in one place
+    * More clustered distributions
+    * Aligned with natural events with physical geography of land
+    * Largest number of followers is Hinduism
+      * Almost all in India and Nepal
+    * Combo of Buddhism with Confucianism, Taoism, and other chinese practices is in E and SE Asia
+    * Syncretism is mixing several of the traditions
+    * Animism
+      * Belief that inanimate objects have spirits and life
+    * Judaism
+      * Monotheism: belief of only one god
+      * ⅖ live in the U.S.
+      * ⅖ live in Israel
+
+  * Sacred Places
+    * Structures that are sacred to the religion as a place to worship
+      * Christainity: Church
+      * Hinduism: Temples
+      * Muslim: Mosques
+      * Buddhist: Pagodas
+
+  * Holy Areas in Islam
+
+  * Makkah (Mecca)
+    * Birthplace of Muhammad
+    * Most holiest city
+
+  * Second most holiest: Madinah (medinah)
+    * Muhammad’s Tomb is here
+
+  * Holy areas in Hinduism
+    * Close relations to physical geography
+      * Ganges is a holy river
+      * Mt. Kailas holy because it is the home of Lord Siva
+      * Other riverbanks and coastlines are also holy
+
+**Ethnicity**
+
+  * Race: humans are categorized based on skin color and other physical characteristics
+
+  * Minority Group: any group in a society that goes through discrimination by dominant group
+
+  * Racial Group: determined by physical characteristics
+
+  * Ethnicity: identity with a group of people who share cultural traditions of a specific hearth
+
+  * Ethnic Groups: determined by culture
+    * May live in particular regions or communities within the cities and states
+      * Regional Scale
+        * Hispanics: SW cluster
+        * African Americans: SE cluster
+        * Asian Americans: W cluster
+      * Urban Scale
+        * African Americans and Hispanics are highly clustered
+
+  * Segregation
+    * Plessy vs. Ferguson
+      * Law was constitutional bc it provided equal but separate treatments of black and whites.
+    * Jim Crow Laws: A set of laws that segregate the blacks and whites
+      * Blacks had to sit in the back of the bus and public stores, restaurants, shops could choose to not serve blacks but whites only
+    * South Africa Apartheid
+      * Legal system was enacted that was to segregate its people
+      * Physical separation of different races into different geographic areas
+      * These laws were repealed in 1991
+
+  * Nationality
+    * Identity within a group of people who share personal allegiance to a country
+    * Share similar concepts with ethnicity
+      * Cultural factors is the same
+    * Difference is that nationality is defined with shared experiences such as voting, getting passports
+
+  * Ethnic Cleansing
+    * Powerful ethnic group forcibly removes a specific ethnic group in order to have only one ethnic region
+    * Example is Yugoslavia
+      * Bosnia
+        * Serbia and Croatia fought to not be a part of multiple ethnic country
+    * Balkans
+      * Balkanized: describe small areas that couldn’t be made into a proper state bc there were multiple ethnic groups that had problems with each other
+      * Balkanization: State breaks down because of conflicts among ethnicities
+    * Africa
+      * Rwanda
+        * Hutus murdered hundreds of Tutsis
+      * Congo, as a result from Rwanda’s genocide, it spreads
+
+===== Unit 4: Political Patterns and Processes =====
+
+  * States: area organized into a political unit and ruled by an established govt.
+    * Sovereignty: independence from its control of its internal and foreign affairs
+    * Evolution of States
+      * City-states: sovereign states that have towns and their surrounding countryside
+
+  * Nation: group with common culture
+
+  * Nation-state: pop. has a good amount of cultural homogeneity and unity
+
+  * Stateless Nation: Ethnic group of people without a state
+
+  * Microstate: Sovereign state having small pop. or land area
+
+  * Multi-ethnic State: State that has more than one ethnicity
+
+  * Multinational State: Country that has more than one ethnicity with traditions of self-determination
+    * Largest state is Russia
+
+  * Colonialism
+    * Colony: Territory legally tied to a sovereign state
+    * European States came to control through colonialism
+    * Three Motives: God, Glory, Gold
+    * Imperialism: control of territory already occupied
+
+  * After colonialism, new countries are formed
+    * Superimposed boundaries: political boundary placed by powerful outsiders
+
+  * Centripetal Forces
+    * Bind or hold a nation together and promote national unity
+      * Strong leadership, education, circulation
+
+  * Centrifugal Forces
+    * Divide a state apart
+    * Ethnic or cultural differences, linguistic diversity
+
+  * Devolution
+    * Movement of power from the central govt. to regional govt. within the state
+    * Causes: ethnocultural forces, economic forces, spatial forces
+
+  * Shapes of States:
+    * Controls the length of boundaries with other states
+    * Part of country’s unique identity
+
+  * 5 basic shapes
+    * Compact States: Efficient
+      * Distance from state to state doesn’t vary that much
+    * Elongated States: Potential Isolation
+      * Long and narrow shape
+      * Suffer poor internal connections
+      * Ex. Chile
+    * Prorupted States: Access or Disruption
+      * Compact state with large projecting extension
+      * Give state with access to resources
+      * Separate two states that other would share a boundary
+    * Perforated States
+      * Completely surrounds another
+      * The state that is surrounded is dependent on the surrounding state
+      * Ex. Vatican City surrounds Italy
+    * Fragmented States: Problematic
+      * Several broken pieces of territory
+      * Separated by water
+      * Separated by intervening state
+    * GerryMandering
+      * Redrawing the boundaries separating legislative districts for the purpose of benefits of the party in power
+        * Wasted vote: opposition supporters across many districts but in the minority
+        * Excess Vote: opposition supported in few districts
+        * Stacked Vote: like-minded voters throughout oddly-shaped boundaries
+
+  * Boundaries
+
+  * Invisible line that marks the state’s territory
+
+  * Frontiers: zone where no complete political control is exercised by a state
+
+  * Types of Physical Boundaries
+    * Desert Boundary
+    * Mountain Boundary
+    * Water boundary
+
+  * Types of Cultural Boundaries
+    * Geometric Boundary
+    * Religious Boundary
+    * Language Boundary
+    * Ethnic Boundaries
+
+  * 4 types of boundary conflicts
+    * Positional
+      * State disagree with the understanding of documents that define a boundary
+    * Territorial
+      * As a result of superimposed boundary
+    * Resource
+      * Disagree of control over resources and the use of them that lie on border areas
+    * Functional
+      * Neighboring states disagree over policies that are to be applied along a boundary
+
+  * Law of the Sea
+    * Treaty called United Nations Convention on the law of the sea (UNCLOS)
+    * 4 zones of diminishing control
+      * Territorial Sea: up to 12 nautical miles over which coastal state has sovereignty
+      * Contiguous Zone: up to 24 nautical miles, doesn’t have all sovereignty but can still enforce its customs
+      * Exclusive Economic Zone: up to 200 nautical miles, rights to explore natural resources
+
+  * High Seas: Beyond the exclusive economic zone and is open to all states
+
+  * United Nations
+    * Forum where all states can meet and discuss as well as vote on issues without going to war
+
+  * Supranationalism
+    * Three or more countries that form a union for either economic, political, or social cooperation
+
+  * Terrorism
+    * Use of violence in order to intimidate a pop./govt. into complying with their demands
+
+===== Unit 5: Agriculture and Rural Land-Use Patterns and Processes =====
+
+  * 1rst Agricultural Revolution
+    * Neolithic Revolution
+    * Domestication of plants and animals
+    * Diffusion of agriculture
+    * Crop hearths:
+      * SW Asia: Barley, wheat, lentil, and olive
+      * E Asia: Rice and Millet
+    * Columbian Exchange: global exchange of goods, diseases, plants, animals that start with Columbus's exploration of the Americas
+      * Crops help with population growth
+      * Migration
+      * Transfer of European Diseases
+      * Native American’s population wiped out
+
+  * 2nd Agricultural Revolution:
+    * Allows the industrial revolution to begin and grow rapidly
+    * Technology brings a surplus of production with less human labor but with high social and environmental costs
+
+  * Subsistence vs. Commercial agriculture
+    * Subsistence is production of food for the farmer’s family
+    * Commercial is the production of food for a global scale
+
+  * Undernourishment is dietary energy consumption is lower than the requirement
+
+  * Subsistence Farming types
+    * Pastoral Nomadism
+      * Herding of domesticated animals
+      * Arid and semi-arid areas of N. Africa, Middle East, Central Asia
+      * Transhumance: Migrations from highlands to lowlands by seasonal
+
+  * Shifting Cultivation
+    * Clear land for planting by cutting and burning the vegetation
+    * Grow crops for a few years until soil nutrients are gone, leave it for many years to let the soil recover
+    * Tropical rainforests, Amazon and Central and West Africa
+
+  * Intensive Subsistence Agriculture
+    * Labor intensive production of rice
+    * Major food source is Asia
+    * Double cropping is used in warm areas of South China and Taiwan
+    * Feeds most of the ¾ of the world’s ppl. who live in developing countries
+
+  * Commercial Agriculture
+    * Agribusiness
+      * Industrialization of agriculture
+        * Chemical fertilizer, pesticides, herbicides
+        * Large food production industry
+    * Mixed Crop and Livestock Farming
+      * Mixture of crops and livestock
+      * Most of crops are fed to animals
+      * Most of money income comes from animal products
+      * Share the workload more evenly through the year
+    * Dairy Farming
+      * Most important type in the first ring outside the large cities bc of transportation
+      * Milkshed: ring surrounding a city from which milk can be provided
+    * Commercial Gardening and Fruits
+      * Truck farming/ bartering
+      * Some are sold fresh but most are sold by can or freeze for large scale
+    * Grain Farming
+      * Crops are grown for humans
+      * Sell their crops to manufacturer’s of food
+      * Use of Machine is a lot
+
+  * Based on consumer preferences
+
+  * All of the world, but dominantly in U.S. and Russia
+
+  * Mediterannean Agriculture
+    * Borders a sea & on west coasts of continents
+      * Sea winds give moisture and moderate the winter temps.
+    * Have a small but of income from animal products
+    * Horticulture: Growing of fruits, vegetables, and flower form the commercial base
+    * Medeterannean sea is where olive and grapes are two most important cash crops
+
+  * Live-Stock Agriculture
+    * Ranching: Commercial grazing of livestock
+    * Developed countries where sol is not fertile and not much vegetation is present
+    * A part of meat-processing industry in today’s world
+    * Overgrazing damages the world’s grasslands
+    * Destructions of the rainforests are urged for cattle ranches
+    * Basically damages the environment
+
+  * Problems
+    * Subsistence Farmers must feed an increasing amount of people
+    * Must grow food for export instead of direct consumption because of international trade
+    * Commercial Farmers have low income because they can produce a surplus than what is demanded by consumer
+    * Von Thunen Model
+      * Explaining the importance of the distances to market with the choice of crops on commercial farming on a scale to national and global markets
+      * 1rst ring: Perishable Foods (milk, etc.)
+      * 2nd Ring: Difficult to transport (wood, etc.)
+      * 3rd Ring: Various crops and pasture lands
+      * 4th Ring: Spacious lands for animal grazing
+
+  * Strategies to distribute food for everyone:
+    * Increasing Exports from countries that have a surplus
+      * Moving from western to eastern hemisphere
+    * Making the land area used for agriculture larger
+    * Expanding fishing
+      * aquafarming/aquaculture: cultivation of seafood under controlled conditions
+    * Increase the productivity of land used for agriculture
+      * Higher-yield seeds
+      * Increase use of fertilizers
+
+**3rd Agricultural Revolution**
+
+  * Green Revolutions
+    * Development of high-yielding varieties of cereal grains, irrigation expansion
+
+  * Gene revolution
+    * Hormones and antibiotics are provided to animals
+    * Genetically modified livestock more for developed countries, but basically the U.S.
+    * Goal of reducing hunger
+      * New varieties of wheat and corn, increased production of rice
+    * Starvation of many prevented but surplus of food means higher birth rates
+    * New human diseases from animal diseases
+    * Lower standard of living
+      * Malnourished farmers
+    * Environmental Degradation
+
+  * Sustainable Agriculture
+    * Practices that keep and enhance environmental quality
+    * Sensitive land management
+    * Limited Use of Chemicals
+    * Better combination of crops and livestocks
+
+===== Unit 6: Urban Land Use Patterns =====
+
+  * Central Business District (CBD)
+    * Less than 1% of the urban land area but contains a large % of the services
+    * Public Services
+      * City Hall, Courts, County and State Agencies
+      * Convention centers and sports center normally in downtown to increase commerce in the CBD
+    * Business Services
+      * Advertising Agencies, banks, financial institutions
+      * Other service providers results to increase in collaboration and in person meetings
+    * Consumer Services
+      * Retailers with a high threshold
+      * Retailers with a high range
+      * Retailers that served people who worked in the CBD
+    * Competition
+      * High demand for less space in the CBD which encourages vertical development
+        * Underground CBD
+          * When there isn’t space above the ground for needed network, they are placed underground
+          * Underground passages can help shield them from harsh weather
+    * Burgess Concentric Zone Model
+      * Created in 1923 by E.W. Burgess
+      * Model to explain the distribution of different social groups in urban areas
+      * City grows outward from central area into a series of rings
+        * CBD is the innermost ring where non residential activities occur
+        * Zone in Transition: area eventually taken with the CBD
+        * Zone of working-class: Older houses
+
+  * Zone of Better Residence: New houses for middle-class families
+
+  * Commuter Zone: Beyond the continuous built-up
+
+[[AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image43|{{AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image43.png}}]]  * Hoyt Sector Model
+    * Created by land economist Homer Hoyt in 1939
+    * Model to explain city development into a series of sectors not rings
+    * As a city grows, activities spread outward in a sector from the center
+    * City grows outward from the center, low-rent area could expand from the
+
+> CBD to the city’s outer edge
+
+  * Ullman/Harris Multiple Nuclei Model
+    * Created by C.D. Harris and E.L Ullman in 1945
+    * Model to explain that city is a complex structure that includes more than 1 center around which activities revolve around
+      * Ports, universities, airports, and parks
+
+[[AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image46|{{AP_Human_Geography_Study_Guide_5e847322ee7147a78ea3bd760d94f17d:image46.jpeg}}]]  * Annexation
+    * The process of adding land to a city
+
+  * Density Gradient
+    * U.S. becomes less and less dense as people go further from the city’s center
+
+  * Suburban Sprawl
+    * If the density gradient is flat it means that people and services are spread out over larger areas
+
+  * Suburban segregation
+    * Social Class
+      * Similar priced houses are built in close quarters to one another, which creates a specific range for income
+    * Land Uses
+      * Seperated from commercial and manufacturing that are in compact areas
+
+  * Urban Transportation
+    * Cars and trucks give large-scale development of suburbs at further distances from the city center
+    * Motor vehicles use a huge amount of space in the U.S. Cities
+      * ¼ of lands to roads and parking lots
+
+  * Land area is specifically for parking vehicles, that could be used for something else more valuable
+
+  * Alternative Fuel vehicles
+    * Diesel
+      * Burn fuel more efficiently
+      * Could be produced partly with vegetable oils
+    * Hybrid
+      * Less fuel is burned because the energy is recaptured through an eclectic engine
+    * Ethanol
+      * Fuel is made through distilled crops such as corn
+    * Plug-In Hybrid
+      * Electric motor gives the power at all speeds
+      * Gas engine can recharge battery and also plug the cat in an electrical outlet
+    * Hydrogen Fuel Cell
+      * Hydrogen is pushed through a Proton Exchange Membrane (PEM) and mixes with oxygen from the air, which makes an electric charge
+
+  * Urban Transportation Benefits
+    * Public transit is best fit for taking large number of peoples
+    * More cost effective and energy efficient
+
+  * Urban Transportation Limits
+    * Place higher values on privacy and flexibility of a car and ignore the benefits of public transit
+    * Not there in most U.S. cities
+
+  * Deterioration
+    * Filtering
+      * Large houses are subdivided into smaller houses for poorer families
+
+  * Gradually, landlords stop maintaining the properties when its no longer affordable
+
+  * Redlining
+    * Drawing lines on a map to figure out what areas will refuse to loan money to purchase or renovate a house
+    * Illegal but difficult to enforce
+
+  * Public Housing
+    * Mid-20th century, many inner city houses were taken apart and made into public housings
+      * Housing specifically for poorer families, who have to pay 30% of their income to rent
+    * A housing authority chosen by the local government maintains the buildings and the federal government pay for any expense that isn’t covered by rent
+
+  * Gentrification
+    * Process where middle-class people move into old inner city in which they renovate the housing
+    * Most U.S. cities have at least one renovated inner-city neighborhoods
+    * Attracting factors
+      * Closer to recreational activities
+      * Traveling time to reduced to CBD
+      * More architectural character than those in suburbs
+
+  * Underclass
+    * Inner-city residents are addressed as underclass because they have no way out of economic and social problems
+    * Higher rate of unemployment, literacy, crime
+    * An affordable house is hard to get
+    * Ignore good learning habits
+
+  * Poverty
+    * Inner-City residents don’t have a way out because they live in a culture of poverty
+
+  * The Eroding Base Tax
+    * Inner-city residents require public services but they pay only a little bit of what is needed in order to fund those services
+    * Two choices to close the gap between cost of operating and funding public services
+      * Reduce Services
+      * Raise Tax Revenues
+
+===== Unit 7: Economic Processes and Development =====
+
+  * Human Development Index (HDI)
+    * Based on 3 factors:
+      * Decent Standard of Living
+        * Gross National Income (GNI)
+          * Value of the output of goods made in a country annually with money that leaves and comes in the country
+          * Gross Domestic Product (GDP)
+            * Similar to GNI but doesn’t count money that leaves and comes in the country
+        * Purchasing Power Parity (PPP)
+          * Cost of living adjustments made to the GNI
+      * Long and Healthy Life
+        * Life expectancy at birth is major indicator
+      * Access to knowledge
+        * Years of schooling is important in order to get access to knowledge in order to develop
+          * Average global: 7 years
+          * Developing: 6 years
+          * Developed 11 years
+        * Quality of schooling
+          * Pupil to teacher ratio
+          * Literacy Rates: % of people in the country that can read and write
+
+  * Economic Signs of Development
+    * Primary Sector: extract materials directly from earth
+    * Secondary Sector: manufacturing of products
+    * Tertiary Sector: goods and services provided
+    * Quaternary Sector: collection, processing, and manipulation of data and capital. Ex- Finance, Insurance
+
+  * Quinary Sector: service sector industries that need a high level of skill and knowledge. Ex - Post Secondary Professor, Scientific Researcher
+
+  * Productivity: value of the product compared with the labor amount needed to make it.
+    * Measured by the value added per capita
+      * Gross value of a product - the costs of materials and energy
+      * More developed countries are more productive than least developed countries
+
+  * Gender Inequality Index (GII)
+    * Reproductive Health
+      * Maternal Mortality Ratio
+    * Labor Force
+      * % of women to have full-time jobs outside of the house
+      * Highest in developed countries
+    * Empowerment
+      * Women to accomplish improvements in status
+    * Declined in almost all countries since 1990s
+    * U.S. is one of the developed countries where the GII has increased
+      * Reproductive rights is much lower
+
+  * Energy Demand and Supply
+    * Supply: the amount of something that producers have for sale
+    * Demand: the amount the consumers are willing/able to buy
+    * ⅚ world’s energy needs supplied by fossil fuels
+    * Demand for energy is in developed countries, they consume about ½ of the world’s country
+    * Per capita consumption of energy is almost 3 times greater in developed countries than in developing
+    * Energy Supply
+      * Energy resources are not distributed properly
+        * Global Petroleum Distribution
+
+  * Location is at the seafloor and areas that were once under water
+
+  * Energy Reserves
+    * Proven Reserves
+      * Supply of energy that is still in deposits that have been discovered
+    * Potential Resources
+      * A supply of energy that is undiscovered but thought to exist
+
+  * Organization of the Petroleum Exporting Countries (OPEC)
+    * Gain more power over their petroleum
+    * Members of SW Asia and N Africa
+    * Sharp Increase of Oil set by OPEC helped with U.S. losing its dependence on OPEC by ½
+
+  * Alternative Energy Sources
+    * Nuclear Energy
+      * Fission: Electricity made by splitting uranium atoms in a controlled environment
+        * Uranium is a nonrenewable resource
+      * Radioactive waste is a product of nuclear waste
+        * Highly lethal
+        * Must remain isolated from human contact for thousands of years until it loses the radioactivity
+      * Provides 14% of world’s electricity
+      * ⅔ world’s nuclear power made by North America and Europe
+      * High cost for building nuclear power plants and safe storage of radioactive waste
+
+  * Renewable Energy Sources
+    * Hydroelectric Power
+      * Power of converting moving water into electricity
+      * Leading source of energy in developed and developing areas
+      * Lack of acceptable sites to build a hydroelectric creates a problem to the dependency of them
+
+  * Biomass
+    * Energy Sources that can be burned in order to make electricity and heat
+      * wood , crops, corn
+    * Negative factors
+      * Inefficiency: may need as much as energy to make the crops that they use
+      * Environmental Concerns: Logging Trees for woods can cause deforestation
+
+  * Wind Energy
+    * Small impact on environment
+    * More possibility of increased use, as only a little bit has been used
+    * Animals might get hurt or injured because windmills are noisy and huge
+
+  * Solar Energy
+    * Ultimate Renewable Resource with the application of the sun
+    * U.S. gets 1% of the electricity from solar
+    * Passive Solar Energy Systems capture energy without using devices
+    * Active Solar Energy Systems: Take solar energy and convert it to heat energy or electricity directly or indirectly
+
+  * 2 paths to development
+    * Self - sufficiency
+      * Domestic production of goods encouraged
+      * Foreign ownership of businesses is frowned upon
+      * Protect their businesses from international competition
+      * Most of 20th century
+      * Limit import of goods from other places
+      * Investments spread mostly equally across all economic sectors and in all regions of a country
+    * International Trade
+      * Foreign Investment is allowed sometimes
+      * Beginning of the late 20th centuries
+    * Rostow Model
+
+  * 5 Stages of development
+
+  * Traditional Society
+    * High % of ppl. Interested in agriculture & high % of national wealth
+
+  * Preconditions for Takeoff
+    * Elite group initiatives innovative economic activities that leads to an increase in productivity
+
+  * Takeoff
+    * Rapid Growth made in a limited number of economic activities
+
+  * Drive to Maturity
+    * Technology spreads from the few takeoff industries to other economic sectors, which starts a quick growth
+
+  * Age of Mass Consumption
+    * Shift from heavy industry (ex- steel) to consumer goods
+
+  * Problems in Self-Sufficiency
+    * High prices are made sure of, which results to incentive for businesses to improve the condition of a product or become more efficient
+    * Companies protected from international competition aren’t forced to keep up with the rapid developments
+
+  * Problems in International Trades
+    * Uneven Resource Distribution
+    * Increased Dependence from developed countries
+    * Market decline bc the developing countries are finding it difficult to sells goods to the world market that are no longer in demand
+
+  * International Trade Approach is the one that most countries have taken since late 20th century
+    * Trade has increased more quickly than wealth
+    * Exposure to demands, needs, preferences of other countries
+
+  * 4 Asian Dragons
+    * South Korea, Singapore, Taiwan, Hong Kong
+
+  * Were among the first to take the international trade path
+
+  * Financial Development
+    * Direct Investment by transnational corporations
+    * Loans from banks and international organizations
+    * Foreign Direct Investment (FDI)
+      * Made by foreign company in the economy of another country
+      * Major source is transnational corporations
+    * Loans
+      * International Monetary Fund (IMF)
+        * Loans to experiencing balance of payments problems that threaten the expansion of international trade
+      * IMF, World Bank, and developed countries have the fear that granting and other processes of debts without documents will develop bad habits
+
+  * Developed countries
+    * Global Economic Crisis in developed countries is because of the bad condition of many banks and other financial buildings
+    * Widespread badly in housing costs
+
+  * Fair Trade
+    * Products are made and traded according to rules that protect workers and small businesses in developing countries
+      * Greater % of retail prices goes back to producers because the distributors are not there
+    * Immanuel Wallerstein made a worlds-system analysis that brought the world economy together
+      * Core: Most control Global Economy
+        * High Income, technology, high level of educations
+
+  * Organization for economic Co-operation and Development (OECD): founded in 1961 to increase economic progress and world trade
+
+  * Bring more wealth into the economy
+    * BRICS
+      * Brazil
+      * Russia
+      * China
+      * South Africa
+
+  * Semi-Periphery: Increased Economic development, 4 dragons
+    * A buffer between core and periphery
+    * BRICS
+      * MINT
+        * Mexico
+        * Indonesia
+        * Nigeria
+        * Turkey
+
+  * Periphery: Dependency on core for resources and technology
+    * Low levels of education, technology use
+    * Brings less wealth in the wealth economy
+      * PIGS
+        * Portugal
+        * Italy
+        * Greece
+        * Spain
+
+  * Dependency Theory
+    * Political and economic relationships between natives and regions make the development of the less developed areas less
+    * Does not improve or make the economy better
+
+  * Closing the Gap
+    * Reducing the gap in the level of development between developed and developing countries is different based on the variable
+      * Infant Mortality Rate
+        * Narrowed from 17 to 6 per 1000 in developed countries
+        * Narrowed from 107 to 44 developing countries
+      * Life Expectancy
+        * Not narrowed at all
+
+**Industry**
+
+  * Manufacturing of goods in a factory
+    * N England and Scotland in late 18th century
+
+  * Industrial Revolution
+    * Improvements made in technology that made an impact on manufacturing goods
+
+  * Industrial Regions
+    * Europe
+    * North America
+    * E Asia (Japan and China)
+
+  * Factors
+    * Characteristics of land, labor, and capital
+      * Situation factors
+        * The costs that come with transportation from one place
+        * The further distance means the higher costs, so manufacturer is going to make its factory as close as possible to inputs and markets
+        * Factory location is near the input
+          * Raw Material transportation costs is more than transportation costs of products for consumption
+        * Bulk- Gaining Industries
+          * Production of products that get additional volume and/or weight during production
+            * Located near market to lower the costs of transportation
+              * Ex- machinery
+        * Single Market Manufacturers
+          * Only one or two customers
+          * Factories is close range to customers
+            * Ex- Buttons, pins, parts of cars
+        * Perishable Products
+          * Located in close range to their markets so the product doesn't spoil quickly through the transportation process
+            * Ex- Food products such as milk
+      * Site Factors
+        * Costs from the characteristics of the location
+          * Raw Materials
+          * Labor amount and cost
+          * Processing Costs
+          * Markets
+          * Transport Costs
+          * Govt. Policies
+          * Human behaviour
+        * Where are the markets and resources
+        * Shifting from most developed countries to least developed countries
+
+  * Location Theory
+    * Predictions of where a business should be located
+      * Based on economic, political, and cultural features
+      * Based on energy, transportation, and labor costs
+    * Alfred Weber made this theory and was the industrial equivalent to Von Thunen Model
+      * Transportation- Where transportation costs are the lowest for materials and products
+
+  * Labor- High labor means less profit
+
+  * Agglomeration- cluster of an industry
+    * The industries cluster as a mutual benefit, they share everything, resources, buildings which lowers costs
+
+  * Type of Transportations
+    * They want the lowest cost for transportation type they use
+    * If they use the multiple transport types, they can find a break-of-bulk point which is where transportation type can be changed if needed
+      * Truck = short-distance
+      * Train = longer distances
+      * Ship = slow but less cost
+      * Air = very expensive but fast
+
+Steel Industry
+
+  * Changes in main inputs - iron, ore and coal
+
+  * Change of importance from factories in closer range to markets instead of inputs
+
+  * Mid-19th century through early 20th: steel mills were near inputs
+
+  * Mid-20th century and onwards: being near markets becomes more important than inputs
+
+Site Factors
+
+  * Labor
+    * Lowering the costs for labor is important
+    * Labor-intensive Industry: High amount of expenses contributed by paying workers
+
+  * Capital
+    * Borrow funds needed to make new factories or expansion
+    * Borrowing has impacted distribution of the industry
+
+  * Land
+    * Need enough land to make factories and buildings
+      * Mostly in suburban and rural locations
+
+Air Pollution
+
+  * Trace substances at a greater level than average air occurrence
+
+  * Delay the return of heat leaving Earth, which results in a raise in temperature
+    * Burning fossil fuels releases carbon dioxide
+    * Global warming causes melting of ice sheets, rising sea levels, and climate changes
+    * Ozone Depletion
+      * Ozone layer is a protection against ultraviolet rays coming from the sun
+      * Threatened by Chlorofluorocarbons (CFC’s)
+    * Damages vegetation and water supply through acid rain
+    * A big problem in places where emission source are such as urban areas
+
+  * Industries cause solid waste pollution
+
+  * Water Pollution
+    * Point-source Pollution
+      * Enters a body of water at a certain area
+      * Smaller and easier to control
+      * Manufacturers and sewage systems are main sources of pollution
+    * Nonpoint-source Pollution
+      * Large, widespread area
+      * Agriculture is the source here
+        * Fertilizers and pesticides spread on fields are carried as runoff to larger bodies of water
+
+  * Shifts in the U.S
+    * Industrialization has shifted from NE to S and W in the United States
+
+  * North Atlantic Free Trade Agreement (NAFTA) takes away most barriers to moving goods in Mexico, U.S, and Canada since 1944
+    * No tariffs
+    * Maquiladoras: Plants in Mexico near the U.S. Border
+    * Mexico brings the attention of labor-intensive industries because of the low costs for labor and it's closer to the U.S
+
+  * Deindustrialization
+
+  * Decline in industrial employment
+
+  * Reinvestment in higher profit areas
+    * Sunbelt states and Semi-periphery as well as Periphery
+
+  * Older industrial cities struggle because of this, and are trying to find their economic balance
+
+  * Dominance of older established industries can stop entrepreneurialism
+
+**Service**
+
+  * Any activity that grants a human’s want or need and gets money for doing it
+    * Found in Settlements
+    * Important for profits
+    * Wealthy regions usually have more offers for services
+
+  * Three Types of Services
+    * Consumer Services
+      * Give services to consumers who want them and are able to pay them for it
+      * Almost ½ of all jobs in the U.S.
+      * Retail and wholesale
+      * Education Services
+      * Health and Social Services
+      * Leisure and Hospitality
+    * Business Services
+      * Help make it easier for other businesses
+      * ¼ of all jobs in the U.S.
+      * Professional Services
+      * Financial Services
+      * Transportation Services
+    * Public Services
+      * Give protection to citizens and businesses
+      * 5% of all jobs
+      * Federal Government
+      * State Government
+      * Local Government
+
+  * Service Sectors have seen the most employment growth, however it has been negatively impacted as well
+
+  * Market Area Analysis
+    * Calculate the range
+    * Calculate the Threshold
+    * Draw the Market Area
+
+  * Gravity Model predicts that the best location of a service is connected directly with the # of people and indirectly with the distance people must go to get the service
+    * The best will be where traveling distance is the least
+
+  * Central Place Theory
+    * Helps explain why consumers service follow a pattern based on the size of settlements
+    * Central Place
+      * Market center for exchange of goods and services by people interested from surrounding area
+      * Market Area/ Hinterland
+        * Area surrounding a service from where the customers are interested
+      * Four different levels of market area
+        * Hamlet (the smallest one)
+        * Village
+        * Town
+        * City (the largest one)
+      * Market areas would be shaped as hexagons of different sizes unless there was an interruption by physical features
+      * Large areas of flat land barely exist
+      * People and wealth are not equally spread
+      * People don’t always go to closest service
+
+  * Range and Threshold
+    * Range is the max. distance people are willing to travel to use it
+      * How many other people offer the service?
+
+  * Think of range in terms of time not distance
+
+  * Threshold is the min. number of people needed to support the service
+    * Minimum number of people to do what?
+    * Why do companies divide up space between stores?
+
+  * Business Services
+    * World Cities that are at the top of the urban settlement hierarchy
+    * Center of the flow of info
+    * Where corporation’s headquarters are
+    * Some are found in developing countries
+      * Offshore Financial Services
+        * Taxes
+        * Privacy
+      * Business-Processing Outsourcing
+        * Back-Office functions such as insurance claims, payroll management, transcription works, etc.
+    * Economic Base
+      * A settlement’s distinctive economic structure comes from basic industries which export to consumers outside of the settlement
+      * Non Basic Industry- customers live in the same community
+      * A community’s collection of basic industries is what defines its economic
+
+> base
+
+Pictures Used:
+
+[[https://transportgeography.org/?page_id=4908|https://transportgeography.org/?page_id=4908]]
+
+[[https://www.centroidpm.com/urban-management/hoyt-model/|https://www.centroidpm.com/urban-management/hoyt-model/]]
+
+    

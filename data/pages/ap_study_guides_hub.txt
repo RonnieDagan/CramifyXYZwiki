@@ -1,0 +1,64 @@
+<WRAP>
+====== AP Study Guide Main Hukb ======
+
+gld
+===== 📜Social Studies =====
+
+  * [[AP US History]]
+
+  * [[AP US Government and Politics]]
+
+  * [[AP World|AP World History: Modern]]
+
+  * [[AP Psychology]]
+
+  * [[AP Art History]]
+  
+  * [[AP Human Geography]] 
+
+===== 🧪Science =====
+
+  * [[AP Physics C Mechanics]]
+  
+  * [[AP Physics C Electricity and Magnetism]]
+
+  * [[AP Physics 1]]
+
+  * [[AP Biology]]
+
+  * [[AP Environmental Science]]
+
+  * [[AP Chemistry]]
+
+===== 📏Math =====
+
+  * [[AP Statistics]]
+
+  * [[AP Pre-Calculus]]
+
+  * [[AP Calculus AB]]
+
+  * [[AP Calculus BC]]
+
+===== 🌎Language =====
+
+  * [[AP Literature| AP English Literature and Composition]]
+
+  * [[AP English Language and Composition]]
+
+  * [[AP Spanish Language|AP Spanish Language and Culture]]
+
+  * [[AP Spanish Literature|AP Spanish Literature and Culture]]
+
+===== 📈Business =====
+
+  * [[AP Macroeconomics]]
+
+  * [[AP Microeconomics]]
+
+===== 💻Engineering/Comp Sci =====
+
+  * [[AP Comp Sci A]]
+
+  * [[AP Computer Science Principles]]
+</WRAP>

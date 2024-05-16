@@ -1,0 +1,939 @@
+2024-04-22 03:30:07	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:07	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:07	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:07	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:12	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:12	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:51	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:51	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:53	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:53	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:56	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:56	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:59	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:30:59	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:01	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:01	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:01	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:01	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:04	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:04	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:15	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page sideb...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '<html>hellowork...', 'sidebar')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('<html>hellowork...', 'created', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('sidebar', '<html>hellowork...', 'created', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}
+2024-04-22 03:33:19	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:19	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:19	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:19	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:20	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:20	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:47	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page sideb...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '<!DOCTYPE html>...', 'sidebar')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('<!DOCTYPE html>...', '', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('sidebar', '<!DOCTYPE html>...', '', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}
+2024-04-22 03:33:51	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'conflict')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:51	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'conflict')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:56	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:56	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:56	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:56	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:58	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:33:58	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:34:14	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page sideb...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '<html>\n<!DOCTYP...', 'sidebar')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('<html>\n<!DOCTYP...', '', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('sidebar', '<html>\n<!DOCTYP...', '', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}
+2024-04-22 03:34:40	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'conflict')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:34:40	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'conflict')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:34:42	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:34:42	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:34:42	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:34:42	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:34:45	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:34:45	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:10	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page sideb...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '<html>\n<head>\n<...', 'sidebar')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('<html>\n<head>\n<...', '', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('sidebar', '<html>\n<head>\n<...', '', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}
+2024-04-22 03:35:13	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'conflict')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:13	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'conflict')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:16	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:16	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:16	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:16	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:18	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:18	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:24	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:24	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:25	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:25	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:25	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:35:25	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:36:14	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:36:14	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('sidebar', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:36:17	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page sideb...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger(NULL, false)
+  #5 C:\xampp\htdocs\wiki\inc\File\PageFile.php(170): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array)
+  #6 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('', '', false)
+  #7 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('sidebar', '', '', false)
+  #8 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #11 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #12 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #13 {main}
+2024-04-22 03:38:43	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:38:43	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:38:43	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:38:43	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:38:47	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:38:47	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:38:48	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page ap_st...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '<WRAP>\n====== A...', 'ap_study_guides...')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('<WRAP>\n====== A...', '', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('ap_study_guides...', '<WRAP>\n====== A...', '', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}
+2024-04-22 03:39:20	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:39:20	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:39:23	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:39:23	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:39:57	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:39:57	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:39:57	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:39:57	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:15	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:15	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:15	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:15	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:18	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:18	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:20	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page ap_st...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '<WRAP>\n====== A...', 'ap_study_guides...')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('<WRAP>\n====== A...', '', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('ap_study_guides...', '<WRAP>\n====== A...', '', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}
+2024-04-22 03:40:33	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:33	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:36	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:36	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:38	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:40:38	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'admin')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:41:15	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:41:15	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:41:15	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:41:15	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:41:17	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:41:17	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:41:18	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page ap_st...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '<WRAP>\n====== A...', 'ap_study_guides...')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('<WRAP>\n====== A...', '', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('ap_study_guides...', '<WRAP>\n====== A...', '', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}
+2024-04-22 03:45:11	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:45:11	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:45:12	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:45:12	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:45:14	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:45:14	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:45:17	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page ap_st...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '<WRAP>\n====== A...', 'ap_study_guides...')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('<WRAP>\n====== A...', '', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('ap_study_guides...', '<WRAP>\n====== A...', '', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}
+2024-04-22 03:49:13	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:13	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:17	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:17	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:20	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:20	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:20	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:20	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_study_guides...', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:22	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:22	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(30): Kiwiki_Functions::_edit_icon(':sidebar', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:22	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_us_history', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:22	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_us_history', Array, 'show')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:25	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Undefined variable $USERINFO
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_us_history', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:25	C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9)	E_WARNING: Trying to access array offset on value of type null
+  #0 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\classes\kiwiki_functions.php(9): dokuwiki\ErrorHandler::errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 9)
+  #1 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\partial\content.php(59): Kiwiki_Functions::_edit_icon('ap_us_history', Array, 'edit')
+  #2 C:\xampp\htdocs\wiki\lib\tpl\kiwiki\main.php(54): include('C:\\xampp\\htdocs...')
+  #3 C:\xampp\htdocs\wiki\inc\actions.php(30): include('C:\\xampp\\htdocs...')
+  #4 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #5 {main}
+2024-04-22 03:49:28	C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(88)	Exception: Git committing or pushing failed: The system cannot find the path specified.
+
+  #0 C:\xampp\htdocs\wiki\lib\plugins\gitbacked\action\editcommit.php(204): action_plugin_gitbacked_editcommit->commitFile('C:/xampp/htdocs...', 'Wiki page ap_us...')
+  #1 C:\xampp\htdocs\wiki\inc\Extension\EventHandler.php(80): action_plugin_gitbacked_editcommit->handle_io_wikipage_write(Object(dokuwiki\Extension\Event), NULL)
+  #2 C:\xampp\htdocs\wiki\inc\Extension\Event.php(97): dokuwiki\Extension\EventHandler->process_event(Object(dokuwiki\Extension\Event), 'AFTER')
+  #3 C:\xampp\htdocs\wiki\inc\Extension\Event.php(137): dokuwiki\Extension\Event->advise_after()
+  #4 C:\xampp\htdocs\wiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger('_io_writeWikiPa...', false)
+  #5 C:\xampp\htdocs\wiki\inc\io.php(217): dokuwiki\Extension\Event::createAndTrigger('IO_WIKIPAGE_WRI...', Array, '_io_writeWikiPa...', false)
+  #6 C:\xampp\htdocs\wiki\inc\File\PageFile.php(187): io_writeWikiPage('C:/xampp/htdocs...', '====== APUSH St...', 'ap_us_history')
+  #7 C:\xampp\htdocs\wiki\inc\common.php(1300): dokuwiki\File\PageFile->saveWikiText('====== APUSH St...', '[APUSH Study Gu...', false)
+  #8 C:\xampp\htdocs\wiki\inc\Action\Save.php(58): saveWikiText('ap_us_history', '====== APUSH St...', '[APUSH Study Gu...', false)
+  #9 C:\xampp\htdocs\wiki\inc\ActionRouter.php(86): dokuwiki\Action\Save->preProcess()
+  #10 C:\xampp\htdocs\wiki\inc\ActionRouter.php(49): dokuwiki\ActionRouter->setupAction('save')
+  #11 C:\xampp\htdocs\wiki\inc\ActionRouter.php(62): dokuwiki\ActionRouter->__construct()
+  #12 C:\xampp\htdocs\wiki\inc\actions.php(19): dokuwiki\ActionRouter::getInstance(true)
+  #13 C:\xampp\htdocs\wiki\doku.php(131): act_dispatch()
+  #14 {main}

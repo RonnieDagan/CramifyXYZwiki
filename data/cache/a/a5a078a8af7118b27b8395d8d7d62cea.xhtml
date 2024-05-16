@@ -1,0 +1,41 @@
+
+<h1 class="sectionedit1" id="google_adsense_for_dokuwiki">Google AdSense for DokuWiki</h1>
+<div class="level1">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Google AdSense for DokuWiki&quot;,&quot;hid&quot;:&quot;google_adsense_for_dokuwiki&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;1-43&quot;} -->
+<h2 class="sectionedit2" id="about">About</h2>
+<div class="level2">
+
+<p>
+This tool allows you to set a code for use with <a href="https://en.wikipedia.org/wiki/Google_AdSense" class="urlextern" target="_blank" title="https://en.wikipedia.org/wiki/Google_AdSense" rel="ugc nofollow noopener">Google AdSense</a>, which allows you to put targeted advertisements on your site.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;About&quot;,&quot;hid&quot;:&quot;about&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;44-238&quot;} -->
+<h2 class="sectionedit3" id="setup">Setup</h2>
+<div class="level2">
+
+<p>
+The plugin also exports a function for use with your template, so you will have to insert the following code into your template&#039;s <strong>main.php</strong>, somewhere inside of the <code>&lt;head&gt;&lt;/head&gt;</code> tags.
+</p>
+<pre class="code php"><span class="kw2">&lt;?php</span>
+<span class="kw1">if</span> <span class="br0">&#40;</span><a target="_blank" href="http://www.php.net/file_exists"><span class="kw3">file_exists</span></a><span class="br0">&#40;</span>DOKU_PLUGIN<span class="sy0">.</span><span class="st_h">'googleads/code.php'</span><span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="kw1">include_once</span><span class="br0">&#40;</span>DOKU_PLUGIN<span class="sy0">.</span><span class="st_h">'googleads/code.php'</span><span class="br0">&#41;</span><span class="sy0">;</span>
+<span class="kw1">if</span> <span class="br0">&#40;</span><a target="_blank" href="http://www.php.net/function_exists"><span class="kw3">function_exists</span></a><span class="br0">&#40;</span><span class="st_h">'gads_code'</span><span class="br0">&#41;</span><span class="br0">&#41;</span> gads_code<span class="br0">&#40;</span><span class="br0">&#41;</span><span class="sy0">;</span>
+<span class="sy1">?&gt;</span></pre>
+
+<p>
+<strong>Note</strong>: Inserting the code above is <strong>required</strong>, not optional.
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Setup&quot;,&quot;hid&quot;:&quot;setup&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:3,&quot;range&quot;:&quot;239-690&quot;} -->
+<h2 class="sectionedit4" id="configure">Configure</h2>
+<div class="level2">
+
+<p>
+If you&#039;re ready, you can set your configuration below:
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Configure&quot;,&quot;hid&quot;:&quot;configure&quot;,&quot;codeblockOffset&quot;:1,&quot;secid&quot;:4,&quot;range&quot;:&quot;691-&quot;} -->

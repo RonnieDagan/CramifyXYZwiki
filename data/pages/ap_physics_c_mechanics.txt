@@ -1,0 +1,236 @@
+====== AP Physics C Mech - Stuff to know ======
+  * Credit from Deleted Account
+  * More Practice/Review at bottom from teachphysi3108s on Reddit
+
+  * - CM = Phys C Mechanics
+
+  * - PB = Phys B
+
+  * - PO = Phys One
+
+=====AP Physics C Mechanics - Stuff to Know=====
+
+  * Remember to download this if you want to use it on the exam
+
+**Projectile Motion**
+  * $v_x$ never changes
+
+  * $v_y$ is changed by an acceleration of -g
+
+  * Range equation: $R = \frac{{v_{0}}^{2}}{g}sin2\theta_{0}$, is maximum at 45 degrees
+
+  * Problem to study: 2015 PO 4
+
+**Box on Incline**
+
+  * Weight in the x-dir (parallel to incline) is mgsin θ
+
+  * Weight in the y-dir (perp. to incline) is mgcos θ
+
+  * Copy this derivation for acceleration (w/ friction):
+    * $\sum_{}^{}F = ma\ $
+    * //mg//sin θ − μkFN = ma
+    * //mg//sin θ − μkmgcos θ = ma
+    * a = gsin θ − μkgcos θ→ when angle increases, the acceleration tends towards g
+
+  * Friction incline problems to study: 2015 CM 1, 2011 Form B PB 1, 2019 Set 2 CM 1
+
+**Atwood’s Damn Machine**
+
+  * Let M2 > M1
+
+  * Same tension force acts on both blocks
+
+  * Derivation for acceleration: if we look at the two-blocks-string-pulley system, M2g is the force that encourages acceleration, while M1g is the retarding force. T is an internal force and it cancels out. Therefore: ΣF = ma becomes M2g − M1g = Mtotalasys→ so $a%%_{%%sys} = \frac{M_{2} - M_{1}}{M_{2} + M_{1}}g$. This is also the acceleration of each of the two blocks.
+
+  * See 2017 CM 1a for the force diagrams
+
+  * 2015 $PO^3$ 1 is literally the same thing, also check out part (c) of said problem
+  * Modified version (2017 CM 1f, g, 2019 PO 2)
+    * M1 is on the table
+    * Net force of the system is now ΣF = M2g > M2g − M1g, thus the blocks accelerate faster.
+    * Tension is the retarding force, and it must be less than the normal Atwood’s machine because the same weight, M2, is accelerating faster, when only considering that block as the system.
+    * See 2019 Physics 1, Problem 2b for the force diagrams
+    * If the pulley has mass, the tension force increases - acceleration is smaller because of the pulley’s new inertia, so the tension must increase via the same logic as before
+    * The less the acceleration, the greater the tension!
+
+  * Extra problems to study: 2009 CM 3
+
+  * More on Atwood’s Machine with mass (also see 2000 CM 3)$:^4$
+{{:image1.jpg?400|}}
+**Circular Motion**
+
+  * Now there’s two components of acceleration to deal with: aT and aC - aT is tangential accel and aC (or aR) is centripetal (radial) acceleration
+    * a=$\sqrt{a_{T}^2+a_{c}^2}$
+    * $a_C = \frac{v^2}{r}$
+
+  * Problems to study: 2014 CM 2 (vertical wall), 2011 CM 2a, b
+
+**Drag Force**
+
+  * All objects approach terminal velocity when there is a drag force
+
+  * Drag force - proportional to velocity, set up differential equation if necessary
+
+  * Falling at constant velocity (terminal velocity) - drag force is equal to weight
+    * mg - D = 0 (as a result of Newton’s 2nd Law)
+
+  * Problems to study: 2008 CM 1, 2010 CM 1, 2011 CM 2c, 2013 CM 2, 2019 Set 1 CM 1 (similar)
+
+**Springs**
+
+  * F = -kx for normal springs, k is spring constant, unit is Newtons/meter or N/m
+
+  * Springs store potential energy - Us = $\frac{1}{2}kx^2$
+
+  * Problems might involve:
+    * Finding k or some analog: 2006 CM 2, 2008 CM 3b, 2013 CM 1d, 2016 CM 3a
+    * Attaching it to blocks: 2007 CM 3
+    * Work and energy: 2014 CM 1, 2015 PO 3, 2013 PB 2
+    * Maximum compression: 2016 CM 2d, 2002 CM 2
+    * Collisions with springs: 2018 CM 2
+      * When the spring is fully compressed, the two carts act as one, so it can be treated as a completely inelastic collision at that moment.
+
+**Work**
+
+  * Integrating force gives work
+
+**Conservation of Energy**
+
+  * Energy is conserved if there is no unbalanced external force.
+
+  * Use when there are heights involved
+
+**Power**
+
+  * Use it when the problem mentions it
+
+  * P = F(v) = \frac{\Delta E}{\Delta t} = \\frac{\Delta work}{\Delta t} = \frac{f_{avg}d}{\Delta t
+
+  * See 2003 CM 1b
+
+**Linear Momentum and Collisions**
+
+  * Is always conserved
+
+  * Problems usually involve a dart or a collision
+  * Kinetic energy is conserved in an elastic collision but not in an inelastic collision
+
+  * Remember that momentum depends on the direction of the velocity as well!
+
+  * Problems might include:
+    * Block-block collisions: 1995 CM 1, 2002 CM 1, 2004 CM 1c, 2010 CM 2, 2012 PB 2
+    * Dart-block collisions: 1999 CM 1, 2011 CM 1
+
+**Impulse**
+
+  * Is the change in momentum
+
+  * Integral of force with respect to time
+
+  * In a collision, each object gets the same impulse because of conservation of momentum
+
+**Relationships between Rotation Variables**
+
+  * Remember: τ = Frsin θ = Iα
+    * W = τθ or, W = ∫τdθ
+
+  * L = Iω = rmvsin θ = r × p
+
+  * Angular momentum is always conserved, unless there is an unbalanced external force
+
+  * τ = dL/dt
+
+  * I = ∫$r^2$dm → if density is given, do a manipulation as in 2018 CM 3
+
+  * Static equilibrium means: L = 0, p = 0 - and since angular and linear velocities are a constant zero: Στ = 0 and ΣF = 0
+
+  * More inertia = slower down a ramp
+
+  * Conservation of Angular Momentum: use when there are objects changing their angular velocities, and I is known
+
+  * Lowering inertia = higher angular speed, due to cons. of ang. mom.
+
+  * Torque lab: [[https://www.youtube.com/watch?v=Pg2xwjdC_rk|https://www.youtube.com/watch?v=Pg2xwjdC_rk]]
+    * tau = Tr
+    * *Correction: T = m(g-a), **not** m(g+a) like in the video%%**%%
+    * tau versus alpha graph → slope = inertia
+
+**Rotating Bar Problems**
+
+  * 2015 CM 3, 2005 CM 3, 1999 CM 3, 2004 CM 3, 2009 CM 2
+
+  * Techniques: finding inertia via integration, conservation of energy
+
+**Rolling Problems**
+
+  * 2019 Set 2 CM 3, 2018 CM 3, 2017 CM 3, 2012 CM 3, 2010 CM 2, 2013 CM 3, 2002 CM 2
+
+  * Techniques: Conservation of energy, finding inertia, tau = I alpha
+
+  * WHEN ROLLING W/O SLIDING: v = omega r, always
+
+**Pure Rotation Problems and Angular Momentum**
+
+  * 1999 CM 3, 2000 CM 3, 2004 CM 2, 2014 CM 3d, 2016 CM 3, 2019 Set 1 CM 3
+
+  * Techniques: tau = I alpha, relating linear/angular variables, conservation of angular momentum
+
+**Experimental Design Problems**
+
+  * 2019 PO 3 (Designing procedures: springs: finding k)
+
+  * 1999 CM 1c (Designing procedures: Finding a velocity)
+
+  * 2002 CM 3e (Designing procedures: Finding a velocity)
+
+  * 2003 CM 3 (Lab problem: projectile motion)
+
+  * 2004 CM 2 (Lab problem: linear acceleration and rotational inertia)
+
+  * 2006 CM 2 (Lab problem: springs: finding A)
+
+  * 2007 CM 3 (Lab problem: conservation of energy)
+
+  * 2008 CM 3 (Lab problem: springs: finding k)
+
+  * 2009 CM 2b, c (Designing procedures: finding rotational inertia and COM)
+
+  * 2010 CM 1 (Lab problem: coffee filters and drag force)
+
+  * 2012 CM 2 (Designing procedures: conservation of energy)
+
+  * 2013 CM 1 (Lab problem: finding k, kinematics)
+
+  * 2014 CM 1 (Lab problem: various topics)
+
+  * 2017 CM 1 (Lab problem: Atwood’s machine)
+
+  * 2018 CM 1 (Lab problem: finding g)
+
+  * 2019 Set 1 CM 1 (Lab problem: drag force in a fluid)
+
+  * 2019 Set 2 CM 3 (Lab problem: rotational inertia)
+
+----
+
+  - CM = Phys C Mechanics
+
+  - PB = Phys B
+
+  - PO = Phys One
+
+  - **Photo taken from**: Collegeboard AP Physics C: Mech Review Video, John Frensley[[about:blank#fnref4|↩︎]]
+
+----
+"Hey, AP physics teacher here, if you need help reviewing here is a playlist going over all of the units in AP Physics C.
+
+AP Physics C Review of All Topics: [[https://www.youtube.com/playlist?list=PLfm0FJ-UppoHyllPF-0Yr3a8CK2Zqp7II]]
+
+If you want some problems worked out here is a playlist with AP rotation problems worked out.
+
+Rotation Practice Problems: [[https://www.youtube.com/playlist?list=PLfm0FJ-UppoFwIdEoZeYeSlpCoXDn6Z8y]]
+
+AP Physics C Workbook Momentum MCQ Questions: [[https://www.youtube.com/playlist?list=PLfm0FJ-UppoFUfkZHXaXHWiJ7Hk7eGZv-
+
+AP Physics C MCQ WorkBook Energy Questions: https://www.youtube.com/playlist?list=PLfm0FJ-UppoFzxoi44hGQ_Z_flv8nqLvV]]" - teachphysi3108s

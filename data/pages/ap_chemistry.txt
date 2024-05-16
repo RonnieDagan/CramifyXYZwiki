@@ -1,0 +1,654 @@
+====== AP Chem Study Guide ======
+
+
+**Check the AP formula sheet for all formulas! Get to know your formula sheet early on so that you can quickly find information on the exam and know what you need to memorize.**
+
+**How to Succeed in AP Chemistry**
+
+●**Read your textbook.** Even if your teacher provides notes, make sure to follow along in the textbook for information he or she may have left out and additional practice problems.
+
+●**Spread out your studying and homework.** You will get much more out of assignments and studying if you have time to think and try problems yourself. Split assignments up, and complete a little each day.
+
+●**Do all the practice your teacher offers.** Many times, teachers pull exam questions from in-class or homework problems, so complete all the practice given. **Redo class problems that your teacher emphasizes or spends a lot of time on.**
+
+●**Aim to understand instead of memorize.** AP Chemistry covers a lot of content, so try to learn and understand the science behind topics instead of simply memorizing. Make connections between your classes(especially physics, biology, and calculus).
+
+●**Reach out to your teacher.** If you are struggling, the best person to go to is your teacher.
+
+They can help go over exams you did not do well on, give you study tips, and help you succeed in their class.
+
+**How to Study for the AP Chemistry Exam**
+
+●**Work through past FRQs from the College Board** in reverse order(most recent to oldest). Time and score yourself using the provided scoring guidelines. Some of the past FRQs can be found at As you work through the years, see what topics or questions are repeatedly asked, and practice them.
+
+●**Review labs.** Understand the concepts of any labs you did or read about. Make sure you understand and can do any math behind the labs.
+
+●**Complete any AP Classroom** or other provided CollegeBoard practice. **Watch the CollegeBoard content review videos** on YouTube found
+
+for review and practice.
+
+●Use but do not rely on prep books. Much of the content review and many of the provided questions are below AP level. Be sure to review your unit exams, notes, packets, and other class materials.
+
+●Ask your teacher or past successful students questions or for more review material!
+
+●**Trust in your preparation and knowledge!** AP Chemistry is a difficult class, but you have worked hard the entire year. Show what you know and how hard you have worked on the exam.
+
+**Unit 1 - Atomic Structures and Properties** **Photoelectron Spectroscopy**
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image2.png}}
+●Each peak is a subshell
+
+●Determine relative height for number of electrons - first peak is 1s²
+
+Cations are smaller than neutral atom, and anions are larger than neutral atom because additional electrons mean more repulsive for
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image3.png}}
+
+Here’s the reason why these trends happen:
+
+●**Atomic radius:** From left to right on the periodic table the atomic radius decreases.
+
+Although we add protons across the periodic table (protons also considered nuclear charge), the size of the atom will decrease due to **effective nuclear charge.** Effective nuclear charge is a pull toward the charged proton. Since the effective nuclear charge increases, the valence electrons are drawn closer to the nucleus, decreasing the size of an atom. Similarly, atomic radius increases as we go down the table. This is because there are more sublevels added to the atom and due to **shielding effect.** Shielding effect is when the electron and the nucleus in an atom have a decrease in attraction because the electrons are further away due to increased sublevels.
+
+oFor example, Na is bigger than Cl because Na has less effective nuclear charge!
+
+●**Ionic radius****:** Cations (positively charged ions) are generally smaller than the atoms that they came from because they have lost valence electrons. The amount of protons always stays the same so this means that since all of those protons are pulling in on the fewer electrons that are there (effective nuclear charge) the atomic radius is significantly smaller.
+
+In anions we are adding electrons. There are more electrons on the outside energy levels.
+
+Since we have the same number of protons and more electrons, the protons cannot fill as effectively so the radius gets larger.
+
+●**Ionization energy:** Ionization energy is the energy needed to remove an electron. This is strongly associated with atomic radius. Ionization energy increases from left to right because they have a greater effective nuclear charge. Ionization energy decreases as you go down the table because it’s easier to remove the electrons due to increased shielding effect.
+
+oHowever, there are exceptions: Li has greater Ionization Energy than Be because Li’s core electron is being removed.
+
+●**Electronegativity:** the ability of an atom to attract electrons toward itself.
+
+Electronegativity is a scale. For the AP test, F has the highest electronegativity of 4.0.
+
+Electronegativity increases across the period because of increased effective nuclear charge (want more electrons). On the other hand, electronegativity decreases as you go down the table.
+
+●**Electron affinity**: the opposite of electronegativity. It is the energy change when an atom becomes negatively charged. Electron affinity is **always negative.** There isn’t a solid trend for electron affinity compared to others. However, this is the general trend: electron affinity becomes **more negative** from left to right. Electron affinity becomes **more positive** when you go down the table.
+
+**Aufbau Principle:** electrons fill the lowest energy orbitals (not levels) first.
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image4.png}}
+
+Use this diagram to know which orbitals to fill first. Start from 1s, 2s, then 2p, and so on.
+
+With this principle, it helps us to write out **an electron configuration**: For example, Oxygen’s configuration would be 1s2 2s2 2p4
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image5.png}}
+
+This diagram tells us that 2 electrons can be filled in the s orbitals, 6 electrons in the p orbitals, 10 electrons in the d orbitals, and 14 electrons in the f orbitals.
+
+There’s a shorthand version for writing electron configuration. Let’s write an electron configuration for different elements:
+
+Oxygen: [He] 2s2 2p4 Potassium: [Ar]4s1
+
+When you are writing a shorthand version, you can only include a noble gas in the bracket. For ions, you have to remove electrons that are outside leaves first.
+
+For example, an ion electron configuration for Mg2+ would be [Ne] 3s1
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image6.png}}
+
+Let’s do another example: Ion electron configuration for Ag: [Kr]4d105s1. The 5s orbital lost an electron because it’s a more outer sublevel that 4d.
+
+You can check if your electron configuration is right by counting the numbers in the exponent. Remember that the electron configuration for Oxygen is [He] 2s2 2p4? In order to check if this configuration is right, you can add 2 and 4, which would give you 6, and this is correct because there are 6 valence electrons for Oxygen.
+
+**Hund's rule** states that each sublevel should have one electron before any others are doubled up (for example, all of the 2p subshells should have at least one arrow in it before moving onto another subshell).
+
+**Pauli Exclusion Principle** states that no two electrons in the same atom can have identical values for all four of their quantum numbers.
+
+**Unit 2 - Molecular and Ionic Compound Structures and**
+
+**Properties**
+
+**Coulomb’s law** - Ions have stronger attractive force if they have larger charge and smaller ionic radius(smaller distance between ions)
+
+●**Bond energy** - smaller bonds require more energy to break(double bonds have more bond energy than single bonds)
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image7.png}}
+
+●**Lattice energy** - energy released when ions form a crystalline solid, smaller ions with higher charge have more lattice energy
+
+**Ionic bonding** - metal and nonmetal, conducts electricity as liquid:aqueous
+
+**Covalent bonding** - nonmetal and nonmetal, conducts electricity as liquid:aqueous
+
+**Metallic bonding** - sea of electrons move freely throughout a metal, conducts electricity as liquid:aqueous:solid
+
+**Substitutional alloy** - the atoms of both metals are roughly the same size
+
+**Interstitial alloy** - the atoms of one metal is smaller than the atoms of the other, so the smaller atoms fill interstitial space
+
+**Bond Energies:** To break bonds, energy must be added to the system and to form bonds, energy is released. The formula for this is
+
+Bond Energy also depends on the type of bond:
+
+Single Bond < Double Bond < Triple Bond
+
+The shorter the bond length, the greater the bond energy due to increased attraction between two atoms.
+
+**Lewis Dot Structures**
+
+●Shows how valence electrons are arranged among atoms in a molecule. There are multiple rules for Lewis Structure:
+
+●**Duet Rule:** This occurs between Hydrogen and Helium and it shares 2 electrons. ●**Octet Rule:** This occurs when each atom has 8 electrons. However, there are exceptions to this rule, which would be discussed later.
+
+●**Boron** and **Beryllium** form an incomplete octet. Boron can only have 6 electrons, and Beryllium can only have 4 electrons.
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image8.png}}
+
+●There are also elements that exceed the octet rule. Atoms that exceed row 3 or above, can form an expanded octet. For example, Sulfur, Phosphorous, Arsenic can all form an expanded octet.
+
+●To determine **formal charge**, count each bond(double bond=2) and valence electron(lone pair=2). Subtract this number from the actual number of valence electrons on the periodic table. Try to get formal charge as close to 0 for a molecule and as close to the charge for an ion,
+
+●Central atoms beyond period 3 can be hypervalent and violate the octet rule
+
+●**Resonance** structures are when there is more than one way to represent a compound in a Lewis structure. Even though in a resonance structure there is more than one way to represent a compound, technically neither of them is right because in the actual molecule, the bond length is an average of both structures. NO3- is a good example with 3 resonance structures:
+
+**VSEPR** = Valence Shell Electron Pair Repulsion
+
+When drawing a Lewis structure, we only consider the valence electrons. Electrons in a bonding domain or in a nonbonding domain normally exist in pairs. Electron domains tend to repel each other in a way that is as far apart from each other in 3-D space as possible.
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image9.png}}
+
+An electron domain is a bond, but you don't count double or triple bonds as extra domains. Lone pairs on the central atom impact the shape.
+
+**Sigma and pi bonding** - each single bond is a sigma bond, any other bonds are pi bonds(triple bond has a sigma and two pi bonds)
+
+**Unit 3 - Intermolecular Forces and Properties**
+
+**Nonpolar molecule** - bond dipoles cancel out due to symmetry
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image10.png}}
+
+General ranking of IMF strength from weakest to strongest: LDF, dipole-dipole, hydrogen-bonding, ion-dipole, ionic bonding (**look at chart**)
+
+●**London dispersion forces** (or Van der Waals forces) occur when the instantaneous dipole (caused by moving electrons in an individual atom) in one atom can cause another atom to have an uneven distribution in its electron cloud.
+
+●The attractions between POLAR molecules are called **dipole-dipole** interactions. This is when the partial positive end is attracted to the partial negative end of another molecule. ●**Hydrogen Bonding** is a strong dipole-dipole interaction that occurs between a Hydrogen atom and either F, O, or N (H-F, H-O, and H-N)
+
+●**Ion-dipole forces** are INTERPARTICLE. This is the attractive force between an ion and a polar molecule.
+
+**Temperature is a measure of average kinetic energy.**
+
+**Covalent network solids** - strong covalent bonds in a 3D network often with carbon and:or silicon i.e. diamond, SiO2
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image12.png}}
+
+Use ratio reasoning to determine relationship between gas law variables - if two variables are on the same side of the equation, raising one will decrease the other, if they are on opposite sides, raising one will raise the other
+
+**KMT** - Gas molecules move in straight lines unless they collide(causing pressure), average kinetic energy = temperature, gas molecules have no volume and exert no attractive:repulsive forces(do not lose energy during collisions)
+
+●Deviations: gases do have volume and exert attractive:repulsive forces at high pressure, low temperature, and low volume
+
+**Phase Diagram** is a convenient way of representing phases of substance as a function of temperature and pressure.
+
+**Triple Point** is when all the lines are met.
+
+**Critical Point** is when gas can’t be made to
+
+liquefy no matter how great the pressure and te
+
+**Combined Gas Law:**
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image11.png}}
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image14.png}}
+
+If we combine all these laws, we get the **Ideal Gas Law: PV=nRT** %%**%%R= gas constant=0.08206 atm mol-1 K-1
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image13.png}}
+
+**STP** is standard pressure at 1 atm and standard temperature of 273 K. Also, under STP, 1 mol equals to 22.4 L.
+
+**Dalton’s Law of Partial Pressures:**
+
+In a homogeneous mixture the macroscopic properties do not vary throughout the sample. In a heterogeneous mixture, the macroscopic properties really depend on that specific location in the mixture.
+
+Substances with similar intermolecular interactions tend to be soluble with one another. Same with polar and nonpolar substances.
+
+**“Like dissolve like”**
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image17.png}}
+
+**Root Mean Square Velocity**
+
+===  ===
+
+^{{data:image:svg+xml;base64,PHN2ZyByb2xlPSJncmFwaGljcy1zeW1ib2wiIHZpZXdib3g9IjAgMCAxNiAxNiIgc3R5bGU9IndpZHRoOjE0cHg7aGVpZ2h0OjE0cHg7ZGlzcGxheTpibG9jaztmaWxsOnJnYmEoNTUsIDUzLCA0NywgMC40NSk7ZmxleC1zaHJpbms6MCIgY2xhc3M9InR5cGVzVGl0bGUiPjxwYXRoIGQ9Ik0wLjYzNzY5NSAxMy4xOTE0QzEuMDk1NyAxMy4xOTE0IDEuMzI4MTIgMTMgMS40Nzg1MiAxMi41MjE1TDIuMjQ0MTQgMTAuMzg4N0g2LjE0NzQ2TDYuOTA2MjUgMTIuNTIxNUM3LjA1NjY0IDEzIDcuMjk1OSAxMy4xOTE0IDcuNzQ3MDcgMTMuMTkxNEM4LjIyNTU5IDEzLjE5MTQgOC41MzMyIDEyLjkwNDMgOC41MzMyIDEyLjQ1MzFDOC41MzMyIDEyLjI4OTEgOC41MDU4NiAxMi4xNTIzIDguNDQ0MzQgMTEuOTY3OEw1LjQxNjAyIDMuNzkxOTlDNS4yMDQxIDMuMjE3NzcgNC44MjEyOSAyLjkzNzUgNC4xOTkyMiAyLjkzNzVDMy42MDQ0OSAyLjkzNzUgMy4yMTQ4NCAzLjIxNzc3IDMuMDE2NiAzLjc4NTE2TC0wLjAzMjIyNjYgMTIuMDAyQy0wLjA5Mzc1IDEyLjE3OTcgLTAuMTIxMDk0IDEyLjMyMzIgLTAuMTIxMDk0IDEyLjQ2NjhDLTAuMTIxMDk0IDEyLjkxOCAwLjE2NjAxNiAxMy4xOTE0IDAuNjM3Njk1IDEzLjE5MTRaTTIuNjMzNzkgOS4xMjQwMkw0LjE3ODcxIDQuNjgwNjZINC4yMTk3M0w1Ljc2NDY1IDkuMTI0MDJIMi42MzM3OVpNMTIuMjc5MyAxMy4yMzI0QzEzLjMxMTUgMTMuMjMyNCAxNC4yODkxIDEyLjY3ODcgMTQuNzEyOSAxMS44MDM3SDE0Ljc0MDJWMTIuNTc2MkMxNC43NDcxIDEyLjk4NjMgMTUuMDI3MyAxMy4yMzkzIDE1LjQyMzggMTMuMjM5M0MxNS44MzQgMTMuMjM5MyAxNi4xMTQzIDEyLjk3OTUgMTYuMTE0MyAxMi41MjE1VjguMDA5NzdDMTYuMTE0MyA2LjQ5OTAyIDE0Ljk2NTggNS41MjE0OCAxMy4xNTQzIDUuNTIxNDhDMTEuNzY2NiA1LjUyMTQ4IDEwLjY1OTIgNi4wODg4NyAxMC4yNjk1IDYuOTkxMjFDMTAuMTk0MyA3LjE1NTI3IDEwLjE1MzMgNy4zMTI1IDEwLjE1MzMgNy40NjI4OUMxMC4xNTMzIDcuODExNTIgMTAuNDA2MiA4LjA0Mzk1IDEwLjc2ODYgOC4wNDM5NUMxMS4wMjE1IDguMDQzOTUgMTEuMjEyOSA3Ljk0ODI0IDExLjM0OTYgNy43MzYzM0MxMS43NTI5IDYuOTkxMjEgMTIuMjg2MSA2LjY1NjI1IDEzLjEwNjQgNi42NTYyNUMxNC4wOTc3IDYuNjU2MjUgMTQuNjk5MiA3LjIwOTk2IDE0LjY5OTIgOC4xMTIzVjguNjcyODVMMTIuNTY2NCA4Ljc5NTlDMTAuNzY4NiA4Ljg5MTYgOS43NzczNCA5LjY5ODI0IDkuNzc3MzQgMTEuMDEwN0M5Ljc3NzM0IDEyLjMzNjkgMTAuODA5NiAxMy4yMzI0IDEyLjI3OTMgMTMuMjMyNFpNMTIuNjYyMSAxMi4xMzg3QzExLjgwMDggMTIuMTM4NyAxMS4yMTI5IDExLjY2NyAxMS4yMTI5IDEwLjk1NjFDMTEuMjEyOSAxMC4yNzI1IDExLjc1OTggOS44MjEyOSAxMi43NTc4IDkuNzU5NzdMMTQuNjk5MiA5LjYyOTg4VjEwLjMyMDNDMTQuNjk5MiAxMS4zNDU3IDEzLjc5NjkgMTIuMTM4NyAxMi42NjIxIDEyLjEzODdaIj48L3BhdGg+PC9zdmc+}}Column 1^{{data:image:svg+xml;base64,PHN2ZyByb2xlPSJncmFwaGljcy1zeW1ib2wiIHZpZXdib3g9IjAgMCAxNiAxNiIgc3R5bGU9IndpZHRoOjE0cHg7aGVpZ2h0OjE0cHg7ZGlzcGxheTpibG9jaztmaWxsOnJnYmEoNTUsIDUzLCA0NywgMC40NSk7ZmxleC1zaHJpbms6MCIgY2xhc3M9InR5cGVzVGV4dCI+PHBhdGggZD0iTTEuNTY3MzggMy4yNTg3OUgxNC40MjU4QzE0Ljc2NzYgMy4yNTg3OSAxNS4wNDc5IDIuOTc4NTIgMTUuMDQ3OSAyLjYzNjcyQzE1LjA0NzkgMi4yOTQ5MiAxNC43NzQ0IDIuMDIxNDggMTQuNDI1OCAyLjAyMTQ4SDEuNTY3MzhDMS4yMTg3NSAyLjAyMTQ4IDAuOTUyMTQ4IDIuMjk0OTIgMC45NTIxNDggMi42MzY3MkMwLjk1MjE0OCAyLjk3ODUyIDEuMjI1NTkgMy4yNTg3OSAxLjU2NzM4IDMuMjU4NzlaTTEuNTY3MzggNi44NDA4MkgxNC40MjU4QzE0Ljc2NzYgNi44NDA4MiAxNS4wNDc5IDYuNTYwNTUgMTUuMDQ3OSA2LjIxODc1QzE1LjA0NzkgNS44NzY5NSAxNC43NzQ0IDUuNjAzNTIgMTQuNDI1OCA1LjYwMzUySDEuNTY3MzhDMS4yMTg3NSA1LjYwMzUyIDAuOTUyMTQ4IDUuODc2OTUgMC45NTIxNDggNi4yMTg3NUMwLjk1MjE0OCA2LjU2MDU1IDEuMjI1NTkgNi44NDA4MiAxLjU2NzM4IDYuODQwODJaTTEuNTY3MzggMTAuNDIyOUgxNC40MjU4QzE0Ljc2NzYgMTAuNDIyOSAxNS4wNDc5IDEwLjE0MjYgMTUuMDQ3OSA5LjgwMDc4QzE1LjA0NzkgOS40NTg5OCAxNC43NzQ0IDkuMTg1NTUgMTQuNDI1OCA5LjE4NTU1SDEuNTY3MzhDMS4yMTg3NSA5LjE4NTU1IDAuOTUyMTQ4IDkuNDU4OTggMC45NTIxNDggOS44MDA3OEMwLjk1MjE0OCAxMC4xNDI2IDEuMjI1NTkgMTAuNDIyOSAxLjU2NzM4IDEwLjQyMjlaTTEuNTY3MzggMTQuMDA0OUg4Ljc1ODc5QzkuMTAwNTkgMTQuMDA0OSA5LjM4MDg2IDEzLjcyNDYgOS4zODA4NiAxMy4zODI4QzkuMzgwODYgMTMuMDQxIDkuMTA3NDIgMTIuNzY3NiA4Ljc1ODc5IDEyLjc2NzZIMS41NjczOEMxLjIxODc1IDEyLjc2NzYgMC45NTIxNDggMTMuMDQxIDAuOTUyMTQ4IDEzLjM4MjhDMC45NTIxNDggMTMuNzI0NiAxLjIyNTU5IDE0LjAwNDkgMS41NjczOCAxNC4wMDQ5WiI+PC9wYXRoPjwvc3ZnPg==}}Column 2^{{data:image:svg+xml;base64,PHN2ZyByb2xlPSJncmFwaGljcy1zeW1ib2wiIHZpZXdib3g9IjAgMCAxNiAxNiIgc3R5bGU9IndpZHRoOjE0cHg7aGVpZ2h0OjE0cHg7ZGlzcGxheTpibG9jaztmaWxsOnJnYmEoNTUsIDUzLCA0NywgMC40NSk7ZmxleC1zaHJpbms6MCIgY2xhc3M9InR5cGVzRmlsZSI+PHBhdGggZD0iTTEyLjU5MzggOC40NDA0M0w3LjU0ODgzIDEzLjQ4NTRDNi4yNjM2NyAxNC43NzczIDQuNTQxMDIgMTQuNjQ3NSAzLjQ0MDQzIDEzLjU0QzIuMzI2MTcgMTIuNDMyNiAyLjIwMzEyIDEwLjcxNjggMy40OTUxMiA5LjQyNDhMMTAuMzkyNiAyLjUyNzM0QzExLjE0NDUgMS43NzUzOSAxMi4yNzI1IDEuNjM4NjcgMTMuMDAzOSAyLjM3Njk1QzEzLjc0MjIgMy4xMTUyMyAxMy42MDU1IDQuMjI5NDkgMTIuODUzNSA0Ljk4ODI4TDYuMDg1OTQgMTEuNzYyN0M1Ljc3ODMyIDEyLjA3MDMgNS40MTYwMiAxMS45ODE0IDUuMjA0MSAxMS43NzY0QzQuOTk5MDIgMTEuNTU3NiA0LjkxMDE2IDExLjIwMjEgNS4yMTc3NyAxMC44ODc3TDkuOTM0NTcgNi4xNzA5QzEwLjE3MzggNS45MzE2NCAxMC4xODc1IDUuNTgzMDEgOS45NjE5MSA1LjM1MDU5QzkuNzI5NDkgNS4xMzE4NCA5LjM4MDg2IDUuMTM4NjcgOS4xNDE2IDUuMzc3OTNMNC4zOTc0NiAxMC4xMTUyQzMuNjcyODUgMTAuODUzNSAzLjcwMDIgMTEuOTc0NiA0LjM0OTYxIDEyLjYyNEM1LjA1MzcxIDEzLjMyODEgNi4xMjAxMiAxMy4zMTQ1IDYuODU4NCAxMi41NzYyTDEzLjY2MDIgNS43NzQ0MUMxNC45Nzk1IDQuNDU1MDggMTQuOTMxNiAyLjcxODc1IDEzLjc3NjQgMS41NTY2NEMxMi42NDE2IDAuNDI4NzExIDEwLjg3NzkgMC4zNDY2OCA5LjU1MTc2IDEuNjY2MDJMMi42MTMyOCA4LjYxODE2QzAuODgzNzg5IDEwLjM0NzcgMSAxMi44MjkxIDIuNTcyMjcgMTQuNDAxNEM0LjE0NDUzIDE1Ljk2NjggNi42MzI4MSAxNi4wODk4IDguMzYyMyAxNC4zNjcyTDEzLjQ0MTQgOS4yODgwOUMxMy42NzM4IDkuMDYyNSAxMy42NjcgOC42NDU1MSAxMy40MzQ2IDguNDE5OTJDMTMuMjA5IDguMTgwNjYgMTIuODMzIDguMjE0ODQgMTIuNTkzOCA4LjQ0MDQzWiI+PC9wYXRoPjwvc3ZnPg==}}Column 3^
+|[[https:::www.notion.so:be0b630e0f2f46049b94a98d26376bee?pvs=21|Untitled]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |::M:: is the molar mass of gas in kg:mol. R=8.3145J:K*mol.\\ \\ Final Unit is in m:s                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |[[AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:Untitled_Database_fb83012791a643b88942338baf2806e2:Untitled_be0b630e0f2f46049b94a98d26376bee:image15.png|{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:Untitled_Database_fb83012791a643b88942338baf2806e2:Untitled_be0b630e0f2f46049b94a98d26376bee:image15.png|:tmp:pdf2docx:011ac350-fd86-4115-b706-881a82ec636b:media:image15.png}}]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+\\
+\\
+
+
+**Diffusion:** the mixing of gas
+
+**Effusion:** The passage of a gas through a tiny orifice into an evacuated chamber.
+
+**Graham’s Law of Effusion:**
+
+::R:: represents the rate of effusion for each gasses.
+
+𝑅𝑒𝑡𝑒𝑛𝑡𝑖𝑜𝑛 𝑓𝑎𝑐𝑡𝑜𝑟 𝑜𝑓 𝑐ℎ𝑟𝑜𝑚𝑎𝑡𝑜𝑔𝑟𝑎𝑝ℎ𝑦 𝑅 𝑓 =
+
+𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑡𝑟𝑎𝑣𝑒𝑙𝑒𝑑 𝑏𝑦 𝑠𝑎𝑚𝑝𝑙𝑒
+
+𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑡𝑟𝑎𝑣𝑒𝑙𝑒𝑑 𝑏𝑦 𝑡ℎ𝑒 𝑠𝑜𝑙𝑣𝑒𝑛𝑡
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image16.png}}
+
+Beer’s law for **colored solutions** - A=abc, absorption of light by a solution=(a constant unique to given molecule)(path length)(concentration of solution)
+
+●Absorbance is proportional to concentration of a solution
+
+●To predict possible experimental error, decide how the error affects the equation and use ratio reasoning, i.e. if water is left in a cuvette, concentration of the solution would be less, so absorbance would be less
+
+**Unit 4 - Chemical Reactions**
+
+How to write Net ionic equations:
+
+●Start with molecular equation
+
+●Make the transition to the complete ionic equation ●Cross off spectator ions
+
+Here’s an example:
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image18.png}}
+
+**Titration** - experiment to calculate moles:concentration of a chemical
+
+●Titrant is slowly dripped to the analyte until exactly enough titrant is added to react with all of the analyte(equivalence point) ●𝑀1𝑉1 = 𝑀2𝑉2 if acid and base are in a 1-to-1 mole ratio
+
+**Conjugate acid** has one more hydrogen than a **conjugate base** in
+
+a Bronsted-Lowry conjugate acid-base pair
+
+●Acid donates a proton(H+) and base accepts the proton(H+)
+
+**Oxidation-reduction reactions** involve the gain and loss of electrons
+
+●Mnemonic device - **LEO**(loss of electrons is oxidation) the lion says **GER**(gain of
+
+electrons is reduction)
+
+●**Oxidation numbers** represent how many electrons an atom has. They should be used to
+
+confirm oxidation-reduction reactions.
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image19.png}}
+
+○Single elements have an oxidation number of 0
+
+○Single ions have the same oxidation number as their charge
+
+○Halogens are usually -1
+
+○Hydrogen can be +1(bonded to nonmetals) or -1(bonded to metals)
+
+○Oxygen is usually -2
+
+○The sum of all oxidation numbers in a neutral compound is zero. The sum of all oxidation numbers in an ion is its charge.
+
+●Balancing oxidation-reduction reactions
+
+○Write the balanced half reactions(a single element gaining or losing electrons) ○Count the number of oxygens and balance the equation by adding the same number of waters
+
+○Balance the extra hydrogens from the water by adding H+
+
+○Balance the charge from the extra hydrogens by adding electrons
+
+○Multiply reactions so the number of electrons matches and combine half reactions **Precipitation reactions** - two ionic compounds combine to form a solid in an aqueous solution
+
+**Unit 5 - Kinetics**
+
+Concentration of reactants, presence of catalysts, temperature, pressure and surface area affect reaction rate by changing the rate of collisions.
+
+Rate laws - 𝑟𝑎𝑡𝑒 = 𝑘[𝑟𝑒𝑎𝑐𝑡𝑎𝑛𝑡 1]𝑚[𝑟𝑒𝑎𝑐𝑡𝑎𝑛𝑡 2]𝑛. .., m and n must be determined by experimental data, overall order=m+n…, rate constant=k,
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image21.png}}
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image20.png}}
+
+To solve for order, find two trials in which one reactant’s concentration remains constant and determine the ratio between the other reactant’s concentration and rate(1:2 = 2nd order). See relative rate vs. concentration below.
+
+To solve for rate constant, plug in any trial into the rate law.
+
+**Pay attention to the units of the rate constant! Use overall order to determine the units as shown below!**
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image22.png}}
+
+In a reaction with many steps, the **slowest step(given) determines the rate law**. **Rate laws cannot have an intermediate species**, so you must use other steps to rewrite intermediates.
+
+Not all chemical reactions can occur in one step so we must look at the series of steps. Each step in a mechanism is called an **elementary reaction**. Species that are in elementary reactions but are not in the final overall equation are called intermediates (they are in the products in one equation and then appear as reactants in another- this causes them to cancel). Whenever dealing with mechanisms the **slowest** step is **the rate determining step**, the rate of that particular step determines the rate of the entire reaction. Remember when there is more of a substance in a reaction it will increase the rate of the reaction because it will take longer for the reaction to be complete.
+
+In the image above, the correct kinetics equation would be rate=k[H2][ICl] because step 1 was the rate-determining step.
+
+**Collision Model** - In a reaction the particles in the reactants must successfully collide in order to produce products. The bonds need to be broken.
+
+Successful collisions have the right amount of energy and the correct orientation that allows the bonds to rearrange in the required manner.
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image23.png}}
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image24.png}}
+
+Other factors that affect reaction rate: **reactant concentration, pressure, temperature, surface area,** and **catalyst.** Here’s a chart that explains and summarizes these factors:
+
+For reactions with multiple steps, the taller hump from bottom to top is the slowest step because it requires the most activation energy.
+
+Catalysts provide a reaction mechanism with lower activation energy, so it has a shorter hump and reaches the potential energy of products faster.
+
+**Unit 6 - Thermodynamics**
+
+**Potential Energy** - energy associated with position
+
+**Kinetic Energy** - energy associated with motion, KE=1:2mv²
+
+**Thermal Energy** - energy associated with temperature with relation to mass **System** - reactants and products
+
+**Surroundings** - everything else including thermometer, container, etc.
+
+**Exothermic** - energy is released to surroundings, ΔH<0, temperature of surroundings(including thermometer) increases, phase change in direction of gas to solid
+
+**Endothermic** - energy is absorbed from surroundings, ΔH>0, temperature of
+
+surroundings(including thermometer) decreases, phase change in direction of solid to gas **First Law of Thermodynamics** - energy cannot be created or destroyed, total energy is constant
+
+Ways to find ΔH:
+
+1.q=mcΔT, ΔH=q:n, n=moles of limiting reactant
+
+2.Use a table to calculate bond enthalpies. Draw the lewis dot diagrams for each molecule and count the number of each type of bond. Add each bond enthalpy together for reactants and products. Subtract sum of bond enthalpies in products form the sum of bond enthalpies in reactants.
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image25.png}}
+
+3.Use a table of standard enthalpy of formation Δ𝐻𝑓. Subtract the sum of enthalpies of each reactant molecule from the sum of enthalpies of each product molecule.
+
+4.Use **Hess’s Law** - flip and multiply given equations to make your desire equation a.If you multiply the coefficients by x, you multiply the ΔH by x.
+
+b.If you flip the reaction, you reverse the sign of ΔH.
+
+**Molar Heat Capacity** - molar mass multiple by specific heat ΔE=q+w=heat+work
+
+w=-PΔV
+
+**Unit 7 - Equilibrium**
+
+At **equilibrium**, concentration of reactants and products remain constant. The concentrations do not have to be in equal amounts. The forward and reverse reactions occur at equal rates, so there is no observable change in concentration.
+
+Use 𝐾𝑒𝑞to describe equilibrium, and use Q to compare any time to equilibrium.
+
+|𝐾𝑒𝑞 =|[𝑝𝑟𝑜𝑑𝑢𝑐𝑡 1]𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 1[𝑝𝑟𝑜𝑑𝑢𝑐𝑡 ]𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 2 [𝑟𝑒𝑎𝑐𝑡𝑎𝑛𝑡 1]𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 1[𝑟𝑒𝑎𝑐𝑡𝑎𝑛𝑡 2]𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 2 𝑄|                                                  |
+|     |                                                                                                    |[𝑝𝑟𝑜𝑑𝑢𝑐𝑡 1]𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 1[𝑝𝑟𝑜𝑑𝑢𝑐𝑡 ]𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 2   |
+|     |=                                                                                                   |[𝑟𝑒𝑎𝑐𝑡𝑎𝑛𝑡 1]𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 1[𝑟𝑒𝑎𝑐𝑡𝑎𝑛𝑡 2]𝑐𝑜𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑡 2|
+
+𝐾𝑝 = (𝑃𝑝𝑟𝑜𝑑𝑢𝑐𝑡 1)𝑐𝑜𝑒𝑓.1(𝑃𝑝𝑟𝑜𝑑𝑢𝑐𝑡 2)𝑐𝑜𝑒𝑓.2
+
+(𝑃𝑟𝑒𝑎𝑐𝑡𝑎𝑛𝑡 1)𝑐𝑜𝑒𝑓.1(𝑃𝑟𝑒𝑎𝑐𝑡𝑎𝑛𝑡 2)𝑐𝑜𝑒𝑓.2
+
+Solids and liquids should not be included in K or Q expressions. Raise the concentration or pressure of each species to its coefficient. K is constant for all concentrations at a single temperature.
+
+Write and solve 𝐾𝑎 and 𝐾𝑏 just like 𝐾𝑒𝑞problems. Remember to exclude liquid water in the K expression and ICE table.
+
+Small K = reactant favored(reverse reaction), large K = product favored(forward reaction) Q>K = reactant favored(reverse reaction),
+
+K>Q = production favored(forward reaction)
+
+**Q=K - equilibrium**
+
+Similar to Hess’s Law, you can manipulate reactions to get an ideal reaction and get a new K. ●If you add two equations, multiply each K.
+
+●If you flip an equation, invert K(1:K)
+
+●If you multiply an equation by a coefficient, raise K to the power of the coefficient.
+
+If you are given K and an initial concentration, create an ICE table and use the expressions at equilibrium in the table with x to create an equilibrium expression for the given K. Solve for x and plug x back into the table if needed.
+
+**Le Chatelier’s Principle** - a system will shift to equilibrium if it experiences an external stress such as change in concentration, temperature, pressure
+
+**To justify Le Chatelier’s Principle on the AP exam**, discuss the effect of the stress on Q compared to K and say the direction which equilibrium will shift.
+
+**Stress**
+
+
+----
+
+Increase concentration
+
+
+----
+
+Decrease concentration
+
+
+----
+
+Increase pressure
+
+
+----
+
+Decrease pressure
+
+
+----
+
+Increase volume
+
+
+----
+
+Decrease volume
+
+
+----
+
+Increase temperature
+
+
+----
+
+Decrease temperature
+
+
+----
+
+Add a catalyst or inert gas
+
+
+----
+
+**Shift**
+
+
+----
+
+Away from substance
+
+
+----
+
+Toward substance
+
+
+----
+
+Toward side with fewer moles of gas(compare coefficients of gases)
+
+
+----
+
+Toward side with more moles of gas
+
+
+----
+
+Toward side with more moles of gas
+
+
+----
+
+Toward side with fewer moles of gas
+
+
+----
+
+Endothermic reaction(ΔH>0) - remember that flipping an equation flips the sign of ΔH
+
+
+----
+
+Exothermic reaction(ΔH<0)
+
+
+----
+
+No shift
+
+
+----
+
+Solubility reactions have an ionic solid as reactants and its ions as products. High solubility means the forward reaction is favored(K>Q).
+
+To write solubility equilibrium expressions, break the solid into its ions. Multiply the concentrations of each ion to get 𝐾𝑠𝑝.
+
+To solve for solubility from 𝐾𝑠𝑝, plug x back into the solubility equilibrium expression for an ion that appears once, 2x for an ion that appears twice, etc.
+
+For MgOH₂, 𝐾𝑠𝑝 = [𝑀𝑔][𝑂𝐻]2= 𝑥 ∗ (2𝑥)2
+
+**Common Ion Effect** - if a solid is dissolved in a solution with one of the solid’s ions already present, the solubility of the solid goes down. If you know the solubility of the ion in the solution, you can plug that number and 𝐾𝑠𝑝 in the solubility equilibrium expression to solve for the other ion.
+
+A precipitate will form in a reaction is Q>𝐾𝑠𝑝. Calculate the concentrations of each ion and plug them into a Q expression to see if Q is larger than the given K.
+
+**Unit 8 - Acids and Bases**
+
+**Amphoteric** - can act as acid or base i.e. water
+
+**Strong acids**(completely dissociates to ions, 𝐾𝑎 > 1) - HCl, HBr, HI, H2SO4, HClO4, HClO3, HNO3
+
+**Strong bases**(complete dissociates to ions, 𝐾𝑏 > 1) - LiOH, NaOH, KOH, RbOH, CsOH, Ca(OH)2, Sr(OH)2, Ba(OH)2
+
+Acid strength for binary acids increases as you go across a period(greater electronegativity) and down a group(greater bond strength). Acid strength for oxyacids increases as you go up a group(more electronegativity). The more oxygens an oxyacid has, the stronger the acid is.
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image26.png}}
+
+pH can be greater than 14 or less than 0.
+
+**See these Quizlets to learn more(in no particular order):**
+
+● ●
+
+●
+
+**Unit 9 - Applications of Thermodynamics**
+
+**Entropy** ⊗**S**: A driving force for a spontaneous process is an increase in the entropy of the universe. Entropy represents the disorder of a reaction.
+
+●Ssolid < Sliquid < Sgas
+
+●Gas has the largest S because it has the most disorder between the gas molecules. On the other hand, solid has the smallest S because it has the least disorder between molecules in the solid.
+
+**Second Law of Thermodynamics:** In any spontaneous process, there is always an increase in the entropy of the universe. Total energy of the universe is constant, but entropy is increasing.
+
+Suniverse = ⊗Ssystem + ⊗Ssurrounding
+
+**Third Law of Thermodynamics:** Entropy of a perfect crystal at 0 K is 0.
+
+**Standard Entropy Values (**⊗**Sº)** represents the increase in entropy that occurs when a substance is heated from 0 K to 298 K at 1 atm pressure.
+
+⊗Sºreaction = 𝛴𝑆ºproducts - 𝛴𝑆ºreactants
+
+**Gibbs Free Energy** ⊗**G:** Total energy (entropy and enthalpy) that is available to do work. It determines the spontaneity of a reaction.
+
+●⊗G=⊗H-T⊗S
+
+**Standard Free Energy Change (**⊗**Gº):** The change in free energy that will occur if the reactants in that standard state are converted to the products in their standard states.
+
+⊗Gºreaction = 𝛴𝐺ºproducts - 𝛴𝐺ºreactants
+
+Here’s a chart with relationship between enthalpy, entropy, and free energy:
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image27.png}}
+
+There’s also a relationship between Gibbs free energy and K.
+
+|⊗Gº    |K    |
+|⊗Gº = 0|K=1  |
+|⊗Gº < 0|K > 1|
+|⊗Gº > 0|K < 1|
+
+**Galvanic:Voltaic Cell**
+
+{{AP_Chem_Study_Guide_f1860aefc7694aeeaeba53de03d04968:image28.png}}
+
+Because Cu is the positive cathode, electrons are attracted and will flow toward Cu. These electrons come from the oxidation of Zn, which results in Zn2+ in solution. These electrons combine with Cu2+ in solution to form Cu(reduction), increasing the mass of the Cu cathode. The salt bridge keeps the charge in the cell neutral(K+ ion from KCl replaces Cu2+ in solution, and Cl- balances Zn2+ in solution)
+
+**Standard cell notation:line notation** template(see image for example without concentrations) - anode|anode solution(concentration)||cathode solution(concentration)|cathode
+
+Helpful mnemonic devices
+
+●AN OX - oxidation happens at the anode
+
+●RED CAT - reduction happens at the cathode
+
+●FAT CAT - the cathode’s mass increases(cats gain weight) ●Electrons flow alphabetically(**A**node to **C**athode)
+
+●CATs and PAW-SITIVE - the cathode is positive
+
+Use a table of standard reduction potentials(given on AP exam) to determine what is the cathode and anode. The largest E° is the cathode(reduced).
+
+**Cell voltage** - E° of cathode - E° of anode
+
+ΔG°=-nFE°, n=moles of electrons in balanced equation, F=96485 Coulombs:mole electron, 𝑅𝑇
+
+**Nernst Equation:** Ecell = Eºcell - 𝑛𝐹𝑙𝑛𝑄
+
+There’s also a relationship between the Gibbs Free Energy, Equilibrium and the Galvanic cell:
+
+|⊗Gº    |K    |Eºcell|                 |
+|⊗Gº = 0|K=1  |0     |Equally Favored  |
+|⊗Gº < 0|K > 1|+     |Products Favored |
+|⊗Gº > 0|K < 1|-     |Reactants Favored|
+
+**See these Quizlets to learn more(in no particular order):**
+
+● https:::quizlet.com:498668211:ap-chemistry-unit-9-flash-cards:\\
+●\\
+https:::quizlet.com:485345033:ap-chemistry-unit-9-applications-of-thermodynamicselectrochemistry-flash-cards:\\
+●\\
+https:::quizlet.com:424160249:ap-chemistry-unit-9-flash-cards:
+
+**Image Sources**
+
+● - retyped image into a table to correct an error in “increase temperature” row and add information ●
+
+●https:%%::%%www.chemicool.com:definition:aufbau-principle.html
+
+●https:%%::%%www.chem.fsu.edu:chemlab:chm1045:e_config.html
+
+●https:%%::%%ch301.cm.utexas.edu:section2.php?target=atomic:e-config:hunds-rule.html ●https:%%::%%www.liberaldictionary.com:pauli-exclusion-principle:
+
+●https:%%::%%study.com:academy:lesson:bond-enthalpy-definition-calculations-values.html ●https:%%::%%studylib.net:doc:5639925:formal-charge
+
+●https:%%::%%socratic.org:questions:how-would-you-draw-all-the-resonance-structures-for- nitrate-no3
+
+●https:%%::%%en.wikipedia.org:wiki:Phase_diagram
+
+●https:%%::%%www.chem.fsu.edu:chemlab:chm1045:gas_laws.html
+
+●https:%%::%%www.thinglink.com:scene:508702545376444417
+
+●https:%%::%%dvhsgaslaws.weebly.com:root-mean-square-velocity.html
+
+●https:%%::%%calistry.org:calculate:grahamLaw
+
+●https:%%::%%study.com:academy:answer:write-the-net-ionic-equation-for-the-reaction- between-sulfuric-acid-and-potassium-hydroxide.html
+
+●https:%%::%%i1.wp.com:www.compoundchem.com:wp-content:uploads:2016:02:Factors-
+
+Affecting-Rate-of-Reaction.png?ssl=1
+
+●https:%%::%%courses.lumenlearning.com:suny-introductory-chemistry:chapter:spontaneity-free- energy-and-temperature:

@@ -1,0 +1,991 @@
+=======AP Statistics Study Guide========
+Google doc Cheat sheet with stuff not on Formula Sheet [[https://docs.google.com/document/u/0/d/1ckS7vfcoVsoiOn85Wz4Qnj9xMRINfy-wE0ZH28G9yVI/mobilebasic|here]]
+----
+**From Simple Studies,** [[https://simplestudies.edublogs.org/|**https:%%//%%simplestudies.edublogs.org**]] **& @simplestudies4 on** Instagram
+
+**Statistics**: The science of data
+
+  * **Data Analysis**: The process of organizing, displaying, summarizing, and questioning data
+
+Data always involves individuals and variables
+
+  * **Individuals**: Objects described in a data set
+
+  * **Variables**: Attributes that may take different values for various individuals
+
+There are two varieties of variables:
+
+  * **Categorical Variables**: Assign labels that place individuals into particular groups
+    * Have NO order
+    * Ex: Hair color, zip code, favorite song
+
+  * **Quantitative Variables**: Take numerical values for which it is sensible to find an average
+    * Have order
+    * Ex: Age, speed, height
+
+**Distribution** tells us what values a variable takes and how frequently it takes these values
+
+  * Ex: Histograms, box plots, dot plots, scatter plots, stem and leaf plots, and line graphs for quantitative data
+
+  * Ex: Bar graphs, two-way tables, and pie charts for categorical data
+
+How to go from Data Analysis to Inference:
+
+  * Collect data from a representative sample (from the population of interest)
+
+  * Perform data analysis, keeping probability in mind
+
+  * Use the results to create inferences about the population
+
+A **Two-way Table** describes two categorical variables, organizing counts according to a row variable and a column variable
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled.png}}
+
+> Source:
+
+[[https://www.statology.org/conditional-relative-frequency-two-way-table/|https:%%//%%www.statology.org/conditional-relative-frequency-two-way-table/]]
+
+The **Marginal Distribution** of one of the categorical variables is the distribution of values of that variable among all individuals described by the table
+
+> ● Ex: Marginal distribution of gender: Male: 48/100 = 48% Female: 52/100 = 52%
+
+  * The marginal distributions should total to 100%
+
+These are the steps to take to examine a marginal distribution:
+
+  * Use the data from the table to calculate the marginal distribution of the row or column totals
+
+  * Create a graph to display the marginal distribution
+
+A **Conditional Distribution** of a variable describes the values of that variables among individuals who have a particular value of another variable
+
+  * Ex: Conditional distribution by sport: Male baseball: 13/36, Female baseball: 23/36, and so on
+
+Here are the steps to take to examine or compare conditional distributions:
+
+  * Select the rows or columns of interest
+
+  * Use the data from the table to calculate conditional distribution of the rows or columns
+
+  * Make a graph to display the conditional distribution
+    * Use a side-by-side bar graph or a segmented bar graph
+
+When describing distribution of quantitative data, we use the acronym **SOCCS**
+
+  * Shape: Symmetric, Skewed Right, Skewed Left, Bimodal, Unimodal
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image3.png}}
+
+> https:%%//%%www.khanacademy.org/math/ap-statistics/quantitative-data-ap/describing-comparing-distributions/v/classifying-distributions
+
+  * Outliers
+
+  * Context: What does the distribution represent?
+
+  * Center: The median or mean (depending on distribution)
+
+  * Spread: The range (most of the time) or the standard deviation
+
+**Stem-and-Leaf Plots** are a simple graphical display for small sets of data
+
+  * They give us a visual of the distribution while including the actual numerical values
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image4.jpeg}}
+
+> Source:
+
+[[https://en.wikipedia.org/wiki/Stem-and-leaf_display|https:%%//%%en.wikipedia.org/wiki/Stem-and-leaf_display]]
+
+These are the steps on how to make a Stem-and-Leaf Plot:
+
+  * Separate each observation into a stem and a leaf
+    * A **stem** includes all but the final digit
+    * A **leaf** is just the final digit of the number
+
+  * Write all possible stems from the smallest to the largest in a vertical column
+    * Draw a vertical line to the right of the column
+
+  * Write each leaf in the row to the right of its corresponding stem
+
+  * Arrange the leaves in increasing order out from the stem
+
+  * Provide a key that explains in context what the stems and leaves represent
+
+**Histograms** are graphs that display the distribution of a quantitative variable by showing each //interval// of the values as a bar
+
+  * The heights of the bars show the frequencies of values in each interval
+
+  * Histograms show off distributions very clearly
+
+  * Histograms are the most common graph of distribution
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image6.jpeg}}
+
+Source: [[https://online.stat.psu.edu/stat500/book/export/html/539|https:%%//%%online.stat.psu.edu/stat500/book/export/html/539]]
+
+These are the steps to take on how to construct a histogram:
+
+  * Divide the range of data into classes of equal width
+
+  * Find the count or percent of each individuals in each class
+
+  * Label and scale your axes and draw the histogram
+
+The **median** is the midpoint of the distribution
+
+  * It is the number where half of the observations are smaller and the other half larger
+
+These are the steps to take to find the median:
+
+  * Arrange all observations from smallest to largest
+
+  * If the number of observations is odd, the median is the center observation in the list
+    * If the number of observations is even, the median is the average of the two center observations in the list
+    * For n observations in a group, use (n + 1)/2 to find the //position// of the median in the list of observations
+
+The **mean** is the average of all individual data values
+
+  * To find the mean, add all of the observations and divide by the number of observations
+
+These are some observations you should look at to determine if you should use the mean or median to measure the center of a distribution of data:
+
+  * If the distribution is reasonably symmetric and has no outliers, use the //mean//
+    * Outliers have a big impact on the mean which would cause an inaccurate measure of center (it is not resistant to outliers)
+
+  * If the distribution of data is skewed or has outliers, use the //median//
+    * Outliers have little to no effect on the median, thus maintaining its accuracy (it is resistant to outliers)
+
+  * In a perfectly symmetric distribution, the mean and median are exactly the same
+    * In a roughly symmetric distribution, the mean and median are close together
+
+These are the steps to take to calculate quartiles:
+
+  * Arrange the observations in increasing order and locate the median
+
+  * The **first quartile** is the median of the observations located to the left of the median in the list
+
+  * The **third quartile** is the median of the observations located to the right of the median in the list
+
+  * The **interquartile range** is the difference of the first and third quartiles
+    * This can also be found using your calculator
+    * It is resistant to outliers
+    * An observation is an outlier if it falls more than 1.5 x IQR above the third quartile or 1.5 x IQR below the first quartile
+
+The **standard deviation** - average distance between each value and the mean
+
+  * The “average” squared deviation is called the **variance**
+
+  * The standard deviation is susceptible to outliers
+
+A **five-number summary** is a quick summary of the distribution of a data set
+
+  * It contains the minimum, first quartile, median, third quartile, and maximum
+
+  * A box plot contains all numbers in a five-number summary
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image9.jpeg}}
+
+Source: [[https://www.simplypsychology.org/boxplots.html|https:%%//%%www.simplypsychology.org/boxplots.html]]
+
+**Percentile**: The nth percentile of a distribution is the value with n percent of the observations less than it
+
+  * Ex: 60th percentile of data is 50. This means that 60% of the data is less than 50 and 40% of the data is 50 or above
+
+Adding or subtracting the same number n to each observation:
+
+  * Adds or subtracts n to the measures of center and location (mean, median, quartiles, percentiles)
+
+  * Does //not// change the shape or measure of spread of the distribution (range, IQR, standard deviation)
+
+  * Multiples or divides the measures of center and location by n
+
+  * Multiplies or divides the measures of spread by |n|
+
+  * Does //not// change the shape of the distribution
+
+The **z-score** tells us how many standard deviations away from the mean an observation falls, and what direction it falls in
+
+  * A positive z-score is above the mean, a negative z-score is below the mean
+
+  * Z-scores have no units
+
+When data has a regular overall pattern, we can use a simplified model called a **density curve** to describe it
+
+  * Always on or above the horizontal axis
+
+  * It has an area of exactly 1 underneath it
+
+Normal distributions are often shown in **Normal curves**
+
+  * All normal curves are characterized by a bell shape, a single peak, and are symmetrical
+
+<HTML><ul></HTML>
+<HTML><li></HTML><HTML><p></HTML>A normal curve is described by its mean and standard deviation<HTML></p></HTML>
+<HTML><ul></HTML>
+<HTML><li></HTML>The mean of a normal distribution is at the center of the normal curve
+<HTML><ul></HTML>
+<HTML><li></HTML>It is the same as the median<HTML></li></HTML><HTML></ul></HTML>
+<HTML></li></HTML><HTML></ul></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML>The standard deviation is the distance from the center to the change-of-curvature points on either side<HTML></li></HTML><HTML></ul></HTML>
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_1.png}}
+<HTML></li></HTML><HTML></ul></HTML>
+
+> Source:
+
+[[http://www.stat.yale.edu/Courses/1997-98/101/normal.htm|http:%%//%%www.stat.yale.edu/Courses/1997-98/101/normal.htm]]
+
+**The Empirical Rule**: In the normal distribution with mean m and standard deviation s:
+
+  * Approximately 68% of observations fall within one s of m
+
+  * Approximately 95% of observations fall within 2s of m
+
+  * Approximately 99.7% of observations fall within 3s of m
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image12.jpeg}}
+
+Source: http:%%//%%stevegallik.org/cellbiologyolm_statistics.html
+
+The **Standard Normal Distribution** is the normal distribution with mean 0 and standard deviation 1
+
+  * We obtain this by converting every value into itz z-score and representing each data point as its z-score in the distribution
+
+  * This gives us the standard Normal distribution, N(0, 1)
+
+> Source: https:%%//%%statistics-
+
+[[https://statistics-made-easy.com/standard-normal-distribution/|made-easy.com/standard-normal-distribution/]]
+
+We use Table A to find the proportion of observations in a standard normal distribution that satisfies each z-score:
+
+  * Ex: if z < -1.52, you find the intersection of column -1.5 and row 0.02, which is 0.0643
+
+We can also use the calculator to find the proportion of observations in a standard normal distribution that satisfies each z-score:
+
+  * normalcdf (lower bound, upper bound, mean, standard deviation)
+
+  * If they give us the area and we need to find the z-score, we use invNorm(area under the curve, mean, standard deviation)
+
+A **normal probability plot** provides a good assessment of the adequacy of the normal model for a set of data
+
+  * We are looking for a linear model to be present to conclude that the distribution is approximately normal.
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_2.png}}
+
+> Source:
+
+[[https://mathcracker.com/normal-probability-plot-maker|https:%%//%%mathcracker.com/normal-probability-plot-maker]]
+
+When analyzing two or more variables, there are two types you should keep in mind:
+
+  * **Response Variable**: Measures the outcome of a study (dependent variable)
+
+  * **Explanatory Variable**: Attempts to explain the observed outcomes (independent variable)
+
+When examining the relationship between variables, these steps should be taken:
+
+  * Plot the data and examine any numerical summaries (five number summary, mean, standard deviation)
+
+  * Describe the scatter plot
+    * Direction: positive association, negative association, no association
+
+  * Form: Linear or nonlinear
+
+  * Strength: Weak, moderate, strong
+
+  * Unusual Features: Outliers and clusters
+
+  * Context of the problem
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image15.jpeg}}
+
+> Source:
+
+[[https://www.mathsisfun.com/data/scatter-xy-plots.html|https:%%//%%www.mathsisfun.com/data/scatter-xy-plots.html]]
+
+For a linear association between two quantitative variables, the correlation (r) measures both the direction and strength of the association
+
+  * + means positive direction, - means negative direction
+
+  * The closer to 1 or -1, the stronger the association
+    * The closer to 0, the weaker the association
+
+  * Correlation is NOT resistant to outliers
+
+A **regression line** displays the relationship between two variables, but only when one of the variables helps explain or predict the other
+
+  * It is a model for the datal the equation gives us a compact mathematical description of what this model tells us about the relationship between y and x
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image17.jpeg}}
+
+Source: [[https://learningstatisticswithr.com/book/regression.html|https:%%//%%learningstatisticswithr.com/book/regression.html]]
+
+A regression line relating y to x has the equation ŷ = a + bx
+
+  * ŷ is the **predicted value** of the response variable for a given value of the explanatory value
+
+  * b is the **slope** - the amount y is predicted to change when x increases by one
+
+  * a is the **y-intercept** - the value of y when x = 0
+
+The **Coefficient of Determination** measures the percent of the variability in the response variable that is accounted for by the least-square regression line
+
+  * It measures the percent of data values that are accurately depicted by the least-squares regression line
+
+  * We can find the linear regression line and the correlation coefficient by using LinReg on our calculator
+
+A **residual** is the difference between the actual value of y and the predicted value of y by the regression line
+
+  * Residual = y - ŷ
+
+  * **Least-Square Regression Line**: The line that makes the sum of the squared residuals as small as possible
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image19.jpeg}}
+
+> Source:
+
+[[https://www.statisticshowto.com/least-squares-regression-line/|https:%%//%%www.statisticshowto.com/least-squares-regression-line/]]
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_3.png}}
+
+**Residual Plot**: A scatter plot that displays the residuals on the vertical axis and the explanatory variable on the horizontal axis
+
+  * If there is no leftover pattern, the regression model is appropriate
+
+  * If there is a leftover pattern in the residual plot, consider using a regression model with a different form.
+
+Source: [[https://opexresources.com/analysis-residuals-explained/|https:%%//%%opexresources.com/analysis-residuals-explained/]]
+
+Here are some vocabulary terms regarding sampling and surveys:
+
+  * **Population**: The entire group of individuals we want information about
+    * **Sample**: A subset of individuals in the population from which we collect data
+
+  * An **observational study** observes individuals and measures variables of interest but //does not attempt// to influence the responses
+    * **Retrospective observational studies** examine existing data for a sample of individuals
+    * **Prospective observational studies** track individuals into the future
+
+  * When observations are not possible, **simulations** provide an alternate method for producing data
+    * We generate random numbers and assign certain numbers to outcomes based on probability
+
+  * An **experiment** deliberately imposes some treatment on individuals in order to observe their responses
+
+  * **Sampling** involves studying a part in order to gain information about the whole
+
+  * A **census** attempts to contact every individual in the entire population
+
+  * The **design** of a sample refers to the method used to choose the sample from the population
+
+  * The design of a statistical study shows **bias** if it is very likely to underestimate or overestimate the value you want to know
+
+These are the different types of sampling designs:
+
+  * **Convenience Sample**: Selects individuals from the population who are easy to reach
+
+  * **Voluntary Response Sample**: Consists of people who choose themselves by responding to general appeal
+    * Often show bias because people with strong opinions are more likely to respond
+
+  * **Simple Random Sample** (SRS): Consists of n individuals of size n chosen from the population in such a way that every set of n individuals has an equal chance to be the sample actually selected
+
+  * **Multi-Stage Random Sample**: Involves the repeated selections of simple random samples within prior random samples
+
+  * **Stratified Random Sample**: First classify the population into groups of similar individuals who share characteristics called **strata**. Then choose a separate SRS in each stratum and combine these SRSs to form the full sample
+
+  * **Cluster Random Sampling**: Selects a sample by randomly choosing clusters and including each member of the selected clusters in the sample
+    * A **cluster** is a group of individuals in the population that are located near each other
+
+  * **Systematic Random Sample**: Selects a sample from an ordered arrangement of the population by randomly selecting one of the first k individuals and choosing every kth individual thereafter
+
+These are the different types of bias:
+
+  * **Undercoverage** occurs when some groups in the population are left out of the process of choosing the sample
+
+  * **Nonresponse** occurs when an individual chosen for the sample can’t be contacted or doesn’t cooperate
+
+  * **Response bias** occurs when the time surveyed or who the surveyor is causes a bias
+    * Also occurs when people do not remember answers or lie
+
+  * **Order of Choice** (people tend to lean toward first choice)
+
+  * **Wording of Questions** can cause people to lean towards a specific choice
+
+Observational studies of the effect of one variable on another often fail because of these reasons:
+
+  * **Lurking Variable**: A variable that is not among the explanatory or response variables in a study but that may influence the response variable
+
+  * **Confounding**: Occurs when two variables are associated in such a way that their effects on a response variable cannot be distinguished from each other
+
+These are some vocabulary terms that deal with experiments:
+
+  * **Treatment**: A specific condition applied to the individuals in an experiment
+
+  * **Placebo**: A treatment that has no active ingredient but is otherwise like other treatments
+    * **Placebo Effect**: The fact that some subjects in an experiment will respond favorably to any treatment, even an inactive one
+
+  * **Experimental Unit**: The object to which a treatment is randomly assigned
+    * If the experimental units are humans, we call them **subjects**
+
+  * In some experiments, there are multiple explanatory variables called **factors**
+    * In an experiment with multiple factors, the treatment are formed by using the various **levels** of each of the factors
+
+  * **Control Group**: Provides a baseline for comparing the effects of other treatments
+
+  * **Double-Blind Experiment**: Neither the subjects nor those who interact with them and measure the response variable know which treatment a subject received
+    * **Single-Blind Experiment**: Either the subjects don’t know or the people who interacting with them and measure the response variable don’t know which subjects are receiving which treatment
+
+  * **Random Assignment**: Experimental units are assigned to treatments using a chance process
+
+  * **Completely Randomized Design**: The experimental units are assigned to the treatments completely by chance
+
+The three principles of experimental design are:
+
+  * **Control**: Keeping other variables constant for all experimental units
+
+  * **Random Assignment**: Using impersonal chance to assign experimental units to treatments
+
+  * **Replication**: Using enough experimental units in each group so that any differences in the effects of the treatments can be distinguished from chance differences between the groups
+
+**Probability**: any outcome of chance process is a number between 0 and 1 that describes the proportion of times the outcome would occur in a series of repetitions
+
+  * outcomes that never occur have a probability of 0
+
+  * an outcome that happens on every repetition has a probability of 1
+
+  * an outcome that happens half the time has a probability of .5
+
+**Law of Large numbers:** If we observe more and more repetitions of any chance process, the proportion of times that a specific outcome occurs approaches its probability
+
+**Probability Model**: A description of some chance process that consists of two parts: a list of all possible outcomes and the probability for each outcome.
+
+  * **Sample Space**: A list of all the possible outcomes
+
+  * **Event**: any collection of outcomes from some chance process
+
+If all outcomes in the sample size are equally likely, the probability that event A occurs can be found using this formula:
+
+  * P=number of outcomes in event A/total number of outcomes in a sample space
+
+**Basic Rules of Probability:**
+
+  * The probability of any event is a number between 0 and 1
+
+  * All possible outcomes together must have probabilities that add up to 1
+
+  * The probability that an event does not occur is 1 minus the probability that event does occur
+    * This is known as the **Complement**
+
+Two events are **mutually exclusive** if they have no outcomes in common and can never occur together
+
+  * P(A or B) = P(A) + P(B)
+
+If A and B are any two events resulting from some chance process, the general addition rule says that:
+
+  * P(A or B) = P(A) + P(B) - P(A and B)
+
+**Intersection:** The event “A and B” is called the intersection of events A and B
+
+  * It consists of all outcomes that are common to both events
+
+**Union**: The event “A or B” is called the union of events A and B
+
+  * It consists of all outcomes that are in event A or event B
+
+**Conditional Probability:** The probability that one event happens given that another event is known to have happened is called a conditional probability
+
+  * The conditional probability that B happens given that A has happened is P(B|A)
+
+  * To find the conditional probability P(A|B), use this formula:
+    * P(both events occur(A and B)) / P(given event occurs(B))
+
+**Independent:** Two events are independent if the occurrence of one event has no effect on the chance that the other will happen
+
+  * The are independent if P(A|B) = P(A) and P(B|A) = P(B)
+
+**General Multiplication Rule**: For any chance process, the events A and B both occur can be found using the general multiplication rule:
+
+  * P(A and B) = P(A) x P(B|A) or P(A and B) = P(B) x P(A|B)
+
+**Tree Diagram:** Shows the sample space of a chance process involving multiple stages
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image26.jpeg}}
+
+> Source:
+
+[[https://www.onlinemathlearning.com/probability-tree-diagrams.html|https:%%//%%www.onlinemathlearning.com/probability-tree-diagrams.html]]
+
+If A and B are independent events, the probability that A and B both occur is:
+
+  * P(A and B) = P(A) x P(B)
+
+  * The probability distribution of a random variable gives it possible values and their probabilities
+
+**Discrete Random Variable**: Takes a fixed set of possible values with gaps between them
+
+  * Has a countable number of possible values (finite)
+
+  * To find the mean (expected value) of X, multiply each possible value of X by its probability, then add all of the products
+
+  * To find the variance, subtract the value by the mean, square it, multiply it by the probability, and add
+    * The square root of this is the standard deviation
+
+**Continuous Random Variable**: Can take any value in an interval on the number line
+
+  * Use normalcdf!
+
+For any two random variables X and Y, if S = X + Y, the mean of S is:
+
+  * Mean of S = mean of x + mean of y
+
+For any two random variables X and Y, if D = X - Y, the mean of D is:
+
+  * Mean of D = mean of x - mean of y
+
+For any two independent random variables X and Y, if S = X + Y, the variance of S is:
+
+  * Variance of S = (SD of x)^2 + (SD of y)^2
+    * To get the standard deviation of S, take the square root of the variance
+
+For any two independent random variables X and Y, if D = X - Y, the variance of D is:
+
+  * Variance of D = (SD of x)^2 + (SD of y)^2
+    * It’s the same as adding them!!!
+    * To get the standard deviation of D, take the square root of the variance
+
+A **binomial setting** arises when we perform //n// independent trials of the same chance process and count the number of times that a particular outcome (a success) occurs. It must pass these conditions:
+
+  * Binary = The possible outcomes of each trial are classified as success or failure
+
+  * Independent = Trials must be independent
+
+  * Number = The number of trials of the chance process must be fixed in advance
+
+  * Same probability = There is the same probability of success //p// on each trial
+
+The variable X = the number of successes is called a **binomial random variable** To find the probability of exactly //k// successes: binompdf (n, p, k)
+
+  * To find the probabilities of at most k successes in n trials: binomcdf (n, p, k)
+
+  * To find the probabilities of at least //k// successes in //n// trials: 1 - binomcdf (n, p, k-1)
+
+If a count of X successes has a binomial distribution with //n// number of trials and //p// probability of success:
+
+  * Mean of X = np
+
+  * Standard deviation of X = √ //̂//(//1//− //̂//)
+
+When taking an SRS of size n from a population of size N, we can use a binomial distribution to model the count of success in the sample as long as:
+
+  * n < 0.10(N)
+
+As the number of trials increases, the binomial distribution gets closer to a normal one
+
+  * **Large Counts Condition**: normal if np > 10 and n(1-p) > 10
+
+A **geometric setting** arises when we perform independent trials of the same chance process and record the number of trials it takes to get one success It must pass these conditions:
+
+  * Binary = The possible outcomes of each trial are classified as success or failure
+
+  * Independent = Trials must be independent
+
+  * Trials = The variable of interest is the number of trials to obtain the first success
+
+  * Same probability = There is the same probability of success //p// on each trial
+
+The variable Y = The number of trials it takes to get a success in a geometric setting
+
+  * To find the probability that first success happens on the //nth// trial: geometpdf(p, n)
+    * You can use geometcdf (p, n) also
+
+  * The at most/at least rules are the same for binomial distributions
+
+The shape of a geometric distribution is always skewed right
+
+  * The highest probability is P(Y = 1) and decreases as n increases
+
+If Y is a geometric random variable with probability of success p on each trial:
+
+  * Mean of Y = 1/p
+
+  * Standard deviation of Y = $\sqrt{((1-p) / (p^2))}$
+
+The **sampling distribution of the sample proportion** describes the distribution of values taken by the sample proportion in ALL POSSIBLE samples of the same size from the same population.
+
+  * SD = $\sqrt{((p(1-p)) / n)} *All conditions must be met*
+    * Conditions: SRS, Independent, Large Counts
+
+The **sampling distribution of the sample mean** describes the distribution of values taken by the sample mean in ALL POSSIBLE samples of the same size from the same population.
+
+  * SD = population sd / square root (sample size)
+    * Conditions: SRS, Independent, Central Limit Theorem
+
+The **Central Limit Theorem** states that when n is large (>30), the sampling distribution of the sample mean is approximately normal
+
+Shape of the Sampling Distribution of the Sample Mean x:
+
+  * If the population distribution is normal, the sampling distribution will also be normal
+
+  * If the population distribution is not normal, the sampling distribution will be approximately normal when the sample size is greater than or equal to 30
+
+  * If the population distribution is not normal and the sample size is less than thirty, the sampling distribution will retain some characteristics of the population distribution
+
+The **Point Estimator** is a statistic that provides an estimate of a population parameter
+
+  * The **Point Estimate** is the value of that statistic from a sample
+
+A **Confidence Interva**l gives an interval of plausible values for a parameter based on sample data
+
+  * The **Margin of Error** of an estimate describes how far, at most, we expect that estimate to vary from the true population value.
+
+**I****nterpreting a Confidence Interval:**
+
+  * We are C% confident that the interval from %%__%%%%__%%%%__%%_ to %%__%%%%__%%%%__%%_ captures the (parameter in context)
+
+A **Confidence Level** gives the overall success rate of the method used to calculate the confidence interval
+
+Interpreting a Confidence Level:
+
+  * If we were to select many random samples from a population and construct a C% confidence interval using each sample, about C% of the intervals would capture the (parameter in context)
+
+A **Critical Value** is a multiplier that makes the interval wide enough to have the stated captured rate
+
+The margin of error gets smaller when:
+
+  * The confidence level decreases
+
+  * The sample size increases
+
+When the conditions are met, a C% confidence interval for the unknown proportion p is p̂
+
+± ∗√ //̂//(//1//− //̂//)
+
+  * z* is the critical value for the standard Normal curve with C% of its area between -z* and z*
+
+These are the conditions we need for estimating p:
+
+  * Data must come from a random sample
+    * This helps us ensure that $\hat{p}$− $p_0$ is a good estimate for the difference between the true value of $p$ and the null value $p_0$
+    * This makes sure that p̂ is a valid point estimate
+    * When our data comes from a random sample, we can make an inference about the population from which the sample was selected
+
+  * The sampling distribution of p̂ must be approximately normal
+    * This allows us to calculate the critical value z* by using the normal curve
+    * The large counts condition must be met
+
+  * Individual observations must be independent
+    * This allows us to calculate the standard deviation {{:pasted:20240409-223044.png}}
+    * When sampling without replacement, the 10% condition must be met (n < 0.10N)
+
+To summarize, these are the conditions for constructing a confidence interval about a proportion:
+
+  * Random
+
+  * 10% Condition
+
+  * Large Counts Condition
+
+When the standard deviation of a statistic is estimated from data, the result is called the **standard error** of the statistic
+
+  * {{:pasted:20240409-223058.png}}
+
+These are the four-steps you MUST take when constructing a confidence interval:
+
+  * **State**: State the parameter you want to estimate and the confidence level
+
+  * **Plan**: Identify the appropriate inference method and check all three conditions
+
+  * **Do**: If the conditions are met, perform calculations
+
+  * **Conclude**: Interpret your interval in the context of the problem
+
+We can also construct a confidence interval for an unknown population proportion on our calculator by using Stat > Tests > 1-PropZInt
+
+  * We need to input the amount of people for what we are testing (the population x the percentage), the population, and the confidence level
+
+To determine the sample size n that will give us a C% confidence interval for a population with a
+
+maximum margin of error, solve the following equality for n: $\sqrt{\frac{\hat{p}(1-\hat{p})}{n}\ge ME}$
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_4.png}}
+
+  * If you are not given p̂, input 0.5
+
+When estimating the population mean using a sample standard deviation, we use a t-distribution:
+
+  * It is symmetric with a single peak at 0
+
+  * However, it has much more area in the tails
+
+> Source: http:%%//%%www.real-statistics.com/students-t-distribution/t-distribution-basic-concepts/
+
+There is also a different t distribution for each sample size, specified by its **degrees of freedom**
+
+  * df = n - 1
+
+  * As the degrees of freedom increase, the density curve approaches the standard normal distribution more closely
+
+When the conditions are met, a C% confidence interval for the unknown mean is {{:pasted:20240409-223118.png}}
+
+  * t* is the critical value for the t distribution with n - 1 degrees of freedom and C% of its area between -t* and t*
+
+These are the conditions we need for estimating μ:
+
+  * Data must come from a random sample
+    * This makes sure that x̅ is a valid point estimate
+    * When our data comes from a random sample, we can make an inference about the population from which the sample was selected
+
+  * The sampling distribution of x̅ must be approximately normal
+    * This allows us to calculate the critical value t* by using the t-distribution
+    * Check the Normal/Large Sample condition:
+      * The population has a normal distribution
+      * The sample size is greater than 30
+      * If the sample size is less than 30, graph the sample data and see if there is any strong skewness or outliers in the data. If not, the sampling distribution is normal
+
+  * Individual observations must be independent
+    * This allows us to calculate the standard deviation using the formula {{:pasted:20240409-223440.png}}
+    * When sampling without replacement, the 10% condition must be met
+
+**Null Hypothesis (Ho)**: The claim we weigh evidence against in a significance test
+
+  * The hypothesis that says there is no effect or no change in the population
+
+  * Ex: p = 0.8, σ = 2
+
+**Alternative Hypothesis (Ha)**: The claim that we are trying to find evidence for
+
+  * The effect that we suspect is true
+
+  * The alternative hypothesis is **one-sided** if it states that a parameter is greater than or less than the null value
+    * Ex: p > 0.8, σ < 2
+
+  * The alternative hypothesis is **two-sided** if it states that a parameter could be either greater than or less than the null value
+    * Ex: p ≠ 0.8, σ ≠ 2
+
+The **significance level (α)** is the value that we use as a boundary for deciding whether an observed result is unlikely to happen by chance alone when the null hypothesis is true
+
+  * We need to include the significance level in the “State” portion of a significance test
+
+  * If a problem does not give us a significance level, use 0.05
+
+The **p-value** of a test is the probability of getting evidence for the alternative hypothesis as strong or stronger than the observed evidence when the null hypothesis is true.
+
+  * If the p-value is small (less than α), we reject the null hypothesis
+    * We conclude that there is convincing evidence for the alternative hypothesis (include context)
+
+  * If the p-value is large (greater than or equal to α), we fail to reject the null hypothesis
+    * We conclude that there is //not// convincing evidence for the alternative hypothesis (include context)
+
+This is the formula to use when asked to interpret a p-value for a one-tailed test:
+
+  * Assuming that the (//null hypothesis in context)//, there is a (//p-value//) probability of getting a (//sample statistic//) of (//statistic value//) or less in a (//sample in context//)
+
+  * Ex: Assuming that the true proportion of students who turn their homework in time is 0.8, there is a 0.09 probability of getting a sample proportion of 110/160 or less in a random sample of 160 students in Ivy’s school
+
+This is the formula to use when asked to interpret a p-value for a two-tailed test:
+
+  * Assuming that the (//null hypothesis in context//), there is a (//p-value//) probability of getting a (//sample statistic//) at least as far from (//po//) as (//statistic value//) in either direction in (//sample in context)//
+
+  * Ex: Assuming that the true proportion of students who turn in their homework in time is 0.8, there is a 0.09 probability of getting a sample proportion at least as far from 0.8 as
+
+> 0.7 in either direction from a random sample of 160 students in Ivy’s school
+
+This //must// be included in the conclusion for a significance test:
+
+  * State the decision about the null hypothesis (reject Ho or fail to reject Ho), based on the relationship between the p-value and the significance level
+
+  * State whether or not there is convincing evidence for the alternative hypothesis in context of the problem
+
+To summarize, here is everything you should include in a significance test:
+
+  * **State:** Explain what the experiment is testing
+    * State the null and alternative hypotheses you want to test
+    * Define the parameter in context
+    * Include the significance level
+
+  * **Plan**: Check conditions
+    * Name of procedure (what kind of significance test, are you testing mean or proportion, etc).
+    * Random Condition
+    * 10% Condition
+    * Large Counts Condition
+
+  * **Do:** Perform calculations if conditions are met
+    * State the sample statistic in context
+    * Show general formula and input numbers
+    * State procedure name, test statistic, and p-value
+
+  * **Conclude**: Formula included above
+
+When drawing conclusions from a significance test, there are two types of mistakes we can make:
+
+  * **Type I Error**: Occurs if a test rejects the null hypothesis when the null hypothesis is actually true
+    * The test finds convincing evidence that the alternative hypothesis is true when it really isn’t
+
+  * **Type II Error**: Occurs if a test fails to reject the null hypothesis when the alternative hypothesis is actually true
+
+  * The test does //not// find convincing evidence that the alternative hypothesis is true when it really is
+
+These are the four possible outcomes of a significance test:
+
+  * If Ho is true:
+    * Our conclusion is correct if we don’t find convincing evidence that Ha is true
+    * We make a Type I error if we wind convincing evidence that Ha is true
+
+<HTML><ul></HTML>
+<HTML><li></HTML><HTML><p></HTML>If Ha is true:<HTML></p></HTML>
+<HTML><ul></HTML>
+<HTML><li></HTML>Our conclusion is correct if we find convincing evidence that Ha is true<HTML></li></HTML><HTML></ul></HTML>
+
+<HTML><ul></HTML>
+<HTML><li></HTML>We make a Type II error if we do not find convincing evidence that Ha is true<HTML></li></HTML><HTML></ul></HTML>
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_5.png}}
+<HTML></li></HTML><HTML></ul></HTML>
+
+> Source:
+> 
+> [[https://www.researchgate.net/figure/Graphical-representation-of-type-1-and-type-2-errors_fig1_268035363|https:%%//%%www.researchgate.net/figure/Graphical-representation-of-type-1-and-type-2-]]
+
+[[https://www.researchgate.net/figure/Graphical-representation-of-type-1-and-type-2-errors_fig1_268035363|errors_fig1_268035363]]
+
+The probability of making a Type I error in a significance test is equal to the significance level
+
+  * So, if we decrease the significance level, we also decrease the probability of making a Type I error
+
+  * However, this then increases the probability of making a Type II Error
+    * It is important to consider the consequences of each error before deciding on a significance level
+
+**Standardized Test Statistic**: Measures how far a sample statistic is from what we would expect if the null hypothesis were true in standard deviation units
+
+  * Standardized test statistic = (statistic - parameter)/standard deviation of statistic
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_6.png}}
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_7.png}}
+
+These are the conditions for using a standardized test statistic (proportion):
+
+  * Data must come from a random sample
+    
+
+  * The sampling distribution of $\hat{p}$ must be approximately normal
+    * When the large counts condition is met and Ho is true, the standardized test statistic z has approximately the standard normal distribution
+
+  * The sampling distribution of p̂ must be approximately normal
+    * When the large counts condition is met and Ho is true, the standardized test statistic z has approximately the standard normal distribution
+
+  * Individual observations must be independent
+    * This allows us to calculate the standard deviation {{:pasted:20240409-223502.png}}
+    * When sampling without replacement, the 10% condition must be met
+
+**One Proportion Z-Test**: To perform a test of Ho: = //0//, compute the standardized test statistic
+
+  * Find the p-value by calculating the probability of getting a z statistic this large or larger in the direction specified by the alternative hypothesis
+    * We compute this by using the standard normal distribution
+
+  * We can also perform one by going to Stat > Tests > 1-PropZTest on the calculator
+
+Conditions for using the standardized test statistic (mean):
+
+  * Data must come from a random sample
+    * This helps ensure that x̅ - μ is a good estimate for the difference between the true value and null value
+
+  * The sampling distribution of x̅ must be approximately normal
+    * This allows us to calculate the critical value t* by using the t distribution
+    * Check the normal/large sample condition:
+      * If the population distribution is normal, the sampling distribution will also be normal
+      * If the population distribution is not normal, the sampling distribution will be approximately normal when the sample size is greater than or equal to 30
+      * If the population distribution is not normal and the sample size is less than thirty, the sampling distribution will retain some characteristics of the population distribution
+
+  * Individual observations must be independent
+
+  * This allows us to calculate the standard deviation {{:pasted:20240409-223604.png}}
+
+  * When sampling without replacement, the 10% condition must be met
+
+**One Sample t Test for a Mean**: To perform a test of $\mu = \mu_0$ compute the standardized test statistic
+
+  * Find the p-value by calculating the probability of getting a t statistic this large or larger in the direction specified by the alternative hypothesis
+    * We can run this on our calculator using Stat > Tests > T-Test
+
+There is a link between two-sided tests and confidence intervals for a population mean:
+
+  * If a 95% confidence interval for μ does not capture the null value μ0, we can reject the null hypothesis in a two-sided test at the 0.05 significance level
+
+  * If a 95% confidence interval for μ captures the null value μ0, we can fail to reject the null hypothesis in a two-sided test at the 0.05 significance level
+
+The **power** of a test is the probability that the test will find convincing evidence for Ha when //a specific alternative value of the parameter is true//
+
+  * Power = 1 - P(Type II error)
+
+  * P(Type II Error) = 1 - Power
+
+These are some things you can do to increase the power of a significance test:
+
+  * Increase the sample size
+
+  * Increase the significance level
+
+  * Make the null and alternative parameter values farther apart
+
+**Sampling Distribution of p̂1 - p̂2**: Choose a simple random sample of size n1 from population 1 with proportion of successes p1 and an independent simple random sample of size n2 from population 2 with proportion of successes p2
+
+  * The mean of the sampling distribution of p̂1 - p̂2 = p1 - p2
+
+  * The standard deviation of the sampling distribution of p̂1 - p̂2 = {{:pasted:20240409-223727.png}}
+    * The confidence interval is therefore {{:pasted:20240409-223915.png}}
+      * We can do this on our calculator through Stat > Tests > 2-PropZInt
+    * The 10% condition must be met for both samples
+
+  * The sampling distribution of p̂1 - p̂2 is approximately normal if the large counts condition is met for both samples
+
+In a significance test when comparing two proportions, the null hypothesis has this form:
+
+  * p1 - p2 = hypothesized value
+    * The hypothesized difference is often 0
+
+To run a significance test of p1 - p2 = 0, this is the standardized test statistic:
+
+  * {{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_8.png}}
+
+    * We then find the p-value by calculating the probability of getting a z statistic this large or larger in the direction specified by Ha
+    * We can do this on our calculator by using Stat > Tests > 2-PropZTest
+
+**Sampling Distribution of x̅1 - x̅2**: Choose a simple random sample of size n1 from population 1 with mean μ1 and standard deviation σ1 and an independent simple random sample of size n2 from population 2 with mean μ2 and standard deviation σ2
+
+  * The **mean** of the sampling distribution of x̅1 - x̅2 = μ1 - μ2
+
+  * The **standard deviation** of the sampling distribution of x̅1 - x̅2 = {{:pasted:20240409-223929.png}}
+    * The confidence interval is therefore (𝑥̅1 − 𝑥̅2) ± {{:pasted:20240409-223944.png}}
+      * We can use this through Stat > Tests > 2-SampTInt on the calculator
+
+  * The 10% condition must be met for both samples
+
+  * The sampling distribution of x̅1 - x̅2 is approximately normal if both sample sizes are large( > 30) or if one population is normally distributed and the other sample size is large
+
+In a significance test when comparing two means, the null hypothesis has this form:
+
+  * μ1 - μ2 = hypothesized value
+    * The hypothesized difference is often 0
+
+To run a significance test of μ1 - μ2 = 0, this is the standardized test statistic:
+
+  * {{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_9.png}}
+
+    * //21//+ //22 1 2//
+    * We then find the p-value by calculating the probability of getting a t statistic this large or larger in the direction specified by Ha
+    * We can do this on our calculator by using Stat > Tests > 2-SampTTest
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image42.png}}
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image43.png}}
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:image44.png}}
+
+Source: [[https://apcentral.collegeboard.org/pdf/ap-statistics-course-and-exam-description.pdf|https:%%//%%apcentral.collegeboard.org/pdf/ap-statistics-course-and-exam-description.pdf]]
+
+{{6062b249804f2baef22989a2_SS-AP-Statistics_3a27442781e64411b5527331d441da56:Untitled_10.png}}
+
+
+    

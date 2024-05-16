@@ -1,0 +1,446 @@
+====== AP Calc AB Study Guide ======
+  * Credit: Simplestudies.org
+  * This study guide has a lot of images so if u cant scroll to the very bottom without jittering just let it load for a bit
+  * Here is a Cheat Sheet/Shorter and compressed version of what's described. [[https://drive.google.com/file/d/1oTnZ5zSmNq0RWiAuZzW8q0ki5WLdhy70/view?usp=sharing|Final Notes for AB and BC]]
+====== Unit 1 – Limits and Continuity ======
+
+What is a limit and how to find it:\\ \\ **Limit:** If f(x) **becomes close to a unique number L as x approaches c from either side,** then\\ the limit of f(x) as x approaches c is L.\\ \\ 
+
+  * A limit refers to the y-value of a function
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled.png}}]]  
+* The general limit exists when the right and left limits are the same_equal each other
+
+  * DNE = does not exist.
+
+__Examples of estimating a limit numerically:__
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_1|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_1.png}}]]Example of using a graph to find a limit:\\ \\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_2|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_2.png}}]]**When limits don’t exist:**\\ When the Left limit ≠ Right limit, then the limit is said to not exist.\\ 
+
+  * In the picture below, you can tell that the two limits don’t equal each other, thus theanswer to this limit is DNE.
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_3|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_3.png}}]]**Unbounded Behavior:**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_4|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_4.png}}]]**Evaluating Limits Analytically:**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_5|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_5.png}}]]**Limits Theorem:\\ Given:\\ ** Lim and Lim
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_6|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_6.png}}]]**Limits at Infinity:**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_7|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_7.png}}]]  * If m<n, then the limit equals 0
+
+  * If m=n, then the limit equals a_b
+
+  * If m>n, then the limit DNE
+
+**Finding Vertical Asymptotes**\\ The only step you have to do is\\ **set the denominator equal to zero and solve.**
+
+  * Example: [[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_8|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_8.png}}]] 
+    * (x+2)(x-2) = 0 → x = 2, -2
+      * 2 is a removable hole while -2 is the non-removable vertical asymptote.
+
+Finding Horizontal Asymptotes\\ Use the\\ **two terms of the highest degree in the numerator and denominator**
+
+  * Example [[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_9|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_9.png}}]] 
+    * x and x2 are the two terms of the highest degree in the numerator and denominatorrespectively. After finding it, use the limits at infinity rule to determine the limit.
+
+**Intermediate Value Theorem**\\ A continuous function on a\\ **closed interval cannot skip values.**\\ ● f(x) must be continuous on the given interval [a,b]\\ ● f(a) and f(b) cannot equal each other.\\ ● f(c) must be in between f(a) and f(b)\\ \\ Example #1: Apply the IVT, if possible on [0,5] so that f(c)=1 for the function
+
+f(x)=x2+x+1
+
+  - f(x) is continuous because it is a polynomial function.
+
+  - f(a)=f(0)=1f(b)=f(5)=29
+
+  - By the IVT, there exists a value c where f(c)=1 since 1 is between -1 and 29.Example #2:
+
+Example #2:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_10|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_10.png}}]]  - For 0<t<60, must there be a time t when v(t) = -5?
+
+  - f(a) = f(0) = -20f(b) = f(60) =10
+
+  - By the IVT, there is a time t where v(t)=-5 on the interval [0,60] since -20 < -5 < 10
+
+**The Squeeze Theorem**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_11|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_11.png}}]]that means f(x) equals h(x) and g(x)
+
+====== Unit 2 - Differentiation: Definition and Basic Derivative Rules ======
+
+**What is a derivative?**
+
+  * **Derivative**: The slope of the tangent line at a particular point; also known as the**instantaneous rate of change.**
+
+  * The derivative of f(x) is denoted as f’(x) or
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_12|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_12.png}}]]
+**Derivatives as Limits**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_13|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_13.png}}]]
+**Steps to find derivatives as limits:**
+
+  - Identify the form of the derivative first (look at the image above)… is it form a? b? c?
+
+  - Identify f(x)
+
+  - Derive f(x) using the corresponding equations next to each form
+
+  - Plug in the “c” value if applicable
+
+**Rules of Differentiation**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_14|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_14.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_15|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_15.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_16|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_16.png}}]]**Derivatives of Trigonometric Functions:**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_17|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_17.png}}]]  
+* HINT: If the original function starts with C, then the derivative is negative!
+    * Example: cosx, cotx, & cscx
+
+**Derivative Rule for LN**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_18|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_18.png}}]]  
+* HINT: [Derive over copy]
+    * Example: h(x) = ln(2x^2 + 1)
+      * First derive 2x^2 + 1. That would be 4x! And then put that over theoriginal function, which would be 2x^2 + 1.
+      * Your answer would then be 4x%%_(%%2x^2 + 1)
+
+**Deriving Exponential Functions**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_19|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_19.png}}]]
+
+**Continuity**
+
+A function f is continuous at “c” if:
+
+  * The value exists- The value of the function is defined at “c” and f(c) exists
+
+  * The limit exists - The limit of the function must exist at “c”
+    * The left and right limits must equal
+
+  * Function=limit. The value of the function at “c” must equal the value of the limit at “c”
+
+**Discontinuity**
+
+  * **Removable** → discontinuity at “c” is called removable if the function can becontinuous by defining f(c)
+
+  * **Non-removable** → discontinuity at “c” is called non-removable if the function cannotbe made continuous by redefining f(c)
+
+**Differentiability**
+
+**In order for a function to be differentiable at x = c:**
+
+  * The function must be continuous at x = c
+
+  * Its **left and right** derivative must equal each other at x = c
+
+Example:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_20|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_20.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_21|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_21.png}}]]
+====== Unit 3 - Differentiation: Composite, Implicit, and InverseFunctions ======
+
+**The Chain Rule**
+
+The chain rule helps us find the derivative of a composite function. For the formula, g’(x)\\ would be the chain.\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_22|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_22.png}}]]Example:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_23|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_23.png}}]]**General Rule Power**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_24|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_24.png}}]]We use the general rule power when finding the **derivative of a function that is raised to the\\ nth power\\ **. In the formula given, f’(x) is the chain.
+
+**Implicit Differentiation**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_25|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_25.png}}]]**Inverse Trig Functions: Differentiation**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_26|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_26.png}}]]Example:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_27|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_27.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_28|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_28.png}}]]**Derivatives of Inverse Functions**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_29|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_29.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_30|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_30.png}}]]**Higher-Order Derivatives**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_31|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_31.png}}]]
+====== Unit 4 - Contextual Applications of Differentiation ======
+
+**Particle Motion**
+
+  * s(t) represents the position function, aka f(x)
+    * t stands for time, s(t) is the position at a specific time.
+
+  * v(t) represents the velocity function, aka f’(x)
+    * t stands for time, v(t) is the speed and direction at a specific time.
+    * **Velocity is the derivative of position.**
+      * A particle is moving to the right or up when velocity is positive.
+      * A particle is moving to the left or down when velocity is negative.
+      * A particle’s position is increasing when velocity is positive.
+      * A particle’s position is decreasing when its velocity is negative.
+      * A particle is at rest or stopped when its velocity is zero
+
+  * **a(t)** represents the **acceleration function aka f’’(x)**
+    * t stands for time, a(t) is the rate at which the velocity is changed at specific times
+
+  * Example: s(t)=6t^3 -4t^2 → v(t)=18t^2 -8t → a(t)=36t-8
+
+**Particle Moving Away_Toward the Origin(x-axis)**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_32|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_32.png}}]]  * A particle is moving towards the origin when its position and velocity have opposite signs.
+
+  * A particle is moving away from the origin when its position and velocity have the samesigns,
+
+**Particle Speeding Up_Slowing Down**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_33|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_33.png}}]]  * A particle is speeding up (speed is increasing) if the velocity and acceleration have thesame signs at the point
+
+  * A particle is slowing down (speed is decreasing) if the velocity and acceleration haveopposite signs at the point.
+
+**Related Rates**
+
+What is the purpose of related rates?
+
+  * The purpose is to find the rate where a quantity changes
+
+  * The rate of change is usually with respect to time
+
+How to solve it?
+
+  - Identify all given quantities to be determined.
+
+  - Make a sketch of the situation and label everything in terms of variables, even if you aregiven actual values.
+
+  - Find an equation that ties your variables together.
+
+  - Using chain rule, implicitly differentiate both sides of the equation with respect to time.Substitute or plug in the given values and solve for the value that is being asked for
+    - *Don’t forget to put the correct units!
+
+**The Different Types of Related Rates Problems**
+
+  * Algebraic
+
+  * Circle
+
+  * Triangles
+
+  * Cube
+
+  * Right Cylinder
+
+  * Sphere
+
+  * Circumference
+
+**Related Rates: Algebraic**
+
+Example: A point moves along the curve y = 2x^2 - 1 in which y decreases at the rate of 2 units\\ per second. What rate is x changing when x = -3_2?\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_34|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_34.png}}]]**Related Rates: Circle**
+
+Example: The radius of a circle is increasing at a rate of 3cm_sec. How fast is the circumference\\ of the circle changing?\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_35|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_35.png}}]]**Related Rates: Triangle**
+
+Example: A 13ft ladder is leaning against a wall. If the top of the ladder slips down the wall at a\\ rate of 2 ft_s, how fast will the ladder be moving away from the wall when the top is 5ft above\\ the ground?\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_36|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_36.png}}]]**Related Rates: Cube**
+
+Example: The volume of a cube is increasing at a rate of 10cm^3_min. How fast is the surface area\\ increasing when the length of an edge is 30cm?\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_37|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_37.png}}]]**Related Rates: Right Cylinder**
+
+Example: The radius of a right circular cylinder increases at the rate of 0.1cm_min and the height\\ decreases at the rate of 0.2 cm_mm. What is the rate of change of the volume of the cylinder, in\\ cm3_min, when the radius is 2cm and the height is 3cm?\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_38|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_38.png}}]]**Related Rates: Sphere**
+
+Example: As a balloon in the shape of a sphere is being blown up, the volume is increasing at a\\ rate of 4in3_s. At what rate is the radius increasing when the radius is 1 inch.\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_39|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_39.png}}]]**Related Rates: Circumference**
+
+Example: What is the value of the circumference of a circle at the instant when the radius is\\ increasing at 1_6 the rate the area is increasing?\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_40|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_40.png}}]]**L’Hopital’s Rule**
+
+Let f and g be continuous and differentiable functions on an open interval (a,b). If the limit of\\ f(x) and g(x) as x approaches c produces the indeterminate form 0_0 or ∞_∞ then,\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_41|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_41.png}}]]====== Unit 5 - Analytical Applications of Differentiation ======
+
+**Mean Value Theorem**
+
+If f(x) is a function that is **continuous on the closed intervals [a,b] and differentiable on the\\ open interval (a,b),\\ ** then there must exist a value **c between (a,b)**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_42|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_42.png}}]]  * Example: Confirm f(x)=x^3 on [0,3] and find a value that satisfies this theorem
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_43|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_43.png}}]]**Function Increasing or Decreasing**
+
+  * f(x) is increasing when f’(x) is positive
+
+  * f(x) is decreasing when f’(x) is negative
+
+**Extreme Value Theorem**\\ If f(x) is continuous on a closed interval [a,b], then f(x) has both a minimum and maximum on the interval.\\ 
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_44|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_44.png}}]](Absolute max on top and absolute min on bottom)
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_45|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_45.png}}]]**First Derivative Test**
+
+For first derivative tests, **derive the function once and set it to 0**. After that, **find the zeros** and\\ plug them into a number line. Using your derived function, plug-in numbers before and after\\ your constant (the zeros of the function) to see if it becomes negative or positive, as shown\\ below.\\ 
+
+  * If it’s positive, constant, negative then it’s a **relative maximum**
+
+  * If it’s negative, constant, positive then it’s a **relative minimum**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_46|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_46.png}}]]**Concavity**
+
+  * The graph of f is concave up when f’(x) is increasing
+
+  * The graph of f is concave down when f’(x) is decreasing
+
+  * If f’’(x) is positive then the graph of f is concave up
+
+  * If f’’(x) is negative then the graph of f is concave down
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_47|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_47.png}}]]  * Points of Inflection
+    * Occurs when f(x) changes concavity
+    * Determined by a sign change for f’’(x)
+
+**Second Derivative Test**
+
+Example:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_48|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_48.png}}]]**Critical Numbers**
+
+  * Critical numbers are **points on the graph of a function where there’s a change in direction.**
+
+  * To **find critical numbers**, you use the **first derivative of the function and set it to zero.**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_49|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_49.png}}]]====== Unit 6 - Integration and Accumulation of Change ======
+
+**Riemann Sums**
+
+You use Riemann sums to find the actual area underneath the graph of f(x).
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_50|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_50.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_51|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_51.png}}]]**Trapezoidal Reimann Sum**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_52|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_52.png}}]]**Integration**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_53|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_53.png}}]]The area under the curve of derivatives of F from A to B is equal to the change in y-values of the\\ function F from A to B, given f is:\\ 
+
+  * Continuous in interval [a,b]
+
+  * F is any function that satisfies F(x)=f’(x)
+
+**What is an indefinite integration?**\\ Given y' or f %%'(%%x), the anti-derivative can be thought of as the\\ **original** function, f(x). Integration\\ is\\ **used to find the original function.**
+
+  * The operation of finding all solutions to this equation is called **antidifferentiation or\\ indefinite integration\\ **.
+
+  * Detonated by an integral sign: ∫
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_54|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_54.png}}]]  * f %%'(%%x) = integrand
+
+  * dx = variable of integration
+
+  * f(x) = antiderivative
+
+  * c = constant of integration
+
+  * ∫ = integral
+
+**Reminder:** ALWAYS add +C when you’re solving for an INDEFINITE integral!\\ \\ **Reminder:** Differentiation and integration are inverses!
+
+**Basic Integration Rules (w_ examples)**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_55|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_55.png}}]]**Antiderivative Trig Function**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_56|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_56.png}}]]C is still a constant when multiplied by 2 (a constant multiplied by a constant is still a constant)
+
+  * HINT: How I memorize antiderivatives by using derivatives of trigonometric functions
+    * EX: d_dx sinx = cosx and for the antiderivative, you just switch the twotrigonometric functions and add +C since it’s an indefinite integration.
+    * EX: d_dx cscx = -cscxcotx and for the antiderivative, just switch the twotrigonometric functions and add +c since it’s an indefinite integration. Also, if thederivative was negative, then the anti-derivative is also negative!
+
+**Integration by U-substitution**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_57|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_57.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_58|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_58.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_59|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_59.png}}]]**Natural Log Function for Integration (Log rule for integration)**
+
+Use this rule when ‘x’ becomes DNE
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_60|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_60.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_60|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_60.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_61|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_61.png}}]]**Integrals of the 6 Basic Trig Functions**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_62|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_62.png}}]]  * **HINT:** For ∫ tan u du, I memorized it like this: ∫ tan u du = ∫ sin u_cos u du because of the trigonometric identities. After that, I just did u-substitution with cos u being u.
+
+  * If you work it out, it looks like this:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_63|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_63.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_64|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_64.png}}]]**Integration rules for “e”**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_65|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_65.png}}]]● With e, it’s just the same thing as regular u-substitution but with the additional ‘e’.
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_66|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_66.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_67|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_67.png}}]]**Integration Rule for Exponential Functions**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_68|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_68.png}}]]====== Unit 7 - Differential Equations ======
+
+**Differential Equations (Separate the integral)**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_69|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_69.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_70|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_70.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_71|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_71.png}}]]**Differential Equation with Initial condition**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_72|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_72.png}}]]**Slope Field**
+
+A visual depiction of a differential equation of dy_dx.
+
+  * Example of what a slope field looks like
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_73|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_73.png}}]]====== Unit 8 – Applications of Integration ======
+
+**Average Value**
+
+  * To find the average value, integrate the function by using the **fundamental theorem of\\ calculus\\ **
+
+  * After that, **divide the answer by the length of the interval**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_74|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_74.png}}]]Total Displacement
+
+  * The difference between the starting position and ending position
+
+  * Interval [a,b]
+
+  * Can be negative
+
+  * Formula:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_75|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_75.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_76|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_76.png}}]]**Total Distance**
+
+  * Total distance traveled by a particle is the sum of the amounts it displaces betweenthe start, all of the stop(s), and the end.
+
+  * **Distance can’t be negative**
+
+  * Formula:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_77|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_77.png}}]][[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_78|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_78.png}}]]**Area of a Region Between Two Curves**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_79|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_79.png}}]]**The Disk Method**
+
+If a region in the plane **revolves about a line, the resulting solid is a solid of revolution,** and\\ the line is called the\\ **axis of revolution.** The simplest solid is a right circular cylinder or disk,\\ which is formed by revolving a rectangle about an axis adjacent to one side of the rectangle.\\ 
+
+  * **Rotate Around x-axis**
+    * The horizontal axis of revolution
+  * [[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_80|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_80.png}}]] 
+  * **Rotate Around y-axis**
+    * The **vertical axis of revolution**
+  * [[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_81|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_81.png}}]] 
+**The Washer Method**
+
+  * Horizontal Line of Rotation:
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_82|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_82.png}}]]  * Vertical Line of Rotation
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_83|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:Untitled_83.png}}]]**The Washer Method Calculating Volume Using Integration**
+
+**Step One:** Draw a picture of your graph**→** **shade appropriate region**
+
+**Step Two:** **Identify whether you are rotating** ****about a vertical or horizontal line
+
+  * Vertical
+    * Get everything in terms of y
+
+  * Horizontal
+    * Get everything in terms of x
+
+**Step Three:** **Set up your Integral**
+
+[[AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:3ac721a0-33e0-4df3-a59e-bfceb06ee2cb|{{AP_Calc_AB_Study_Guide_f289051ba2044b4ab01d25945296aa61:3ac721a0-33e0-4df3-a59e-bfceb06ee2cb.png}}]]**Step Four:** Simplify\\ \\ **Step Five:** Integrate Definite Integral
